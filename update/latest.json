@@ -1,21 +1,21 @@
 {
- "version": "v89",
- "notes": "If any of the game's sounds go missing or get damaged, you can now put them back without downloading the whole game again. It is under Check and repair the game's files, in the options.|It asks before touching anything you have changed yourself, so if you have been modding the game your own sounds are safe.|You can also just be told which files are missing or changed, without altering anything.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v89/",
+ "version": "v90",
+ "notes": "Fixed the game's own testing feature, which was reporting problems that were not really there. If you ran the tests and saw failures, they were not real and nothing was wrong with your game.|Your contact details now live in the Send something to the author menu, next to everything else to do with getting in touch.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v90/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 4725,
-   "crc": 1891401091,
+   "size": 5071,
+   "crc": 3258263447,
    "asset": "changes.txt"
   },
   {
    "path": "lang/polish.lang",
    "size": 209636,
    "crc": 1899983277,
-   "asset": "lang__polish.lang"
+   "asset": ""
   },
   {
    "path": "maps/bar.map",
@@ -1369,8 +1369,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6506100,
-   "crc": 4036807081,
+   "size": 6506324,
+   "crc": 1501134185,
    "asset": "zul.exe"
   }
  ],
