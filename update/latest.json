@@ -1,8 +1,1371 @@
 {
-  "version": "v81",
-  "notes": "Being stopped by the police now works like a night in the cell. If you have had a few, keeping your head takes composure you might not have, and what comes out instead depends on who you are.|You can now tell somebody about the game from the main menu. It will copy a link for you to paste anywhere.|The how to play now explains that anything behind you sounds lower than anything ahead, and what actually happens when you get nicked.",
-  "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v81/",
-  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/download/v81/ZulSimulator.zip",
-  "files": [ { "path": "zul.exe", "asset": "zul.exe", "size": 6488724, "crc": 247417818 } ],
-  "remove": []
+ "version": "v82",
+ "notes": "The game now notices if any of its own files have gone missing or been changed, and tells you rather than quietly misbehaving.|If you are changing sounds on purpose that is completely fine, and you can tell it to stop mentioning it, in the options.|After an update the game now restarts itself, so you never have to go and find the right program.|Arrow keys move back and forth through these notes and read them again.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v82/",
+ "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/download/v82/ZulSimulator.zip",
+ "files": [
+  {
+   "path": "lang/polish.lang",
+   "asset": "",
+   "size": 199669,
+   "crc": 2982938657
+  },
+  {
+   "path": "maps/bar.map",
+   "asset": "",
+   "size": 815,
+   "crc": 2231912063
+  },
+  {
+   "path": "maps/dworzec.map",
+   "asset": "",
+   "size": 938,
+   "crc": 73010462
+  },
+  {
+   "path": "maps/komisariat.map",
+   "asset": "",
+   "size": 870,
+   "crc": 1714153660
+  },
+  {
+   "path": "maps/park.map",
+   "asset": "",
+   "size": 1248,
+   "crc": 3980508982
+  },
+  {
+   "path": "maps/podworko.map",
+   "asset": "",
+   "size": 1418,
+   "crc": 204775358
+  },
+  {
+   "path": "maps/rynek.map",
+   "asset": "",
+   "size": 1383,
+   "crc": 2696964726
+  },
+  {
+   "path": "maps/swiatla.map",
+   "asset": "",
+   "size": 849,
+   "crc": 2179613534
+  },
+  {
+   "path": "maps/ulica.map",
+   "asset": "",
+   "size": 1907,
+   "crc": 2991047000
+  },
+  {
+   "path": "music/calm_evening.ogg",
+   "asset": "",
+   "size": 947156,
+   "crc": 223791962
+  },
+  {
+   "path": "music/calm_morning.ogg",
+   "asset": "",
+   "size": 956950,
+   "crc": 2207249154
+  },
+  {
+   "path": "music/city_day.ogg",
+   "asset": "",
+   "size": 820954,
+   "crc": 1599061624
+  },
+  {
+   "path": "music/game1.ogg",
+   "asset": "",
+   "size": 3647971,
+   "crc": 2617403982
+  },
+  {
+   "path": "music/game2.ogg",
+   "asset": "",
+   "size": 2910496,
+   "crc": 2850625576
+  },
+  {
+   "path": "music/game3.ogg",
+   "asset": "",
+   "size": 1284240,
+   "crc": 1534494776
+  },
+  {
+   "path": "music/indoors.ogg",
+   "asset": "",
+   "size": 1315197,
+   "crc": 173378407
+  },
+  {
+   "path": "music/lively_day.ogg",
+   "asset": "",
+   "size": 1144090,
+   "crc": 569510045
+  },
+  {
+   "path": "music/market.ogg",
+   "asset": "",
+   "size": 3231780,
+   "crc": 1473268910
+  },
+  {
+   "path": "music/park.ogg",
+   "asset": "",
+   "size": 2503714,
+   "crc": 695700010
+  },
+  {
+   "path": "music/polish_music.ogg",
+   "asset": "",
+   "size": 2694155,
+   "crc": 2227350950
+  },
+  {
+   "path": "music/station.ogg",
+   "asset": "",
+   "size": 2260221,
+   "crc": 978163976
+  },
+  {
+   "path": "music/uneasy_night.ogg",
+   "asset": "",
+   "size": 928956,
+   "crc": 2561135249
+  },
+  {
+   "path": "sounds/amb_crew.ogg",
+   "asset": "",
+   "size": 172914,
+   "crc": 3400269174
+  },
+  {
+   "path": "sounds/amb_crew_m.ogg",
+   "asset": "",
+   "size": 170021,
+   "crc": 3173423126
+  },
+  {
+   "path": "sounds/amb_park.ogg",
+   "asset": "",
+   "size": 165557,
+   "crc": 1638957764
+  },
+  {
+   "path": "sounds/amb_park_m.ogg",
+   "asset": "",
+   "size": 155737,
+   "crc": 2995083577
+  },
+  {
+   "path": "sounds/amb_shop.ogg",
+   "asset": "",
+   "size": 134351,
+   "crc": 3379662608
+  },
+  {
+   "path": "sounds/amb_traffic.ogg",
+   "asset": "",
+   "size": 121457,
+   "crc": 840610396
+  },
+  {
+   "path": "sounds/amb_traffic_m.ogg",
+   "asset": "",
+   "size": 114550,
+   "crc": 174331143
+  },
+  {
+   "path": "sounds/arrived.ogg",
+   "asset": "",
+   "size": 3987,
+   "crc": 1554689867
+  },
+  {
+   "path": "sounds/atmos1.ogg",
+   "asset": "",
+   "size": 35218,
+   "crc": 3420230938
+  },
+  {
+   "path": "sounds/atmos2.ogg",
+   "asset": "",
+   "size": 61728,
+   "crc": 2816981402
+  },
+  {
+   "path": "sounds/atmos3.ogg",
+   "asset": "",
+   "size": 46383,
+   "crc": 4105080480
+  },
+  {
+   "path": "sounds/atmos4.ogg",
+   "asset": "",
+   "size": 35323,
+   "crc": 2213931178
+  },
+  {
+   "path": "sounds/atmos5.ogg",
+   "asset": "",
+   "size": 56898,
+   "crc": 2010448203
+  },
+  {
+   "path": "sounds/bag_rustle.ogg",
+   "asset": "",
+   "size": 38107,
+   "crc": 885585109
+  },
+  {
+   "path": "sounds/beacon.ogg",
+   "asset": "",
+   "size": 4187,
+   "crc": 4263717266
+  },
+  {
+   "path": "sounds/beacon_pulse.ogg",
+   "asset": "",
+   "size": 4859,
+   "crc": 1297430769
+  },
+  {
+   "path": "sounds/bed_down.ogg",
+   "asset": "",
+   "size": 22192,
+   "crc": 3326443398
+  },
+  {
+   "path": "sounds/breath_hard.ogg",
+   "asset": "",
+   "size": 18711,
+   "crc": 1351952049
+  },
+  {
+   "path": "sounds/breathing_loop.ogg",
+   "asset": "",
+   "size": 215595,
+   "crc": 2952798998
+  },
+  {
+   "path": "sounds/can_get.ogg",
+   "asset": "",
+   "size": 13121,
+   "crc": 1609862682
+  },
+  {
+   "path": "sounds/cell_bars.ogg",
+   "asset": "",
+   "size": 13100,
+   "crc": 1541701139
+  },
+  {
+   "path": "sounds/cell_door.ogg",
+   "asset": "",
+   "size": 14528,
+   "crc": 3576860582
+  },
+  {
+   "path": "sounds/cell_unlock.ogg",
+   "asset": "",
+   "size": 29346,
+   "crc": 1754088911
+  },
+  {
+   "path": "sounds/coin.ogg",
+   "asset": "",
+   "size": 22617,
+   "crc": 3636301765
+  },
+  {
+   "path": "sounds/coins2.ogg",
+   "asset": "",
+   "size": 17627,
+   "crc": 866974742
+  },
+  {
+   "path": "sounds/coins3.ogg",
+   "asset": "",
+   "size": 13748,
+   "crc": 1157475443
+  },
+  {
+   "path": "sounds/concrete1.ogg",
+   "asset": "",
+   "size": 5115,
+   "crc": 4072626686
+  },
+  {
+   "path": "sounds/concrete1_m.ogg",
+   "asset": "",
+   "size": 4689,
+   "crc": 3950308830
+  },
+  {
+   "path": "sounds/concrete2.ogg",
+   "asset": "",
+   "size": 5777,
+   "crc": 212014263
+  },
+  {
+   "path": "sounds/concrete2_m.ogg",
+   "asset": "",
+   "size": 5103,
+   "crc": 3581049454
+  },
+  {
+   "path": "sounds/concrete3.ogg",
+   "asset": "",
+   "size": 5226,
+   "crc": 1880109519
+  },
+  {
+   "path": "sounds/concrete3_m.ogg",
+   "asset": "",
+   "size": 4820,
+   "crc": 4057205655
+  },
+  {
+   "path": "sounds/concrete4.ogg",
+   "asset": "",
+   "size": 5371,
+   "crc": 2258847137
+  },
+  {
+   "path": "sounds/concrete4_m.ogg",
+   "asset": "",
+   "size": 4895,
+   "crc": 1348587183
+  },
+  {
+   "path": "sounds/concrete5.ogg",
+   "asset": "",
+   "size": 5444,
+   "crc": 265070321
+  },
+  {
+   "path": "sounds/concrete5_m.ogg",
+   "asset": "",
+   "size": 4990,
+   "crc": 1355407371
+  },
+  {
+   "path": "sounds/cough.ogg",
+   "asset": "",
+   "size": 31346,
+   "crc": 19456375
+  },
+  {
+   "path": "sounds/crickets.ogg",
+   "asset": "",
+   "size": 63174,
+   "crc": 697274889
+  },
+  {
+   "path": "sounds/crowd_scene.ogg",
+   "asset": "",
+   "size": 265751,
+   "crc": 488283742
+  },
+  {
+   "path": "sounds/dialog.ogg",
+   "asset": "",
+   "size": 7741,
+   "crc": 2322397102
+  },
+  {
+   "path": "sounds/door.ogg",
+   "asset": "",
+   "size": 10835,
+   "crc": 3134433468
+  },
+  {
+   "path": "sounds/drag.ogg",
+   "asset": "",
+   "size": 24309,
+   "crc": 3305566731
+  },
+  {
+   "path": "sounds/drink.ogg",
+   "asset": "",
+   "size": 12000,
+   "crc": 2362300804
+  },
+  {
+   "path": "sounds/drink1.ogg",
+   "asset": "",
+   "size": 12000,
+   "crc": 3532644512
+  },
+  {
+   "path": "sounds/drink2.ogg",
+   "asset": "",
+   "size": 10147,
+   "crc": 2733731946
+  },
+  {
+   "path": "sounds/drink3.ogg",
+   "asset": "",
+   "size": 11345,
+   "crc": 3922171974
+  },
+  {
+   "path": "sounds/drink4.ogg",
+   "asset": "",
+   "size": 11948,
+   "crc": 2115584865
+  },
+  {
+   "path": "sounds/drink5.ogg",
+   "asset": "",
+   "size": 9547,
+   "crc": 4007400562
+  },
+  {
+   "path": "sounds/drink6.ogg",
+   "asset": "",
+   "size": 12049,
+   "crc": 1095949487
+  },
+  {
+   "path": "sounds/eat.ogg",
+   "asset": "",
+   "size": 16130,
+   "crc": 3107806371
+  },
+  {
+   "path": "sounds/edge.ogg",
+   "asset": "",
+   "size": 6837,
+   "crc": 3709505180
+  },
+  {
+   "path": "sounds/emit_car.ogg",
+   "asset": "",
+   "size": 207587,
+   "crc": 102055285
+  },
+  {
+   "path": "sounds/emit_construction.ogg",
+   "asset": "",
+   "size": 490886,
+   "crc": 228304629
+  },
+  {
+   "path": "sounds/emit_dog.ogg",
+   "asset": "",
+   "size": 50069,
+   "crc": 3511359436
+  },
+  {
+   "path": "sounds/emit_tv.ogg",
+   "asset": "",
+   "size": 81044,
+   "crc": 2627265604
+  },
+  {
+   "path": "sounds/ev_bottles.ogg",
+   "asset": "",
+   "size": 11770,
+   "crc": 644019458
+  },
+  {
+   "path": "sounds/ev_puke.ogg",
+   "asset": "",
+   "size": 40628,
+   "crc": 2583303211
+  },
+  {
+   "path": "sounds/ev_shout.ogg",
+   "asset": "",
+   "size": 14716,
+   "crc": 224537649
+  },
+  {
+   "path": "sounds/ev_sing.ogg",
+   "asset": "",
+   "size": 11526,
+   "crc": 3302531623
+  },
+  {
+   "path": "sounds/fight_block.ogg",
+   "asset": "",
+   "size": 7221,
+   "crc": 1327688197
+  },
+  {
+   "path": "sounds/fire.ogg",
+   "asset": "",
+   "size": 123785,
+   "crc": 2954911853
+  },
+  {
+   "path": "sounds/flick1.ogg",
+   "asset": "",
+   "size": 13721,
+   "crc": 487772832
+  },
+  {
+   "path": "sounds/flick2.ogg",
+   "asset": "",
+   "size": 11341,
+   "crc": 949707534
+  },
+  {
+   "path": "sounds/fountain.ogg",
+   "asset": "",
+   "size": 48786,
+   "crc": 1123317049
+  },
+  {
+   "path": "sounds/gather.ogg",
+   "asset": "",
+   "size": 16767,
+   "crc": 1480048020
+  },
+  {
+   "path": "sounds/gift_given.ogg",
+   "asset": "",
+   "size": 16660,
+   "crc": 3919603763
+  },
+  {
+   "path": "sounds/glass.ogg",
+   "asset": "",
+   "size": 12731,
+   "crc": 1894238956
+  },
+  {
+   "path": "sounds/glug.ogg",
+   "asset": "",
+   "size": 11345,
+   "crc": 4182697125
+  },
+  {
+   "path": "sounds/grass1.ogg",
+   "asset": "",
+   "size": 6743,
+   "crc": 3807750866
+  },
+  {
+   "path": "sounds/grass1_m.ogg",
+   "asset": "",
+   "size": 6396,
+   "crc": 1593907895
+  },
+  {
+   "path": "sounds/grass2.ogg",
+   "asset": "",
+   "size": 6457,
+   "crc": 2003267955
+  },
+  {
+   "path": "sounds/grass2_m.ogg",
+   "asset": "",
+   "size": 6425,
+   "crc": 2131401862
+  },
+  {
+   "path": "sounds/grass3.ogg",
+   "asset": "",
+   "size": 7072,
+   "crc": 39168255
+  },
+  {
+   "path": "sounds/grass3_m.ogg",
+   "asset": "",
+   "size": 6328,
+   "crc": 2985185284
+  },
+  {
+   "path": "sounds/grass4.ogg",
+   "asset": "",
+   "size": 6768,
+   "crc": 2968475496
+  },
+  {
+   "path": "sounds/grass4_m.ogg",
+   "asset": "",
+   "size": 6475,
+   "crc": 166859064
+  },
+  {
+   "path": "sounds/grass5.ogg",
+   "asset": "",
+   "size": 6410,
+   "crc": 3684596361
+  },
+  {
+   "path": "sounds/grass5_m.ogg",
+   "asset": "",
+   "size": 6301,
+   "crc": 3784144145
+  },
+  {
+   "path": "sounds/gravel1.ogg",
+   "asset": "",
+   "size": 6928,
+   "crc": 949317889
+  },
+  {
+   "path": "sounds/gravel1_m.ogg",
+   "asset": "",
+   "size": 5817,
+   "crc": 1990329728
+  },
+  {
+   "path": "sounds/gravel2.ogg",
+   "asset": "",
+   "size": 6622,
+   "crc": 2429555576
+  },
+  {
+   "path": "sounds/gravel2_m.ogg",
+   "asset": "",
+   "size": 5662,
+   "crc": 2955816605
+  },
+  {
+   "path": "sounds/gravel3.ogg",
+   "asset": "",
+   "size": 6489,
+   "crc": 573595678
+  },
+  {
+   "path": "sounds/gravel3_m.ogg",
+   "asset": "",
+   "size": 5669,
+   "crc": 3802744849
+  },
+  {
+   "path": "sounds/gravel4.ogg",
+   "asset": "",
+   "size": 7007,
+   "crc": 3595660060
+  },
+  {
+   "path": "sounds/gravel4_m.ogg",
+   "asset": "",
+   "size": 6052,
+   "crc": 1215378476
+  },
+  {
+   "path": "sounds/gravel5.ogg",
+   "asset": "",
+   "size": 7228,
+   "crc": 3033792123
+  },
+  {
+   "path": "sounds/gravel5_m.ogg",
+   "asset": "",
+   "size": 5719,
+   "crc": 3284323875
+  },
+  {
+   "path": "sounds/gravel_step.ogg",
+   "asset": "",
+   "size": 8336,
+   "crc": 2440670967
+  },
+  {
+   "path": "sounds/gravel_step_m.ogg",
+   "asset": "",
+   "size": 6957,
+   "crc": 44924391
+  },
+  {
+   "path": "sounds/grunt1.ogg",
+   "asset": "",
+   "size": 8933,
+   "crc": 3374173058
+  },
+  {
+   "path": "sounds/grunt2.ogg",
+   "asset": "",
+   "size": 9975,
+   "crc": 1687697927
+  },
+  {
+   "path": "sounds/grunt3.ogg",
+   "asset": "",
+   "size": 8340,
+   "crc": 3060259714
+  },
+  {
+   "path": "sounds/grunt4.ogg",
+   "asset": "",
+   "size": 5371,
+   "crc": 1415806363
+  },
+  {
+   "path": "sounds/grunt5.ogg",
+   "asset": "",
+   "size": 7202,
+   "crc": 4249959465
+  },
+  {
+   "path": "sounds/handcuffs.ogg",
+   "asset": "",
+   "size": 18317,
+   "crc": 2753575083
+  },
+  {
+   "path": "sounds/heartbeat.ogg",
+   "asset": "",
+   "size": 8476,
+   "crc": 2423773716
+  },
+  {
+   "path": "sounds/hit1.ogg",
+   "asset": "",
+   "size": 9542,
+   "crc": 1499088164
+  },
+  {
+   "path": "sounds/hit2.ogg",
+   "asset": "",
+   "size": 8522,
+   "crc": 3461161839
+  },
+  {
+   "path": "sounds/hit_heavy.ogg",
+   "asset": "",
+   "size": 10789,
+   "crc": 2753585892
+  },
+  {
+   "path": "sounds/laugh.ogg",
+   "asset": "",
+   "size": 30042,
+   "crc": 2227074865
+  },
+  {
+   "path": "sounds/lighter_dead.ogg",
+   "asset": "",
+   "size": 6699,
+   "crc": 2136568845
+  },
+  {
+   "path": "sounds/lino1.ogg",
+   "asset": "",
+   "size": 6226,
+   "crc": 273449494
+  },
+  {
+   "path": "sounds/lino1_m.ogg",
+   "asset": "",
+   "size": 6031,
+   "crc": 1160776643
+  },
+  {
+   "path": "sounds/lino2.ogg",
+   "asset": "",
+   "size": 6034,
+   "crc": 3983460111
+  },
+  {
+   "path": "sounds/lino2_m.ogg",
+   "asset": "",
+   "size": 5861,
+   "crc": 3536155903
+  },
+  {
+   "path": "sounds/lino3.ogg",
+   "asset": "",
+   "size": 6311,
+   "crc": 3314918613
+  },
+  {
+   "path": "sounds/lino3_m.ogg",
+   "asset": "",
+   "size": 6038,
+   "crc": 3046000466
+  },
+  {
+   "path": "sounds/lino4.ogg",
+   "asset": "",
+   "size": 6409,
+   "crc": 4178737767
+  },
+  {
+   "path": "sounds/lino4_m.ogg",
+   "asset": "",
+   "size": 6275,
+   "crc": 1125216999
+  },
+  {
+   "path": "sounds/lino5.ogg",
+   "asset": "",
+   "size": 6643,
+   "crc": 1580931372
+  },
+  {
+   "path": "sounds/lino5_m.ogg",
+   "asset": "",
+   "size": 6191,
+   "crc": 2859873247
+  },
+  {
+   "path": "sounds/machine.ogg",
+   "asset": "",
+   "size": 11109,
+   "crc": 398777877
+  },
+  {
+   "path": "sounds/menu_move.ogg",
+   "asset": "",
+   "size": 5678,
+   "crc": 2912802962
+  },
+  {
+   "path": "sounds/menu_open.ogg",
+   "asset": "",
+   "size": 15165,
+   "crc": 2210185264
+  },
+  {
+   "path": "sounds/menu_select.ogg",
+   "asset": "",
+   "size": 7414,
+   "crc": 3376281646
+  },
+  {
+   "path": "sounds/money_grab.ogg",
+   "asset": "",
+   "size": 7012,
+   "crc": 2258986281
+  },
+  {
+   "path": "sounds/mud1.ogg",
+   "asset": "",
+   "size": 7638,
+   "crc": 121335436
+  },
+  {
+   "path": "sounds/mud1_m.ogg",
+   "asset": "",
+   "size": 6558,
+   "crc": 695418399
+  },
+  {
+   "path": "sounds/mud2.ogg",
+   "asset": "",
+   "size": 6898,
+   "crc": 2158051827
+  },
+  {
+   "path": "sounds/mud2_m.ogg",
+   "asset": "",
+   "size": 5902,
+   "crc": 604577261
+  },
+  {
+   "path": "sounds/mud3.ogg",
+   "asset": "",
+   "size": 7160,
+   "crc": 3524808201
+  },
+  {
+   "path": "sounds/mud3_m.ogg",
+   "asset": "",
+   "size": 6359,
+   "crc": 1800630301
+  },
+  {
+   "path": "sounds/mud4.ogg",
+   "asset": "",
+   "size": 12586,
+   "crc": 2005389924
+  },
+  {
+   "path": "sounds/mud4_m.ogg",
+   "asset": "",
+   "size": 8670,
+   "crc": 1924531988
+  },
+  {
+   "path": "sounds/mud5.ogg",
+   "asset": "",
+   "size": 7559,
+   "crc": 3353936928
+  },
+  {
+   "path": "sounds/mud5_m.ogg",
+   "asset": "",
+   "size": 6679,
+   "crc": 541500751
+  },
+  {
+   "path": "sounds/night.ogg",
+   "asset": "",
+   "size": 52507,
+   "crc": 745422166
+  },
+  {
+   "path": "sounds/npc_bump.ogg",
+   "asset": "",
+   "size": 6796,
+   "crc": 1985209617
+  },
+  {
+   "path": "sounds/npc_greet.ogg",
+   "asset": "",
+   "size": 18527,
+   "crc": 1132440159
+  },
+  {
+   "path": "sounds/npc_leave.ogg",
+   "asset": "",
+   "size": 7448,
+   "crc": 2285575095
+  },
+  {
+   "path": "sounds/npc_move.ogg",
+   "asset": "",
+   "size": 8736,
+   "crc": 673053129
+  },
+  {
+   "path": "sounds/npc_settle_move.ogg",
+   "asset": "",
+   "size": 7337,
+   "crc": 129477797
+  },
+  {
+   "path": "sounds/npc_step.ogg",
+   "asset": "",
+   "size": 6885,
+   "crc": 2012350989
+  },
+  {
+   "path": "sounds/npc_tone.ogg",
+   "asset": "",
+   "size": 7178,
+   "crc": 3545847050
+  },
+  {
+   "path": "sounds/owl.ogg",
+   "asset": "",
+   "size": 31582,
+   "crc": 3289694705
+  },
+  {
+   "path": "sounds/pack_open.ogg",
+   "asset": "",
+   "size": 32439,
+   "crc": 3900661291
+  },
+  {
+   "path": "sounds/paperwork.ogg",
+   "asset": "",
+   "size": 12108,
+   "crc": 4040011201
+  },
+  {
+   "path": "sounds/pavement1.ogg",
+   "asset": "",
+   "size": 5955,
+   "crc": 919673570
+  },
+  {
+   "path": "sounds/pavement1_m.ogg",
+   "asset": "",
+   "size": 5644,
+   "crc": 2167954027
+  },
+  {
+   "path": "sounds/pavement2.ogg",
+   "asset": "",
+   "size": 10744,
+   "crc": 685640114
+  },
+  {
+   "path": "sounds/pavement2_m.ogg",
+   "asset": "",
+   "size": 9533,
+   "crc": 3812051375
+  },
+  {
+   "path": "sounds/pavement3.ogg",
+   "asset": "",
+   "size": 5876,
+   "crc": 543241822
+  },
+  {
+   "path": "sounds/pavement3_m.ogg",
+   "asset": "",
+   "size": 5491,
+   "crc": 4294920300
+  },
+  {
+   "path": "sounds/pavement4.ogg",
+   "asset": "",
+   "size": 6262,
+   "crc": 720514748
+  },
+  {
+   "path": "sounds/pavement4_m.ogg",
+   "asset": "",
+   "size": 5769,
+   "crc": 3818670995
+  },
+  {
+   "path": "sounds/pavement5.ogg",
+   "asset": "",
+   "size": 6099,
+   "crc": 3367364294
+  },
+  {
+   "path": "sounds/pavement5_m.ogg",
+   "asset": "",
+   "size": 5768,
+   "crc": 3165845746
+  },
+  {
+   "path": "sounds/police_van.ogg",
+   "asset": "",
+   "size": 67543,
+   "crc": 3398321023
+  },
+  {
+   "path": "sounds/puddle1.ogg",
+   "asset": "",
+   "size": 10749,
+   "crc": 3120549735
+  },
+  {
+   "path": "sounds/puddle1_m.ogg",
+   "asset": "",
+   "size": 9665,
+   "crc": 1822130018
+  },
+  {
+   "path": "sounds/puddle2.ogg",
+   "asset": "",
+   "size": 12287,
+   "crc": 737622351
+  },
+  {
+   "path": "sounds/puddle2_m.ogg",
+   "asset": "",
+   "size": 10018,
+   "crc": 3837376578
+  },
+  {
+   "path": "sounds/puddle3.ogg",
+   "asset": "",
+   "size": 11934,
+   "crc": 2236186616
+  },
+  {
+   "path": "sounds/puddle3_m.ogg",
+   "asset": "",
+   "size": 9836,
+   "crc": 2675693388
+  },
+  {
+   "path": "sounds/puddle4.ogg",
+   "asset": "",
+   "size": 11380,
+   "crc": 1966593050
+  },
+  {
+   "path": "sounds/puddle4_m.ogg",
+   "asset": "",
+   "size": 9571,
+   "crc": 3672253783
+  },
+  {
+   "path": "sounds/puddle5.ogg",
+   "asset": "",
+   "size": 11567,
+   "crc": 2732194673
+  },
+  {
+   "path": "sounds/puddle5_m.ogg",
+   "asset": "",
+   "size": 10817,
+   "crc": 1561694351
+  },
+  {
+   "path": "sounds/punch_heavy1.ogg",
+   "asset": "",
+   "size": 9634,
+   "crc": 664435609
+  },
+  {
+   "path": "sounds/punch_heavy2.ogg",
+   "asset": "",
+   "size": 9275,
+   "crc": 1174824174
+  },
+  {
+   "path": "sounds/punch_light1.ogg",
+   "asset": "",
+   "size": 8748,
+   "crc": 2509090550
+  },
+  {
+   "path": "sounds/punch_light2.ogg",
+   "asset": "",
+   "size": 5646,
+   "crc": 2298269392
+  },
+  {
+   "path": "sounds/punch_mid1.ogg",
+   "asset": "",
+   "size": 10885,
+   "crc": 1913824002
+  },
+  {
+   "path": "sounds/punch_mid2.ogg",
+   "asset": "",
+   "size": 9742,
+   "crc": 567784360
+  },
+  {
+   "path": "sounds/quest_done.ogg",
+   "asset": "",
+   "size": 22551,
+   "crc": 3679326938
+  },
+  {
+   "path": "sounds/quest_milestone.ogg",
+   "asset": "",
+   "size": 36069,
+   "crc": 3370220621
+  },
+  {
+   "path": "sounds/quest_task.ogg",
+   "asset": "",
+   "size": 7151,
+   "crc": 1633688917
+  },
+  {
+   "path": "sounds/radio_crackle.ogg",
+   "asset": "",
+   "size": 9457,
+   "crc": 3217654980
+  },
+  {
+   "path": "sounds/react_bad_f.ogg",
+   "asset": "",
+   "size": 38507,
+   "crc": 3324326708
+  },
+  {
+   "path": "sounds/react_bad_m.ogg",
+   "asset": "",
+   "size": 21876,
+   "crc": 819735853
+  },
+  {
+   "path": "sounds/react_good_f.ogg",
+   "asset": "",
+   "size": 22257,
+   "crc": 3950550474
+  },
+  {
+   "path": "sounds/react_good_m.ogg",
+   "asset": "",
+   "size": 70929,
+   "crc": 794497012
+  },
+  {
+   "path": "sounds/rooster.ogg",
+   "asset": "",
+   "size": 31205,
+   "crc": 4242731959
+  },
+  {
+   "path": "sounds/shutter.ogg",
+   "asset": "",
+   "size": 6633,
+   "crc": 1762747672
+  },
+  {
+   "path": "sounds/siren.ogg",
+   "asset": "",
+   "size": 13112,
+   "crc": 1447402729
+  },
+  {
+   "path": "sounds/sit_clock.ogg",
+   "asset": "",
+   "size": 10631,
+   "crc": 584974435
+  },
+  {
+   "path": "sounds/smoke.ogg",
+   "asset": "",
+   "size": 15030,
+   "crc": 3060092503
+  },
+  {
+   "path": "sounds/snore_content.ogg",
+   "asset": "",
+   "size": 50064,
+   "crc": 2729347579
+  },
+  {
+   "path": "sounds/snore_rough.ogg",
+   "asset": "",
+   "size": 14321,
+   "crc": 1666840590
+  },
+  {
+   "path": "sounds/street_bed.ogg",
+   "asset": "",
+   "size": 475814,
+   "crc": 2714935285
+  },
+  {
+   "path": "sounds/street_bed_m.ogg",
+   "asset": "",
+   "size": 274445,
+   "crc": 3941052790
+  },
+  {
+   "path": "sounds/upgrade.ogg",
+   "asset": "",
+   "size": 34107,
+   "crc": 1805664559
+  },
+  {
+   "path": "sounds/voice1.ogg",
+   "asset": "",
+   "size": 14038,
+   "crc": 1316339695
+  },
+  {
+   "path": "sounds/voice2.ogg",
+   "asset": "",
+   "size": 13497,
+   "crc": 1178947643
+  },
+  {
+   "path": "sounds/voice3.ogg",
+   "asset": "",
+   "size": 12129,
+   "crc": 3814258050
+  },
+  {
+   "path": "sounds/voice4.ogg",
+   "asset": "",
+   "size": 12159,
+   "crc": 1202706520
+  },
+  {
+   "path": "sounds/voice5.ogg",
+   "asset": "",
+   "size": 11152,
+   "crc": 3779569543
+  },
+  {
+   "path": "sounds/wall.ogg",
+   "asset": "",
+   "size": 20119,
+   "crc": 3213055667
+  },
+  {
+   "path": "sounds/warn.ogg",
+   "asset": "",
+   "size": 6405,
+   "crc": 431287590
+  },
+  {
+   "path": "sounds/wash.ogg",
+   "asset": "",
+   "size": 7395,
+   "crc": 2169887850
+  },
+  {
+   "path": "sounds/wet_step.ogg",
+   "asset": "",
+   "size": 9154,
+   "crc": 3372643464
+  },
+  {
+   "path": "sounds/wet_step_m.ogg",
+   "asset": "",
+   "size": 7499,
+   "crc": 2765691202
+  },
+  {
+   "path": "sounds/whistle.ogg",
+   "asset": "",
+   "size": 13710,
+   "crc": 1721048609
+  },
+  {
+   "path": "sounds/wood1.ogg",
+   "asset": "",
+   "size": 6225,
+   "crc": 227695350
+  },
+  {
+   "path": "sounds/wood1_m.ogg",
+   "asset": "",
+   "size": 5914,
+   "crc": 1865942729
+  },
+  {
+   "path": "sounds/wood2.ogg",
+   "asset": "",
+   "size": 5663,
+   "crc": 1447803731
+  },
+  {
+   "path": "sounds/wood2_m.ogg",
+   "asset": "",
+   "size": 5657,
+   "crc": 3850344629
+  },
+  {
+   "path": "sounds/wood3.ogg",
+   "asset": "",
+   "size": 6600,
+   "crc": 1990247871
+  },
+  {
+   "path": "sounds/wood3_m.ogg",
+   "asset": "",
+   "size": 7174,
+   "crc": 2648206093
+  },
+  {
+   "path": "sounds/wood4.ogg",
+   "asset": "",
+   "size": 5333,
+   "crc": 1631529889
+  },
+  {
+   "path": "sounds/wood4_m.ogg",
+   "asset": "",
+   "size": 5893,
+   "crc": 1361276094
+  },
+  {
+   "path": "sounds/wood5.ogg",
+   "asset": "",
+   "size": 4873,
+   "crc": 3751301960
+  },
+  {
+   "path": "sounds/wood5_m.ogg",
+   "asset": "",
+   "size": 5451,
+   "crc": 1943960056
+  },
+  {
+   "path": "zul.exe",
+   "asset": "zul.exe",
+   "size": 6491268,
+   "crc": 3825707223
+  }
+ ],
+ "remove": []
 }
