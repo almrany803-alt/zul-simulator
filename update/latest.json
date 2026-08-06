@@ -1,9 +1,8 @@
 {
-  "version": "v79",
-  "notes": "A night in the cell. Four turns inside, and how they go depends on how drunk you are and who you are.",
-  "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v79/",
-  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/download/v79/zul_simulator_v79_windows.zip",
-  "files": [
-    { "path": "zul.exe", "asset": "zul.exe", "size": 6484820, "crc": 1175375307 }
-  ]
+  "version": "v80",
+  "notes": "The update now reads out its changes one at a time, like a conversation.|Updates can retire old files as well as add new ones, so your folder stays tidy.|There is a proper page now explaining what the game is, and a running list of what changes.",
+  "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v80/",
+  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/download/v80/zul_simulator_v80_windows.zip",
+  "files": [ { "path": "zul.exe", "asset": "zul.exe", "size": 6486292, "crc": 1821423192 } ],
+  "remove": []
 }
