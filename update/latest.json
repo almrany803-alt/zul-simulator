@@ -1,20 +1,20 @@
 {
- "version": "v88",
- "notes": "You can now send me a bug report, a suggestion, or just a message, straight from the game. There is a Send something to the author option on the main menu.|It shows you exactly what gets sent with your words before you write anything, and nothing that identifies you is included.|You can send your test results too, and leave a way for me to reply if you want to.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v88/",
+ "version": "v89",
+ "notes": "If any of the game's sounds go missing or get damaged, you can now put them back without downloading the whole game again. It is under Check and repair the game's files, in the options.|It asks before touching anything you have changed yourself, so if you have been modding the game your own sounds are safe.|You can also just be told which files are missing or changed, without altering anything.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v89/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 4168,
-   "crc": 3698896459,
+   "size": 4725,
+   "crc": 1891401091,
    "asset": "changes.txt"
   },
   {
    "path": "lang/polish.lang",
-   "size": 207346,
-   "crc": 3675636742,
+   "size": 209636,
+   "crc": 1899983277,
    "asset": "lang__polish.lang"
   },
   {
@@ -1369,8 +1369,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6501348,
-   "crc": 1762092174,
+   "size": 6506100,
+   "crc": 4036807081,
    "asset": "zul.exe"
   }
  ],
