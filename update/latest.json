@@ -1,21 +1,21 @@
 {
- "version": "v90",
- "notes": "Fixed the game's own testing feature, which was reporting problems that were not really there. If you ran the tests and saw failures, they were not real and nothing was wrong with your game.|Your contact details now live in the Send something to the author menu, next to everything else to do with getting in touch.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v90/",
+ "version": "v91",
+ "notes": "If the game notices one of its files is missing or changed, it now offers to put it back there and then, instead of just telling you about it.|You still choose what gets replaced, so if you have been swapping in your own sounds they are safe.|Repairing waits until you are on the newest version, because otherwise it cannot tell a file you changed from one that belongs to an older version.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v91/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 5071,
-   "crc": 3258263447,
+   "size": 5484,
+   "crc": 2672193390,
    "asset": "changes.txt"
   },
   {
    "path": "lang/polish.lang",
-   "size": 209636,
-   "crc": 1899983277,
-   "asset": ""
+   "size": 210342,
+   "crc": 160493216,
+   "asset": "lang__polish.lang"
   },
   {
    "path": "maps/bar.map",
@@ -1369,8 +1369,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6506324,
-   "crc": 1501134185,
+   "size": 6506804,
+   "crc": 2488663075,
    "asset": "zul.exe"
   }
  ],
