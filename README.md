@@ -58,13 +58,13 @@ download.
 There is no installer. You unzip it and run it.
 
 1. Go to the [latest release](../../releases/latest).
-2. Under "Assets", download the file whose name ends in `_windows.zip`. It is
-   about 43 MB. Ignore the one that says `DEV_source_snapshot`, that is for
-   development and is not the game.
+2. Under "Assets", download **ZulSimulator.zip**. It is about 43 MB. Ignore the
+   one that says `DEV_source_snapshot`, that is for development and is not the
+   game.
 3. Unzip it somewhere you can write to. Your Documents folder is ideal. **Do not
    unzip it into Program Files**, because Windows protects that folder and the
    game will not be able to update itself later.
-4. Open the folder that comes out and run **zul.exe**.
+4. You will get a folder called **Zul Simulator**. Open it and run **zul.exe**.
 
 That is it. Nothing to install and nothing to configure.
 
