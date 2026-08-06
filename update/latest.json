@@ -1,14 +1,20 @@
 {
- "version": "v85",
- "notes": "The share link now downloads the game straight away instead of sending people to a page they have to find the download on.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v85/",
+ "version": "v86",
+ "notes": "There is now a What's new option in the main menu, so you can read what has changed whenever you like, without being online.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v86/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "files": [
   {
+   "path": "changes.txt",
+   "asset": "changes.txt",
+   "size": 3102,
+   "crc": 4203394040
+  },
+  {
    "path": "lang/polish.lang",
    "asset": "",
-   "size": 200143,
-   "crc": 3930322992
+   "size": 200575,
+   "crc": 1418565114
   },
   {
    "path": "maps/bar.map",
@@ -1363,8 +1369,8 @@
   {
    "path": "zul.exe",
    "asset": "zul.exe",
-   "size": 6492052,
-   "crc": 300133361
+   "size": 6493012,
+   "crc": 757799827
   }
  ],
  "remove": []
