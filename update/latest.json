@@ -1,8 +1,8 @@
 {
- "version": "v84",
- "notes": "There is now a Check for a new version option in the main menu, so you can ask whenever you like instead of only finding out when the game starts.|It always tells you what it found, even if that is just that you are already up to date, or that it could not reach the server.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v84/",
- "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/download/v84/ZulSimulator.zip",
+ "version": "v85",
+ "notes": "The share link now downloads the game straight away instead of sending people to a page they have to find the download on.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v85/",
+ "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "files": [
   {
    "path": "lang/polish.lang",
@@ -1363,8 +1363,8 @@
   {
    "path": "zul.exe",
    "asset": "zul.exe",
-   "size": 6491972,
-   "crc": 1799308039
+   "size": 6492052,
+   "crc": 300133361
   }
  ],
  "remove": []
