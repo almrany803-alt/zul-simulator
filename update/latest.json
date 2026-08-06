@@ -1,20 +1,20 @@
 {
- "version": "v91",
- "notes": "If the game notices one of its files is missing or changed, it now offers to put it back there and then, instead of just telling you about it.|You still choose what gets replaced, so if you have been swapping in your own sounds they are safe.|Repairing waits until you are on the newest version, because otherwise it cannot tell a file you changed from one that belongs to an older version.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v91/",
+ "version": "v92",
+ "notes": "After putting files back, the game now restarts itself. It has to: the sounds it is already playing were loaded when it started, so a file put back while it is running would not actually be used until you restarted anyway.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v92/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 5484,
-   "crc": 2672193390,
+   "size": 5730,
+   "crc": 3077944680,
    "asset": "changes.txt"
   },
   {
    "path": "lang/polish.lang",
-   "size": 210342,
-   "crc": 160493216,
+   "size": 211065,
+   "crc": 4270581493,
    "asset": "lang__polish.lang"
   },
   {
@@ -1369,8 +1369,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6506804,
-   "crc": 2488663075,
+   "size": 6507364,
+   "crc": 1966348273,
    "asset": "zul.exe"
   }
  ],
