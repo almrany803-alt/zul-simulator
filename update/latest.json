@@ -1,21 +1,21 @@
 {
- "version": "v96",
- "notes": "Sleeping it off in the cell now actually sobers you for the rest of the night.|Extra nights inside tell on you. Days with no drink and no cigarettes mean you come out with the habit loosened a little and wanting one very badly.|Coming out of the cells no longer leaves you permanently worn out.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v96/",
+ "version": "v97",
+ "notes": "A night in the cells now actually counts as a night. Your tasks were never replaced, anyone you grassed never served their time, and being marked never wore off. None of that was working.|A night in the sobering station no longer leaves you permanently worn out.|Backing out of the menu when handed a fine no longer counts as tearing it up in the officer's face.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v97/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 8883,
-   "crc": 4122839924,
+   "size": 9540,
+   "crc": 3855098400,
    "asset": "changes.txt"
   },
   {
    "path": "lang/polish.lang",
    "size": 213284,
    "crc": 1253555464,
-   "asset": "lang__polish.lang"
+   "asset": ""
   },
   {
    "path": "maps/bar.map",
@@ -1369,8 +1369,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6511220,
-   "crc": 114945592,
+   "size": 6512116,
+   "crc": 2710860399,
    "asset": "zul.exe"
   }
  ],
