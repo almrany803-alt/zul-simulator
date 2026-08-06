@@ -1,20 +1,20 @@
 {
- "version": "v86",
- "notes": "There is now a What's new option in the main menu, so you can read what has changed whenever you like, without being online.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v86/",
+ "version": "v87",
+ "notes": "What's new now works like the how to play: use the up and down arrows to move through it, and enter or escape when you are done.|A bit of tidying up inside that you will not notice, but which keeps things in good order.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v87/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "files": [
   {
    "path": "changes.txt",
    "asset": "changes.txt",
-   "size": 3102,
-   "crc": 4203394040
+   "size": 3232,
+   "crc": 3211683400
   },
   {
    "path": "lang/polish.lang",
    "asset": "",
-   "size": 200575,
-   "crc": 1418565114
+   "size": 200613,
+   "crc": 1036920322
   },
   {
    "path": "maps/bar.map",
@@ -1369,8 +1369,8 @@
   {
    "path": "zul.exe",
    "asset": "zul.exe",
-   "size": 6493012,
-   "crc": 757799827
+   "size": 6492900,
+   "crc": 1145841181
   }
  ],
  "remove": []
