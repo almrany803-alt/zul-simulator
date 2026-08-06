@@ -1,14 +1,14 @@
 {
- "version": "v83",
- "notes": "Small fix to how these notes are read. Any arrow key now simply says the same thing again, so you can catch anything you half heard.|Only enter moves you on to the next one, so you always know where you are.|The same goes for the character stories when you start a new game.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v83/",
- "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/download/v83/ZulSimulator.zip",
+ "version": "v84",
+ "notes": "There is now a Check for a new version option in the main menu, so you can ask whenever you like instead of only finding out when the game starts.|It always tells you what it found, even if that is just that you are already up to date, or that it could not reach the server.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v84/",
+ "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/download/v84/ZulSimulator.zip",
  "files": [
   {
    "path": "lang/polish.lang",
    "asset": "",
-   "size": 199669,
-   "crc": 2982938657
+   "size": 200143,
+   "crc": 3930322992
   },
   {
    "path": "maps/bar.map",
@@ -1363,8 +1363,8 @@
   {
    "path": "zul.exe",
    "asset": "zul.exe",
-   "size": 6491316,
-   "crc": 1079667115
+   "size": 6491972,
+   "crc": 1799308039
   }
  ],
  "remove": []
