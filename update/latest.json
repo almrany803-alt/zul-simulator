@@ -1,20 +1,20 @@
 {
- "version": "v93",
- "notes": "You now actually snore while you sleep. The sound was arriving after you had already woken up.|Benches tell you whether Enter will sit you down or bed you down for the night when you look at them, not only when you first walk up.|Tracking directions now match the arrow keys. It used to say a thing was ahead when it meant north, so it could tell you something was ahead while it was plainly behind you.|Somebody being sick in the street now only happens late on, and where people actually drink.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v93/",
+ "version": "v94",
+ "notes": "When you work out what somebody loves, the game now remembers the right thing. For five people it was telling you their favourite was something else entirely.|The how to play was skipping the first line of every section, including the one explaining what a zul actually is.|Home and End now jump to the top and bottom of a list, and still set the sound effects volume while you are walking about.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v94/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 6984,
-   "crc": 963797935,
+   "size": 7588,
+   "crc": 3126379421,
    "asset": "changes.txt"
   },
   {
    "path": "lang/polish.lang",
-   "size": 211092,
-   "crc": 2894974040,
+   "size": 211190,
+   "crc": 2108701951,
    "asset": "lang__polish.lang"
   },
   {
@@ -1369,8 +1369,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6507748,
-   "crc": 3067248247,
+   "size": 6508932,
+   "crc": 2928462425,
    "asset": "zul.exe"
   }
  ],
