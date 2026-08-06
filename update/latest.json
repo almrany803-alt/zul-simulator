@@ -1,14 +1,14 @@
 {
- "version": "v97",
- "notes": "A night in the cells now actually counts as a night. Your tasks were never replaced, anyone you grassed never served their time, and being marked never wore off. None of that was working.|A night in the sobering station no longer leaves you permanently worn out.|Backing out of the menu when handed a fine no longer counts as tearing it up in the officer's face.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v97/",
+ "version": "v98",
+ "notes": "You are no longer punished for fights that never happened. Being refused, thinking better of it, or being too worn out to swing all still gave you credit for a scrap and drew police attention for a brawl nobody had.|Being refused a conversation no longer counts as having had one.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v98/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 9540,
-   "crc": 3855098400,
+   "size": 9996,
+   "crc": 1626124021,
    "asset": "changes.txt"
   },
   {
@@ -1369,8 +1369,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6512116,
-   "crc": 2710860399,
+   "size": 6512724,
+   "crc": 2887322686,
    "asset": "zul.exe"
   }
  ],
