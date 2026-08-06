@@ -1,20 +1,20 @@
 {
- "version": "v95",
- "notes": "Drink now wears off. It never did before: once you had had a few you stayed that way until you slept. It fades slowly now, and a tea, a bite to eat or a sit down on a bench brings you round faster.|You can tell how much attention the police are paying you. Press S and it says so in words. It was building up invisibly before.|Tracking talks less: just the direction and the distance.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v95/",
+ "version": "v96",
+ "notes": "Sleeping it off in the cell now actually sobers you for the rest of the night.|Extra nights inside tell on you. Days with no drink and no cigarettes mean you come out with the habit loosened a little and wanting one very badly.|Coming out of the cells no longer leaves you permanently worn out.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v96/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 8302,
-   "crc": 1658621839,
+   "size": 8883,
+   "crc": 4122839924,
    "asset": "changes.txt"
   },
   {
    "path": "lang/polish.lang",
-   "size": 212638,
-   "crc": 3434102763,
+   "size": 213284,
+   "crc": 1253555464,
    "asset": "lang__polish.lang"
   },
   {
@@ -1369,8 +1369,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6510292,
-   "crc": 125481717,
+   "size": 6511220,
+   "crc": 114945592,
    "asset": "zul.exe"
   }
  ],
