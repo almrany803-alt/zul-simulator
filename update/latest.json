@@ -1,20 +1,20 @@
 {
- "version": "v94",
- "notes": "When you work out what somebody loves, the game now remembers the right thing. For five people it was telling you their favourite was something else entirely.|The how to play was skipping the first line of every section, including the one explaining what a zul actually is.|Home and End now jump to the top and bottom of a list, and still set the sound effects volume while you are walking about.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v94/",
+ "version": "v95",
+ "notes": "Drink now wears off. It never did before: once you had had a few you stayed that way until you slept. It fades slowly now, and a tea, a bite to eat or a sit down on a bench brings you round faster.|You can tell how much attention the police are paying you. Press S and it says so in words. It was building up invisibly before.|Tracking talks less: just the direction and the distance.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v95/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 7588,
-   "crc": 3126379421,
+   "size": 8302,
+   "crc": 1658621839,
    "asset": "changes.txt"
   },
   {
    "path": "lang/polish.lang",
-   "size": 211190,
-   "crc": 2108701951,
+   "size": 212638,
+   "crc": 3434102763,
    "asset": "lang__polish.lang"
   },
   {
@@ -1369,8 +1369,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6508932,
-   "crc": 2928462425,
+   "size": 6510292,
+   "crc": 125481717,
    "asset": "zul.exe"
   }
  ],
