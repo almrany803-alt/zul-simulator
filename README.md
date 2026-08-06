@@ -57,6 +57,12 @@ download.
 
 There is no installer. You unzip it and run it.
 
+**[Download Zul Simulator](../../releases/latest/download/ZulSimulator.zip)** —
+that link always gives you the newest version, and starts the download straight
+away rather than taking you to a page.
+
+If you would rather see what is in the release first:
+
 1. Go to the [latest release](../../releases/latest).
 2. Under "Assets", download **ZulSimulator.zip**. It is about 43 MB. Ignore the
    one that says `DEV_source_snapshot`, that is for development and is not the
