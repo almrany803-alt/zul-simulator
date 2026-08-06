@@ -1,8 +1,8 @@
 {
- "version": "v82",
- "notes": "The game now notices if any of its own files have gone missing or been changed, and tells you rather than quietly misbehaving.|If you are changing sounds on purpose that is completely fine, and you can tell it to stop mentioning it, in the options.|After an update the game now restarts itself, so you never have to go and find the right program.|Arrow keys move back and forth through these notes and read them again.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v82/",
- "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/download/v82/ZulSimulator.zip",
+ "version": "v83",
+ "notes": "Small fix to how these notes are read. Any arrow key now simply says the same thing again, so you can catch anything you half heard.|Only enter moves you on to the next one, so you always know where you are.|The same goes for the character stories when you start a new game.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v83/",
+ "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/download/v83/ZulSimulator.zip",
  "files": [
   {
    "path": "lang/polish.lang",
@@ -1363,8 +1363,8 @@
   {
    "path": "zul.exe",
    "asset": "zul.exe",
-   "size": 6491268,
-   "crc": 3825707223
+   "size": 6491316,
+   "crc": 1079667115
   }
  ],
  "remove": []
