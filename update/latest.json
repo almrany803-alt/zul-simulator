@@ -1,14 +1,14 @@
 {
- "version": "v106",
- "notes": "The sound effects volume now actually controls the sound effects. All of them. Everything positioned around you was ignoring it completely: presence tones, footsteps going past, the traffic, the telly, the building site, the fountain, and the tracking beeper. Only your own footsteps were listening, which is why turning it down changed the balance of the game rather than the level of it.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v106/",
+ "version": "v107",
+ "notes": "Hold any of the four volume keys down and it keeps going, rather than needing to be pressed over and over.|Page Up and Page Down are the music, Home and End are the sound effects. They are separate on purpose, so you can turn the music down without losing the footsteps and tones you find your way by.|The what's new notes have been tidied: they had ended up with everything repeated several times over.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v107/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 14806,
-   "crc": 993661058,
+   "size": 8142,
+   "crc": 22765368,
    "asset": "changes.txt"
   },
   {
@@ -1369,8 +1369,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6523588,
-   "crc": 3723124606,
+   "size": 6523988,
+   "crc": 646459462,
    "asset": "zul.exe"
   }
  ],
