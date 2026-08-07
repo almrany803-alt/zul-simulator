@@ -1,21 +1,21 @@
 {
- "version": "v98",
- "notes": "You are no longer punished for fights that never happened. Being refused, thinking better of it, or being too worn out to swing all still gave you credit for a scrap and drew police attention for a brawl nobody had.|Being refused a conversation no longer counts as having had one.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v98/",
+ "version": "v99",
+ "notes": "Saving now keeps your whole game. Before, quitting and coming back threw away your entire bag, every relationship, everything you had learned about people, all your milestones and what day it was. Old saves still work.|Rummaging with a full trolley no longer costs you the energy before telling you there is no room.|Whoever walks up for a chat is now actually somebody who is there.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v99/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 9996,
-   "crc": 1626124021,
+   "size": 10786,
+   "crc": 758435710,
    "asset": "changes.txt"
   },
   {
    "path": "lang/polish.lang",
-   "size": 213284,
-   "crc": 1253555464,
-   "asset": ""
+   "size": 213488,
+   "crc": 4041156020,
+   "asset": "lang__polish.lang"
   },
   {
    "path": "maps/bar.map",
@@ -1369,8 +1369,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6512724,
-   "crc": 2887322686,
+   "size": 6517588,
+   "crc": 4065578371,
    "asset": "zul.exe"
   }
  ],
