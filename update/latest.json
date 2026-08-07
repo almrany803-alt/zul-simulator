@@ -1,21 +1,21 @@
 {
- "version": "v105",
- "notes": "The sound effects volume now works. It was starting at full and trying to go higher, which is not a thing sound can do, so Home never did anything. End takes it down and Home brings it back up.|Home and End work in menus now, not only while walking about.|Both volumes are remembered when you quit, along with whether you muted the music.|And the game says something to you on the way out. Eight different things.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v105/",
+ "version": "v106",
+ "notes": "The sound effects volume now actually controls the sound effects. All of them. Everything positioned around you was ignoring it completely: presence tones, footsteps going past, the traffic, the telly, the building site, the fountain, and the tracking beeper. Only your own footsteps were listening, which is why turning it down changed the balance of the game rather than the level of it.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v106/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 14268,
-   "crc": 1985841339,
+   "size": 14806,
+   "crc": 993661058,
    "asset": "changes.txt"
   },
   {
    "path": "lang/polish.lang",
    "size": 215522,
    "crc": 3291029586,
-   "asset": "lang__polish.lang"
+   "asset": ""
   },
   {
    "path": "maps/bar.map",
@@ -1369,8 +1369,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6522772,
-   "crc": 4067040409,
+   "size": 6523588,
+   "crc": 3723124606,
    "asset": "zul.exe"
   }
  ],
