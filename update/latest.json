@@ -1,20 +1,20 @@
 {
- "version": "v101",
- "notes": "Energy works differently and this changes how a day feels. Nothing comes back from waiting: you get your legs from eating, a hot drink, a sit on a bench, or a night's sleep. Food is not a treat now, it is the job.|The hidden 'you are done in' state is gone. It was a penalty you could not see coming and could not undo except by ending the day.|A bench pulls you up off the floor but no further. It is not a bed and it is not a meal.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v101/",
+ "version": "v102",
+ "notes": "Your own bed is your own bed again. Coming out of the cells or waking off the floor, the next night you slept was being punished as kipping rough even at your own block.|The people behind the counters have heard if you cross the line. They will take your money and that is all you are getting.|Escape on the main menu no longer closes the game.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v102/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 11772,
-   "crc": 3911568325,
+   "size": 12422,
+   "crc": 733718877,
    "asset": "changes.txt"
   },
   {
    "path": "lang/polish.lang",
-   "size": 213775,
-   "crc": 3290448969,
+   "size": 214629,
+   "crc": 3562216257,
    "asset": "lang__polish.lang"
   },
   {
@@ -1369,8 +1369,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6518372,
-   "crc": 203620650,
+   "size": 6519988,
+   "crc": 1881966271,
    "asset": "zul.exe"
   }
  ],
