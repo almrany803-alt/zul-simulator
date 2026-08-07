@@ -1,21 +1,21 @@
 {
- "version": "v99",
- "notes": "Saving now keeps your whole game. Before, quitting and coming back threw away your entire bag, every relationship, everything you had learned about people, all your milestones and what day it was. Old saves still work.|Rummaging with a full trolley no longer costs you the energy before telling you there is no room.|Whoever walks up for a chat is now actually somebody who is there.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v99/",
+ "version": "v100",
+ "notes": "Starting a new game now actually starts a new game. Before, it kept your old relationships, everything you had learned about people, whoever you had put in a cell, your record with the police and even what day it was.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v100/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 10786,
-   "crc": 758435710,
+   "size": 11106,
+   "crc": 1186206828,
    "asset": "changes.txt"
   },
   {
    "path": "lang/polish.lang",
    "size": 213488,
    "crc": 4041156020,
-   "asset": "lang__polish.lang"
+   "asset": ""
   },
   {
    "path": "maps/bar.map",
@@ -1369,8 +1369,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6517588,
-   "crc": 4065578371,
+   "size": 6518020,
+   "crc": 1042625588,
    "asset": "zul.exe"
   }
  ],
