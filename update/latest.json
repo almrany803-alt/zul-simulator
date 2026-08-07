@@ -1,21 +1,21 @@
 {
- "version": "v100",
- "notes": "Starting a new game now actually starts a new game. Before, it kept your old relationships, everything you had learned about people, whoever you had put in a cell, your record with the police and even what day it was.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v100/",
+ "version": "v101",
+ "notes": "Energy works differently and this changes how a day feels. Nothing comes back from waiting: you get your legs from eating, a hot drink, a sit on a bench, or a night's sleep. Food is not a treat now, it is the job.|The hidden 'you are done in' state is gone. It was a penalty you could not see coming and could not undo except by ending the day.|A bench pulls you up off the floor but no further. It is not a bed and it is not a meal.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v101/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 11106,
-   "crc": 1186206828,
+   "size": 11772,
+   "crc": 3911568325,
    "asset": "changes.txt"
   },
   {
    "path": "lang/polish.lang",
-   "size": 213488,
-   "crc": 4041156020,
-   "asset": ""
+   "size": 213775,
+   "crc": 3290448969,
+   "asset": "lang__polish.lang"
   },
   {
    "path": "maps/bar.map",
@@ -1369,8 +1369,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6518020,
-   "crc": 1042625588,
+   "size": 6518372,
+   "crc": 203620650,
    "asset": "zul.exe"
   }
  ],
