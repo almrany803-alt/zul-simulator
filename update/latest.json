@@ -1,21 +1,21 @@
 {
- "version": "v103",
- "notes": "Nothing you will hear in this one. It is all work on the game's own testing, which had been quietly missing things: a whole venue nobody had ever pressed a button on, the police station skipped in several checks, and one check that claimed to verify something and verified nothing.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v103/",
+ "version": "v104",
+ "notes": "Home and End now set the sound effects volume in menus as well as while walking about. They never worked in the main menu, which is exactly where you would set your levels.|Both volumes are remembered when you quit, along with whether you muted the music. The effects volume was never being saved at all.|Escape on the main menu asks whether you want to leave rather than just closing the game.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v104/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 12718,
-   "crc": 1550817422,
+   "size": 13163,
+   "crc": 1133853093,
    "asset": "changes.txt"
   },
   {
    "path": "lang/polish.lang",
-   "size": 214629,
-   "crc": 3562216257,
-   "asset": ""
+   "size": 214755,
+   "crc": 87012241,
+   "asset": "lang__polish.lang"
   },
   {
    "path": "maps/bar.map",
@@ -1369,8 +1369,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6521284,
-   "crc": 3568655177,
+   "size": 6522372,
+   "crc": 3280307541,
    "asset": "zul.exe"
   }
  ],
