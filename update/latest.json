@@ -1,20 +1,20 @@
 {
- "version": "v109",
- "notes": "Every place now tells you what Enter would do there. The shop, the bottle return, the bins, the traffic lights, the bar, the market, the garage, the desk and the cells all used to describe themselves without ever mentioning you could use them.|Some writing that no player could ever reach has been cleared out, left over from older versions of the town.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v109/",
+ "version": "v110",
+ "notes": "Polish spellings are used properly now: zul, zloty, ulica Wesola all had their proper letters missing in half the game, so the same word sounded like two different words.|The guide has been corrected where it still described how things used to work, including telling you that running out of energy finished your day.|The game no longer says a report can be sent anonymously, because it cannot promise that.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v110/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 8745,
-   "crc": 154685869,
+   "size": 9419,
+   "crc": 2521456486,
    "asset": "changes.txt"
   },
   {
    "path": "lang/polish.lang",
-   "size": 208937,
-   "crc": 922388015,
+   "size": 209122,
+   "crc": 1809155918,
    "asset": "lang__polish.lang"
   },
   {
@@ -61,9 +61,9 @@
   },
   {
    "path": "maps/ulica.map",
-   "size": 1907,
-   "crc": 2991047000,
-   "asset": ""
+   "size": 1908,
+   "crc": 3367039134,
+   "asset": "maps__ulica.map"
   },
   {
    "path": "music/calm_evening.ogg",
@@ -1369,8 +1369,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6521924,
-   "crc": 1550809632,
+   "size": 6521956,
+   "crc": 917223593,
    "asset": "zul.exe"
   }
  ],
