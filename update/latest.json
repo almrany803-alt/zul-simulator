@@ -1,20 +1,20 @@
 {
- "version": "v110",
- "notes": "Polish spellings are used properly now: zul, zloty, ulica Wesola all had their proper letters missing in half the game, so the same word sounded like two different words.|The guide has been corrected where it still described how things used to work, including telling you that running out of energy finished your day.|The game no longer says a report can be sent anonymously, because it cannot promise that.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v110/",
+ "version": "v111",
+ "notes": "You can change your mind about sending a report now. Once you had typed something there was no way out: pressing escape sent it anyway.|The question about leaving your contact details is actually read out now. It was being talked over by the box you had just typed in.|The game calls itself Zul Simulator again, and the web address it reads out is the one that works.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v111/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 9419,
-   "crc": 2521456486,
+   "size": 9988,
+   "crc": 2474495417,
    "asset": "changes.txt"
   },
   {
    "path": "lang/polish.lang",
-   "size": 209122,
-   "crc": 1809155918,
+   "size": 209282,
+   "crc": 2218284526,
    "asset": "lang__polish.lang"
   },
   {
@@ -63,7 +63,7 @@
    "path": "maps/ulica.map",
    "size": 1908,
    "crc": 3367039134,
-   "asset": "maps__ulica.map"
+   "asset": ""
   },
   {
    "path": "music/calm_evening.ogg",
@@ -1369,8 +1369,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6521956,
-   "crc": 917223593,
+   "size": 6523124,
+   "crc": 169580946,
    "asset": "zul.exe"
   }
  ],
