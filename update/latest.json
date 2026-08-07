@@ -1,21 +1,21 @@
 {
- "version": "v102",
- "notes": "Your own bed is your own bed again. Coming out of the cells or waking off the floor, the next night you slept was being punished as kipping rough even at your own block.|The people behind the counters have heard if you cross the line. They will take your money and that is all you are getting.|Escape on the main menu no longer closes the game.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v102/",
+ "version": "v103",
+ "notes": "Nothing you will hear in this one. It is all work on the game's own testing, which had been quietly missing things: a whole venue nobody had ever pressed a button on, the police station skipped in several checks, and one check that claimed to verify something and verified nothing.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v103/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 12422,
-   "crc": 733718877,
+   "size": 12718,
+   "crc": 1550817422,
    "asset": "changes.txt"
   },
   {
    "path": "lang/polish.lang",
    "size": 214629,
    "crc": 3562216257,
-   "asset": "lang__polish.lang"
+   "asset": ""
   },
   {
    "path": "maps/bar.map",
@@ -1369,8 +1369,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6519988,
-   "crc": 1881966271,
+   "size": 6521284,
+   "crc": 3568655177,
    "asset": "zul.exe"
   }
  ],
