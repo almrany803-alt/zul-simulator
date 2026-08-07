@@ -1,21 +1,21 @@
 {
- "version": "v108",
- "notes": "Nothing you will hear in this one. It is all work on the game's own testing, which had a few checks that were quietly not checking anything, and one fault that would have left the game in a confused state if it had ever gone off.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v108/",
+ "version": "v109",
+ "notes": "Every place now tells you what Enter would do there. The shop, the bottle return, the bins, the traffic lights, the bar, the market, the garage, the desk and the cells all used to describe themselves without ever mentioning you could use them.|Some writing that no player could ever reach has been cleared out, left over from older versions of the town.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v109/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 8373,
-   "crc": 3551835578,
+   "size": 8745,
+   "crc": 154685869,
    "asset": "changes.txt"
   },
   {
    "path": "lang/polish.lang",
-   "size": 215522,
-   "crc": 3291029586,
-   "asset": ""
+   "size": 208937,
+   "crc": 922388015,
+   "asset": "lang__polish.lang"
   },
   {
    "path": "maps/bar.map",
@@ -1369,8 +1369,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6524132,
-   "crc": 369532091,
+   "size": 6521924,
+   "crc": 1550809632,
    "asset": "zul.exe"
   }
  ],
