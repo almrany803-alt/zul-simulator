@@ -1,33 +1,33 @@
 {
- "version": "v112",
- "notes": "New areas can now be added by dropping a map file into the maps folder. Nothing needs changing in the game itself.|The two languages are now equal partners. Before, English was the original and Polish a translation of it, so two lines that read the same in English were forced to share one Polish translation: all seven Back buttons had to be the same word.|Somebody can now write in Polish without going through English at all, including a whole area.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v112/",
+ "version": "v113",
+ "notes": "You can talk to somebody just by pressing Enter when you are stood next to them. Before, you had to walk into them, so the tracker would say the copper was right beside you and Enter did nothing.|If you are stood on something, that still wins: Enter at the shop opens the shop rather than chatting to the man behind the counter.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v113/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 10641,
-   "crc": 1944773964,
+   "size": 11068,
+   "crc": 2645792027,
    "asset": "changes.txt"
   },
   {
    "path": "lang/english.lang",
-   "size": 101540,
-   "crc": 3577702174,
+   "size": 101537,
+   "crc": 2934321965,
    "asset": "lang__english.lang"
   },
   {
    "path": "lang/polish.lang",
-   "size": 98315,
-   "crc": 1493380403,
+   "size": 98316,
+   "crc": 4269091579,
    "asset": "lang__polish.lang"
   },
   {
    "path": "lang/polish.maps",
    "size": 8580,
    "crc": 3068380993,
-   "asset": "lang__polish.maps"
+   "asset": ""
   },
   {
    "path": "maps/bar.map",
@@ -1381,12 +1381,10 @@
   },
   {
    "path": "zul.exe",
-   "size": 6524212,
-   "crc": 3468009262,
+   "size": 6524532,
+   "crc": 4174778235,
    "asset": "zul.exe"
   }
  ],
- "remove": [
-  "lang/polish.lang.old"
- ]
+ "remove": []
 }
