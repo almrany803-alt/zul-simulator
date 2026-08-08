@@ -1,21 +1,33 @@
 {
- "version": "v111",
- "notes": "You can change your mind about sending a report now. Once you had typed something there was no way out: pressing escape sent it anyway.|The question about leaving your contact details is actually read out now. It was being talked over by the box you had just typed in.|The game calls itself Zul Simulator again, and the web address it reads out is the one that works.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v111/",
+ "version": "v112",
+ "notes": "New areas can now be added by dropping a map file into the maps folder. Nothing needs changing in the game itself.|The two languages are now equal partners. Before, English was the original and Polish a translation of it, so two lines that read the same in English were forced to share one Polish translation: all seven Back buttons had to be the same word.|Somebody can now write in Polish without going through English at all, including a whole area.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v112/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 9988,
-   "crc": 2474495417,
+   "size": 10641,
+   "crc": 1944773964,
    "asset": "changes.txt"
   },
   {
+   "path": "lang/english.lang",
+   "size": 101540,
+   "crc": 3577702174,
+   "asset": "lang__english.lang"
+  },
+  {
    "path": "lang/polish.lang",
-   "size": 209282,
-   "crc": 2218284526,
+   "size": 98315,
+   "crc": 1493380403,
    "asset": "lang__polish.lang"
+  },
+  {
+   "path": "lang/polish.maps",
+   "size": 8580,
+   "crc": 3068380993,
+   "asset": "lang__polish.maps"
   },
   {
    "path": "maps/bar.map",
@@ -1369,10 +1381,12 @@
   },
   {
    "path": "zul.exe",
-   "size": 6523124,
-   "crc": 169580946,
+   "size": 6524212,
+   "crc": 3468009262,
    "asset": "zul.exe"
   }
  ],
- "remove": []
+ "remove": [
+  "lang/polish.lang.old"
+ ]
 }
