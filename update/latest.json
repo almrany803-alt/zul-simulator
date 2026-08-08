@@ -1,26 +1,26 @@
 {
- "version": "v114",
- "notes": "There is a translation editor in the game now, under Options. It reads you the English, tells you what you have written so far or that nobody has done that one yet, and lets you type it.|There is an option to jump straight to the next line nobody has touched, which is how you would actually work through it.|It will also translate a single map, so somebody can add another language to an area without touching the rest of the game.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v114/",
+ "version": "v115",
+ "notes": "The translation editor shows you the whole list now. Before it only moved between lines that still needed doing, so once everything was translated you could not move at all.|You can search it, and it looks in the English, in what you have written, and in the name of the line. It ignores accents, so typing zloty finds zloty with the proper letter.|The language list in Options shows whatever languages exist rather than just the two.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v115/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 11605,
-   "crc": 3319271315,
+   "size": 12258,
+   "crc": 837380073,
    "asset": "changes.txt"
   },
   {
    "path": "lang/english.lang",
-   "size": 103041,
-   "crc": 2880195107,
+   "size": 103385,
+   "crc": 2445895915,
    "asset": "lang__english.lang"
   },
   {
    "path": "lang/polish.lang",
-   "size": 99780,
-   "crc": 2657111410,
+   "size": 100077,
+   "crc": 1743482092,
    "asset": "lang__polish.lang"
   },
   {
@@ -1381,8 +1381,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6530324,
-   "crc": 2520432300,
+   "size": 6532148,
+   "crc": 2585344940,
    "asset": "zul.exe"
   }
  ],
