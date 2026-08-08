@@ -1,26 +1,26 @@
 {
- "version": "v113",
- "notes": "You can talk to somebody just by pressing Enter when you are stood next to them. Before, you had to walk into them, so the tracker would say the copper was right beside you and Enter did nothing.|If you are stood on something, that still wins: Enter at the shop opens the shop rather than chatting to the man behind the counter.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v113/",
+ "version": "v114",
+ "notes": "There is a translation editor in the game now, under Options. It reads you the English, tells you what you have written so far or that nobody has done that one yet, and lets you type it.|There is an option to jump straight to the next line nobody has touched, which is how you would actually work through it.|It will also translate a single map, so somebody can add another language to an area without touching the rest of the game.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v114/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 11068,
-   "crc": 2645792027,
+   "size": 11605,
+   "crc": 3319271315,
    "asset": "changes.txt"
   },
   {
    "path": "lang/english.lang",
-   "size": 101537,
-   "crc": 2934321965,
+   "size": 103041,
+   "crc": 2880195107,
    "asset": "lang__english.lang"
   },
   {
    "path": "lang/polish.lang",
-   "size": 98316,
-   "crc": 4269091579,
+   "size": 99780,
+   "crc": 2657111410,
    "asset": "lang__polish.lang"
   },
   {
@@ -1381,8 +1381,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6524532,
-   "crc": 4174778235,
+   "size": 6530324,
+   "crc": 2520432300,
    "asset": "zul.exe"
   }
  ],
