@@ -1,26 +1,26 @@
 {
- "version": "v116",
- "notes": "You can build your own areas now. Press shift and B anywhere in the game and it walks you through it: name the place, give it a size, then walk to where you want a bench or a bin or a shop and tell it to put one there.|It takes the spot from wherever you are standing, so there are no numbers to work out, though you can type them if you would rather.|There is a section about it in the how to play.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v116/",
+ "version": "v117",
+ "notes": "The builder can now do everything a map holds: scenery you hear walking through, patches of ground underfoot, sounds from a fixed spot, and ways out to other areas.|For anything covering a stretch of ground you walk to one corner, press enter, and walk to the other.|There is a list of everything in your area so you can walk back to something or take it out again.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v117/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 12942,
-   "crc": 2619836073,
+   "size": 13663,
+   "crc": 2292913454,
    "asset": "changes.txt"
   },
   {
    "path": "lang/english.lang",
-   "size": 109147,
-   "crc": 539876051,
+   "size": 113291,
+   "crc": 1990310430,
    "asset": "lang__english.lang"
   },
   {
    "path": "lang/polish.lang",
-   "size": 105526,
-   "crc": 547697130,
+   "size": 109586,
+   "crc": 2502399117,
    "asset": "lang__polish.lang"
   },
   {
@@ -1381,8 +1381,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6539780,
-   "crc": 2813100491,
+   "size": 6547060,
+   "crc": 567753520,
    "asset": "zul.exe"
   }
  ],
