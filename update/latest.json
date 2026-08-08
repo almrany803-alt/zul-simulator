@@ -1,26 +1,26 @@
 {
- "version": "v117",
- "notes": "The builder can now do everything a map holds: scenery you hear walking through, patches of ground underfoot, sounds from a fixed spot, and ways out to other areas.|For anything covering a stretch of ground you walk to one corner, press enter, and walk to the other.|There is a list of everything in your area so you can walk back to something or take it out again.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v117/",
+ "version": "v118",
+ "notes": "You can make characters to play as now, from the same builder. It asks who they are, what they mutter to themselves, how they ask for money, and what they find missing when they wake up in a cell.|Write one from nothing, or start from somebody who exists and only write what you want different.|Each question shows you how one of ours answered it, as an example rather than something you are stuck with.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v118/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 13663,
-   "crc": 2292913454,
+   "size": 14464,
+   "crc": 2318464662,
    "asset": "changes.txt"
   },
   {
    "path": "lang/english.lang",
-   "size": 113291,
-   "crc": 1990310430,
+   "size": 116552,
+   "crc": 1171057887,
    "asset": "lang__english.lang"
   },
   {
    "path": "lang/polish.lang",
-   "size": 109586,
-   "crc": 2502399117,
+   "size": 112694,
+   "crc": 2073665086,
    "asset": "lang__polish.lang"
   },
   {
@@ -1381,8 +1381,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6547060,
-   "crc": 567753520,
+   "size": 6552772,
+   "crc": 961413323,
    "asset": "zul.exe"
   }
  ],
