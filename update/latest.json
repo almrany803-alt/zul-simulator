@@ -1,26 +1,26 @@
 {
- "version": "v115",
- "notes": "The translation editor shows you the whole list now. Before it only moved between lines that still needed doing, so once everything was translated you could not move at all.|You can search it, and it looks in the English, in what you have written, and in the name of the line. It ignores accents, so typing zloty finds zloty with the proper letter.|The language list in Options shows whatever languages exist rather than just the two.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v115/",
+ "version": "v116",
+ "notes": "You can build your own areas now. Press shift and B anywhere in the game and it walks you through it: name the place, give it a size, then walk to where you want a bench or a bin or a shop and tell it to put one there.|It takes the spot from wherever you are standing, so there are no numbers to work out, though you can type them if you would rather.|There is a section about it in the how to play.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v116/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 12258,
-   "crc": 837380073,
+   "size": 12942,
+   "crc": 2619836073,
    "asset": "changes.txt"
   },
   {
    "path": "lang/english.lang",
-   "size": 103385,
-   "crc": 2445895915,
+   "size": 109147,
+   "crc": 539876051,
    "asset": "lang__english.lang"
   },
   {
    "path": "lang/polish.lang",
-   "size": 100077,
-   "crc": 1743482092,
+   "size": 105526,
+   "crc": 547697130,
    "asset": "lang__polish.lang"
   },
   {
@@ -1381,8 +1381,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6532148,
-   "crc": 2585344940,
+   "size": 6539780,
+   "crc": 2813100491,
    "asset": "zul.exe"
   }
  ],
