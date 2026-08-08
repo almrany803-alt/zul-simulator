@@ -1,26 +1,38 @@
 {
- "version": "v118",
- "notes": "You can make characters to play as now, from the same builder. It asks who they are, what they mutter to themselves, how they ask for money, and what they find missing when they wake up in a cell.|Write one from nothing, or start from somebody who exists and only write what you want different.|Each question shows you how one of ours answered it, as an example rather than something you are stuck with.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v118/",
+ "version": "v119",
+ "notes": "Mods. Everything you build lives in one folder you can zip and send to somebody.|A new option on the main menu for choosing what you are playing: the town the game comes with, or any mod you have. Each keeps its own saved game.|Two more characters to play as: Halina, thirty years on the street and stopped minding, and Grazyna, who is absolutely not a zulica and is only between flats.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v119/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 14464,
-   "crc": 2318464662,
+   "size": 15238,
+   "crc": 2406527945,
    "asset": "changes.txt"
   },
   {
+   "path": "chars/grazyna.char",
+   "size": 92,
+   "crc": 4004245911,
+   "asset": "chars__grazyna.char"
+  },
+  {
+   "path": "chars/halina.char",
+   "size": 121,
+   "crc": 3664939566,
+   "asset": "chars__halina.char"
+  },
+  {
    "path": "lang/english.lang",
-   "size": 116552,
-   "crc": 1171057887,
+   "size": 123415,
+   "crc": 1417085773,
    "asset": "lang__english.lang"
   },
   {
    "path": "lang/polish.lang",
-   "size": 112694,
-   "crc": 2073665086,
+   "size": 119453,
+   "crc": 2736903145,
    "asset": "lang__polish.lang"
   },
   {
@@ -1381,8 +1393,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6552772,
-   "crc": 961413323,
+   "size": 6561428,
+   "crc": 2197625926,
    "asset": "zul.exe"
   }
  ],
