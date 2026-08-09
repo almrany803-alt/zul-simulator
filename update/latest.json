@@ -1,14 +1,14 @@
 {
- "version": "v128",
- "notes": "A bad one. Choosing to give somebody something started a fight with them instead. Asking for money said the sharp thing and stopped, and the sharp thing itself could never be chosen at all.|Three of the seven options in a conversation did the wrong thing. All fixed, with a test that presses each option and checks what happens.|The wording in the builder and mod menus is clearer too.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v128/",
+ "version": "v129",
+ "notes": "You can talk to somebody standing at a place now. Before, if there was a bench or a desk under your feet, Enter always gave you that and the person there could only be reached by walking into them.|The copper at the duty desk was the obvious one. There are nineteen spots in town where this happens.|Now it asks which you meant. Everywhere else is unchanged.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v129/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 20766,
-   "crc": 540812414,
+   "size": 21250,
+   "crc": 1043041107,
    "asset": "changes.txt"
   },
   {
@@ -49,14 +49,14 @@
   },
   {
    "path": "lang/english.lang",
-   "size": 133859,
-   "crc": 2890715212,
+   "size": 133917,
+   "crc": 1949951330,
    "asset": "lang__english.lang"
   },
   {
    "path": "lang/polish.lang",
-   "size": 129725,
-   "crc": 3357400268,
+   "size": 129784,
+   "crc": 1449001438,
    "asset": "lang__polish.lang"
   },
   {
@@ -1441,8 +1441,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6582148,
-   "crc": 3626327944,
+   "size": 6582772,
+   "crc": 3623311580,
    "asset": "zul.exe"
   }
  ],
