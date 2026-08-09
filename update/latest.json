@@ -1,14 +1,14 @@
 {
- "version": "v125",
- "notes": "You can change how a mod plays from inside the game, under How the game plays in the builder: what a bottle pays, what each job takes out of you, how much a bench brings you round.|Each tells you its value and what the game normally has it at, and explains what sort of number makes sense.|It only writes into the mod you have chosen, so the town the game comes with is never touched.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v125/",
+ "version": "v126",
+ "notes": "You can change who wants what from inside the game, in the builder. Change what somebody loves, will not touch, or is merely glad of, and give them rules like refusing anything alcoholic.|The message when the game starts has been calmed down. It used to announce how many files were missing, which sounded alarming when it usually just means an update added something new.|If you have edited one of the game's own maps, the game marks it as yours and stops treating your work as damage.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v126/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 18488,
-   "crc": 2427573735,
+   "size": 19492,
+   "crc": 1280924776,
    "asset": "changes.txt"
   },
   {
@@ -49,14 +49,14 @@
   },
   {
    "path": "lang/english.lang",
-   "size": 126133,
-   "crc": 1850781034,
+   "size": 128781,
+   "crc": 4241351281,
    "asset": "lang__english.lang"
   },
   {
    "path": "lang/polish.lang",
-   "size": 122207,
-   "crc": 3425630422,
+   "size": 124766,
+   "crc": 1470329976,
    "asset": "lang__polish.lang"
   },
   {
@@ -1447,8 +1447,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6573924,
-   "crc": 486531764,
+   "size": 6580532,
+   "crc": 187320596,
    "asset": "zul.exe"
   }
  ],
