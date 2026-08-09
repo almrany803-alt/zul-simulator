@@ -1,14 +1,14 @@
 {
- "version": "v129",
- "notes": "You can talk to somebody standing at a place now. Before, if there was a bench or a desk under your feet, Enter always gave you that and the person there could only be reached by walking into them.|The copper at the duty desk was the obvious one. There are nineteen spots in town where this happens.|Now it asks which you meant. Everywhere else is unchanged.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v129/",
+ "version": "v130",
+ "notes": "Updating is more forgiving and more honest. A download that hiccups is tried again rather than abandoning the whole update.|If an update does stop partway it tells you how far it got, rather than saying nothing was changed, which was not true: files are replaced as they arrive.|It also offers to check every file properly there and then, comparing what is in them rather than just their size.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v130/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 21250,
-   "crc": 1043041107,
+   "size": 21865,
+   "crc": 33080374,
    "asset": "changes.txt"
   },
   {
@@ -49,14 +49,14 @@
   },
   {
    "path": "lang/english.lang",
-   "size": 133917,
-   "crc": 1949951330,
+   "size": 134823,
+   "crc": 3695816380,
    "asset": "lang__english.lang"
   },
   {
    "path": "lang/polish.lang",
-   "size": 129784,
-   "crc": 1449001438,
+   "size": 130772,
+   "crc": 654886939,
    "asset": "lang__polish.lang"
   },
   {
@@ -1441,8 +1441,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6582772,
-   "crc": 3623311580,
+   "size": 6583636,
+   "crc": 1135490398,
    "asset": "zul.exe"
   }
  ],
