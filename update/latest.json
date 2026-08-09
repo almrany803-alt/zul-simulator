@@ -1,14 +1,14 @@
 {
- "version": "v132",
- "notes": "You can make the people who live in the town now, not just change what they want. Give somebody a name, seven lines of what they say, what they sound like, and whether the police can take them.|Saved games are safer: everything is written beside the name it belongs to rather than by position, so adding a drink or a person no longer shifts everything along.|If a save mentions something the game no longer has, it tells you what has gone.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v132/",
+ "version": "v133",
+ "notes": "The how to play has caught up with the builder. The section on people now covers making them rather than only changing what they want, including their voice and whether the police can take them.|One line in it was pointing at a menu that no longer exists.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v133/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 23996,
-   "crc": 3161370325,
+   "size": 24272,
+   "crc": 453664680,
    "asset": "changes.txt"
   },
   {
@@ -49,14 +49,14 @@
   },
   {
    "path": "lang/english.lang",
-   "size": 138624,
-   "crc": 3885163204,
+   "size": 139616,
+   "crc": 3209830500,
    "asset": "lang__english.lang"
   },
   {
    "path": "lang/polish.lang",
-   "size": 134453,
-   "crc": 341976399,
+   "size": 135359,
+   "crc": 1632114612,
    "asset": "lang__polish.lang"
   },
   {
@@ -1442,7 +1442,7 @@
   {
    "path": "zul.exe",
    "size": 6596660,
-   "crc": 1010682000,
+   "crc": 3603104221,
    "asset": "zul.exe"
   }
  ],
