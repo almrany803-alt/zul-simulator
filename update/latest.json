@@ -1,14 +1,14 @@
 {
- "version": "v123",
- "notes": "Things you can find lying about are now yours to change. A mod can add its own, say whether it turns up in bins, in the park, on the street or among scrap, and take out anything already there.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v123/",
+ "version": "v124",
+ "notes": "Who wants what is now yours to change. Every one of the fifteen people has their tastes in the rules file: what they love, what they will not touch, and what they are merely glad of.|Some hold a rule rather than a list. The man on the food stand refuses anything alcoholic, so a spirit you add yourself is refused too without telling him.|You can change those rules or write your own: somebody who will not accept anything expensive, or only wants a proper meal.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v124/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 17195,
-   "crc": 4065016511,
+   "size": 17892,
+   "crc": 1903573910,
    "asset": "changes.txt"
   },
   {
@@ -217,9 +217,9 @@
   },
   {
    "path": "rules/rules.txt",
-   "size": 1207,
-   "crc": 3787360391,
-   "asset": ""
+   "size": 2932,
+   "crc": 3310315599,
+   "asset": "rules__rules.txt"
   },
   {
    "path": "sounds/amb_crew.ogg",
@@ -1447,8 +1447,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6567460,
-   "crc": 1514196544,
+   "size": 6570628,
+   "crc": 795529644,
    "asset": "zul.exe"
   }
  ],
