@@ -1,14 +1,14 @@
 {
- "version": "v127",
- "notes": "The game could crash when starting a new game if you had chosen a mod meant to be a town of its own and had not built any areas in it yet. It now tells you there is nowhere to walk about.|More seriously, the game was not reading its own rules on startup, so nobody in town wanted anything and none of the relationships worked properly. Fixed.|The how to play now has four sections for making things.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v127/",
+ "version": "v128",
+ "notes": "A bad one. Choosing to give somebody something started a fight with them instead. Asking for money said the sharp thing and stopped, and the sharp thing itself could never be chosen at all.|Three of the seven options in a conversation did the wrong thing. All fixed, with a test that presses each option and checks what happens.|The wording in the builder and mod menus is clearer too.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v128/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 20187,
-   "crc": 560353704,
+   "size": 20766,
+   "crc": 540812414,
    "asset": "changes.txt"
   },
   {
@@ -49,14 +49,14 @@
   },
   {
    "path": "lang/english.lang",
-   "size": 133661,
-   "crc": 2084490886,
+   "size": 133859,
+   "crc": 2890715212,
    "asset": "lang__english.lang"
   },
   {
    "path": "lang/polish.lang",
-   "size": 129546,
-   "crc": 1943625804,
+   "size": 129725,
+   "crc": 3357400268,
    "asset": "lang__polish.lang"
   },
   {
@@ -1441,12 +1441,10 @@
   },
   {
    "path": "zul.exe",
-   "size": 6580740,
-   "crc": 2964656554,
+   "size": 6582148,
+   "crc": 3626327944,
    "asset": "zul.exe"
   }
  ],
- "remove": [
-  "mods/README.txt"
- ]
+ "remove": []
 }
