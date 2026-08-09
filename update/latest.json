@@ -1,14 +1,14 @@
 {
- "version": "v122",
- "notes": "The shop is yours to change. A mod can put its own drinks and food on the shelves, with their own price, how hard a drink hits you, what it does to your legs, and how many swigs or bites are in it.|It can change what is already there, and take things off the shelves entirely.|So somebody can build a town where the only drink is their grandmother's nalewka.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v122/",
+ "version": "v123",
+ "notes": "Things you can find lying about are now yours to change. A mod can add its own, say whether it turns up in bins, in the park, on the street or among scrap, and take out anything already there.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v123/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 16978,
-   "crc": 3378371756,
+   "size": 17195,
+   "crc": 4065016511,
    "asset": "changes.txt"
   },
   {
@@ -1447,8 +1447,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6566868,
-   "crc": 312230119,
+   "size": 6567460,
+   "crc": 1514196544,
    "asset": "zul.exe"
   }
  ],
