@@ -1,14 +1,14 @@
 {
- "version": "v120",
- "notes": "The builder has been tidied into two levels. It had grown to thirteen things on one screen.|The wording in the builder and the translation editor is plainer: they are tools, so they now read like tools. The game itself is unchanged.|The builder no longer explains itself every time you open it, and the main menu tells you which game you are playing.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v120/",
+ "version": "v121",
+ "notes": "The numbers behind the game now live in a file you can read and change: what a bottle pays, what washing windscreens gets you, what each job takes out of you. A mod can change any of them and only needs to list what it wants different.|All six characters are files now, so you can look at any of them and change them.|There is a mods folder with a note in it, so if somebody sends you a mod you know where to put it.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v121/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 15970,
-   "crc": 3526492970,
+   "size": 16546,
+   "crc": 2954521759,
    "asset": "changes.txt"
   },
   {
@@ -24,15 +24,39 @@
    "asset": ""
   },
   {
+   "path": "chars/krzysztof.char",
+   "size": 104,
+   "crc": 1302288147,
+   "asset": "chars__krzysztof.char"
+  },
+  {
+   "path": "chars/marcin.char",
+   "size": 75,
+   "crc": 2915989598,
+   "asset": "chars__marcin.char"
+  },
+  {
+   "path": "chars/sebastian.char",
+   "size": 49,
+   "crc": 2358699617,
+   "asset": "chars__sebastian.char"
+  },
+  {
+   "path": "chars/tom.char",
+   "size": 87,
+   "crc": 2050006745,
+   "asset": "chars__tom.char"
+  },
+  {
    "path": "lang/english.lang",
-   "size": 123585,
-   "crc": 2017873360,
+   "size": 123688,
+   "crc": 4025096805,
    "asset": "lang__english.lang"
   },
   {
    "path": "lang/polish.lang",
-   "size": 119826,
-   "crc": 2826256000,
+   "size": 119940,
+   "crc": 3743376889,
    "asset": "lang__polish.lang"
   },
   {
@@ -40,6 +64,12 @@
    "size": 8580,
    "crc": 3068380993,
    "asset": ""
+  },
+  {
+   "path": "maps/MAP_FORMAT.txt",
+   "size": 2944,
+   "crc": 2105703867,
+   "asset": "maps__MAP_FORMAT.txt"
   },
   {
    "path": "maps/bar.map",
@@ -52,6 +82,12 @@
    "size": 938,
    "crc": 73010462,
    "asset": ""
+  },
+  {
+   "path": "maps/index.txt",
+   "size": 39,
+   "crc": 2335847430,
+   "asset": "maps__index.txt"
   },
   {
    "path": "maps/komisariat.map",
@@ -88,6 +124,18 @@
    "size": 1908,
    "crc": 3367039134,
    "asset": ""
+  },
+  {
+   "path": "mods/README.txt",
+   "size": 427,
+   "crc": 1799933797,
+   "asset": "mods__README.txt"
+  },
+  {
+   "path": "music/PUT_MUSIC_HERE.txt",
+   "size": 732,
+   "crc": 1680715483,
+   "asset": "music__PUT_MUSIC_HERE.txt"
   },
   {
    "path": "music/calm_evening.ogg",
@@ -166,6 +214,12 @@
    "size": 928956,
    "crc": 2561135249,
    "asset": ""
+  },
+  {
+   "path": "rules/rules.txt",
+   "size": 1207,
+   "crc": 3787360391,
+   "asset": "rules__rules.txt"
   },
   {
    "path": "sounds/amb_crew.ogg",
@@ -1393,8 +1447,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6562244,
-   "crc": 3049408460,
+   "size": 6564036,
+   "crc": 3588304569,
    "asset": "zul.exe"
   }
  ],
