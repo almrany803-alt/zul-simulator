@@ -1,14 +1,14 @@
 {
- "version": "v131",
- "notes": "A mod can have its own sounds and music now. Before, a mod could say which music an area should play but had no way to supply any.|Making a mod sets up five folders, one for each kind of sound: spot sounds, background, music, ground surfaces, and character voices.|Ground surfaces only need one file. You can try ogg, wav, mp3 and flac, and if one will not play the game says so rather than going quiet.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v131/",
+ "version": "v132",
+ "notes": "You can make the people who live in the town now, not just change what they want. Give somebody a name, seven lines of what they say, what they sound like, and whether the police can take them.|Saved games are safer: everything is written beside the name it belongs to rather than by position, so adding a drink or a person no longer shifts everything along.|If a save mentions something the game no longer has, it tells you what has gone.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v132/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 23376,
-   "crc": 1903074752,
+   "size": 23996,
+   "crc": 3161370325,
    "asset": "changes.txt"
   },
   {
@@ -49,14 +49,14 @@
   },
   {
    "path": "lang/english.lang",
-   "size": 136792,
-   "crc": 2492901339,
+   "size": 138624,
+   "crc": 3885163204,
    "asset": "lang__english.lang"
   },
   {
    "path": "lang/polish.lang",
-   "size": 132708,
-   "crc": 70735517,
+   "size": 134453,
+   "crc": 341976399,
    "asset": "lang__polish.lang"
   },
   {
@@ -211,9 +211,9 @@
   },
   {
    "path": "rules/rules.txt",
-   "size": 2932,
-   "crc": 3310315599,
-   "asset": ""
+   "size": 3052,
+   "crc": 375296645,
+   "asset": "rules__rules.txt"
   },
   {
    "path": "sounds/amb_crew.ogg",
@@ -1441,8 +1441,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6589268,
-   "crc": 1081908429,
+   "size": 6596660,
+   "crc": 1010682000,
    "asset": "zul.exe"
   }
  ],
