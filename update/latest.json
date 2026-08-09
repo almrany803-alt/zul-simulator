@@ -1,14 +1,14 @@
 {
- "version": "v126",
- "notes": "You can change who wants what from inside the game, in the builder. Change what somebody loves, will not touch, or is merely glad of, and give them rules like refusing anything alcoholic.|The message when the game starts has been calmed down. It used to announce how many files were missing, which sounded alarming when it usually just means an update added something new.|If you have edited one of the game's own maps, the game marks it as yours and stops treating your work as damage.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v126/",
+ "version": "v127",
+ "notes": "The game could crash when starting a new game if you had chosen a mod meant to be a town of its own and had not built any areas in it yet. It now tells you there is nowhere to walk about.|More seriously, the game was not reading its own rules on startup, so nobody in town wanted anything and none of the relationships worked properly. Fixed.|The how to play now has four sections for making things.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v127/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 19492,
-   "crc": 1280924776,
+   "size": 20187,
+   "crc": 560353704,
    "asset": "changes.txt"
   },
   {
@@ -49,14 +49,14 @@
   },
   {
    "path": "lang/english.lang",
-   "size": 128781,
-   "crc": 4241351281,
+   "size": 133661,
+   "crc": 2084490886,
    "asset": "lang__english.lang"
   },
   {
    "path": "lang/polish.lang",
-   "size": 124766,
-   "crc": 1470329976,
+   "size": 129546,
+   "crc": 1943625804,
    "asset": "lang__polish.lang"
   },
   {
@@ -123,12 +123,6 @@
    "path": "maps/ulica.map",
    "size": 1908,
    "crc": 3367039134,
-   "asset": ""
-  },
-  {
-   "path": "mods/README.txt",
-   "size": 427,
-   "crc": 1799933797,
    "asset": ""
   },
   {
@@ -1447,10 +1441,12 @@
   },
   {
    "path": "zul.exe",
-   "size": 6580532,
-   "crc": 187320596,
+   "size": 6580740,
+   "crc": 2964656554,
    "asset": "zul.exe"
   }
  ],
- "remove": []
+ "remove": [
+  "mods/README.txt"
+ ]
 }
