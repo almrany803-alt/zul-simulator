@@ -1,38 +1,38 @@
 {
- "version": "v119",
- "notes": "Mods. Everything you build lives in one folder you can zip and send to somebody.|A new option on the main menu for choosing what you are playing: the town the game comes with, or any mod you have. Each keeps its own saved game.|Two more characters to play as: Halina, thirty years on the street and stopped minding, and Grazyna, who is absolutely not a zulica and is only between flats.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v119/",
+ "version": "v120",
+ "notes": "The builder has been tidied into two levels. It had grown to thirteen things on one screen.|The wording in the builder and the translation editor is plainer: they are tools, so they now read like tools. The game itself is unchanged.|The builder no longer explains itself every time you open it, and the main menu tells you which game you are playing.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v120/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 15238,
-   "crc": 2406527945,
+   "size": 15970,
+   "crc": 3526492970,
    "asset": "changes.txt"
   },
   {
    "path": "chars/grazyna.char",
    "size": 92,
    "crc": 4004245911,
-   "asset": "chars__grazyna.char"
+   "asset": ""
   },
   {
    "path": "chars/halina.char",
    "size": 121,
    "crc": 3664939566,
-   "asset": "chars__halina.char"
+   "asset": ""
   },
   {
    "path": "lang/english.lang",
-   "size": 123415,
-   "crc": 1417085773,
+   "size": 123585,
+   "crc": 2017873360,
    "asset": "lang__english.lang"
   },
   {
    "path": "lang/polish.lang",
-   "size": 119453,
-   "crc": 2736903145,
+   "size": 119826,
+   "crc": 2826256000,
    "asset": "lang__polish.lang"
   },
   {
@@ -1393,8 +1393,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6561428,
-   "crc": 2197625926,
+   "size": 6562244,
+   "crc": 3049408460,
    "asset": "zul.exe"
   }
  ],
