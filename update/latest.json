@@ -1,14 +1,14 @@
 {
- "version": "v121",
- "notes": "The numbers behind the game now live in a file you can read and change: what a bottle pays, what washing windscreens gets you, what each job takes out of you. A mod can change any of them and only needs to list what it wants different.|All six characters are files now, so you can look at any of them and change them.|There is a mods folder with a note in it, so if somebody sends you a mod you know where to put it.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v121/",
+ "version": "v122",
+ "notes": "The shop is yours to change. A mod can put its own drinks and food on the shelves, with their own price, how hard a drink hits you, what it does to your legs, and how many swigs or bites are in it.|It can change what is already there, and take things off the shelves entirely.|So somebody can build a town where the only drink is their grandmother's nalewka.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v122/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 16546,
-   "crc": 2954521759,
+   "size": 16978,
+   "crc": 3378371756,
    "asset": "changes.txt"
   },
   {
@@ -27,37 +27,37 @@
    "path": "chars/krzysztof.char",
    "size": 104,
    "crc": 1302288147,
-   "asset": "chars__krzysztof.char"
+   "asset": ""
   },
   {
    "path": "chars/marcin.char",
    "size": 75,
    "crc": 2915989598,
-   "asset": "chars__marcin.char"
+   "asset": ""
   },
   {
    "path": "chars/sebastian.char",
    "size": 49,
    "crc": 2358699617,
-   "asset": "chars__sebastian.char"
+   "asset": ""
   },
   {
    "path": "chars/tom.char",
    "size": 87,
    "crc": 2050006745,
-   "asset": "chars__tom.char"
+   "asset": ""
   },
   {
    "path": "lang/english.lang",
    "size": 123688,
    "crc": 4025096805,
-   "asset": "lang__english.lang"
+   "asset": ""
   },
   {
    "path": "lang/polish.lang",
    "size": 119940,
    "crc": 3743376889,
-   "asset": "lang__polish.lang"
+   "asset": ""
   },
   {
    "path": "lang/polish.maps",
@@ -69,7 +69,7 @@
    "path": "maps/MAP_FORMAT.txt",
    "size": 2944,
    "crc": 2105703867,
-   "asset": "maps__MAP_FORMAT.txt"
+   "asset": ""
   },
   {
    "path": "maps/bar.map",
@@ -87,7 +87,7 @@
    "path": "maps/index.txt",
    "size": 39,
    "crc": 2335847430,
-   "asset": "maps__index.txt"
+   "asset": ""
   },
   {
    "path": "maps/komisariat.map",
@@ -129,13 +129,13 @@
    "path": "mods/README.txt",
    "size": 427,
    "crc": 1799933797,
-   "asset": "mods__README.txt"
+   "asset": ""
   },
   {
    "path": "music/PUT_MUSIC_HERE.txt",
    "size": 732,
    "crc": 1680715483,
-   "asset": "music__PUT_MUSIC_HERE.txt"
+   "asset": ""
   },
   {
    "path": "music/calm_evening.ogg",
@@ -219,7 +219,7 @@
    "path": "rules/rules.txt",
    "size": 1207,
    "crc": 3787360391,
-   "asset": "rules__rules.txt"
+   "asset": ""
   },
   {
    "path": "sounds/amb_crew.ogg",
@@ -1447,8 +1447,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6564036,
-   "crc": 3588304569,
+   "size": 6566868,
+   "crc": 312230119,
    "asset": "zul.exe"
   }
  ],
