@@ -1,14 +1,14 @@
 {
- "version": "v130",
- "notes": "Updating is more forgiving and more honest. A download that hiccups is tried again rather than abandoning the whole update.|If an update does stop partway it tells you how far it got, rather than saying nothing was changed, which was not true: files are replaced as they arrive.|It also offers to check every file properly there and then, comparing what is in them rather than just their size.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v130/",
+ "version": "v131",
+ "notes": "A mod can have its own sounds and music now. Before, a mod could say which music an area should play but had no way to supply any.|Making a mod sets up five folders, one for each kind of sound: spot sounds, background, music, ground surfaces, and character voices.|Ground surfaces only need one file. You can try ogg, wav, mp3 and flac, and if one will not play the game says so rather than going quiet.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v131/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 21865,
-   "crc": 33080374,
+   "size": 23376,
+   "crc": 1903074752,
    "asset": "changes.txt"
   },
   {
@@ -49,14 +49,14 @@
   },
   {
    "path": "lang/english.lang",
-   "size": 134823,
-   "crc": 3695816380,
+   "size": 136792,
+   "crc": 2492901339,
    "asset": "lang__english.lang"
   },
   {
    "path": "lang/polish.lang",
-   "size": 130772,
-   "crc": 654886939,
+   "size": 132708,
+   "crc": 70735517,
    "asset": "lang__polish.lang"
   },
   {
@@ -1441,8 +1441,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6583636,
-   "crc": 1135490398,
+   "size": 6589268,
+   "crc": 1081908429,
    "asset": "zul.exe"
   }
  ],
