@@ -1,14 +1,14 @@
 {
- "version": "v140",
- "notes": "Nearly everything the game counts is yours to change: the jobs the day gives you, what the milestones are worth, what a trolley carries and costs, and how fast the police forget about you.|Each job has its own name, so a town where nobody smokes can take the smoking one out with one line.|And your jobs for the day were remembered by their place in the list rather than by name, so a mod changing the list would have turned yesterday's jobs into different ones. Fixed.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v140/",
+ "version": "v141",
+ "notes": "There is a sound pack. A hundred and twenty eight kinds of ground each with five footsteps, a few hundred background loops, several hundred sounds you can put at a spot, and a shelf of music.|Fetch it from the builder. About four hundred and fifty megabytes, in eight parts, and escape stops it with whatever has arrived kept.|It lives beside your saved games so updating never wipes it, and you can take it off again from the same screen.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v141/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 28728,
-   "crc": 2011964005,
+   "size": 29847,
+   "crc": 1951667435,
    "asset": "changes.txt"
   },
   {
@@ -49,14 +49,14 @@
   },
   {
    "path": "lang/english.lang",
-   "size": 144879,
-   "crc": 3669682566,
+   "size": 148390,
+   "crc": 711550966,
    "asset": "lang__english.lang"
   },
   {
    "path": "lang/polish.lang",
-   "size": 139877,
-   "crc": 3438364979,
+   "size": 143269,
+   "crc": 4988334,
    "asset": "lang__polish.lang"
   },
   {
@@ -213,7 +213,7 @@
    "path": "rules/rules.txt",
    "size": 5857,
    "crc": 2336553797,
-   "asset": "rules__rules.txt"
+   "asset": ""
   },
   {
    "path": "sounds/amb_crew.ogg",
@@ -1441,8 +1441,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6617556,
-   "crc": 160032939,
+   "size": 6626452,
+   "crc": 757188362,
    "asset": "zul.exe"
   }
  ],
