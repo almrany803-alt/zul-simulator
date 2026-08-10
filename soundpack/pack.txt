@@ -1,0 +1,11 @@
+# the sound pack, in parts
+# part | size | crc
+version 1
+ambience1.dat|90658670|1703206961
+ambience2.dat|81210162|1945790417
+footsteps.dat|10852298|2285474891
+music1.dat|70499436|560178523
+music2.dat|62875977|3487576590
+music3.dat|58712892|1683292874
+music4.dat|70949099|466764703
+sounds.dat|28905355|912280840
