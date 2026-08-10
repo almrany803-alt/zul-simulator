@@ -1,14 +1,14 @@
 {
- "version": "v137",
- "notes": "A shop, a bar or a food stand can have its own person behind the counter. The builder asks who runs it when you put one down.|If you name somebody it also asks whether the place should be shut when they are not about, which is how you make a shop that closes at ten.|The bar always closed when its barman was off and the other two never closed at all. All three now follow the same rule, and it is yours to choose.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v137/",
+ "version": "v138",
+ "notes": "The builder works the same way whether or not you have made a mod. Before this some of it worked without one and some told you to make a mod first, which was not a decision anybody made.|Now all of it works, and it warns you once that changes to the town the game comes with will be replaced when the game updates.|The one exception is your own sounds, which live inside a mod, so that screen explains why.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v138/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 26897,
-   "crc": 4124619002,
+   "size": 27366,
+   "crc": 448438191,
    "asset": "changes.txt"
   },
   {
@@ -49,14 +49,14 @@
   },
   {
    "path": "lang/english.lang",
-   "size": 142281,
-   "crc": 2515751776,
+   "size": 143212,
+   "crc": 2148203550,
    "asset": "lang__english.lang"
   },
   {
    "path": "lang/polish.lang",
-   "size": 137998,
-   "crc": 4124181719,
+   "size": 138299,
+   "crc": 3859000535,
    "asset": "lang__polish.lang"
   },
   {
@@ -75,7 +75,7 @@
    "path": "maps/bar.map",
    "size": 848,
    "crc": 2225410739,
-   "asset": "maps__bar.map"
+   "asset": ""
   },
   {
    "path": "maps/dworzec.map",
@@ -1441,8 +1441,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6611044,
-   "crc": 3843177930,
+   "size": 6611620,
+   "crc": 1278346527,
    "asset": "zul.exe"
   }
  ],
