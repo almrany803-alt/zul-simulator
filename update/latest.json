@@ -1,27 +1,27 @@
 {
- "version": "v142",
- "notes": "The game now knows the difference between a man and a woman. Give somebody something and you hear what they think of it, in a voice that suits them.|Everybody you make in the builder is asked whether they are a man or a woman, and so is every character you can play as.|And quitting will tell you if you have played since you last saved, rather than letting the day go quietly.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v142/",
+ "version": "v143",
+ "notes": "Nothing you can see has changed. The tests behind it now press the keys a person would press rather than calling the code directly.|That caught two things never actually tried: putting a shop down and choosing who is behind the counter, and telling the builder somebody is a woman.|Leaving a game without saving has been checked properly: choosing to leave anyway really does leave your saved game exactly as it was.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v143/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 30694,
-   "crc": 2663603860,
+   "size": 31169,
+   "crc": 2498077007,
    "asset": "changes.txt"
   },
   {
    "path": "chars/grazyna.char",
    "size": 102,
    "crc": 2009944063,
-   "asset": "chars__grazyna.char"
+   "asset": ""
   },
   {
    "path": "chars/halina.char",
    "size": 131,
    "crc": 3536952433,
-   "asset": "chars__halina.char"
+   "asset": ""
   },
   {
    "path": "chars/krzysztof.char",
@@ -51,13 +51,13 @@
    "path": "lang/english.lang",
    "size": 149334,
    "crc": 1171974200,
-   "asset": "lang__english.lang"
+   "asset": ""
   },
   {
    "path": "lang/polish.lang",
    "size": 144240,
    "crc": 2197264149,
-   "asset": "lang__polish.lang"
+   "asset": ""
   },
   {
    "path": "lang/polish.maps",
@@ -213,7 +213,7 @@
    "path": "rules/rules.txt",
    "size": 5917,
    "crc": 981316829,
-   "asset": "rules__rules.txt"
+   "asset": ""
   },
   {
    "path": "sounds/amb_crew.ogg",
@@ -441,13 +441,13 @@
    "path": "sounds/cough_f.ogg",
    "size": 11348,
    "crc": 1452594391,
-   "asset": "sounds__cough_f.ogg"
+   "asset": ""
   },
   {
    "path": "sounds/cough_m.ogg",
    "size": 11033,
    "crc": 2977810983,
-   "asset": "sounds__cough_m.ogg"
+   "asset": ""
   },
   {
    "path": "sounds/crickets.ogg",
@@ -1251,13 +1251,13 @@
    "path": "sounds/react_bad_f2.ogg",
    "size": 26991,
    "crc": 1636350334,
-   "asset": "sounds__react_bad_f2.ogg"
+   "asset": ""
   },
   {
    "path": "sounds/react_bad_f3.ogg",
    "size": 9308,
    "crc": 4259012984,
-   "asset": "sounds__react_bad_f3.ogg"
+   "asset": ""
   },
   {
    "path": "sounds/react_bad_m.ogg",
@@ -1269,7 +1269,7 @@
    "path": "sounds/react_bad_m2.ogg",
    "size": 19769,
    "crc": 1508630303,
-   "asset": "sounds__react_bad_m2.ogg"
+   "asset": ""
   },
   {
    "path": "sounds/react_good_f.ogg",
@@ -1281,19 +1281,19 @@
    "path": "sounds/react_good_f2.ogg",
    "size": 26851,
    "crc": 2707340157,
-   "asset": "sounds__react_good_f2.ogg"
+   "asset": ""
   },
   {
    "path": "sounds/react_good_f3.ogg",
    "size": 17890,
    "crc": 7376183,
-   "asset": "sounds__react_good_f3.ogg"
+   "asset": ""
   },
   {
    "path": "sounds/react_good_f4.ogg",
    "size": 13997,
    "crc": 2644611378,
-   "asset": "sounds__react_good_f4.ogg"
+   "asset": ""
   },
   {
    "path": "sounds/react_good_m.ogg",
@@ -1305,19 +1305,19 @@
    "path": "sounds/react_good_m2.ogg",
    "size": 28008,
    "crc": 4246584484,
-   "asset": "sounds__react_good_m2.ogg"
+   "asset": ""
   },
   {
    "path": "sounds/react_good_m3.ogg",
    "size": 32220,
    "crc": 3824928403,
-   "asset": "sounds__react_good_m3.ogg"
+   "asset": ""
   },
   {
    "path": "sounds/react_good_m4.ogg",
    "size": 22252,
    "crc": 2196979894,
-   "asset": "sounds__react_good_m4.ogg"
+   "asset": ""
   },
   {
    "path": "sounds/rooster.ogg",
@@ -1509,12 +1509,12 @@
    "path": "sounds/yawn_f.ogg",
    "size": 31152,
    "crc": 3187316437,
-   "asset": "sounds__yawn_f.ogg"
+   "asset": ""
   },
   {
    "path": "zul.exe",
-   "size": 6631588,
-   "crc": 123165928,
+   "size": 6634196,
+   "crc": 1359722084,
    "asset": "zul.exe"
   }
  ],
