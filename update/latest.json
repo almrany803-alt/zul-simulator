@@ -1,14 +1,14 @@
 {
- "version": "v134",
- "notes": "Maps and characters you built were being written into the game's own folders rather than into your mod. You could build a whole town, send it to a friend, and they would find nothing in it.|A character made in a mod also stayed in your list after going back to the normal game.|None of this was findable before, because nothing could answer the questions the builder asks. It can now, and the whole journey from making a mod to sending it is tested.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v134/",
+ "version": "v135",
+ "notes": "You can put people on your maps now. Until this you could make somebody and they would stand nowhere at all, so nobody could ever meet them.|Putting the same person down twice moves them rather than leaving two about, and says so.|You can also change how often the street interrupts you, and take an event out entirely so a town can have no muggers.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v135/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 25038,
-   "crc": 3130405206,
+   "size": 25940,
+   "crc": 3625199854,
    "asset": "changes.txt"
   },
   {
@@ -49,15 +49,15 @@
   },
   {
    "path": "lang/english.lang",
-   "size": 139616,
-   "crc": 3209830500,
-   "asset": ""
+   "size": 140365,
+   "crc": 1326899726,
+   "asset": "lang__english.lang"
   },
   {
    "path": "lang/polish.lang",
-   "size": 135359,
-   "crc": 1632114612,
-   "asset": ""
+   "size": 136101,
+   "crc": 1096559676,
+   "asset": "lang__polish.lang"
   },
   {
    "path": "lang/polish.maps",
@@ -211,9 +211,9 @@
   },
   {
    "path": "rules/rules.txt",
-   "size": 3052,
-   "crc": 375296645,
-   "asset": ""
+   "size": 3421,
+   "crc": 4000030106,
+   "asset": "rules__rules.txt"
   },
   {
    "path": "sounds/amb_crew.ogg",
@@ -1441,8 +1441,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6602564,
-   "crc": 3910263643,
+   "size": 6606644,
+   "crc": 1530060269,
    "asset": "zul.exe"
   }
  ],
