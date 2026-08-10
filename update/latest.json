@@ -1,14 +1,14 @@
 {
- "version": "v136",
- "notes": "The how to play has caught up. The building section now covers putting people on maps, which is the sixth thing you can add.|The mods section explains how to change what the street throws at you, and how to take an event out of your town entirely.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v136/",
+ "version": "v137",
+ "notes": "A shop, a bar or a food stand can have its own person behind the counter. The builder asks who runs it when you put one down.|If you name somebody it also asks whether the place should be shut when they are not about, which is how you make a shop that closes at ten.|The bar always closed when its barman was off and the other two never closed at all. All three now follow the same rule, and it is yours to choose.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v137/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 26204,
-   "crc": 3229694782,
+   "size": 26897,
+   "crc": 4124619002,
    "asset": "changes.txt"
   },
   {
@@ -49,14 +49,14 @@
   },
   {
    "path": "lang/english.lang",
-   "size": 141109,
-   "crc": 1371874619,
+   "size": 142281,
+   "crc": 2515751776,
    "asset": "lang__english.lang"
   },
   {
    "path": "lang/polish.lang",
-   "size": 136862,
-   "crc": 1993386255,
+   "size": 137998,
+   "crc": 4124181719,
    "asset": "lang__polish.lang"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "path": "maps/bar.map",
-   "size": 815,
-   "crc": 2231912063,
-   "asset": ""
+   "size": 848,
+   "crc": 2225410739,
+   "asset": "maps__bar.map"
   },
   {
    "path": "maps/dworzec.map",
@@ -1441,8 +1441,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6606644,
-   "crc": 1693991512,
+   "size": 6611044,
+   "crc": 3843177930,
    "asset": "zul.exe"
   }
  ],
