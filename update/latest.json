@@ -1,14 +1,14 @@
 {
- "version": "v139",
- "notes": "When you pick a mod you have never played and you have a game going elsewhere, it offers to bring that game across: your money, your day, your standing, who you get on with and what you are carrying.|Your other game is left exactly as it is, so you can go back to it whenever you like.|If the new town has no room for something you had, it puts you somewhere sensible and tells you plainly what has gone.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v139/",
+ "version": "v140",
+ "notes": "Nearly everything the game counts is yours to change: the jobs the day gives you, what the milestones are worth, what a trolley carries and costs, and how fast the police forget about you.|Each job has its own name, so a town where nobody smokes can take the smoking one out with one line.|And your jobs for the day were remembered by their place in the list rather than by name, so a mod changing the list would have turned yesterday's jobs into different ones. Fixed.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v140/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 28112,
-   "crc": 2866157609,
+   "size": 28728,
+   "crc": 2011964005,
    "asset": "changes.txt"
   },
   {
@@ -49,14 +49,14 @@
   },
   {
    "path": "lang/english.lang",
-   "size": 144363,
-   "crc": 1505805318,
+   "size": 144879,
+   "crc": 3669682566,
    "asset": "lang__english.lang"
   },
   {
    "path": "lang/polish.lang",
-   "size": 139361,
-   "crc": 521528132,
+   "size": 139877,
+   "crc": 3438364979,
    "asset": "lang__polish.lang"
   },
   {
@@ -211,9 +211,9 @@
   },
   {
    "path": "rules/rules.txt",
-   "size": 3421,
-   "crc": 4000030106,
-   "asset": ""
+   "size": 5857,
+   "crc": 2336553797,
+   "asset": "rules__rules.txt"
   },
   {
    "path": "sounds/amb_crew.ogg",
@@ -1441,8 +1441,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6615012,
-   "crc": 75266994,
+   "size": 6617556,
+   "crc": 160032939,
    "asset": "zul.exe"
   }
  ],
