@@ -1,14 +1,14 @@
 {
- "version": "v135",
- "notes": "You can put people on your maps now. Until this you could make somebody and they would stand nowhere at all, so nobody could ever meet them.|Putting the same person down twice moves them rather than leaving two about, and says so.|You can also change how often the street interrupts you, and take an event out entirely so a town can have no muggers.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v135/",
+ "version": "v136",
+ "notes": "The how to play has caught up. The building section now covers putting people on maps, which is the sixth thing you can add.|The mods section explains how to change what the street throws at you, and how to take an event out of your town entirely.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v136/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 25940,
-   "crc": 3625199854,
+   "size": 26204,
+   "crc": 3229694782,
    "asset": "changes.txt"
   },
   {
@@ -49,14 +49,14 @@
   },
   {
    "path": "lang/english.lang",
-   "size": 140365,
-   "crc": 1326899726,
+   "size": 141109,
+   "crc": 1371874619,
    "asset": "lang__english.lang"
   },
   {
    "path": "lang/polish.lang",
-   "size": 136101,
-   "crc": 1096559676,
+   "size": 136862,
+   "crc": 1993386255,
    "asset": "lang__polish.lang"
   },
   {
@@ -213,7 +213,7 @@
    "path": "rules/rules.txt",
    "size": 3421,
    "crc": 4000030106,
-   "asset": "rules__rules.txt"
+   "asset": ""
   },
   {
    "path": "sounds/amb_crew.ogg",
@@ -1442,7 +1442,7 @@
   {
    "path": "zul.exe",
    "size": 6606644,
-   "crc": 1530060269,
+   "crc": 1693991512,
    "asset": "zul.exe"
   }
  ],
