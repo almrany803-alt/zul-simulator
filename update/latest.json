@@ -1,14 +1,14 @@
 {
- "version": "v138",
- "notes": "The builder works the same way whether or not you have made a mod. Before this some of it worked without one and some told you to make a mod first, which was not a decision anybody made.|Now all of it works, and it warns you once that changes to the town the game comes with will be replaced when the game updates.|The one exception is your own sounds, which live inside a mod, so that screen explains why.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v138/",
+ "version": "v139",
+ "notes": "When you pick a mod you have never played and you have a game going elsewhere, it offers to bring that game across: your money, your day, your standing, who you get on with and what you are carrying.|Your other game is left exactly as it is, so you can go back to it whenever you like.|If the new town has no room for something you had, it puts you somewhere sensible and tells you plainly what has gone.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v139/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 27366,
-   "crc": 448438191,
+   "size": 28112,
+   "crc": 2866157609,
    "asset": "changes.txt"
   },
   {
@@ -49,14 +49,14 @@
   },
   {
    "path": "lang/english.lang",
-   "size": 143212,
-   "crc": 2148203550,
+   "size": 144363,
+   "crc": 1505805318,
    "asset": "lang__english.lang"
   },
   {
    "path": "lang/polish.lang",
-   "size": 138299,
-   "crc": 3859000535,
+   "size": 139361,
+   "crc": 521528132,
    "asset": "lang__polish.lang"
   },
   {
@@ -1441,8 +1441,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6611620,
-   "crc": 1278346527,
+   "size": 6615012,
+   "crc": 75266994,
    "asset": "zul.exe"
   }
  ],
