@@ -1,27 +1,27 @@
 {
- "version": "v141",
- "notes": "There is a sound pack. A hundred and twenty eight kinds of ground each with five footsteps, a few hundred background loops, several hundred sounds you can put at a spot, and a shelf of music.|Fetch it from the builder. About four hundred and fifty megabytes, in eight parts, and escape stops it with whatever has arrived kept.|It lives beside your saved games so updating never wipes it, and you can take it off again from the same screen.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v141/",
+ "version": "v142",
+ "notes": "The game now knows the difference between a man and a woman. Give somebody something and you hear what they think of it, in a voice that suits them.|Everybody you make in the builder is asked whether they are a man or a woman, and so is every character you can play as.|And quitting will tell you if you have played since you last saved, rather than letting the day go quietly.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v142/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 29847,
-   "crc": 1951667435,
+   "size": 30694,
+   "crc": 2663603860,
    "asset": "changes.txt"
   },
   {
    "path": "chars/grazyna.char",
-   "size": 92,
-   "crc": 4004245911,
-   "asset": ""
+   "size": 102,
+   "crc": 2009944063,
+   "asset": "chars__grazyna.char"
   },
   {
    "path": "chars/halina.char",
-   "size": 121,
-   "crc": 3664939566,
-   "asset": ""
+   "size": 131,
+   "crc": 3536952433,
+   "asset": "chars__halina.char"
   },
   {
    "path": "chars/krzysztof.char",
@@ -49,14 +49,14 @@
   },
   {
    "path": "lang/english.lang",
-   "size": 148390,
-   "crc": 711550966,
+   "size": 149334,
+   "crc": 1171974200,
    "asset": "lang__english.lang"
   },
   {
    "path": "lang/polish.lang",
-   "size": 143269,
-   "crc": 4988334,
+   "size": 144240,
+   "crc": 2197264149,
    "asset": "lang__polish.lang"
   },
   {
@@ -211,9 +211,9 @@
   },
   {
    "path": "rules/rules.txt",
-   "size": 5857,
-   "crc": 2336553797,
-   "asset": ""
+   "size": 5917,
+   "crc": 981316829,
+   "asset": "rules__rules.txt"
   },
   {
    "path": "sounds/amb_crew.ogg",
@@ -436,6 +436,18 @@
    "size": 31346,
    "crc": 19456375,
    "asset": ""
+  },
+  {
+   "path": "sounds/cough_f.ogg",
+   "size": 11348,
+   "crc": 1452594391,
+   "asset": "sounds__cough_f.ogg"
+  },
+  {
+   "path": "sounds/cough_m.ogg",
+   "size": 11033,
+   "crc": 2977810983,
+   "asset": "sounds__cough_m.ogg"
   },
   {
    "path": "sounds/crickets.ogg",
@@ -1236,10 +1248,28 @@
    "asset": ""
   },
   {
+   "path": "sounds/react_bad_f2.ogg",
+   "size": 26991,
+   "crc": 1636350334,
+   "asset": "sounds__react_bad_f2.ogg"
+  },
+  {
+   "path": "sounds/react_bad_f3.ogg",
+   "size": 9308,
+   "crc": 4259012984,
+   "asset": "sounds__react_bad_f3.ogg"
+  },
+  {
    "path": "sounds/react_bad_m.ogg",
    "size": 21876,
    "crc": 819735853,
    "asset": ""
+  },
+  {
+   "path": "sounds/react_bad_m2.ogg",
+   "size": 19769,
+   "crc": 1508630303,
+   "asset": "sounds__react_bad_m2.ogg"
   },
   {
    "path": "sounds/react_good_f.ogg",
@@ -1248,10 +1278,46 @@
    "asset": ""
   },
   {
+   "path": "sounds/react_good_f2.ogg",
+   "size": 26851,
+   "crc": 2707340157,
+   "asset": "sounds__react_good_f2.ogg"
+  },
+  {
+   "path": "sounds/react_good_f3.ogg",
+   "size": 17890,
+   "crc": 7376183,
+   "asset": "sounds__react_good_f3.ogg"
+  },
+  {
+   "path": "sounds/react_good_f4.ogg",
+   "size": 13997,
+   "crc": 2644611378,
+   "asset": "sounds__react_good_f4.ogg"
+  },
+  {
    "path": "sounds/react_good_m.ogg",
    "size": 70929,
    "crc": 794497012,
    "asset": ""
+  },
+  {
+   "path": "sounds/react_good_m2.ogg",
+   "size": 28008,
+   "crc": 4246584484,
+   "asset": "sounds__react_good_m2.ogg"
+  },
+  {
+   "path": "sounds/react_good_m3.ogg",
+   "size": 32220,
+   "crc": 3824928403,
+   "asset": "sounds__react_good_m3.ogg"
+  },
+  {
+   "path": "sounds/react_good_m4.ogg",
+   "size": 22252,
+   "crc": 2196979894,
+   "asset": "sounds__react_good_m4.ogg"
   },
   {
    "path": "sounds/rooster.ogg",
@@ -1440,9 +1506,15 @@
    "asset": ""
   },
   {
+   "path": "sounds/yawn_f.ogg",
+   "size": 31152,
+   "crc": 3187316437,
+   "asset": "sounds__yawn_f.ogg"
+  },
+  {
    "path": "zul.exe",
-   "size": 6626452,
-   "crc": 757188362,
+   "size": 6631588,
+   "crc": 123165928,
    "asset": "zul.exe"
   }
  ],
