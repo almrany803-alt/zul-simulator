@@ -1,14 +1,14 @@
 {
- "version": "v133",
- "notes": "The how to play has caught up with the builder. The section on people now covers making them rather than only changing what they want, including their voice and whether the police can take them.|One line in it was pointing at a menu that no longer exists.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v133/",
+ "version": "v134",
+ "notes": "Maps and characters you built were being written into the game's own folders rather than into your mod. You could build a whole town, send it to a friend, and they would find nothing in it.|A character made in a mod also stayed in your list after going back to the normal game.|None of this was findable before, because nothing could answer the questions the builder asks. It can now, and the whole journey from making a mod to sending it is tested.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v134/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 24272,
-   "crc": 453664680,
+   "size": 25038,
+   "crc": 3130405206,
    "asset": "changes.txt"
   },
   {
@@ -51,13 +51,13 @@
    "path": "lang/english.lang",
    "size": 139616,
    "crc": 3209830500,
-   "asset": "lang__english.lang"
+   "asset": ""
   },
   {
    "path": "lang/polish.lang",
    "size": 135359,
    "crc": 1632114612,
-   "asset": "lang__polish.lang"
+   "asset": ""
   },
   {
    "path": "lang/polish.maps",
@@ -213,7 +213,7 @@
    "path": "rules/rules.txt",
    "size": 3052,
    "crc": 375296645,
-   "asset": "rules__rules.txt"
+   "asset": ""
   },
   {
    "path": "sounds/amb_crew.ogg",
@@ -1441,8 +1441,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6596660,
-   "crc": 3603104221,
+   "size": 6602564,
+   "crc": 3910263643,
    "asset": "zul.exe"
   }
  ],
