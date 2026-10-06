@@ -1,0 +1,1662 @@
+# One line per entry: the name, a tab, then the words.
+# The NAME is the key. No language is the source: this file and every other
+# language file are peers, and a line missing here falls back to English
+# rather than going silent.
+area/arrive	You arrive at %1.
+bar/ask	What will it be?
+bar/closed	The door does not give. The bar is dark, the shutter is down, and there is no sign of the barman. It opens in the evening, like it always has.
+bar/comment_cutoff	He pours it, but he takes his time about it, and you notice.
+bar/comment_first	He puts it in front of you and takes the money without counting it.
+bar/comment_more	He pours it, glances at you, and decides it is not his business.
+bar/discount	He waves your money away for this one. You do not argue.
+bar/greet_any_1	He is drying the same glass he was drying last time, and puts it down when he sees you.
+bar/greet_any_2	Somebody at the far end is telling a story badly, and the barman raises his eyebrows at you about it.
+bar/greet_any_3	He clears the last man's glass off the counter and wipes the ring away before you reach it.
+bar/greet_any_4	The place is quiet enough that he hears the door, and he is already looking over.
+bar/greet_busy	The bar is full and loud. He gets to you quicker than you expected.
+bar/greet_known	He has your usual halfway poured before you have got the words out.
+bar/greet_quiet	The bar is nearly empty. He is polishing a glass that is already clean.
+bar/leave	You leave the bar to it.
+bar/menu_word	Have a word with the barman
+bar/served	You order a %1 and he pulls it, sets it down, and you drink it there like a man with somewhere to be and nowhere to go.
+bar/word_1	He tells you what happened in here last night, leaving out the names, which somehow makes it worse.
+bar/word_2	He says the brewery has put the prices up again and he is the one who gets shouted at for it.
+bar/word_3	He asks after somebody you both know, and listens properly to the answer.
+bar/word_4	He says he has heard every story in this room twice, and that yours is not the worst of them.
+beg/drunk_krzysztof	You lean in a good deal closer than you meant to and begin explaining, at length, about the works.
+beg/drunk_marcin	You call him boss, then chief, then boss again, and lose the thread completely.
+beg/drunk_sebastian	You attempt to lay out the plan and it comes out as one very long word.
+beg/drunk_tom	You forget what you were going to say halfway through and simply stand there, hopeful.
+beg/krzysztof_blunt	Look. I need a couple of złoty. You have it and I do not.
+beg/krzysztof_funny	I have a business proposal. You give me two złoty, and I promise to spend it badly.
+beg/krzysztof_humble	Excuse me. I would not ask if there were another way. Could you spare anything?
+beg/krzysztof_sob	Twenty two years I was at the works. Then there were no works. Could you help me out?
+beg/lose_1	%1 looks straight through you and carries on. That is that.
+beg/lose_2	%1 says something about not carrying cash. Everyone says that.
+beg/lose_3	%1 does not even break stride. You have been read and dismissed in about a second.
+beg/marcin_blunt	Two złoty. Go on. You spent more than that on that coffee and it was rubbish.
+beg/marcin_funny	Give us two złoty and I will tell you a joke so bad you will want it back.
+beg/marcin_humble	Alright boss. Any chance? I will even say please, and I never say please.
+beg/marcin_sob	I have had a shocking week, mate. Shocking. Ask anyone. Ask that pigeon.
+beg/nothing_1	You hold out your hand. A bloke looks at you like something he trod in and speeds up. Sod all.
+beg/nothing_2	A woman clutches her bag and crosses the road. Nothing.
+beg/nothing_3	You give it your best sad eyes. A pigeon shows more interest. Nothing.
+beg/nothing_4	Someone actually says 'get a job'. Cheers. Nothing.
+beg/sebastian_blunt	Right. Money. Have you got some. That is the whole speech.
+beg/sebastian_funny	I am two złoty away from a plan that changes everything. Mostly for me, admittedly.
+beg/sebastian_humble	Sorry to bother you. I am collecting for a very small charity. It is me.
+beg/sebastian_sob	Everything I own is in this bag, and strictly speaking the bag is not mine either.
+beg/success_1	Someone drops %1 złoty in your palm and says 'get a coffee, mate'.
+beg/success_2	A kind soul presses %1 złoty into your hand and hurries on.
+beg/success_3	%1 złoty, and a nod that says they've been there too.
+beg/success_4	A tourist gives you %1 złoty for the 'authentic experience'.
+beg/think_better	Think better of it and say nothing
+beg/title	What do you say to %1?
+beg/tom_blunt	I need a couple of złoty. I am not going to pretend otherwise.
+beg/tom_funny	I would offer to sing, but I have been asked not to. By the entire street.
+beg/tom_humble	Beg your pardon. Could you spare a little? I would be grateful.
+beg/tom_sob	I am not going to give you a story. I am just short, and it is cold.
+beg/walked_off	You open your mouth, decide against it, and carry on walking.
+beg/win_1	%1 hesitates, then digs about and comes up with %2 złoty. Small mercies.
+beg/win_2	That landed. %1 hands over %2 złoty without making you feel like much of a beggar.
+beg/win_3	%1 laughs, shakes their head at themselves, and gives you %2 złoty anyway.
+cell/did_kickoff	You go at that door like it owes you money. Boots, fists, and a range of opinions about everyone's mother. The cell next door cheers. The duty officer does not.
+cell/did_listen	You put your ear to the cold steel and hold your breath. Two of them are talking at the desk, and they are not being careful.
+cell/did_quiet	You sit with your back to the wall and your hands still and say nothing at all. The duty officer glances in twice, and the second time she nods.
+cell/did_sleep	You lie back on the plastic and the ceiling stops moving eventually. Proper sleep, the kind you do not get on a bench.
+cell/did_wall	You get talking to %1 through the breeze block, quietly, for a long time. Some things are easier said when you cannot see the other one's face.
+cell/hazy_1	That went well, you think. That went rather well.
+cell/hazy_2	You are fairly sure you handled that with some dignity.
+cell/hazy_3	She seemed to take that in the spirit it was intended. Probably.
+cell/hazy_4	Good. Yes. Nothing to worry about there.
+cell/lost_krzysztof_1	You mean to sit quietly. What you actually do is apologise to the duty officer, at length, for the inconvenience. Then to the man next door. Then to the door.
+cell/lost_krzysztof_2	You explain, carefully and repeatedly, that you do not really drink. You are lying on the floor at the time. She writes something down.
+cell/lost_krzysztof_3	You spend twenty minutes trying to sort out the lad in the next cell's problems. He did not ask. He has more problems now.
+cell/lost_marcin_1	You get onto the subject of Darek. Everyone in the building now knows about Darek. The duty officer knows what Darek does for a living.
+cell/lost_marcin_2	You inform the officer, through the hatch, exactly what you think of him, his uniform, and the horse he probably wishes he had.
+cell/lost_marcin_3	You cry for a bit, which is fine, and then you punch the wall, which is less fine. The wall wins on points.
+cell/lost_sebastian_1	You attempt to do business with a police officer. Through a locked door. At two in the morning. You describe your inventory.
+cell/lost_sebastian_2	You explain that you are only doing this until something better comes along, and have been for six years. Then you offer her a deal on something you do not have.
+cell/lost_sebastian_3	You start listing your contacts by name to prove how well connected you are. She writes the names down. All of them.
+cell/lost_tom_1	You recite most of a poem at the wall, in English, with feeling. Nobody here reads English. The wall is unmoved.
+cell/lost_tom_2	You demand, in increasingly formal English, to speak to somebody about your passport. It is two in the morning and your passport has been gone for years.
+cell/lost_tom_3	You deliver a short lecture on the English subjunctive to a man who is trying to sleep. He asks you to stop in two languages.
+cell/morning_dried	You are dry, at least. Properly dry, for the first time in a while.
+cell/morning_extra	They are not letting you out today. Nights they are keeping you on top: %1. You brought that on yourself and everybody knows it.
+cell/morning_intro	Eight o'clock. The light is wrong and your mouth tastes of coins. Here is what you actually did last night.
+cell/morning_item	%1
+cell/morning_long	Several nights on that mattress have taken something out of you. You are stiff, you are hungry, and you smell like the inside of the van.
+cell/morning_mended	Whatever got said through that wall, it held. You are on speaking terms again.
+cell/morning_property	At the desk they slide your things back across in a bag. You get %1 percent of what they took.
+cell/morning_shakes	You come out of there wanting a drink more than you have wanted anything in a long time. Your hands are not steady and the light is too bright. Whatever drying out they did for you, they did it the hard way.
+cell/opt_kickoff	Kick off
+cell/opt_listen	Listen at the door
+cell/opt_quiet	Sit quietly
+cell/opt_sleep	Sleep it off
+cell/opt_wall	Talk through the wall
+cell/tip_1	One of them mentions who put your name forward, and it is somebody you would have bought a drink for.
+cell/tip_2	They are complaining about a skip behind the shop that gets emptied Thursday mornings, and what people pull out of it.
+cell/tip_3	One of them is moaning that old Stary will do anything for pickled herring. Useful, that.
+cell/tip_4	There is a spot by the station they have stopped bothering to walk past after midnight.
+cell/turn	The cell. Hour %1 of four. What do you do?
+cell/wall_nobody	You tap on the wall and talk to it for a bit. Nobody is in tonight. The wall takes it well.
+char/krzysztof_intro	Right. New day. Same bench. Let's not make it worse than it has to be.
+char/krzysztof_mutter1	I don't even like drinking, you know. ...Go on then. One.
+char/krzysztof_mutter2	Be nice to people. Most of them are bastards, but you never know which ones.
+char/krzysztof_name	Krzysztof
+char/krzysztof_quirk	Calm, decent, helpful to a fault. Swears blind he doesn't drink, then drinks. Everyone likes him, which on this street is deeply suspicious.
+char/krzysztof_story1	Krzysztof had a flat, a job, and a woman he'd have walked into traffic for.
+char/krzysztof_story2	So when she needed money, he gave her all of it. Then a bit more. Then the rent.
+char/krzysztof_story3	She left anyway, with a bloke who owned two cars. The bank took the flat.
+char/krzysztof_story4	Now he's the calmest man on the street. He's already lost the one thing he cared about, and everything since is just weather. Press Enter to become him.
+char/marcin_intro	Head like a bin lorry reversing. Where's the nearest bottle, and who do I have to fight for it.
+char/marcin_mutter1	Who needs her. The bench never left me for a prick called Darek.
+char/marcin_mutter2	I'm not drunk. I'm emotionally efficient. There's a difference.
+char/marcin_name	Marcin
+char/marcin_quirk	Just got dumped and he's taking it like a champion, meaning terribly. Drinks with anyone, and if you say no he takes it personal. Sees a copper, loses his mind.
+char/marcin_story1	Marcin was doing fine, right up until she said the words 'we need to talk.'
+char/marcin_story2	That was three weeks and two hundred bottles ago. He is not bitter. He'll tell you he's not bitter, loudly, to strangers, at eleven in the morning.
+char/marcin_story3	He hates the police because a copper once told him to move along on the worst night of his life.
+char/marcin_story4	He's decided to take that personally until the day he dies. Press Enter to become him.
+char/sebastian_intro	Today I sort my life out. Today. Definitely. Right after this one last thing.
+char/sebastian_mutter1	One more sale and I go straight. Said that Tuesday. And the Tuesday before that.
+char/sebastian_mutter2	I could get a proper job. I'd be brilliant at it. Probably. Shut up.
+char/sebastian_name	Sebastian
+char/sebastian_quirk	Wants a normal life, genuinely tries for one, then funds it by dealing, which torpedoes the normal life. Round and round the plughole he goes.
+char/sebastian_story1	Sebastian's family gave him every chance, and a fair bit of grief to go with it.
+char/sebastian_story2	One day the grief won and he packed a bag. He's clever, charming, and violently allergic to a normal life.
+char/sebastian_story3	He deals a bit to get by, and swears every single week that it's the last time.
+char/sebastian_story4	He genuinely believes it. That belief is the most valuable thing he owns. Press Enter to become him.
+char/tom_intro	Still here. Still no passport. A degree in English Literature and I'm negotiating with a pigeon. Marvellous.
+char/tom_mutter1	I have a degree, I'll have you know. Worth exactly one bottle in this economy.
+char/tom_mutter2	Came here for love. Left with a bench. Well. Didn't leave. That's rather the whole problem.
+char/tom_name	Tom
+char/tom_quirk	English teacher. Came over chasing love, got battered by football lads, lost his passport, lost the plot. Now he's stranded on a bench in a country he can't spell.
+char/tom_story1	Tom taught English in a nice quiet town, until his mates convinced him the love of his life was waiting out east.
+char/tom_story2	He flew over full of hope and cheap aftershave.
+char/tom_story3	He got as far as a stadium on match day, in entirely the wrong colours. Some gentlemen relieved him of his wallet, his phone, his passport, and two teeth.
+char/tom_story4	Now he's on a bench, rehearsing the speech he'll give at the embassy, if he ever finds the embassy. Press Enter to become him.
+charselect/chosen	You are %1. God help you.
+charselect/stats	Street respect %1. Community respect %2.
+charselect/title	Pick your poor bastard. Up and down to hear them, space for how they stand with the town, Enter to choose.
+day/dawns	Day %1. A new morning, the same street, and whatever you can make of it.
+day_end/closer	That was one glorious day. Press escape for the menu.
+day_end/nightfall	The light goes and the cold comes to collect. You curl up like a full stop at the end of a bad sentence.
+day_end/summary_hungry	You go to sleep hungry, dreaming of a kebab that will never love you back.
+day_end/summary_money	You finish the day with %1 złoty. A tycoon.
+day_end/summary_wrecked	You're wrecked, and the cold's got your name written on it.
+dir/and	and
+dir/down	down
+dir/left	left
+dir/right	right
+dir/up	up
+drink/burns_1	You put several straight down. %1 goes off like a firework in your chest and you cough half your lung up.
+drink/burns_2	Three at once. %1 burns all the way down and your eyes water properly.
+drink/burns_3	You knock back a serious measure of %1. It is a mistake, and your body tells you so immediately.
+drink/finished_1	That is %1 finished. You look at the empty with real regret.
+drink/finished_2	Last mouthful of %1 gone. The bottle goes in the trolley, obviously.
+drink/finished_3	%1: dead. Another empty for the collection.
+drink/gulping_explained	You are not sipping any more, you are pouring it down your neck. Slow down and you will make it last.
+drink/knocked_back_1	You take a proper pull of %1 rather than messing about.
+drink/knocked_back_2	Several mouthfuls of %1, straight down, no ceremony.
+drink/knocked_back_3	You do not sip %1 so much as commit to it.
+drink/left	%1 mouthfuls left in it.
+drink/opened	You crack open %1.
+drink/sobering_1	It cuts through the fog a bit. Your head is fractionally more your own.
+drink/sobering_2	Something without drink in it. You feel a shade steadier for it.
+drink/sobering_3	Warm, and no worse for you. The world stops leaning quite so hard.
+energy/low	You are running on empty. Another job or two and there will be nothing left in you.
+energy/spent	That is you done. Your legs have gone, your back has gone, and there is no more work in you until you get something inside you or get your head down.
+energy/too_tired	You have got nothing left. Sit down somewhere, get something to eat, or sleep it off.
+energy/word_feeling	You are starting to feel the day.
+energy/word_fine	You are alright.
+energy/word_fresh	You have got plenty in you.
+energy/word_nothing_left	There is nothing left in your legs.
+energy/word_running_low	You are running on fumes.
+event/bottle_tip	A trader tips you the nod towards a crate of empties nobody's claiming. %1 bottles, straight in the trolley.
+event/cadge_fag	A żul cadges a fag off you without really asking. Street etiquette. You'd have done the same.
+event/choose	What do you do? Up and down, Enter to choose.
+event/cop_cheek	Give him some cheek
+event/cop_cheek_lose	He does not find it funny. There is paperwork, a lecture, and a fine of %1 złoty. You spend a chunk of the day regretting your mouth.
+event/cop_cheek_win	You say something so magnificently cheeky that he actually laughs and lets you off. The lads on the bench will hear about this within the hour.
+event/cop_intro	A copper has been watching you for a while and has decided you are today's problem. He asks what exactly you think you're doing.
+event/cop_move	Apologise and move along
+event/cop_moved	You apologise, shuffle off, and lose a bit of your day to it. He watches you go, satisfied that policing has occurred.
+event/found_money	You spot a %1 złoty coin in the gutter. You look around first, obviously, then pocket it like a man who has done nothing wrong.
+event/gift_bottles	Someone who knows your face leaves a bag of empties by your feet and walks off before you can thank them. %1 bottles, no questions.
+event/light_gave	You hand one over and light it for him, cupping the flame like a professional. He nods at you like you're a decent man. For a second there, you are.
+event/light_give	Give him a fag and a light
+event/light_intro	A bloke pats his pockets, catches your eye and does the universal mime for 'got a light?'
+event/light_refuse	Pretend you've got nothing
+event/light_refused	You pat your pockets theatrically and shrug. He clocks the packet outline in your coat and walks off. Awkward.
+event/mug_fight	Swing first
+event/mug_fight_lose	You swing first, miss first, and get hit properly for the ambition. He leaves with %1 złoty as a consultancy fee.
+event/mug_fight_win	You hit him before he finishes the sentence. He was not expecting a customer who invoices in advance. He melts off down the underpass, and the street saw the whole thing.
+event/mug_intro	Someone falls into step beside you, far too close, and asks what you've got on you. He is not making conversation.
+event/mug_run	Leg it
+event/mug_run_lose	You get about four steps before your legs file a formal objection. He catches you, takes %1 złoty and shoves you into a wall for the inconvenience.
+event/mug_run_win	You are off like a shot. Not elegant, but effective. You stop three streets away, wheezing and victorious.
+event/mug_stand	Stand your ground
+event/mug_stand_lose	It goes badly and quickly. You lose %1 złoty, half your bottles, and a bit of your face. Lesson noted, filed, and probably ignored.
+event/mug_stand_win	You square up. You are not a fighter, but you are extremely willing, and that is often enough. He decides it isn't worth it. Word gets round.
+event/mug_talk	Talk your way out of it
+event/mug_talk_lose	Your patter deserts you halfway through and he just takes what he wants. %1 złoty gone, along with the speech you were proud of.
+event/mug_talk_win	You mention a couple of names, look bored, and suggest he's picked the wrong żul. He reconsiders, calls you brother, and wanders off. Your reputation does the rest.
+event/puke	A żul you vaguely recognise staggers over, opens his mouth to say hello, and is sick on your shoes instead. The crowd notices. You notice. Everyone notices.
+event/singing_1	You are suddenly overcome and burst into song in the middle of the park. It is loud, it is heartfelt, and it is in roughly the right key. The other żule applaud. A mother walks her children the long way round.
+event/singing_2	You sing. Properly sing, arms out, eyes shut. Somewhere a dog joins in. The lads on the bench are moved. Everybody else moves away.
+fb/ask_bug	What went wrong? Say what you were doing, what you expected, and what happened instead. If something sounded wrong, say what it sounded like.
+fb/ask_idea	What would you like to see? Anything at all, however daft.
+fb/ask_message	Say what you like.
+fb/auto_now_off	I will not ask about the log after a test run.
+fb/auto_now_on	Right. After a test run I will offer to send the log.
+fb/contact_no	No, send it without a way to reply
+fb/contact_prompt	An email address, or anything else that works. Leave it empty to send without one.
+fb/contact_q	Would you like to leave a way for me to get back to you? It is entirely up to you, and a report without one is still useful.
+fb/contact_scrap	Actually, forget it, do not send this
+fb/contact_yes	Yes, here is how to reach me
+fb/email_copied	Copied. His address is %1, if you would rather write yourself.
+fb/email_copy_failed	Could not get at the clipboard, sorry. The address is %1.
+fb/kind_bug	Bug report
+fb/kind_idea	Suggestion
+fb/kind_message	Message
+fb/kind_testlog	Test log
+fb/lost	That could not be sent, because %1, and it could not be saved either. Sorry. Try again later.
+fb/no_log	You have not got a test log yet. To make one, go to the test menu from the main menu and run the tests. It takes about a minute and writes a log of everything it checked. Come back here afterwards and you can send it.
+fb/no_thanks	No thanks
+fb/nothing_typed	Nothing typed, so nothing sent.
+fb/opt_auto_off	After a test run: offer to send the log. Currently off.
+fb/opt_auto_on	After a test run: offer to send the log. Currently on.
+fb/opt_back	Back
+fb/opt_bug	Report something that went wrong
+fb/opt_copy_email	Copy the author's email address
+fb/opt_idea	Suggest something
+fb/opt_message	Just send a message
+fb/opt_testlog	Send my test log
+fb/saved_instead	That could not be sent, because %1. It has been saved as %2 in the game's folder instead, so nothing is lost. You can send that file on another way.
+fb/scrapped	Right, that is scrapped. Nothing has been sent.
+fb/send_log_q	That is the test finished. Send the results to the author?
+fb/sending	Sending.
+fb/sent	Sent, thank you. It goes straight to the author's inbox.
+fb/testlog_body	Test log sent from the test menu.
+fb/title	Send something to the author
+fb/yes_send	Yes, send it
+fight/cover	Cover up and get your breath
+fight/hay_lands_1	Everything you have, from the hip. It lands like a bin dropped off a balcony. Down they go a peg.
+fight/hay_lands_2	The haymaker connects and time stops briefly for both of you.
+fight/hay_misses_1	You wind it up, telegraph it to the whole street, and spin half round when it misses.
+fight/hay_misses_2	The haymaker sails past. You nearly put yourself on the floor with it.
+fight/haymaker	Wind up a haymaker
+fight/legit	Leg it
+fight/lost	The pavement comes up to meet you. %1 stands over you long enough to make the point, and %2 złoty leaves your pocket while you are down.
+fight/ran_1	You leg it. Not glorious, but your face keeps its current arrangement.
+fight/ran_2	You are gone before the next one lands. The lads will have opinions.
+fight/refuse	You look at %1 and your fists unclench on their own. No. Not them. There are things even you will not do.
+fight/round	You are on %1 health. They look about %2 percent in it. What do you do?
+fight/run_failed	You turn to go and take one across the ear for it.
+fight/starts	%1 squares up. Right then. This is happening.
+fight/swing	Swing at them
+fight/they_land_1	They catch you hard and your ears ring like the bottle deposit.
+fight/they_land_2	You walk straight into one. Stupid. Your legs briefly discuss resigning.
+fight/they_land_3	A short sharp one to the ribs. You feel that one in your back teeth.
+fight/they_land_covered	It thuds into your guard. Your arms ache but the rest of you is intact.
+fight/they_miss_1	They swing and you are somehow not there. Instinct. Or luck. One of the two.
+fight/they_miss_2	You sway back and their fist parts your hair and nothing else.
+fight/they_miss_3	They miss and curse in a way that would upset the babcia.
+fight/too_tired	You could not fight your way out of a paper bag right now. Get your breath first.
+fight/won	%1 waves you off, done. The street saw it, and the street will remember it. You come away with %2 złoty of their pocket money.
+fight/you_cover	You get your hands up and your chin down and breathe.
+fight/you_land_1	You catch them clean and feel it all the way up your arm.
+fight/you_land_2	That one landed. They rock back a step.
+fight/you_land_3	You get through their guard and they grunt like a dropped wardrobe.
+fight/you_miss_1	You swing at where they were a moment ago.
+fight/you_miss_2	They lean back and your fist finds nothing but air and embarrassment.
+fight/you_miss_3	Wide. Comically wide. Somewhere a pigeon laughs.
+fight/you_took	That took %1 off you.
+find/badge	An old enamel works badge, from the factory that shut
+find/candle	A church candle, still in its wrapper
+find/flowers	A bunch of flowers picked from the park
+find/gloves	A decent pair of work gloves, barely worn
+find/got	Tucked in among the rubbish: %1. Worth keeping hold of.
+find/keyring	A keyring with a little charm on it
+find/knife	A good sharp knife, the kind a stall man would treasure
+find/novel	A battered crime paperback, missing its cover
+find/opener	A heavy brass bottle opener somebody left behind
+find/pen	A pen that actually works
+find/photo	A photograph somebody threw away
+find/stickers	A packet of football stickers, unopened
+find/sweets	A tin of boiled sweets, barely touched
+find/toy	A small soft toy, washed and left on a wall
+find/wallet	A lost wallet, cards still in it
+find/wire	A length of copper wire
+food/finished_1	That is the last of it. You check your hands for crumbs like a serious person.
+food/finished_2	Gone. You fold the paper up small, for no reason you could explain.
+food/finished_3	Finished, and you are sorry it is over.
+food/left	%1 bites left of it.
+food/wolfed_1	You get through most of the %1 in a few big bites.
+food/wolfed_2	Several mouthfuls of %1 at once, barely chewed.
+food/wolfed_3	You wolf the %1 down like somebody might take it off you.
+garage/done	Sorted. You've got %1 now. That's %2 bottles before they spill.
+garage/leave	Leave it for now.
+garage/maxed	Your trolley is already the envy of the neighbourhood. Cannot do better.
+garage/no_money	You're short, mate. Come back when your pockets jingle.
+garage/offer	Your trolley: %1. For %3 złoty this bloke will sort you out with %2.
+garage/title	The garage. Up and down, Enter to choose, Escape to leave.
+garage/upgrade	Trade up the trolley.
+gather/already_full	No room. %1 is full to the brim, and you are not carrying any more in your arms. Get them cashed in first.
+gather/result_1	You go elbow-deep in the bins and come out a winner. %1 bottles. Your mother would be so proud.
+gather/result_2	A patient rummage yields %1 bottles and something sticky you decide not to identify.
+gather/result_3	%1 bottles, one of them still half full. You pour it out. Standards.
+gather/result_full	You grab %1 more, but the trolley is full. Time to cash them in.
+give/already	You have already sorted %1 out today. Do not overdo it.
+give/hate	%1 looks at it, then at you, then hands it back. That was a misjudgement.
+give/like	%1 takes it with a proper nod. That went down well.
+give/love	%1 lights up. That was exactly the right thing and they will not forget it.
+give/nothing	You pat your pockets. You have absolutely nothing worth giving anyone.
+give/ok	%1 accepts it politely enough. It is the thought, apparently.
+give/title	What do you give them?
+howto/about_1	A żul, and you say it zhool, is what the Poles call a man who has made the pavement his own. He has a bench. He has a bottle. It is ten in the morning and he is doing fine, thank you for asking.
+howto/about_2	That is you. Congratulations.
+howto/about_3	You have a shopping trolley, a coat that has seen the inside of a bin, and a whole district that clocked you years ago and drew its conclusions. There is no winning this. There is only Tuesday, and then another Tuesday.
+howto/about_4	What you do is bins. You do bins until the trolley is full, you take the bottles to the machine that gives you coins for them, and then you decide, like a grown man with choices, whether that money is food or whether it is not food. It is usually not food.
+howto/about_5	Do this long enough and things stick. People start expecting you. The woman in the shop puts something aside without being asked. A copper learns your face, which cuts both ways. Somebody remembers your name, or makes a point of forgetting it, and that is on you.
+howto/about_6	Everyone in this town has a name and a temper and something they will not shut up about. Be decent to them and it comes back. Be a prick and that comes back faster.
+howto/about_7	Fair warning: the language in here would strip paint.
+howto/basics_1	Arrow keys move you. Hold a direction and you keep walking. The ground tells you where you are: grass, gravel, mud and pavement all sound different under your boots, and you will learn them faster than you expect.
+howto/basics_2	Enter is the whole game, really. It uses whatever you are standing on, talks to whoever you have just walked into, and gets you through a conversation. If you are not sure what to do, stand on something and press Enter.
+howto/basics_3	L looks around and tells you where you are and what is near. Use it constantly. There is no shame in it and it is quicker than wandering.
+howto/basics_4	The clock runs on its own whether you are doing anything or not, so a day slips by while you are stood there thinking. Places keep hours. The bar is shut in the morning and the shop is not open all night.
+howto/basics_5	Nothing here kills you and nothing here ends. A bad day is just a bad day, and tomorrow the bins will be full again.
+howto/body_1	You run on energy, out of a hundred, and it is the real limit on your day. Rummaging, washing windscreens, shifting crates, begging, brawling: all of it costs some. Press E to hear how you are holding up.
+howto/body_2	Nothing comes back on its own. Standing about waiting will not put an hour of your life back, so what you have is what you have until you eat, drink or sleep. Go to bed with nothing left and you get less back from the night than a man who paced himself.
+howto/body_3	Hunger climbs on its own and drags at you, and eating is how you get your legs back, so food is not a treat, it is the job. A roll is two złoty and a bit of energy. A kebab is twenty and most of an afternoon. Go to bed hungry and the night gives you less.
+howto/body_4	Health is separate and mostly only moves when somebody hits you or the night does. A night indoors puts it right.
+howto/body_5	Sitting on a bench, Enter on it, gets a bit of breath back and tells you who is about. It will pull you up off the floor but no further: a bench is not a bed and it is not a meal. It costs you twenty minutes of daylight instead of money, which some days is the better bargain.
+howto/body_6	So if you are on your knees at two in the afternoon, standing still until four will not help you. Something to eat, a hot drink, a sit down, or the night. Those are the four.
+howto/body_7	Food and a hot drink put energy back on the spot. Coffee and tea pick you up. The strong stuff does the opposite, whatever it feels like at the time.
+howto/drink_1	Drink is the whole trouble and half the point. It makes the day easier to be inside of and it makes you worse at everything in it.
+howto/drink_2	Being drunk makes you feel fresher than you are, which is a lie your body tells you and the game tells you too. Past a certain point you stagger, you trip, and the world starts to swim about.
+howto/drink_3	Do it often enough and it stops being a choice. A habit builds, and when it is not fed you get the shakes: everything costs more and you are worse at all of it until you have had one.
+howto/drink_4	It does wear off, but slowly, about two hours of the day to come down a step. If you want it gone faster, eat something, get a tea or a coffee down you, or sit on a bench a while. That is what the food and the hot drinks are for.
+howto/drink_5	You can turn the drunk sound effects off in Options if the swimming gets unpleasant. Nobody will think less of you.
+howto/first_1	Stop reading this. Go and be poor for a bit and come back if it goes badly. Still here? Fine.
+howto/first_2	You are on ulica Wesoła, which means Cheerful Street, and somebody in the town planning office was having a laugh. Arrow keys walk you about. Hold one down to keep going. Press L and it tells you where you are and what is near, like a barman who has seen you come in.
+howto/first_3	Find the bins. Walk east along the street until you hear them, stand on them, and press Enter. Press Enter again. And again. This is the job. Nobody said it was a good job. Each go puts bottles in your trolley, and the trolley only holds so many.
+howto/first_4	Trolley full? The bottle deposit is on the same street. Stand on it, press Enter, and it turns your rubbish into actual money at one złoty a bottle. Enjoy the moment. It is the most reliable money you will ever make.
+howto/first_5	Now eat something before your legs go. The shop is on the main street: stand on it, press Enter, and it opens like any other place. Food fills you up and puts a bit of yourself back. This is not advice, it is physics.
+howto/first_6	Somebody will walk into you, because they always do. You will hear the bump and who it was. Press Enter and have a word with them. It costs nothing, it makes them think better of you, and being liked round here is worth more than the coins in your pocket.
+howto/first_7	Press Q whenever you like and it will tell you what the day expects of you. Three jobs, every morning, and finishing one pays on the spot. The day expects a lot, considering.
+howto/first_8	Watch your energy, which is the E key. Everything worth doing costs some, and when it is gone there is no more work in you until you get something inside you or sit down a while. Nothing comes back just from waiting.
+howto/first_9	When you are running on empty, get back to your block on the main street and press Enter to turn in. It will ask whether you mean it. Sleeping outside is a choice available to you, and so is regret.
+howto/keys_1	Arrows move. Enter uses what is under you, talks to who you walked into, and advances dialogue. Any arrow repeats the current dialogue line.
+howto/keys_2	L looks. I opens your bag, and Enter in there eats or drinks whatever you are on. P is the people menu. Q is your daily quests. S reads your full status. V says something in character.
+howto/keys_3	C, R and H are quick checks: cash, respect, health. T picks a place to track and starts a beeper toward it, W reads the direction in words.
+howto/keys_4	Page Up and Page Down set the music volume, and Page Down mutes it at the bottom. Home and End set the sound effects volume, in the menus as well as while you are walking about. Inside a list, they jump you to the top and the bottom of it instead.
+howto/keys_5	F5 saves in a hurry, wherever you are. Shift and B opens the builder, if you fancy making an area of your own.
+howto/keys_6	E tells you how you are holding up in one line, where S gives you the lot.
+howto/keys_7	Escape pauses the game: carry on, save, Options, or quit. Options holds the drunk sound effects, the auto-save, the language, whether you are modding the game, and the tool for putting damaged files back. It is on the main menu too.
+howto/law_1	The police notice things. Fighting in the street, being blind drunk where people can see you, singing at the sky, giving a copper lip: all of it builds their interest in you.
+howto/law_2	Where and when matters. The crossroads, the station, and the ground outside the police station itself are all watched, that last one most of all. The small hours are worse than the afternoon, because there are fewer people to be lost among.
+howto/law_3	At low interest a copper will just move you on. Once you are of real interest to them it becomes a proper stop: searched, asked your name, and asked things about other people.
+howto/law_4	You can pay the fine or refuse to sign the ticket. Refusing costs you nothing today and a great deal of their attention afterwards.
+howto/law_5	They will ask you to give somebody up. You can. It gets you an easier time from them for a long while afterwards, and the street finds out, because the street always finds out.
+howto/law_6	Get nicked and you lose what is in your pocket and you spend the night inside, which is four turns you actually play. You can sleep it off, listen at the door, talk through the wall to whoever is next door, kick off, or sit there quietly. Sitting quietly gets you more of your things back in the morning. Kicking off gets you an extra night and a bit of a reputation.
+howto/law_7	If you are drunk when they take you, you will find you do not always do the thing you chose. You meant to sit quietly and instead you are explaining yourself to a locked door. What comes out depends on who you are, and while you are in there you will think it went rather well. The morning tells you otherwise.
+howto/law_8	Somebody you know will end up in the cells. Go and see them. It costs you an afternoon and it is worth more to them than you would think.
+howto/lines_1	You can fight people. Press the option when you have walked into somebody and it will ask if you are sure, because it should.
+howto/lines_2	A fight is rounds: swing, throw everything at it, cover up, or leg it. Covering up halves what lands. Legging it costs you a bit of face and ends it.
+howto/lines_3	Winning builds street respect. Losing does the opposite, and either way the police take an interest, and whoever you hit will remember it for a long time.
+howto/lines_4	There is one thing this game will not let you do lightly, and it will ask you twice. Do it and the whole town closes against you at once, and you will live marked for days. It is in here because a game about this life would be dishonest without it.
+howto/money_1	Bottles are the bread and butter. Stand on the bins, press Enter, and rummage. Your trolley fills up, and the deposit machine on the main street turns them into coins at one złoty each.
+howto/money_2	A bigger trolley holds more, and the garage at the market sells them. Your eye for a good bin also sharpens the more you do it, so the hundredth rummage pays better than the first.
+howto/money_3	Windscreens at the crossroads pay better than bins, and pay better again if the district thinks well of you. Odd jobs shifting crates at the market pay too, and cost you more of yourself.
+howto/money_4	Begging works, some of the time, and depends entirely on who you ask and how they feel about you. Ask the same person twice in a day and see how far it gets you.
+howto/money_5	The shop sells what comes in a packet or a bottle. The stand on the market does hot food and a hot drink, and the man behind it will talk to you if you let him.
+howto/money_6	Things turn up on the ground. Some of it is rubbish, some of it is somebody's favourite thing in the world, and giving that to the right person is worth more than selling it.
+howto/money_7	Money is not the point but you will not get far without it. Nothing here is expensive. Everything here is expensive when you have nine złoty.
+howto/people_1	Fifteen people live round here and you will come to know all of them: the old boy, the babcia, the schemer, the drunk, the shop kid, the commuter, the rival żul, the copper, the barman, the kiosk woman, the mother, the sister, the schoolgirl, the duty officer at the station, and the man on the food stand.
+howto/people_2	Everybody gives off a quiet murmur you can home in on, and everybody's is different. Walk into somebody and you hear the bump and who it was. Press P for a list of who is about and how far off they are.
+howto/people_3	Talk to people. Press Enter when you have bumped into them, or use the P menu. It costs you almost nothing and it is how every good thing in this game starts.
+howto/people_4	How you stand with somebody builds over days, not minutes. Keep turning up and it grows. Ignore them for a week and it cools. Talk to the same person six times in one afternoon and they will start to wonder about you.
+howto/people_5	Everybody has one thing they love off the shelf and one thing they love that you can only find lying about. Get it right and they will not forget it. Get it wrong and they will let you know.
+howto/people_6	They give things back. Somebody who thinks well of you will put something in your hand for nothing, and it is usually the thing you needed.
+howto/people_7	The district as a whole has an opinion of you too, separate from any one person. Being decent in public builds it. Brawling in the street does the opposite.
+howto/people_8	There is also street respect, which is a different currency entirely. That comes from being someone nobody fancies testing, and the two do not always pull the same way.
+howto/people_9	The sister runs a soup round. If you are broke and starving she will feed you and ask for nothing, and no, there is no catch.
+howto/pick	How to play. Pick a section, Escape to go back.
+howto/quests_1	Every morning brings three jobs, one of each sort: something to graft at, something involving people, and something that is just living your life. Press Q to hear them.
+howto/quests_2	Each one tells you what it wants and what it pays. Finish one and you are paid on the spot.
+howto/quests_3	Behind those sit nine milestones, the longer road. They are earned once and they stay earned: a real friend on the street, a face the whole district knows, a night in the cells you came out the other side of.
+howto/quests_4	A locked milestone will not tell you the steps, only what to chase. Where there is something worth counting, it says how far along you are.
+howto/quests_5	The quest panel also keeps your record: how many day jobs you have finished, and how many milestones you have unlocked out of the nine.
+howto/sec_about	What is this
+howto/sec_back	Back to the menu
+howto/sec_basics	The basics
+howto/sec_body	Energy, hunger and health
+howto/sec_drink	Drinking and smoking
+howto/sec_first	Your first day, then
+howto/sec_keys	All the keys
+howto/sec_law	The police
+howto/sec_lines	Fighting, and what you never do
+howto/sec_money	Earning money
+howto/sec_people	People
+howto/sec_quests	Jobs for the day, and the longer road
+howto/sec_sleep	Getting your head down
+howto/sec_town	Getting about the town
+howto/sleep_1	A day ends when you sleep, and sleeping is your choice: walk onto a place you can kip and press Enter, and you will be asked whether you mean it.
+howto/sleep_2	Your own block on ulica Wesoła is the good option. A door that locks, and you wake with the night behind you.
+howto/sleep_3	You can also sleep rough: the bench in the park, behind the carpet beater in the courtyard, the end of the platform at the station. It costs you. Less of yourself back, a knock to your health, and the street may go through your pockets or take your bottles while you are under.
+howto/sleep_4	Sleeping hungry sits with you all night. Sleeping blind drunk is its own reward in the morning.
+howto/sleep_5	Going down having run yourself into the ground means you get less back. There is no way round that but to pace yourself.
+howto/title	How to play. Up and down to read each line, Escape to go back.
+howto/town_1	The town hangs off one main street, ulica Wesoła. North of it the park, south the courtyard behind the blocks, east the market, west the crossroads. The station is past the crossroads and the police station is somewhere you would rather not need.
+howto/town_2	Exits are whole stretches of edge, so you walk off in the right direction and you are through. It announces where you have arrived. If you keep bumping into nothing, that is the edge of the area, not a wall, and it sounds lighter than one.
+howto/town_3	Lost, which you will be: press T, pick a place, and it beeps toward it as you walk, quieter and lower when it is behind you, with a sound when you land on it. W reads the direction in words, as left, right, up and down. Those are the arrow keys, not which way you happen to be facing. It is the closest thing this game has to a map.
+howto/town_4	Every area has its own sounds, placed where they actually are. A telly in a window, cars at the lights, the racket of the bar. Walk towards a sound and you are walking towards the thing making it.
+howto/town_5	Anything behind you sounds slightly lower than it does in front of you, and lifts back to normal once you have turned to face it. That goes for people as well as places. It is how you tell what is still ahead of you from what you have already walked past.
+howto/town_6	The music changes with the hour, so the street at seven in the morning is not the street at midnight. If it sounds uneasy, it is late, and being out late has its own consequences.
+inv/bottles	Bottles: %1 of %2 you can carry.
+inv/fag_one	a cigarette
+inv/fags	Cigarettes: %1 left
+inv/lighter_full	Lighter: plenty of gas left
+inv/lighter_low	Lighter: running low, careful
+inv/lighter_none	Lighter: none, or dead as a doornail
+inv/money	Money: %1 złoty.
+inv/sip_hint	Enter takes a sip or a bite. Keep pressing quickly and you will end up knocking it back.
+inv/title	Your stuff. Up and down to look through it. I or Escape to close.
+inv/trolley	Your trolley: %1.
+jail/bring_something	Give him something you are carrying
+jail/brought_drink	You get %1 through the bars somehow. He hides it before the officer turns round.
+jail/brought_food	You pass %1 through the bars. He does not thank you, he just eats, and that is the thanks.
+jail/leave_him	Say nothing and go
+jail/left_him	You stand there a moment, say nothing, and go. He watches you the whole way out.
+jail/mick	You take the mick out of him through the bars. His face changes, and it does not change back. That was cheap and you both know it.
+jail/mick_grass	You put him in here and now you are laughing at him through the bars. Even the officer at the end of the corridor looks over at that.
+jail/nobody_in	Both cells are empty today. The bars are open and the corridor smells of disinfectant and nothing else.
+jail/nothing_to_bring	You pat your pockets and come up with nothing at all. You stand there with empty hands, which is its own kind of visit.
+jail/say_sorry	Say you are sorry
+jail/sees_you	%1 comes to the bars, surprised, and then genuinely pleased. Nobody visits. Nobody ever visits.
+jail/sees_you_grass	%1 comes to the bars, sees who it is, and stops. There is a long silence. He knows exactly why he is in here, and so do you.
+jail/sorry_grass	You say it. He does not say it is alright, because it is not. But he listens to the end, and that is more than you had any right to.
+jail/sorry_ok	You tell him you are sorry he is in here. He shrugs like it is nothing and you both know it is not nothing. It counts, though. It counts a lot.
+jail/take_the_mick	Take the mick out of him
+jail/taken_in	They pick %1 up that same evening. Word goes round the estate before the van has left the street.
+jail/what_do_you_do	What do you do?
+jail/who_do_you_visit	Who are you here to see?
+line/are_you_sure	Are you doing this?
+line/do_it	Do it anyway
+line/done	You raise your hand to %1. That is all it takes. One second, and the man you were this morning is gone.
+line/thought_better	You unclench your hands and walk. Whatever else is true about you, that is still true.
+line/town_turns	The street stops. Somebody is shouting. Somebody else is already on the phone. Every face you know is turned towards you and not one of them is on your side.
+line/walk_away	Walk away
+line/warn_child	You square up to %1 and the whole world goes quiet. She is a child. Sixteen. Whatever has happened to you, this is not who you are.
+line/warn_woman	You square up to %1 and something in you goes very still. This is a line. You have never crossed it, and everyone on this street knows that about you.
+look/area	You're in %1. Nothing right here. Walk around and explore, head to the edge to find an exit, or press T then W to track a spot.
+marked/chat_1	Word gets round fast, and it got round about you. They tell you where to go, and they are not joking.
+marked/chat_2	They see you coming and turn their back before you get a word out.
+marked/chat_3	Not a chance. Not after that. They walk off mid sentence, and it was your sentence.
+marked/counter_1	He takes your money and puts your change on the counter rather than in your hand. He does not say a word and he does not look up.
+marked/counter_2	Whatever you were going to say, he is not having it. He serves you because that is the job, and that is the whole of it.
+marked/counter_3	There is a silence over the counter that you could lean on. He has heard. Everyone has heard.
+menu/continue	Continue
+menu/continue_none	There's no saved game. You have nothing. Fitting, really.
+menu/farewell_1	Right. The bench will still be there tomorrow. It always is.
+menu/farewell_2	Off you go then. Mind how you go, and mind who you owe.
+menu/farewell_3	That is you done. The bottles will keep.
+menu/farewell_4	Go on then. Somebody has to be sober tonight and it may as well be you.
+menu/farewell_5	Out you go. Try not to think about the trolley.
+menu/farewell_6	See you tomorrow. The street is not going anywhere.
+menu/farewell_7	Done for today. Wesoła will manage without you. Just about.
+menu/farewell_8	Away you go. And if anybody asks, you were never here.
+menu/howto	How to play
+menu/newgame	New game
+menu/quit	Quit
+menu/title	Zul Simulator. Main menu. Up and down to move, Enter to choose.
+mod/fix_it_now	Look at the files and put back whatever I choose
+mod/its_your_game	If it was deliberate, carry on. It is your copy and swapping the sounds about is a perfectly good thing to do with it.
+mod/keep_asking	Yes, tell me again next time.
+mod/noticed	Something is different about this copy of the game. %1 files are missing and %2 have been changed.
+mod/stop_asking	No, I am changing things on purpose. Stop mentioning it.
+mod/what_it_means	That is not a problem in itself, but it does mean the game might go quiet where it should not, or behave oddly, and it will not be a fault in the game itself.
+mod/what_now	What would you like to do?
+ms/cellvisit_how	Somebody you know will end up inside. Go and see them.
+ms/cellvisit_name	Nobody visits, but you did
+ms/earned	Milestone reached: %1.
+ms/firstarrest_how	Sooner or later they will have you. Come out the other side.
+ms/firstarrest_name	A night in the cells
+ms/firstfriend_how	Keep turning up for somebody until they count you a friend.
+ms/firstfriend_name	A friend on the street
+ms/hardman_how	Build the sort of reputation nobody fancies testing.
+ms/hardman_name	Not to be messed with
+ms/locked	(not yet)
+ms/reward_cash	That is worth %1 złoty to you.
+ms/reward_community	The street thinks a little more of you. Community up %1.
+ms/reward_heat	The heat comes off you a little. The law has bigger worries tonight.
+ms/reward_scrounge	Your eye for a good bin is sharper now. You will find more from here on.
+ms/reward_street	Word gets round. Street respect up %1.
+ms/scavenger_how	Turn in bottles. Then turn in a great many more.
+ms/scavenger_name	King of the bins
+ms/souprun_how	There is a sister who feeds people. Be there when you have nothing.
+ms/souprun_name	Fed when it mattered
+ms/survived_how	Cross the line and then live through what the street does about it.
+ms/survived_name	You lived it down
+ms/tickettorn_how	Somewhere there is a copper with a book out. Do not sign it.
+ms/tickettorn_name	I am not signing that
+ms/wellknown_how	Get the whole street knowing your face, not just the one person.
+ms/wellknown_name	A known face
+npc/babcia_blunt	You tell her you're grand and to mind her own. She sniffs, calls you a bezczelny gnojek under her breath, crosses herself for saying it, and wheels off. You have made an enemy of a woman with connections.
+npc/babcia_desc	A small determined woman with a shopping trolley, a headscarf, and the moral authority of a bishop.
+npc/babcia_left	You mumble something and shuffle away before the sandwich negotiation can begin.
+npc/babcia_line1	She stops in front of you, looks you up and down, and asks when you last ate something hot.
+npc/babcia_line2	Without waiting for an answer she starts telling you about her grandson, who is also thin, and who never calls.
+npc/babcia_short	The grandmother with the trolley
+npc/babcia_warm	You ask after the grandson by name. She lights up, presses a wrapped sandwich into your hand and tells you to eat it before it goes cold.
+npc/barman_blunt	You tell him to mind his own bar. He goes very still, dries a glass, says nothing. The nothing is worse than anything he could say.
+npc/barman_desc	A broad, unhurried man who has stood behind this bar for twenty years and has heard every story in the district at least twice.
+npc/barman_left	You leave it there. He goes back to the glass he was drying.
+npc/barman_line1	He looks up, works out roughly how your day has gone from the state of you, and says nothing about it.
+npc/barman_line2	He mentions, without accusing anybody, that somebody has been leaving empties on the windowsill outside.
+npc/barman_short	The man behind the bar
+npc/barman_warm	You tell him it wasn't you, and that you'd tell him if it was. He decides to believe you, which is worth more than the beer.
+npc/budkarz_blunt	You tell him it is just a sausage. He goes quiet, wounded to his core, and charges you full whack from now on.
+npc/budkarz_desc	He has run the same hot-food stand at the edge of the market for years, feeds half the district after closing time, and is fiercely, genuinely proud of his sausage.
+npc/budkarz_left	He is already serving the next person before you have turned around.
+npc/budkarz_line1	He is turning sausages with a pair of tongs and does not stop while he talks to you.
+npc/budkarz_line2	He tells you the secret is the onions, then immediately says he will not tell you the secret.
+npc/budkarz_short	The man on the food stand
+npc/budkarz_warm	You tell him it is the best food in town, and you mean it. He beams, and slips an extra bit onto your portion when he thinks you are not looking.
+npc/bump_1	You walk straight into %1 and both of you apologise at the same time.
+npc/bump_2	You bump shoulders with %1. Neither of you was watching where you were going.
+npc/bump_3	You blunder into %1, who steps aside with the patience of someone used to it.
+npc/dojazd_blunt	You ask him what he's staring at. He wasn't staring, and now he's frightened, and now you feel worse.
+npc/dojazd_desc	A man in a work jacket doing everything in his power to avoid eye contact with you.
+npc/dojazd_left	You leave him to his imaginary phone call.
+npc/dojazd_line1	He is checking his phone with the intensity of a man who has nothing to check.
+npc/dojazd_line2	He very nearly says something, then thinks better of it and studies the timetable instead.
+npc/dojazd_short	The commuter
+npc/dojazd_warm	You say good morning like a normal person. He is so surprised he says it back, and looks at you properly for the first time.
+npc/dyzurna_blunt	You tell her this is ridiculous. She agrees, entirely, and does nothing whatsoever about it.
+npc/dyzurna_desc	She sits behind a sliding glass panel with a stamp, a form, and a monumental indifference to whatever has happened to you. She is not unkind. You are simply not her problem.
+npc/dyzurna_left	You leave the counter. The glass slides shut before you have turned round.
+npc/dyzurna_line1	She slides the glass across about four inches and waits without any expression at all.
+npc/dyzurna_line2	She says the form you want is not the form you have, and this appears to be the end of the matter.
+npc/dyzurna_short	The woman on the duty desk
+npc/dyzurna_warm	You fill in the right form, in the right box, in capitals. Something almost like approval crosses her face and is gone.
+npc/gives_1	%1 digs about, comes up with %2, and presses it on you before you can argue.
+npc/gives_2	Without making anything of it, %1 hands you %2. That is what mates are for.
+npc/gives_3	%1 says they have got a spare, which is a lie, and gives you %2 anyway.
+npc/kioskarka_blunt	You tell her to lighten up. The hatch does not close, but it might as well have.
+npc/kioskarka_desc	She has run the kiosk on the corner for eleven years, sells papers, tickets and cigarettes through a hatch, and has heard every excuse in the district delivered through that same small window.
+npc/kioskarka_left	She goes back to the crossword before you have finished turning.
+npc/kioskarka_line1	She is doing the crossword and does not look up straight away, which is not rudeness, just how she is.
+npc/kioskarka_line2	She says somebody tried to pay her in coppers this morning and she is still annoyed about it.
+npc/kioskarka_short	The woman on the kiosk
+npc/kioskarka_warm	You agree that coppers are an insult and she decides you are alright.
+npc/kombinator_blunt	You tell him his last three schemes ended with somebody in a cell. He takes it well, because it's true, calls himself a visionary ahead of his time, and respects you a bit more for saying it.
+npc/kombinator_desc	A wiry bloke in a tracksuit who is always mid-scheme and always needs one more person for it to work.
+npc/kombinator_left	You walk off mid-pitch. He carries on pitching to a bin.
+npc/kombinator_line1	He appears at your elbow, glances both ways, and says he has something going. He always has something going.
+npc/kombinator_line2	It involves a van, a mate of his cousin, and a quantity of something he describes only as 'stock'. He needs a hand and swears it's clean.
+npc/kombinator_short	The lad with the scheme
+npc/kombinator_warm	You tell him to count you in if it ever actually happens. He grins, calls you a legend, and swears on his mother's grave it's foolproof. His mother is alive. It will never happen.
+npc/krawezniak_blunt	You point out you've done nothing and ask if he's got real criminals to chase. His jaw tightens. That'll cost you next time, and with him there is always a next time.
+npc/krawezniak_desc	A local officer who has moved you along so many times it has become almost a working relationship.
+npc/krawezniak_left	You move along before he can finish the sentence. He watches you the whole way.
+npc/krawezniak_line1	He stops a few feet away, hands behind his back, and asks how you're getting on. It is not entirely a threat.
+npc/krawezniak_line2	He mentions there have been complaints. He does not say from who, and he does not say he believes them.
+npc/krawezniak_short	The copper who knows your face
+npc/krawezniak_warm	You're polite, you don't argue, you tell him you'll keep out of the way. He nods once and lets it go. Filed under 'no trouble', which is the best a man like you can hope for.
+npc/matka_blunt	You speak too loudly and too close. She walks on and does not look back.
+npc/matka_desc	She is pushing a pram round the courtyard on almost no sleep, and has exactly no time for anybody's nonsense today, or any other day.
+npc/matka_left	You leave her to it. She was already going.
+npc/matka_line1	She keeps the pram between you and her without making anything of it.
+npc/matka_line2	She mentions the little one was up half the night, in the flat tone of somebody who has stopped expecting sympathy.
+npc/matka_short	The young mother with the pram
+npc/matka_warm	You keep your voice down and step aside for the pram. She notices, and says so, which costs her something.
+npc/not_here_now	You look round for them and they are not here any more. Whatever that was, the moment has gone.
+npc/pijak_blunt	You tell him he's talking nonsense. He agrees enthusiastically, says nonsense is underrated, and carries on anyway.
+npc/pijak_desc	A man considerably further gone than you, holding a bottle and an idea he desperately needs to share.
+npc/pijak_left	You gently unhook your sleeve and go. He does not notice.
+npc/pijak_line1	He grabs your sleeve with great urgency and begins explaining something enormously important.
+npc/pijak_line2	As far as you can tell it involves the government, his brother-in-law, and a dog he once had. The three may be connected. He seems certain.
+npc/pijak_short	The proper drunk
+npc/pijak_warm	You nod along and tell him he's absolutely right. He wells up, calls you the only kurwa honest man left, and offers you a swig you politely decline.
+npc/reply_ask	Ask them for something
+npc/reply_blunt	Give it to them straight
+npc/reply_fight	Square up to them
+npc/reply_give	Give them something
+npc/reply_leave	Make your excuses and go
+npc/reply_warm	Be decent about it
+npc/siostra_blunt	You tell her you do not need saving. She agrees with you, pleasantly, and that is somehow worse.
+npc/siostra_desc	She does the soup run three nights a week, feeds anybody who turns up, and has never once lectured a soul about how they got there.
+npc/siostra_left	You leave. She does not try to stop you, which is why people come back.
+npc/siostra_line1	She asks if you have eaten today, and waits for the real answer rather than the polite one.
+npc/siostra_line2	She tells you there is soup on Thursday and says it like a fact, not a favour.
+npc/siostra_short	The sister from the parish
+npc/siostra_warm	You tell her the truth about how the week has gone. She takes it without a flicker and tells you Thursday, again.
+npc/sklepowy_blunt	You tell him he doesn't know he's born. He shrugs and goes back inside early. Probably fair.
+npc/sklepowy_desc	A bored teenager from the corner shop, out the back on a five minute break that has been going twenty minutes.
+npc/sklepowy_left	You leave him to his break. He looks almost disappointed.
+npc/sklepowy_line1	He nods at you the way you nod at someone you see every day and know nothing about.
+npc/sklepowy_line2	He complains about his manager, his hours, and a customer who counted out payment in one groszy coins.
+npc/sklepowy_short	The shop kid on a fag break
+npc/sklepowy_warm	You tell him the coin story is the funniest thing you've heard all week. He laughs properly and says you're alright. Small mercies at the till later.
+npc/stary_blunt	You tell him his day is over and the works are a car park now. He goes quiet. You feel about six inches tall, but the lads would have laughed.
+npc/stary_desc	An old boy in a flat cap who has lived on this estate since before the blocks went up, and has opinions about all of it.
+npc/stary_left	You make a noise about being somewhere and go. He carries on talking to the space you were in.
+npc/stary_line1	He shuffles up, taps the bench beside him and tells you the estate has gone downhill since they closed the works.
+npc/stary_line2	He explains, at length, that in his day a man could get a job and a flat by simply asking. He is not entirely wrong and not entirely right.
+npc/stary_short	The old boy on the bench
+npc/stary_warm	You let him talk himself out and agree in all the right places. He pats your arm and says you're a good lad, which costs him something to say.
+npc/talk_hint	Press Enter to talk to them, or walk on.
+npc/uczennica_blunt	You tell her to get on with it. She calls you a boomer, which stings more than any swear word, and the earphone goes straight back in.
+npc/uczennica_desc	Sixteen, headphones round her neck, bag over one shoulder, taking the short cut through the estate twice a day and clocking everything.
+npc/uczennica_left	She is already walking. The music goes back on.
+npc/uczennica_line1	She has one earphone out, which is her being polite.
+npc/uczennica_line2	She says the bus was cancelled again and the whole class was late, and she wants you to agree it is ridiculous.
+npc/uczennica_short	The schoolgirl cutting through
+npc/uczennica_warm	You agree the buses are absolutely kurwa hopeless. She cackles, delighted an adult finally said it, and tells you the driver's a legend for not caring either.
+npc/zul_obcy_blunt	You tell him the spot behind the shop was yours first. He tells you to spierdalaj. Neither of you moves. Something has been established, and it isn't friendship.
+npc/zul_obcy_desc	A żul from the bench across the way, sizing you up to work out whether you're competition or company.
+npc/zul_obcy_left	You give him nothing and walk. He'll remember that.
+npc/zul_obcy_line1	He asks, without much warmth, how the bins have been treating you lately.
+npc/zul_obcy_line2	He mentions that his lot have got the good spot behind the shop now, and watches your face carefully when he says it.
+npc/zul_obcy_short	The żul from the other bench
+npc/zul_obcy_warm	You say fair play and wish him luck with it. He relaxes, calls you alright for a cwaniak, and tells you about a skip nobody's touched yet.
+oddjob/result_1	You shift crates until your back complains, and a trader presses %1 złoty into your hand.
+oddjob/result_2	Half an hour of hauling boxes nobody else wanted to haul. Worth %1 złoty and a nod of respect.
+oddjob/result_3	You help a stallholder pack down, break nothing, and get %1 złoty for your trouble.
+opt/autosave_now_off	Auto-save is now off. You will need to save the game yourself.
+opt/autosave_now_on	Auto-save is now on. Your progress will be kept at the end of each day.
+opt/autosave_off	Auto-save at end of day: off
+opt/autosave_on	Auto-save at end of day: on
+opt/back	Back
+opt/contact_cleared	Removed. I will not have a way to reply to you.
+opt/contact_none	Your contact details: none given
+opt/contact_prompt	How I can reach you, if you want me to be able to. Clear it to remove it.
+opt/contact_saved	Saved. I will include %1 when you send something.
+opt/contact_set	Your contact details: %1
+opt/drunk_off	Drunk sound effects: off
+opt/drunk_on	Drunk sound effects: on
+opt/language	Language: %1
+opt/language_set	Language changed. It will be remembered from now on.
+opt/modding_now_off	I will tell you if any of the game's files go missing or change.
+opt/modding_now_on	Right. Change whatever you like, I will not bring it up again.
+opt/modding_off	Modding allowed: off, changed files will be mentioned
+opt/modding_on	Modding allowed: changed files will not be mentioned
+opt/title	Options
+passout/msg	The world does a slow cartwheel and the pavement comes up to greet you. Lights out. ...You come round back at the blok hours later, head pounding, no idea how you got here.
+pause/drunkaudio_now_off	Drunk sound effects are off. The world will stay put no matter what you drink.
+pause/drunkaudio_now_on	Drunk sound effects are on. The world will wobble when you do.
+pause/title	Paused. Up and down to choose, Enter to select, Escape to resume.
+people/back	Back
+people/entry	%1, %2, %3 steps away.
+people/give	Give them something
+people/list_all	List everyone you know and how you stand with them
+people/standing	How you stand with them
+people/standing_is	You and %1: %2.
+people/tastes	What they like
+people/tastes_hate	%1 will not thank you for %2.
+people/tastes_love	%1 loves %2.
+people/tastes_none	You have not worked out what %1 likes yet. Try giving them things and watch their face.
+people/title	People around here. Up and down to look, Enter to pick someone.
+people/track	Head for them
+place/hint_bar	 Press Enter to go in and see what he'll pour you.
+place/hint_cell	 Press Enter to look through the bars.
+place/hint_desk	 Press Enter to speak to whoever is on the desk.
+place/hint_garage	 Press Enter to talk to him about the trolley.
+place/hint_gather	 Press Enter to go through them for bottles, like the dignified gentleman you are.
+place/hint_oddjob	 Press Enter to see if anybody needs a pair of hands.
+place/hint_shop	 Press Enter to buy food, or a drink, or both, let's be honest.
+place/hint_sit	 Press Enter to sit and rest a while.
+place/hint_sleep	 Press Enter to bed down for the night.
+place/hint_stand	 Press Enter to see what he's got on the go.
+place/hint_turnin	 Press Enter to trade your hard-won empties for actual money.
+place/hint_wash	 Press Enter to wash windscreens nobody asked you to wash.
+police/arrested_line	They do not talk to you on the way. %1 złoty goes into an envelope. Nobody offers you anything.
+police/arrested_rough	They put you in the van. %1 złoty out of your pocket goes into an envelope with your name on it.
+police/asks_about_1	He asks who has been taking the copper wire off the substation. He already half knows. He wants you to say it.
+police/asks_about_2	He asks who was drinking in the courtyard last night, and you know full well who it was.
+police/confiscated	He takes %1 items off you and puts them in a bag. You will not see them again.
+police/cop_stops_1	A patrol car slows to walking pace beside you and the window comes down.
+police/cop_stops_2	Policja. He asks for your name and does not write it down, which is worse.
+police/cop_stops_3	He stops you with one hand and does not take it off your shoulder while he talks.
+police/grass	Give him the name
+police/grassed	You give him the name. He writes it down properly this time. Something goes out of the afternoon, and it does not come back.
+police/guard_stops_1	Two city guards peel off the wall they were holding up. One of them says your name is not the point, the point is what you are doing on that bench.
+police/guard_stops_2	A city guard steps in front of you with the weary air of a man three hours from the end of his shift.
+police/guard_stops_3	City guard. He looks at the bottle, then at you, then back at the bottle, and waits for you to say something clever.
+police/how_do_you_play_it	How do you play this?
+police/known_now	That is not the first time, and this is a small district. People will know by Thursday. They always know by Thursday.
+police/let_off_1	He decides you are not worth the paperwork and tells you to move along.
+police/let_off_2	He looks at you for a long moment, then waves you off. Not today.
+police/mandat	He starts writing a mandat karny. %1 złoty.
+police/mandat_choice	Do you take the ticket?
+police/paid	You pay. He tears off the slip and hands it over almost politely, and that is that.
+police/pay_it	Take it and pay
+police/refuse_it	Refuse to accept it
+police/refused	You refuse to sign. Now it goes to a court, and now it is paperwork for him, which he enjoys as much as you do. The street will hear you did not sign.
+police/reply_0_said	You are politeness itself. Yes sir, no sir, absolutely sir. It costs you nothing and he visibly relaxes.
+police/reply_1_said	You answer what he asks and not one word more. He respects it, or at least he cannot fault it.
+police/reply_2_said	You give him just enough lip to enjoy yourself. His jaw sets.
+police/reply_3_said	You tell him precisely what you think of him, his shift, and his uniform. The temperature drops about ten degrees.
+police/reply_cheeky	Give him a bit of cheek
+police/reply_polite	Yes officer, sorry officer, whatever you say
+police/reply_rude	Tell him exactly where to go
+police/reply_straight	Answer him straight and say nothing extra
+police/said_nothing	You tell him you did not see anything. He knows you are lying. You know he knows. Nobody says so.
+police/say_nothing	Say nothing
+police/slipped_krzysztof_1	You mean to be polite. It comes out as a long, swaying apology for things you have not done, finishing with the information that you do not really drink. He looks at the bottle in your hand.
+police/slipped_krzysztof_2	You mean to keep it simple. Instead you try to shake his hand, twice, and ask after his mother by a name you have invented.
+police/slipped_marcin_1	You mean to be civil. What arrives is Darek. Who Darek is, what Darek did, and what you would do to Darek given ten minutes and a quiet street.
+police/slipped_marcin_2	You mean to answer the question. You get three words in before your voice goes and you are jabbing a finger at his chest, which is a mistake, and you know it while you are doing it.
+police/slipped_sebastian_1	You mean to be straight with him. Somehow you end up explaining what you could do for him on price, if he was ever after anything, which he was not, and now he is interested for the wrong reason.
+police/slipped_sebastian_2	You mean to keep it short. You tell him you are only doing this until something better comes up. He asks doing what. That is a very good question and you have just asked it of yourself.
+police/slipped_tom_1	You mean to be polite, and you are, extremely, in English, at length, with subordinate clauses. He understands one word in nine and none of them help.
+police/slipped_tom_2	You mean to answer him. You correct his grammar instead. It was not even wrong. You are not sure why you did that.
+police/tank	The sobering station. They take your laces, they take your belt, and in the morning they take %1 złoty for the privilege of the bed. You are sober, which is the point, and poorer, which is also the point.
+police/what_do_you_say	What do you say?
+quest/bar_visit	Show your face at the bar.
+quest/beg	Beg up %1 złoty from passers-by.
+quest/bottles	Scrounge together %1 bottles.
+quest/chat	Have a proper word with %1 people
+quest/complete	Job done: %1
+quest/done_tag	Done. Nice one.
+quest/drink	Have %1 drinks. Purely medicinal.
+quest/earn	Earn %1 złoty over the day.
+quest/give_gift	Give somebody a gift
+quest/group_graft	Graft.
+quest/group_living	Living.
+quest/group_people	People.
+quest/make_up	Patch things up with somebody you have fallen out with.
+quest/milestones_header	Milestones, the bigger things:
+quest/ms_progress	%1 of %2 so far.
+quest/ms_unlocked	Unlocked: %1
+quest/not_started	Not started.
+quest/oddjob	Shift %1 loads of crates at the market.
+quest/pays	Pays %1 złoty.
+quest/progress	%1 of %2.
+quest/record	Your record: %1 tasks completed, %2 milestones
+quest/record_ms	of %1
+quest/reward	That's %1 złoty in your pocket.
+quest/scrap	Get into %1 scraps. Your funeral.
+quest/sleep	Get your head down somewhere.
+quest/smoke	Get through %1 fags today. Purely for the nerves.
+quest/stand_buy	Buy something hot off the food stand
+quest/title	Today's jobs. Up and down to read them. Q or Escape to close.
+quest/wander	Set foot in %1 different corners of the district.
+quest/wash	Wash %1 windscreens at the lights.
+rel/close	a proper mate
+rel/hostile	wants nothing to do with you
+rel/nodding	on nodding terms
+rel/stranger	a stranger
+rel/title	How you stand with people. Up and down to read. P or Escape to close.
+rel/warm	friendly
+rel/wary	wary of you
+repair/all_well	Everything is where it should be, and nothing has been changed.
+repair/altered_warning	%1 files are not the ones that came with the game. If you have been modding it, swapping sounds for your own, then that is your work and putting the originals back would wipe it, with no way to undo it afterwards. If you have not touched anything, then they are damaged or half downloaded and worth replacing. Only you know which. Which is it?
+repair/done_partly	%1 files put back, but %2 could not be fetched. Try again in a bit, or download the game afresh from the page.
+repair/done_partly_restart	%1 files put back, but %2 could not be fetched. Press enter and the game will start itself up again so the ones that did come back take effect. For the rest, try again in a bit or download the game afresh from the page.%3
+repair/done_restart	Done, %1 files put back. Press enter and the game will start itself up again, so the files you have just got back are the ones it actually uses. You do not need to do anything.
+repair/fetching	Getting file %1 of %2.
+repair/is_altered	Changed: %1
+repair/is_missing	Missing: %1
+repair/looking	Having a look at what you have got.
+repair/no_keep_mine	Leave them alone, they are mine
+repair/opt_altered	Put back %1 changed files
+repair/opt_back	Back
+repair/opt_list	Just tell me which files they are
+repair/opt_missing	Put back %1 missing files
+repair/title	Check and repair the game's files
+repair/update_first	There is a newer version of the game out, and I cannot tell a file you have changed apart from one that simply belongs to the older version. Get the update first, from Check for a new version on the main menu, and then come back here and I can put right anything that is actually wrong.
+repair/yes_restore	Put the original ones back
+save/done	Game saved.
+save/fail	Could not save the game.
+save/loaded	Game loaded. Welcome back to the bench.
+say/krzysztof_sharp	I'll say this once, kindly, because I do like you. Don't push it.
+say/krzysztof_warm1	Good to see you. No angle, honest, just glad you're about.
+say/krzysztof_warm2	Come here, you. How's things? And don't say fine, nobody's fine.
+say/marcin_sharp	Don't test me today, blyat, I'm held together with tape and cheap wine.
+say/marcin_warm1	Kurwa, it's you. Good. Sit. Don't leave me and all, everyone bloody leaves.
+say/marcin_warm2	You get it. You actually get it. Not like her. Suka. Not like her.
+say/sebastian_sharp	Don't bring the mood down, I'm three good decisions from sorted.
+say/sebastian_warm1	My friend! Perfect timing, I'm basically turning it all around today.
+say/sebastian_warm2	You and me, we're the smart ones. Going places. Any day now, kurwa.
+say/tom_sharp	I'm stranded, not so stranded I'll take that. Careful, there's a good chap.
+say/tom_warm1	Ah, a friendly face. I'd offer you tea but I've a degree and a pigeon.
+say/tom_warm2	Good to see you. Marginally better company than my life choices.
+share/back	Back
+share/copied_download	Copied. Paste that anywhere and it takes them straight to the download.
+share/copied_page	Copied. Paste that anywhere and it takes them to the game's page, where there is a proper explanation of what this is.
+share/copy_download	Copy the download link
+share/copy_failed	Could not get at the clipboard, sorry. The address is github dot com, slash, almrany803 dash alt, slash, zul dash simulator.
+share/copy_page	Copy the link to the game's page
+share/open_failed	Could not open a browser, sorry. The address is github dot com, slash, almrany803 dash alt, slash, zul dash simulator.
+share/open_page	Open the game's page in my browser
+share/opened	Opening it in your browser.
+share/title	Tell somebody about the game
+shop/ask	What are you after?
+shop/back	Back
+shop/bought_beer_1	A cold beer. Civilised. Almost respectable.
+shop/bought_beer_2	First beer of the day. Or the fifth. Who's counting.
+shop/bought_beer_3	Beer. Crack, hiss, glug. The little things in life.
+shop/bought_cheapwine_1	The cheap stuff in the plastic bottle. Regret and blackcurrant.
+shop/bought_cheapwine_2	Fortified wine, barely. Tastes the way a park bench smells.
+shop/bought_cheapwine_3	Cheap wine. Your teeth go purple and you stop caring.
+shop/bought_coffee_1	You wrap both hands round the cup. It is too hot to drink and you drink it anyway.
+shop/bought_coffee_2	Kiosk coffee: bitter, scalding, and exactly what you needed.
+shop/bought_coffee_3	You drink it standing up, like everyone else does, and feel almost respectable.
+shop/bought_cordial_1	Sweet, thin, and faintly of last summer. It does you more good than it should.
+shop/bought_cordial_2	Cordial out of the big jar. Your grandmother made it better, but everyone's did.
+shop/bought_cordial_3	You drink it straight down like a child and feel briefly about nine years old.
+shop/bought_doughnut_1	Rose jam. Actual rose jam, not the cheap stuff. You take your time over it.
+shop/bought_doughnut_2	The sugar goes everywhere. Worth it.
+shop/bought_doughnut_3	You eat it in three bites and regret finishing it immediately.
+shop/bought_energy_1	An energy drink. Heart does a drum solo, but the tiredness lifts.
+shop/bought_energy_2	Energy drink. Wings not included. The jitters are.
+shop/bought_energy_3	Cheap energy drink. Taurine, sugar, and pure hope.
+shop/bought_fags	A pack of ten. You've got %1 now. Don't smoke them all at once.
+shop/bought_fruitspirit_1	Somebody's homemade fruit spirit. Could strip paint. Delicious.
+shop/bought_fruitspirit_2	Homemade fruit liqueur. Grandma's recipe, probably illegal.
+shop/bought_fruitspirit_3	Fruit spirit. Sweet for a second, then it kicks like a mule.
+shop/bought_herring_1	Oily, salty, sharp. Proper food, and it sits in you properly too.
+shop/bought_herring_2	Herring straight out of the tub. Your fingers will smell of it until tomorrow.
+shop/bought_herring_3	You eat it with a bit of bread and feel, briefly, like a man with a kitchen.
+shop/bought_kebab_1	A proper kebab. For a moment, everything is fine.
+shop/bought_kebab_2	Kebab, dripping, enormous. This is happiness, briefly.
+shop/bought_kebab_3	Late-night kebab energy at any hour of the day. Glorious.
+shop/bought_lighter	A shiny plastic lighter. Full of gas and promise.
+shop/bought_milk_1	Cold milk. Your stomach, which has been shouting all morning, goes quiet.
+shop/bought_milk_2	You drink the milk standing up. Nobody comments, which is a kindness.
+shop/bought_milk_3	Plain milk, and after the week you have had it tastes like a good decision.
+shop/bought_moonshine_1	Bootleg moonshine of unknown origin. You can see sounds now.
+shop/bought_moonshine_2	Moonshine. Smells like a bonfire and hits like one too.
+shop/bought_moonshine_3	Home-distilled spirit. Probably safe. Mostly. Cheers.
+shop/bought_noodles_1	You get hot water off somebody and eat it out of the pot with the little fork.
+shop/bought_noodles_2	It is mostly salt and steam and it is exactly what you wanted.
+shop/bought_noodles_3	Noodles out of a pot on a wall. There are worse dinners, and you have had them.
+shop/bought_pickle_1	A pickled cucumber and a hunk of bread. Peasant food. Perfect.
+shop/bought_pickle_2	Pickle and bread. Sour, salty, weirdly satisfying.
+shop/bought_pickle_3	A gherkin the size of your forearm. Breakfast of champions.
+shop/bought_pierogi_1	A tray of little stuffed dumplings. Warm, soft, a hug from inside.
+shop/bought_pierogi_2	Dumplings, pan-fried and oniony. You could weep.
+shop/bought_pierogi_3	Hot dumplings, six of them, gone in a minute flat.
+shop/bought_roll_1	A bread roll. Dry, honest, filling. It'll do.
+shop/bought_roll_2	Plain bread roll. Not a feast, but it's food.
+shop/bought_roll_3	A roll. Chewy, cheap, and exactly enough.
+shop/bought_sausage_1	A grilled sausage in a roll, mustard and all. Magnificent.
+shop/bought_sausage_2	Hot sausage in a bun, mustard down your wrist. Worth it.
+shop/bought_sausage_3	Grilled sausage in a roll. The smell alone is half a meal.
+shop/bought_sesamering_1	Still warm from the bakery, and covered in sesame that gets everywhere.
+shop/bought_sesamering_2	Chewy, salty, and about the best three złoty you have spent.
+shop/bought_sesamering_3	You tear it in half and eat the second half slower than the first.
+shop/bought_tea_1	Scalding hot, far too strong, and improved by the lemon. It sorts you out.
+shop/bought_tea_2	You drink it slowly with both hands round the glass. Everything feels a bit more manageable.
+shop/bought_tea_3	Tea in a glass, the way it should be. You feel almost civilised.
+shop/bought_vodka_1	Vodka. It goes down like a threat and lands like a hug.
+shop/bought_vodka_2	Vodka. Burns all the way down, then warms you right up.
+shop/bought_vodka_3	Vodka. One shudder, and the world goes soft at the edges.
+shop/bought_zapiekanka_1	A hot toasted baguette, cheese bubbling. Street food of the gods.
+shop/bought_zapiekanka_2	Melted cheese on toasted bread, a zigzag of ketchup. Bliss.
+shop/bought_zapiekanka_3	The classic hangover baguette. Cheese, mushroom, redemption.
+shop/buy_fags	A pack of ten, 5 złoty
+shop/buy_lighter	A lighter, 2 złoty
+shop/comment_early	Long day ahead, is it, he says, and rings it up anyway.
+shop/comment_food	Good, he says. You could do with something inside you.
+shop/comment_smokes	He slides them across without being asked twice.
+shop/comment_strong	He rings it up without comment, which is its own kind of comment.
+shop/discount	He knocks a złoty off and does not make anything of it.
+shop/drink_beer	A bottle of lager, 4 złoty
+shop/drink_cheapwine	Cheap fruit wine in a plastic bottle, 6 złoty
+shop/drink_coffee	Coffee from the kiosk, hot and far too strong, 5 złoty
+shop/drink_cordial	Fruit cordial ladled out of a big jar, 3 złoty
+shop/drink_energy	Energy drink, 4 złoty
+shop/drink_fruitspirit	Homemade cherry spirit, 5 złoty
+shop/drink_milk	A small bottle of milk, 3 złoty
+shop/drink_moonshine	Bootleg moonshine, eye-watering stuff, 10 złoty
+shop/drink_tea	Strong tea with a slice of lemon, 3 złoty
+shop/drink_vodka	A quarter bottle of vodka, 8 złoty
+shop/food_doughnut	A doughnut with rose jam in it, 4 złoty
+shop/food_herring	Pickled herring in oil, 8 złoty
+shop/food_kebab	Kebab, the late night classic, 20 złoty
+shop/food_noodles	Instant noodles in a pot, add hot water, 4 złoty
+shop/food_pickle	A pickled cucumber, the proper vodka chaser, 3 złoty
+shop/food_pierogi	Stuffed dumplings, the way your grandmother made them, 15 złoty
+shop/food_roll	A plain bread roll, 2 złoty
+shop/food_sausage	Grilled sausage in a roll, 10 złoty
+shop/food_sesamering	A sesame ring from the bakery, 3 złoty
+shop/food_zapiekanka	Toasted baguette with mushrooms and cheese, 12 złoty
+shop/greet_any_1	She is restocking the shelf behind her and carries on doing it while she deals with you.
+shop/greet_any_2	The radio is on low behind the counter, and she turns it down a notch when you come in.
+shop/greet_any_3	She is counting something into a tray and holds up one finger until the number is safe.
+shop/greet_any_4	She looks up, works out roughly how your day is going, and says nothing about it.
+shop/greet_day	He nods at you the way he nods at everyone, and waits.
+shop/greet_known	He greets you by sight, the way he does with regulars, and asks what you are after.
+shop/greet_morning	The lad behind the counter looks up. Early for you, he says, which is not really a question.
+shop/greet_night	He is closing up in his head already, but he waves you in.
+shop/leave	You leave him to it.
+shop/menu_drinks	Drinks
+shop/menu_fags	Cigarettes, 5 złoty for a pack of ten
+shop/menu_food	Food
+shop/menu_leave	Leave with your dignity, what's left of it
+shop/menu_word	Have a word with her
+shop/no_money	You count your złoty twice, in case they breed. They don't. Not enough.
+shop/stored	You buy %1 and stash it in your bag for later.
+shop/word_1	She tells you who has been in already this morning, which is most of the district, in order.
+shop/word_2	She says the deliveries are late again, and that she has stopped expecting anything else.
+shop/word_3	She asks if you are eating properly. You both let the answer go by.
+shop/word_4	She mentions somebody has been asking after you, then will not say who, because she is enjoying it.
+siostra/soup_run	You have nothing and it shows. She does not make a thing of it. A bread roll appears in your hand, warm, and she has already moved on to the next person before you can find the words. That is the soup run. No lecture, no strings.
+sit/alone_1	You sit down and let your legs stop arguing for a bit. Nobody about worth asking.
+sit/alone_2	You take the weight off. The street is empty and your pockets stay that way.
+sit/alone_3	A sit down does you good. There is nobody around, though, so nothing else does.
+sit/company_1	You sit down and take stock. There are %1 people about. If you want money you will have to go and ask one of them.
+sit/company_2	You rest your legs. %1 people within shouting distance, though shouting rarely helps.
+sit/company_3	A minute off your feet. %1 people nearby, any of whom might be good for a couple of złoty if you pick your words.
+sit/sobered	Sitting still a while has done you good. You are steadier on your feet than you were.
+sleep/ask	Turn in for the night?
+sleep/ask_bed	Your own bed, such as it is. A mattress, a blanket that has seen things, and a door that locks.
+sleep/ask_rough	No bed here. You would be sleeping rough, out in the open, with whatever you are carrying.
+sleep/bottles_gone	You wake with your hands empty. All %1 of them, gone, and whoever took them did it quietly.
+sleep/changed_mind	You decide the night is not finished with you yet.
+sleep/drunk	You do not so much fall asleep as stop being awake.
+sleep/hungry	You go down on an empty stomach, and it sits there with you all night.
+sleep/moved_on	A torch in your face at some hour, and a voice telling you to move. You move.
+sleep/no	No, there is still the night in it
+sleep/own_bed	You get your boots off, which is more than some nights, and you are gone before you have finished thinking about it.
+sleep/pockets_gone	Somebody went through your pockets while you were under. %1 złoty lighter, and no one to ask about it.
+sleep/rough_1	You find a corner out of the wind, tuck everything under you, and sleep the way you sleep out here, in pieces.
+sleep/rough_2	The ground takes the warmth out of you by degrees. You are awake for most of it and asleep for the worst of it.
+sleep/rough_3	You get a few hours. Somebody walks past twice and does not stop, which is the best you can ask of anybody.
+sleep/yes	Yes, get your head down
+smoke/already_1	You've already got one on the go, you maniac. Finish that one first.
+smoke/already_2	There's a lit fag in your hand right now. One at a time, even for you.
+smoke/cough_1	You cough. Then you cough properly, from somewhere near your boots. A pigeon leaves in disgust.
+smoke/cough_2	A cough comes up from the basement of your chest and brings friends. You wave it off like it's someone else's problem.
+smoke/died_trying	Click. Click. The last wheeze of gas escapes and the flint gives up. Your lighter has died with a fag already in your mouth. Poetic.
+smoke/finished_1	You take the last drag, flick the end away, and watch it die in the gutter.
+smoke/finished_2	The fag burns down to your fingers. You drop it and stand on it, satisfied.
+smoke/finished_3	That is that one gone. You flick the stub into the road with more style than the moment deserves.
+smoke/head_rush	First one of the day. Your head goes swimmy and lovely and you have to have a quiet word with a lamppost.
+smoke/light_1	You take a long drag and hold it like a man savouring the only good decision he's made all week. %1 left.
+smoke/light_2	The tip glows, the smoke curls, and for about four seconds you are a philosopher and not a bloke sat on a kerb. %1 left.
+smoke/light_3	You blow a smoke ring. It's a terrible smoke ring. You are delighted with it anyway. %1 left.
+smoke/no_light_1	Fag in your lips, lighter in your hand, and absolutely nothing happening between the two. You stand there clicking like a broken clock.
+smoke/no_light_2	Click. Click. Click. The lighter is dead and the fag is judging you.
+smoke/none_1	You pat your pockets. Nothing. You pat them again, harder, as if that ever worked.
+smoke/none_2	Not a single fag. You check the packet twice and shake it, like a man expecting a miracle.
+smoke/took_a_few	Took about four goes, that, and a bit of your dignity.
+snitch/called_out_1	He starts to say something, then remembers, and his whole face changes. Talk to the coppers, do you. He walks off before you can answer, which is fair enough.
+snitch/called_out_2	Alright, he says. Then: no, actually, not alright. You know what you did. Everyone knows what you did.
+snitch/called_out_3	He puts two fingers to his lips and mimes zipping them, very slowly, looking right at you the whole time. Then he laughs, and it is not a nice laugh.
+stand/ask	What will you have off the stand?
+stand/comment_1	He slides it across, still spitting fat, and tells you to mind your fingers.
+stand/comment_2	He shouts your order at nobody, the way stall men do, and gets on with it.
+stand/comment_3	He tells you it is the best in the whole rynek, which is what he tells everyone, and he might be right.
+stand/greet_any_1	He is scraping the plate down with the edge of his spatula and does not look up until he has finished.
+stand/greet_any_2	The onions go on as you arrive, which is either good timing or the smell was always going to get you.
+stand/greet_any_3	He is arguing with somebody on the phone about a delivery, and waves you closer without breaking off.
+stand/greet_any_4	There is a queue of one, and the one is leaving, so he turns to you with the tongs already up.
+stand/greet_day	The vendor wipes his hands on his apron and nods you over. The hot plate hisses.
+stand/greet_known	He has your order half-made before you speak. You come here enough that he does not need to ask.
+stand/greet_late	He is still going at this hour, because the drunks have to eat too, and he knows it.
+stand/leave	You step back from the stand and let the next punter in.
+stand/menu_drinks	Something hot to drink
+stand/menu_food	Something hot to eat
+stand/menu_word	Have a word with him
+stand/word_1	He tells you the trick is never to let the plate go cold, not once, not all day. You suspect he has said this before.
+stand/word_2	He asks how you are keeping, in the flat way of a man who asks everyone and still means it.
+stand/word_3	He complains about the price of everything, at length, while doing three things at once.
+stand/word_4	He nods at the street and says it used to be busier round here, then shrugs like he has made his peace with it.
+station/desk_menu	What do you want at the desk?
+station/fines_nomoney	You cannot cover it. The clerk suggests, without warmth, that you come back when you can.
+station/fines_owed	You owe %1 złoty across %2 tickets.
+station/fines_paid	You pay it off. The clerk stamps something twice and loses interest in you entirely, which is the best outcome available here.
+station/give_info	Offer them information
+station/info_given	You tell them what you know. It is worth %1 złoty to them, and rather more than that to you, and you do not look at anyone on the way out.
+station/info_none	You have nothing they want, and they can tell.
+station/info_refused	You get as far as the counter and cannot do it. You ask about a bus timetable instead. The clerk stares.
+station/leave	Leave the desk
+station/lost_property	Ask about your confiscated property
+station/no_fines	You have no outstanding tickets, which surprises everyone including you.
+station/pay_fines	Pay off your outstanding tickets
+station/property_back	After twenty minutes and two forms you get some of it back: %1 items. They keep the rest, and there is no arguing.
+station/property_none	Nothing of yours is in the bag today.
+status/booze_shakes	Your hands are shaking properly now. Nothing a small one wouldn't fix, which is exactly the problem.
+status/booze_withdrawal	You need a drink and your body is filing a formal complaint about it.
+status/cans	You're lugging %1 bottles about like a clinking idiot.
+status/cash_only	You have %1 złoty.
+status/craving_bad	You're twitchy as a wet cat. Every passing smoker smells like a personal insult.
+status/craving_mild	You could murder a fag.
+status/drunk1	You're pleasantly tipsy. The world has soft edges.
+status/drunk2	You're happy drunk. Everyone's your mate and the pigeons look friendly.
+status/drunk3	You're hammered. You're explaining something important to a bin.
+status/drunk4	You're barely standing. The pavement keeps tilting and your feet are negotiating with it.
+status/fag_withdrawal	You're rattling for a smoke. Your hands don't know what to do with themselves.
+status/heat_bad	They know your face and they are looking for it. Keep this up and you are spending a night in a cell.
+status/heat_mild	You are being noticed. Two of them clocked you today and neither of them forgot.
+status/heat_slight	A copper glanced at you earlier and you noticed.
+status/hp_bad	You're in a bad way, barely on your feet.
+status/hp_mild	You're battered and bruised.
+status/hunger_bad	You're so hungry you'd fight the pigeon and you're not sure you'd win.
+status/hunger_mild	Your stomach's starting to have a word.
+status/line_day	Day %1.
+status/line_energy	Energy %1 out of 100. %2
+status/line_hp	Health %1 out of 100.
+status/line_money	Money: %1 złoty. Bottles: %2.
+status/line_respect	Street respect %1. Community respect %2.
+status/line_where	You're at %1. It's %2.
+status/line_who	You are %1.
+status/panel_title	Your status. Up and down to read each stat. Press S or Escape to close.
+status/quit	Quit to the main menu
+status/respect	Street respect %1. Community respect %2.
+status/resume	Back to it
+status/save	Save game
+status/time_money	It's %1. You've got %2 złoty to your illustrious name.
+status/tired_bad	You're running on fumes and spite.
+status/tired_mild	You're knackered.
+stumble/dropped	A bottle rolls off into the gutter. Gone.
+stumble/msg_1	You lurch sideways and go down like a sack of potatoes. Owww. That one hurt.
+stumble/msg_2	Your legs hold a brief vote, lose confidence, and put you on the pavement.
+stumble/msg_3	You go over an invisible step that was not there and land badly on your hip.
+stumble/msg_4	One moment upright, the next examining the kerb very closely from about an inch away.
+stumble/msg_5	You perform a slow, dignified topple, like a felled tree that has had a few.
+test/already	A test is already running. Let that one finish first.
+test/back	Back
+test/cancel_ask	Stop the test run?
+test/cancel_no	No, carry on
+test/cancel_yes	Yes, stop it
+test/cancelled	Stopping. What was done so far is still written to the log.
+test/carry_on	Carrying on.
+test/days	Days each playtester lives: %1
+test/days_1	One day each. Quickest.
+test/days_10	Ten days each. A proper stretch, and a long wait.
+test/days_2	Two days each.
+test/days_3	Three days each.
+test/days_5	Five days each. Long enough for friendships and habits to show.
+test/days_ask	How many days should each playtester live? More days finds more, and takes longer.
+test/days_set	Each playtester will live this many days: %1.
+test/full	Full check. Everything above, plus five playtesters living a few days each. A minute or two.
+test/last	Read the last results again
+test/long	Deep run. The same five, but playing far longer and harder. Several minutes.
+test/none_yet	Nothing has been run yet this time. Older runs are still in test history dot txt.
+test/noticed	The robot noticed: %1
+test/quick	Quick check. The rules and the writing only, no playtesters. About half a minute.
+test/saved_to_log	All of it is written to test history dot txt in the game folder. That file builds up over time, so you can send the one file on.
+test/sound	Sound only. Checks every sound and music file loads and that people can be heard. Seconds.
+test/starting	Running now. It will make a fair racket while it works, and it will not touch your saved game or your settings. Wait for the chime.
+test/summary	%1 checks run, %2 failed. Arrow down for the details.
+test/title	Testing
+track/arrived	You have reached %1.
+track/beside	%1 is right next to you. Press Enter to talk.
+track/dir	%2, %3 steps.
+track/none	You are not tracking anything. Press T to choose a place to track.
+track/set	Tracking %1. The beeping will take you there.
+track/title	Track what? Up and down to choose, Enter to set it, Escape to cancel.
+travel/at_exit	You're at the edge of the area. An exit to %1. Press Shift then Enter to go there.
+travel/exit_to	Exit to %1
+travel/not_exit	There's no way out here. Walk to the edge of the area to find an exit.
+trolley/tier0	just your two arms and some deep pockets
+trolley/tier1	a busted shopping trolley with one wonky wheel
+trolley/tier2	a decent trolley, all four wheels turning
+trolley/tier3	a proper rig with a milk crate bungeed on the front
+turnin/none	You've got no bottles, you optimistic sod. Go find some first.
+turnin/result_1	The machine swallows %1 bottles with a series of satisfying clunks and pays you %2 złoty.
+turnin/result_2	You feed %1 bottles in one at a time. Clunk. Clunk. Clunk. Out comes %2 złoty.
+turnin/result_3	%1 bottles in, %2 złoty out. The finest exchange rate known to man.
+update/ask	Do you want to get it now?
+update/check_now	Check for a new version
+update/done	That is installed. Press enter and the game will start itself up again on the new version. You do not need to do anything.
+update/failed	The update could not be finished, so nothing has been changed and the game still works. Reason: %1
+update/looking	Having a look.
+update/no	No, not now
+update/no_answer	Could not reach the update server. You might be offline, or it might just be having a moment. The game is fine either way, try again later.
+update/partly_done	Most of that went in, but %1 of the files could not be fetched on their own. The game will work, but it is not quite the full version. Downloading the game again from the page and unzipping it over the top will sort it, and your saves are kept elsewhere so they will not be touched.
+update/reinstall_needed	There is something new, but %1 of the files cannot be fetched one at a time. Download the game again from the page and unzip it over the top: your saves live elsewhere and will not be touched.
+update/there_is_news	There is a new version of the game ready. Press enter to hear what has changed.
+update/up_to_date	You are on the newest version. Nothing to get.
+update/working	Getting file %1 of %2.
+update/yes	Yes, update now
+wash/result_1	You smear a few windscreens before the lights change and one driver actually pays up. %1 złoty.
+wash/result_2	Squeegee, elbow grease, and a smile at a man who did not ask for any of it. He hands over %1 złoty to make you go away.
+wash/result_3	You do a genuinely decent job on a filthy windscreen. The driver looks surprised and gives you %1 złoty.
+whatsnew/intro	What has changed lately. Use the up and down arrows to move through it, and enter or escape when you are done.
+whatsnew/missing	The notes about what has changed are not in the game folder. If you deleted them, downloading the game again will bring them back.
+whatsnew/title	What's new
+tred/title	Translation: the game's words in another language
+tred/which_language	Language
+tred/new_language	Start a new language
+tred/name_it	What is it called? One word, plain letters, like polish or german.
+tred/bad_name	Plain letters only, please. It becomes the name of a file.
+tred/working_on	Translating into %1. What would you like to work on?
+tred/the_game	The game's own text
+tred/a_map	The text in one map
+tred/which_map	Map
+tred/map_empty	There is nothing written in that one yet.
+tred/no_english	The English file is missing, so there is nothing to work from.
+tred/opened	%1. %2 lines, %3 of them done. Up and down to move through them, Enter to work on one.
+tred/line	Line %1 of %2. It says: %3.
+tred/current	You have: %1.
+tred/not_done	Nobody has done this one.
+tred/progress	%1 of %2 done.
+tred/type_it	Edit this line
+tred/prompt	How would you put this? It says: %1
+tred/next_undone	Go to the next untranslated line
+tred/hear_again	Repeat
+tred/jumped	Here you go.
+tred/all_done	That is the lot. Every line has something.
+tred/save_now	Save
+tred/saved	Saved.
+tred/nothing_changed	Nothing has changed since the last save.
+tred/unsaved	You have changes you have not saved.
+tred/save_and_go	Save them, then leave
+tred/lose_it	Leave without saving
+tred/leave	Back
+tred/cannot_write	Could not write %1. Nothing has been changed.
+tred/write_short	The file came back shorter than it went in, so nothing has been changed.
+tred/write_wrong	The file did not come back the way it went in, so nothing has been changed.
+tred/search	Search
+tred/search_prompt	What are you looking for? It will look in the English, in what you have written, and in the line's name.
+tred/no_hits	Nothing matched %1.
+tred/hits	%1 matched %2. Pick one to go to it.
+opt/lang_title	Language. Up and down to hear them, Enter to choose.
+bld/title	Builder
+bld/title_idle	Builder. Nothing selected.
+bld/title_working	Builder. Editing %1, writing in %2.
+bld/make_area	Create a new map
+bld/work_on	Edit the map %1
+bld/work_on_another	Choose a different map
+bld/leave	Back
+bld/cancel	Cancel
+bld/which_language	Which language are you writing in? You can add others later with the translation editor.
+bld/new_id	A short name for the file, plain letters, like cmentarz or docks.
+bld/bad_id	Plain letters, numbers and underscores only, please. It becomes part of a file.
+bld/already	There is already an area called %1.
+bld/new_name	What is it called, in words? This is what a player hears when they arrive.
+bld/how_wide	How wide, in steps? Our own areas run from twelve to thirty four.
+bld/how_tall	How deep, in steps?
+bld/what_underfoot	What is underfoot across most of it? You can add patches of other things later.
+bld/made_it	%1 is made, %2 steps. You are standing in it.
+bld/where	Position
+bld/here_at	Use current position, %1
+bld/type_coords	Enter coordinates
+bld/which_x	How far across? Nought is the left edge.
+bld/which_y	How far up? Nought is the bottom edge.
+bld/what_kind	Place type. This decides what Enter does there.
+bld/kind_sit	Somewhere to sit and rest
+bld/kind_sleep	Somewhere to bed down for the night
+bld/kind_gather	Bins worth going through for bottles
+bld/kind_turnin	A machine that pays for empties
+bld/kind_shop	A shop that sells food and drink
+bld/kind_bar	A bar
+bld/kind_stand	A food stand
+bld/kind_wash	Somewhere to wash windscreens
+bld/kind_oddjob	Somewhere to pick up odd jobs
+bld/kind_garage	Somewhere to do up your trolley
+bld/kind_desk	A police desk
+bld/kind_cell	Cells you can look into
+bld/place_id	A short name for it, plain letters, like lawka or brama.
+bld/place_name	What is it called, in %1? This is what a player hears when they walk up to it.
+bld/place_look	And how would you describe it, in %1? A sentence or two.
+bld/needs_a_name	It needs something to be called. Nothing has been added.
+bld/added_place	%1 added at %2.
+bld/go_there	Walk to this map
+bld/check_it	Check this map for problems
+bld/checking_on	Checking while you build: on
+bld/checking_off	Checking while you build: off
+bld/checking_now_on	I will tell you about problems as you make them.
+bld/checking_now_off	I will keep quiet until you ask me to check it.
+bld/all_well	Nothing wrong with it that I can see.
+bld/things_to_fix	%1 things worth looking at. Arrow through them.
+bld/off_the_map	%1 is at %2, which is outside the area.
+bld/no_way_out	There is no way out of it, and no way in. Nobody can reach it yet.
+bld/nothing_in_it	There is nothing in it yet.
+bld/copy_raw	Copy this map's data to the clipboard
+bld/copied	Copied. Paste it wherever you like.
+bld/copy_failed	Could not get at the clipboard, sorry.
+bld/cannot_write	Could not save %1. Nothing has been changed.
+bld/write_wrong	The file did not come back the way it went in, so nothing has been changed.
+bld/lost_the_map	I cannot find that map any more.
+bld/intro_1	This is the builder. It makes maps, the people you play as, and the numbers behind the game, and it writes all of it into plain text files the game reads. You do not need to know anything about files. Press enter to hear the rest of this.
+bld/intro_2	Maps are built by walking. Stand where you want a bench or a bin or a shop, and tell it to put one there. It takes the spot from wherever you happen to be standing, so there are no numbers to work out, though you can type them if you would rather.
+bld/intro_3	Everything you make goes into whichever game you have chosen on the main menu. If that is a mod of your own, it all sits in one folder that you can zip up and send to somebody, and they drop it in and have it. If it is the town the game comes with, be aware that an update will put the original back.
+bld/intro_4	Shift and B opens this from anywhere in the game, which is how you get back to it. You will not hear this again, but there is an option in the builder to hear it whenever you like. Everything you build is saved as you go.
+bld/ours_warning	%1 came with the game. You can change it, and it is your copy, but be warned: when the game updates it will put the original back and your work on it will be gone. An area you made yourself is never touched. Carry on?
+bld/ours_go_on	I know, let me change it anyway
+bld/ours_no	Leave it alone
+howto/sec_build	Building an area
+howto/build_1	You can build areas of your own and they become part of the game. Shift and B opens the builder from anywhere, and it is worth knowing that before you need it.
+howto/build_2	An area is a patch of ground with things in it. It has a size, a way in, something underfoot, and then whatever you put there. Everything you build is saved as you go, into a plain text file, and you never have to open that file yourself.
+howto/build_3	You build by walking. Stand where you want a bench and tell it to put a bench there. It takes the spot from where you are standing, so there are no numbers to work out, and it will let you type them instead if you would rather.
+howto/build_4	There are six things you can add. A place is something you press Enter on: a bench, a bin worth going through, a shop, somewhere to bed down. A person is somebody who stands there and can be talked to. A description area is scenery you hear when you walk through it. A ground surface changes how your footsteps sound. A sound source is something making a noise in a fixed spot. And an exit is a way out to somewhere else.
+howto/build_5	Putting somebody on a map asks who, from everybody in the game, and when they are about. All day is the plain answer, or you can give them hours so they come and go, which is what makes a town feel lived in rather than staged. Putting the same person down twice moves them rather than leaving two of them about.
+howto/build_6	When you put down a shop, a bar or a food stand it asks who is behind the counter. Anybody in the game will do, or nobody in particular, which leaves whoever the game normally uses. If you name somebody, it also asks whether the place should be shut when they are not about, which is how you make a shop that closes at ten and a town you have to plan your evening around.
+howto/build_7	For anything covering a stretch of ground, a description area or a patch of surface, you walk to one corner and press Enter, then walk to the other. Or you type the four edges, if you already know where they are.
+howto/sec_translate	Translating the game
+howto/translate_1	The game can speak any language somebody is willing to write, and there is a tool in it to do the writing. It is under Options, called Translation, and it is also in the builder.
+howto/translate_2	It shows you every line the game can say, one after another. For each one you hear the English and either what you have already put or that nobody has done it yet, with a count of how many are finished. Press Enter on a line to type your version.
+howto/translate_3	There is an option to jump straight to the next line nobody has touched, which is how you would actually sit down and work through it rather than arrowing past a thousand lines that are already done.
+howto/translate_4	You can search it too. It looks in the English, in what you have written yourself, and in the name of the line, so you can find how you put something before and keep it consistent. It ignores accents, so you do not need the right keyboard to find your own work.
+howto/translate_5	It will translate a single area as well as the game, so somebody can add a language to one place without touching anything else. And it works whichever way round: an area written in Polish can have English added to it just as easily.
+howto/translate_6	Nothing is the original. English and Polish sit beside each other as equals, and anything you start does too. If a line has not been done in your language you hear the English rather than silence, so a half finished translation is still perfectly playable.
+howto/translate_7	To start a language nobody has done, choose Start a new language and give it a plain one word name like german. Everything you save goes into a file of that name, and the language then turns up in the options like any other.
+bld/add_zone	Add description area
+bld/add_terrain	Add ground surface
+bld/add_sound	Add sound source
+bld/add_exit	Add exit
+bld/whats_in_it	What is in this map: edit or delete
+bld/how_big	Area to cover
+bld/walk_corners	Walk to each corner
+bld/type_range	Enter the edges
+bld/whole_area	The whole map
+bld/stand_first_corner	Walk to one corner and press Enter. Escape gives up.
+bld/first_corner_at	One corner at %1. Now the opposite one.
+bld/stand_other_corner	Walk to the other corner and press Enter.
+bld/gave_up	Left it as it was.
+bld/least_x	The left edge of it. Nought is the far left.
+bld/most_x	And the right edge.
+bld/least_y	The bottom edge. Nought is the very bottom.
+bld/most_y	And the top edge.
+bld/zone_words	What should somebody hear walking through it, in %1? This is scenery, not something you press Enter on.
+bld/needs_words	It needs something to say. Nothing has been added.
+bld/added_zone	Added. Walk through it and you will hear it.
+bld/what_surface	Ground surface
+bld/added_terrain	Done. It is %1 there now.
+bld/which_sound	Sound. Chosen from the list, so the name cannot be wrong.
+bld/no_sounds	There are no ambient sounds to choose from.
+bld/when_heard	Hours audible
+bld/all_day	At all hours
+bld/certain_hours	Between set hours
+bld/from_hour	From which hour? Nought is midnight, thirteen is one in the afternoon.
+bld/to_hour	Until which hour?
+bld/added_sound	%1 added at %2.
+bld/where_to	Destination
+bld/nowhere_to_go	There is nowhere else to go to yet.
+bld/way_back_too	Shall I put a way back from %1 as well? Without one, people can get in and not out.
+bld/and_back	Add a return exit as well
+bld/one_way	One way only
+bld/added_exit_both	Done. There is a way there and a way back, arriving at %2 in %1.
+bld/added_exit_oneway	Done. A way out, but no way back yet.
+bld/in_it	Map contents: %1 items. Enter to edit or remove.
+bld/is_a_place	%1, which is %2, at %3
+bld/is_a_zone	Something to hear: %1, over %2
+bld/is_terrain	%1 underfoot, over %2
+bld/is_a_sound	The sound %1, at %2
+bld/is_a_way_out	A way out to %1
+bld/go_to_it	Go to it
+bld/remove_it	Delete this from the map
+bld/really_remove	Take out %1? This cannot be undone.
+bld/yes_remove	Remove it
+bld/removed	Gone.
+bld/standing_at	You are at %1, where %2 is.
+bld/no_single_spot	That one covers a stretch of ground rather than a single spot.
+cwz/part_0	What is she called? Just the name, as somebody would say it.
+cwz/part_1	Who is she? A sentence to introduce her, said when you pick her.
+cwz/part_2	What is her one thing? The habit or trait that marks her out.
+cwz/part_3	Her story, part one. How she ended up on this street.
+cwz/part_4	Her story, part two.
+cwz/part_5	Her story, part three.
+cwz/part_6	Her story, part four, and the last.
+cwz/part_7	What does she mutter to herself when nothing is happening?
+cwz/part_8	And another mutter, so it is not the same one every time.
+cwz/part_9	Something warm she says to somebody she likes.
+cwz/part_10	Another warm thing, said differently.
+cwz/part_11	Something sharp she says when she has had enough of somebody.
+cwz/part_12	How does she ask for money when she is being humble?
+cwz/part_13	How does she ask when she is being funny about it?
+cwz/part_14	How does she ask when she is being blunt?
+cwz/part_15	How does she ask when she is laying it on thick?
+cwz/part_16	How does she ask when she is drunk and it is not going well?
+cwz/part_17	What has she lost, waking up in a cell? First thing.
+cwz/part_18	Second thing she finds is gone.
+cwz/part_19	Third thing.
+cwz/part_20	What does she say when she has talked her way out of a police stop?
+cwz/part_21	And another way she talks her way out.
+cwz/title	Characters you can play as
+cwz/from_scratch	Create a character from nothing
+cwz/based_on	Create a character based on an existing one
+cwz/carry_on	Finish a character you started
+cwz/leave	Back
+cwz/none_started	You have not started anybody yet.
+cwz/which_one	Character
+cwz/finished	%1, complete
+cwz/unfinished	%1, %2 lines remaining
+cwz/their_id	A short name for the file, plain letters, like zulica or wanda.
+cwz/bad_id	Plain letters, numbers and underscores only. It becomes part of a file.
+cwz/already	There is already somebody called %1.
+cwz/who_like	Base character. Anything you do not write yourself is taken from theirs.
+cwz/how_known	How well is she known on the street, out of a hundred? The others run from twenty to seventy.
+cwz/how_thought_of	And how well thought of by the district, out of a hundred?
+cwz/started	%1 started. Now her words, and you can stop and come back whenever you like.
+cwz/line_is	%1 %2
+cwz/not_written	Nothing written.
+cwz/borrowed	Borrowed for now: %1
+cwz/all_done	%1 is finished. Anything you want to change?
+cwz/still_to_do	%1, %2 lines still to write. Arrow through them, Enter to write one.
+cwz/for_example	For instance, somebody else put it: %1
+cwz/written	Written.
+cwz/cannot_write	Could not save %1. Nothing has been changed.
+howto/build_8	Sounds are picked from a list rather than typed, so it is not possible to name one that does not exist. You can set hours as well, if something should only be heard after dark.
+howto/build_9	When you add an exit it offers to put the way back in too. Take that offer unless you mean to strand somebody, because without it people can walk into your area and not get out again.
+howto/build_10	Map contents shows you everything in the area, described in plain words. Arrow to something and you can walk to it or take it out. That is how you fix a bench you have put in the wrong place.
+char/halina_name	Halina
+char/halina_intro	Sixty one years old, thirty of them out here. I know who owes what to who, and I know what you had for breakfast. Sit down, you look terrible.
+char/halina_quirk	Been on this street longer than the shop has. Trades in what she knows rather than what she has, which is nothing. Makes her own nalewka and has strong views on what other people call nalewka. Checks on people without ever admitting to it.
+char/halina_story1	Halina had a flat on the fourth floor, a husband, and a job at the cannery, in roughly that order of importance to her.
+char/halina_story2	The cannery went first. Then the husband went, which she describes as the cannery being the bigger loss.
+char/halina_story3	The flat took longer, the way flats do: a letter, then another letter, then a man at the door being very sorry about it.
+char/halina_story4	That was thirty years ago and she has not been sad about it for twenty nine of them. This is her street now. She knows every crack in it.
+char/halina_mutter1	Thirty years. You would think somebody would have fixed that gate by now.
+char/halina_mutter2	That one's got a story he tells three ways. I have heard all three.
+say/halina_warm1	You're alright, you. Bit soft, but alright.
+say/halina_warm2	Come here. No, come here. There, that's better. Now you look like a person.
+say/halina_sharp	I have known you since you had teeth, so do not start with me.
+beg/halina_humble	Excuse me love, sorry to bother you. It's just for a bit of bread. You've got a kind face, I can tell.
+beg/halina_funny	Two złoty and I will tell you who is sleeping with who on this street. It is a better story than the telly.
+beg/halina_blunt	Two złoty. I have been asking on this corner since before you were born and I have got very good at it.
+beg/halina_sob	I have got nothing, love. Nothing at all. Thirty years and nothing. Whatever you can spare.
+beg/drunk_halina	You. Yes, you. Listen. Listen. No, listen. What was I saying. Two złoty.
+cell/lost_halina_1	her good headscarf, the one she keeps for funerals
+cell/lost_halina_2	the little tin she keeps her nalewka money in
+cell/lost_halina_3	a photograph of the fourth floor flat, taken from the street
+police/slipped_halina_1	I have known your mother since school, Marek. Does she know you talk to people like this?
+police/slipped_halina_2	Go on, do it. Arrest a sixty one year old woman on a Tuesday. Your sergeant will love that.
+char/grazyna_name	Grażyna
+char/grazyna_intro	I am not one of these people. I am between flats. My son is a manager in Warsaw and he is going to ring me any day now.
+char/grazyna_quirk	Absolutely not a żulica, thank you. Still does her hair every morning with no mirror. Judges everybody on this street while being exactly as skint as all of them. Mentions her son within four minutes of meeting anybody.
+char/grazyna_story1	Grażyna had a nice life, and she will tell you about it at length whether you asked or not.
+char/grazyna_story2	There was a flat with a balcony, a husband called Janusz who was useless but present, and a son who did his homework.
+char/grazyna_story3	Janusz left, the flat went with him somehow, and the son moved to Warsaw and got very busy.
+char/grazyna_story4	She has been between flats for four years now. She would like it noted that this is temporary and that she is not like the others.
+char/grazyna_mutter1	Look at the state of him. And he thinks he is having a bad day.
+char/grazyna_mutter2	My Marek is very busy. That is why. It is not that he does not ring.
+say/grazyna_warm1	You are one of the better ones. I am not saying much, mind, but you are.
+say/grazyna_warm2	I will say this for you, you keep yourself decent. That matters. Nobody else here thinks so.
+say/grazyna_sharp	Do not speak to me like that. I had a balcony.
+beg/grazyna_humble	I do not do this. I want you to know I do not do this. But if you had anything at all.
+beg/grazyna_funny	Two złoty. Consider it an investment. When my son rings I will have you round for dinner and you will feel very silly about hesitating.
+beg/grazyna_blunt	Two złoty, and do not make a performance of it. I have had a very difficult four years.
+beg/grazyna_sob	I had a flat with a balcony. A balcony. And now I am stood here asking you. Do you understand what that is like?
+beg/drunk_grazyna	I am not drunk, I am tired. There is a difference and it is an important one. Have you got two złoty.
+cell/lost_grazyna_1	her hairbrush, which she had for twenty years
+cell/lost_grazyna_2	the phone number for her son, written on a bit of card
+cell/lost_grazyna_3	her good coat, the one that makes her look like she is going somewhere
+police/slipped_grazyna_1	Do you know who my son is? He is a manager. In Warsaw. In an office.
+police/slipped_grazyna_2	I am a respectable woman having a difficult period and you will address me properly.
+bld/add_place	Add place
+mod/title	Choose the game you are playing
+mod/which	Choose what you are playing. This decides which town you are in and what the builder works on.
+mod/base	Zul Simulator, the town the game comes with
+mod/base_now	Zul Simulator, the town the game comes with. This is what you are playing.
+mod/now_playing	This is what you are playing.
+mod/by	by %1
+mod/contents	%1 areas, %2 people, %3 sounds
+mod/is_own_town	A town of its own.
+mod/make_one	Create a new mod
+mod/leave	Back to the main menu
+mod/cancel	Cancel
+mod/play_it	Play this mod
+mod/tell_me_about_it	What is in this mod
+mod/now_playing_this	You are now playing %1. Your game in the original town is kept as it was.
+mod/now_base	You are back in the town the game comes with.
+mod/ask_name	What would you like to call it?
+mod/ask_about	Describe it in a sentence, if you like. You can leave this empty.
+mod/ask_kind	Is this extra places added to the town the game comes with, or a town of its own?
+mod/adds_to_town	Extra places, added to the town the game comes with
+mod/own_town	A town of its own
+mod/adds_means	Its areas are added to the ones already there, so you can walk between them.
+mod/own_town_means	Only its own areas are used. The town the game comes with is not part of it.
+mod/name_taken	There is already one called %1.
+mod/name_unusable	That name cannot be used for a folder. Try something with some letters in it.
+mod/could_not_make	Could not make the folder. Nothing has been created.
+mod/made_it	%1 is ready. Anything you build from now on goes into it. Press shift and B to begin.
+mod/remove_it	Delete this mod from this machine
+mod/really_remove	Remove %1? Everything in it goes: its areas, its people, its words, its sounds, and the game you played in it.
+mod/really_really	This cannot be undone. Are you certain?
+mod/really_remove_yes	Yes, remove it
+mod/removed	%1 has been removed.
+mod/could_not_remove	Could not remove %1. Nothing has been changed.
+mod/menu_base	Choose the game you are playing. Currently: the town the game comes with.
+mod/menu_mod	Choose the game you are playing. Currently: %1.
+bld/main_title	Builder. %1
+bld/into_base	Working on the town the game comes with.
+bld/into_mod	Working on %1.
+bld/maps	Maps: create or edit an area
+bld/maps_title	Maps. Create a new one, or choose one to edit.
+bld/edit_stock	Edit %1, which came with the game
+bld/add_something	Add something to this map
+bld/add_title	Add to this map
+bld/instructions	How the builder works
+bld/tuning	How the game plays: the numbers behind it
+bld/tuning_soon	Not built yet. This is where the numbers behind the game will be changed.
+tune/title	How %1 plays. Arrow through, Enter to change one.
+tune/was	The game has it at %1.
+tune/change_it	Change it
+tune/put_back	Put it back to what the game has
+tune/cancel	Cancel
+tune/leave	Back
+tune/set_to	Set to %1.
+tune/put_back_to	Back to %1, as the game has it.
+tune/base_game	This changes how a mod plays, so choose one first, or make one. The town the game comes with is left alone.
+tune/cannot_write	Could not save %1. Nothing has been changed.
+tune/write_wrong	The file did not come back the way it went in, so nothing has been changed.
+tune/bottle_pays	What a bottle pays:
+tune/wash_pays_least	The least washing windscreens pays:
+tune/wash_pays_most	The most washing windscreens pays:
+tune/oddjob_pays_least	The least an odd job pays:
+tune/oddjob_pays_most	The most an odd job pays:
+tune/gather_costs_energy	What going through bins takes out of you:
+tune/wash_costs_energy	What washing windscreens takes out of you:
+tune/oddjob_costs_energy	What an odd job takes out of you:
+tune/turnin_costs_energy	What wheeling the trolley to the machine takes:
+tune/beg_costs_energy	What asking somebody for money takes:
+tune/give_costs_energy	What handing something over takes:
+tune/sit_sobers	How much a sit on a bench brings you round:
+tune/ask_bottle_pays	How many zloty for each bottle? The game gives %1, so a full trolley of fifteen is fifteen zloty.
+tune/ask_wash_pays_least	The least somebody hands you for a windscreen? The game gives %1, and the most is separate.
+tune/ask_wash_pays_most	And the most? The game gives %1. Your standing in the district is added on top of whatever comes up.
+tune/ask_oddjob_pays_least	The least an odd job pays? The game gives %1.
+tune/ask_oddjob_pays_most	And the most? The game gives %1.
+tune/ask_gather_costs_energy	How much energy does going through bins take? The game takes %1, out of a hundred when you are fresh.
+tune/ask_wash_costs_energy	How much energy for a windscreen? The game takes %1.
+tune/ask_oddjob_costs_energy	How much energy for an odd job? The game takes %1, the heaviest work there is.
+tune/ask_turnin_costs_energy	How much energy to wheel the trolley to the machine? The game takes %1.
+tune/ask_beg_costs_energy	How much energy to ask somebody for money? The game takes %1.
+tune/ask_give_costs_energy	How much energy to hand something over? The game takes %1.
+tune/ask_sit_sobers	How much does a sit on a bench sober you? The game gives %1, and a night in a cell gives thirty.
+ppl/title	The people who live in the town
+ppl/title_for	Who wants what in %1. Arrow through, Enter to work on somebody.
+ppl/leave	Back
+ppl/nothing	nothing
+ppl/loves	Loves %1.
+ppl/hates	Will not touch %1.
+ppl/has_rules	%1 rules.
+ppl/now_loves	Loves: %1
+ppl/now_hates	Will not touch: %1
+ppl/now_likes	Glad of: %1
+ppl/type_loves	What do they love? Names, separated by spaces, like %1.
+ppl/type_hates	What will they not touch? Names, separated by spaces, like %1.
+ppl/type_likes	What are they merely glad of? Names, separated by spaces, like %1.
+ppl/no_such_thing	There is nothing called %1 in the game. Nothing has been changed.
+ppl/written	Written.
+ppl/add_rule	Add a rule
+ppl/rule_verdict	Is this a rule about what they love, what they will not touch, or what they are glad of?
+ppl/v_love	loves
+ppl/v_hate	will not touch
+ppl/v_like	is glad of
+ppl/about_what	What about it? This is the thing the rule looks at.
+ppl/prop_drunk	how drunk it makes you
+ppl/prop_price	what it costs
+ppl/prop_energy	what it does to your legs
+ppl/prop_feeds	how much it fills you
+ppl/prop_swigs	how many swigs are in it
+ppl/prop_bites	how many bites are in it
+ppl/others	Everything of one sort, except what they love
+ppl/which_sort	Everything of which sort?
+ppl/sort_drink	drink
+ppl/sort_food	food
+ppl/sort_found	things you find
+ppl/compared_how	Compared how?
+ppl/cmp_more	more than
+ppl/cmp_less	less than
+ppl/cmp_exactly	exactly
+ppl/ask_drunk	Stronger than what? Beer is 3, vodka is 8, moonshine is 14, and a coffee is nought.
+ppl/ask_price	Dearer than what? A roll is 2, a beer is 4, a kebab is 20.
+ppl/ask_energy	More energy than what? A beer takes 1 off you, a kebab puts 38 back.
+ppl/ask_feeds	Fills you more than what? A roll is 8, pierogi are 32.
+ppl/ask_swigs	More swigs than what? Most bottles have three to ten.
+ppl/ask_bites	More bites than what? Most things have two to five.
+ppl/rule_is	%1 anything where %2 is %3.
+ppl/rule_others	%1 everything of the sort %2, except what they love.
+ppl/catches	Today that is %1.
+ppl/catches_many	Today that is %1 and %2 others.
+ppl/catches_nothing	Nothing in the game matches that at the moment.
+ppl/rule_what_now	What would you like to do with this rule?
+ppl/remove_rule	Take it out
+ppl/rule_gone	Gone.
+mod/some_missing	%1 of the game's files are missing, so parts of it will be silent or will not load. Shall I fetch them?
+mod/fetch_them	Yes, fetch them
+mod/leave_them	No, leave it
+mod/some_changed	%1 of the game's files are not as they were, and they are not ones you have edited yourself. They are: %2. Shall I put the originals back?
+mod/put_back	Yes, put them back
+mod/leave_as_is	No, leave them as they are
+mod/and_others	and %1 more
+howto/sec_chars	Making characters and people
+howto/chars_1	You can make characters to play as, from the builder under Characters. There are six to begin with, and they are all files you can look at and change.
+howto/chars_2	A character is twenty two lines of writing: who they are, what they mutter to themselves when nothing is happening, how they ask for money when they are humble and when they are blunt, and what they find missing when they wake up in a cell.
+howto/chars_3	You can write one from nothing, or start from somebody who already exists and only write what you want different. Anything you leave alone falls back to theirs, so somebody can be playable in two minutes and finished properly later.
+howto/chars_4	Each question shows you how one of the existing characters answered it, as an example rather than something you are stuck with. Stop whenever you like: it tells you how many lines are still to write and you can come back to it.
+howto/chars_5	The people who live in the town are under People, and you can make them as well as change them. Somebody needs seven lines: what they are called, who they are, two things they say, what they say when they are pleased with you, what they say when they have had enough, and what they say when they walk off.
+howto/chars_6	Each of them also has a voice, which is what they sound like when they speak, from one for gravelly to five for high. And you can say whether the police are allowed to take them.
+howto/chars_7	What they want sits with them too. Everybody loves one thing off the shelf and one thing you can only find, will not touch something, and is merely glad of whole sorts of things. Working that out is most of getting on with people, so no two of them should love the same thing.
+howto/chars_8	Somebody can hold a rule instead of a list, which is the more interesting option. A rule is a property, a comparison and a number: how drunk it makes you, more than, nought. That catches every alcoholic drink, and it catches anything alcoholic somebody adds later, which a list never would.
+howto/sec_mods	Mods, and sharing what you make
+howto/mods_1	A mod is one folder holding everything you have made: your areas, your people, your words and your sounds. You zip it up, send it to somebody, they drop it in their mods folder, and they have it.
+howto/mods_2	You do not have to make a mod. The builder works without one, and everything you do goes into the town the game comes with. It warns you once when you start, because an update will put the original back and your work on it will be gone. That is fine for having a poke about; anything you want to keep belongs in a mod.
+howto/mods_3	Choose the game you are playing is on the main menu. The town the game comes with is first in the list, and any mod you have sits under it. You pick one, and that is what you are playing and what the builder works on. There is no switch to forget and no wondering which of three things put that bench there.
+howto/mods_4	Making one asks what to call it, a sentence describing it if you feel like it, and whether it is extra places added to the town or a town entirely of its own. A town of its own really is its own: only its areas are used, though it still borrows the words and the characters it has not written, so it can never go silent.
+howto/mods_5	Each mod keeps its own saved game, so going back to the town the game comes with finds your game exactly where you left it.
+howto/mods_6	The first time you pick a mod you have never played, it offers to bring a game across from somewhere else, so forty days of work is not the price of trying somebody's town. Your other game is left exactly as it is. Anything that means nothing in the new town, a person or a drink it does not have, is dropped and you are told what has gone. It only offers once, because after that you have a game there and it will not overwrite it.
+howto/mods_7	How the game plays, in the builder, is where the numbers live. What a bottle pays, what washing windscreens gets you, what each job takes out of you, how much a bench brings you round. Change any of them and the mod records only what you changed, so a mod that just makes bottles worth more is a one line file.
+howto/mods_8	The same is true of the shop. A mod can put its own drinks and food on the shelves with their own price and strength, change what is already there, and take things off entirely. So somebody can build a town where the only drink is their grandmother's nalewka.
+howto/translate_8	Your work is written carefully. It saves to a spare file, reads it back to check every line survived, and only then puts it in place, keeping the old one until the new is safely there.
+mod/no_areas	This one has no areas in it yet, so there is nowhere to walk about. Build one in the builder with shift and B, or choose a different game on the main menu.
+mod/no_characters	There is nobody to play as. Something has gone wrong with the game's own files, and the repair tool in the options will put them back.
+here/which	There are two things here. Which did you mean?
+update/failed_partway	The update stopped partway through. %1 of %2 files were replaced before it stopped, so the game is part old and part new. It should still run, but do try again, and if it keeps stopping the repair tool in the options will put everything right. Reason: %3
+update/failed_partway	The update stopped partway through. %1 of %2 files were replaced before it stopped, so the game is part old and part new. It should still run, and trying again will pick up where it left off. Would you like me to check everything over first? Reason it stopped: %3
+update/check_it_over	Yes, check everything over
+update/leave_it	No, leave it
+update/checking	Checking every file properly. This takes a moment.
+update/all_sound	Everything that was replaced is sound. Try the update again whenever you like.
+update/found_wrong	%1 files are not right. Shall I put them back?
+update/put_right	Yes, put them right
+bld/sounds_yours	Your own sounds, %1 of them. These travel with the mod.
+bld/sounds_games	The game's sounds, %1 of them. These do not travel with the mod, so whoever you send it to needs the game.
+bld/your_sounds	Your own sounds and music
+bld/where_sounds_go	Copy your sounds and music into this one folder: %1. Any number at once, and they can be ogg, wav, mp3 or flac.
+bld/how_many_sounds	You have %1 there at the moment. They are listed below.
+bld/and_more_sounds	And %1 more, not listed.
+bld/wrong_kind	One thing in there is not a sound the game knows how to read: %1. It wants an ogg, a wav, an mp3 or a flac.
+bld/copy_sounds_path	Copy that folder's name to the clipboard
+bld/path_copied	Copied. Paste it into your file manager to get there.
+bld/what_they_are_for	What each file is depends on how a map uses it, not on where it sits. A map's music line plays one across the whole area, its bed line loops one underneath, and a sound source puts one at a spot. Name them without the extension.
+bld/group_amb	Background sounds that run all the time, %1 of them. These come with the game.
+bld/group_emit	Sounds that come from one spot, %1 of them. These come with the game.
+bld/where_music_goes	Music is separate and goes in this folder: %1. Music plays across a whole area; a sound comes from one spot.
+bld/how_many_tunes	You have %1 tracks there. A map's music line names one without the file extension.
+bld/folder_sounds	Sounds that come from one spot, like a dog or a telly. Folder: %1. You have %2 there.
+bld/folder_ambience	Background that runs under a whole area. Folder: %1. You have %2 there.
+bld/folder_music	Music for an area. Folder: %1. You have %2 there.
+bld/folder_footsteps	Ground surfaces. Folder: %1. You have %2 there. One file is enough for a surface; the game will use it for every step.
+bld/folder_voices	What a character sounds like when they speak. Folder: %1. You have %2 there.
+bld/copy_mod_path	Copy this mod's folder name to the clipboard
+save/things_gone	%1 things in your saved game are not part of this game any more and have gone: %2. That usually means a mod has changed since you last played. Everything else is as you left it.
+nwz/part_0	What are they called? Just a few words, as somebody would point them out: the old boy on the bench.
+nwz/part_1	Who are they? A sentence describing them, heard when you walk up.
+nwz/part_2	Something they say when you talk to them.
+nwz/part_3	And another thing they say, so it is not the same every time.
+nwz/part_4	What do they say when they are pleased with you?
+nwz/part_5	And when they have had enough of you?
+nwz/part_6	What do they say when they walk off?
+nwz/title	People who live in the town
+nwz/make_one	Create somebody new
+nwz/leave	Back
+nwz/their_id	A short name for them, plain letters, like wanda or listonosz.
+nwz/bad_id	Plain letters, numbers and underscores only, please.
+nwz/already	There is already somebody called %1.
+nwz/started	%1 is in the town. Now their words, and you can stop and come back.
+nwz/finished	%1, finished
+nwz/unfinished	%1, %2 lines still to write
+nwz/line_is	%1 %2
+nwz/not_written	Nothing written.
+nwz/all_done	%1 is finished. Anything you want to change?
+nwz/still_to_do	%1, %2 lines still to write. Arrow through them, Enter to write one.
+nwz/for_example	For instance, the old boy has: %1
+nwz/written	Written.
+nwz/their_voice	What they sound like: %1. One is gravelly, five is high.
+nwz/ask_voice	How do they sound? One is gravelly like the old boy, five is high like the grandmother.
+nwz/voice_set	Set to %1.
+nwz/jailable_yes	The police can take them: yes
+nwz/jailable_no	The police can take them: no
+nwz/jailable_now_yes	The police can take them now.
+nwz/jailable_now_no	The police will leave them be.
+nwz/what_they_want	What they want: what they love, will not touch, and are glad of
+howto/chars_9	When you make a rule it tells you what it catches today, so you can hear whether you have put the line in the right place before you commit to it.
+howto/chars_10	Anybody you make inside a mod belongs to that mod, words and all, so when you send it to somebody they get the whole person rather than a name with nothing to say.
+howto/mods_9	All of it is plain text in the mod's folder, so you can open any of it in a notepad if you would rather work that way. The builder is only a friendlier way in.
+howto/mods_10	If you edit one of the areas the game came with, the game marks that file as yours and stops treating your work as something that has gone wrong. It will still be replaced when the game updates, though, so anything you want to keep belongs in a mod of your own.
+bld/add_person	Put somebody on this map
+bld/which_person	Who? Anybody in the game, whether they came with it or you made them.
+bld/person_unfinished	%1, %2 lines still to write
+bld/nobody_to_place	There is nobody to put anywhere yet.
+bld/when_are_they_here	When are they here?
+bld/person_all_day	All day and all night
+bld/person_some_hours	Only between certain hours
+bld/person_from_hour	From which hour? Nought is midnight, nine is nine in the morning.
+bld/person_to_hour	Until which hour? Twenty four means through to midnight.
+bld/person_placed	%1 is standing at %2.
+bld/person_moved	%1 was already on this map, so they have been moved to %2 rather than a second one being put down.
+unwritten/person	Somebody nobody has written anything for yet.
+howto/build_11	Check map for problems will tell you if something has ended up outside the walls, or if there is no way in or out yet, which is easily done. You can also have it check as you build, which is off to begin with.
+howto/mods_11	Your saved game keeps up with the mod as you build it. If you add a drink or a person, everything you were carrying and everyone you knew stays with the right name rather than sliding onto whatever now sits in that place.
+venue/shut_because	%1 is shut. %2 is not about at this hour.
+bld/who_runs_it	Who is behind the counter? Anybody in the game, or nobody in particular.
+bld/nobody_in_particular	Nobody in particular, use the usual one
+bld/shut_question	Should it be shut when they are not about?
+bld/open_regardless	No, it is open whether they are there or not
+bld/shut_when_away_yes	Yes, shut when they are not about
+howto/build_12	You can change the areas the game came with, but you will be warned first, and an update will put the original back. An area you made yourself is never touched by an update.
+howto/build_13	It also asks whether the place should be shut when they are not about. That gives you something to build a game around: a shop that closes at ten, or a stand that is only there at lunchtime. If you would rather write your own words for when it is shut, name the line after the place, like place slash sklep underscore shut, and the game will use yours instead of its own.
+bld/base_warning	This changes the town the game comes with rather than a mod of your own. You can do it, and it is your copy, but when the game updates it will put the original back and your work will be gone. Anything you want to keep belongs in a mod. Carry on?
+bld/base_carry_on	Yes, carry on
+bld/base_not_now	No, not now
+bld/sounds_need_a_mod	Your own sounds live inside a mod, so there is nowhere to put them until you have one. The game's own sounds are still offered whenever you place a sound on a map. Make a mod from the main menu and this will show you where its five sound folders are.
+howto/mods_12	And if you take something out that you were carrying, the game tells you what has gone when you next load, rather than leaving you to notice and wonder whether your save is broken.
+carry/offer	You have never played %1, and you have a game going elsewhere. Would you like to bring it across? Your other game is kept exactly as it is, so you can go back to it whenever you like.
+carry/start_fresh	No, start this one fresh
+carry/could_not	That game could not be brought across, so nothing has been changed.
+carry/brought_over	Your game from %1 is here. %2
+carry/all_survived	Everything came across.
+carry/no_such_character	%1 is not in this town, so you are playing as %2 instead.
+carry/no_such_place	There is no %1 here, so you have started at home.
+carry/moved_to_entrance	The place you were standing in is smaller here, so you have started at its entrance.
+carry/things_missing	%1 things you had are not part of this town and have gone.
+mod/base_town	The town the game comes with
+howto/mods_13	How the game plays also covers what the street throws at you: how long it leaves you alone between things, how likely something is to happen, and how much busier the night and the busy corners are. A mod can take an event out of its town entirely, so somebody can build a place where nobody ever gets mugged, or where the police never turn up.
+howto/mods_14	Nearly everything the game counts is in that file now: the jobs the day gives you, what each is worth and how many you need, what the milestones pay, what a trolley carries and costs, and how fast the police forget you. Between them they decide whether a town is a slog or a doddle, so they are worth a look before you change anything else.
+howto/mods_15	The jobs each have their own name, so you can take one out with a single line. A town where nobody smokes has no business asking you to smoke six.
+pack/offer_after_making	Would you like the sound pack? It is about four hundred and fifty megabytes of ground surfaces, background noise, sounds you can put at a spot, and music, all there for building with. The game only comes with a handful. You can take it later instead, from the builder.
+pack/yes_please	Yes, get it now
+pack/no_thanks	No, not now
+pack/looking	Looking to see what is in the pack.
+pack/no_manifest	The pack could not be reached just now. Nothing has been changed, so do try again later.
+pack/already_have_it	You already have all of it.
+pack/how_much	%1 files to fetch, about %2 megabytes. You can press escape at any point to stop, and whatever has arrived stays, so coming back later carries on rather than starting again. Go ahead?
+pack/go_ahead	Yes, fetch it
+pack/not_now	No, not now
+pack/working	Fetching %1 of %2.
+pack/stopped	Stopped. %1 came across and %2 are still to fetch. Coming back to this will carry on from here.
+pack/some_failed	%1 came across, but %2 would not. Try again later and it will pick up the ones that are missing.
+pack/finished	Done. %1 sounds are ready to build with.
+pack/finished_and_removed	Done. %1 sounds are ready to build with, and %2 that are no longer part of the pack have gone.
+pack/removed	%1 sounds that are no longer part of the pack have gone.
+pack/update_yes	Yes, bring it up to date
+pack/update_later	No, leave it as it is
+pack/update_new	There are %1 new sounds in the pack, about %2 megabytes. Fetch them?
+pack/update_only_removals	%1 sounds are no longer part of the pack. Take them out?
+pack/update_both	There are %1 new sounds in the pack, about %2 megabytes, and %3 that are no longer part of it. Bring it up to date?
+bld/get_the_pack	Get the sound pack, about four hundred and fifty megabytes of things to build with
+bld/pack_is_here	You have the sound pack. Check for anything new in it
+bld/group_pack	Sounds from the pack, %1 of them. These do not travel with the mod, so whoever you send it to needs the pack as well.
+bld/pack_remove	Take the sound pack off this machine
+pack/not_here_to_remove	You do not have the sound pack, so there is nothing to take off.
+pack/remove_sure	This takes off %1 sounds, about %2 megabytes. Anything you have already put in a mod stays, and so do the game's own sounds. You can fetch the pack again later. Take it off?
+pack/remove_yes	Yes, take it off
+pack/remove_no	No, leave it
+pack/remove_sure2	Are you sure? Fetching it again is a long download.
+pack/remove_really	Yes, I am sure
+pack/remove_kept	Left as it is.
+pack/removed_all	Gone. %1 files removed. The game's own sounds and anything in your mods are untouched.
+howto/mods_16	The game comes with a handful of sounds, which is nowhere near enough to build with. There is a sound pack you can fetch from the builder: a hundred and twenty eight kinds of ground, each with five footsteps, plus a few hundred background loops, sounds you can put at a spot, and music. It is about four hundred and fifty megabytes, so it is not in the game itself.
+howto/mods_17	It arrives in eight parts and you can stop it at any point with escape. Whatever has arrived stays, so coming back to it carries on rather than starting again. It lives beside your saved games, so updating the game never wipes it, and you can take it off again from the same screen if you decide you are not building anything after all.
+howto/mods_18	Sounds from the pack do not travel with a mod, so whoever you send it to needs the pack as well. Sounds you put in the mod's own folders do travel with it.
+quit/not_saved	You have played since you last saved, and leaving now loses it. What would you like to do?
+quit/save_first	Save, then leave
+quit/leave_anyway	Leave without saving
+quit/stay	Stay where I am
+quit/saved_now	Saved. Off you go.
+nwz/she_is	She is a woman. Change this
+nwz/he_is	He is a man. Change this
+nwz/ask_which	Is this a man or a woman? It decides how they sound when you give them something.
+nwz/a_man	A man
+nwz/a_woman	A woman
+nwz/set_woman	She is a woman now.
+nwz/set_man	He is a man now.
+cwz/she_is	She is a woman. Change this
+cwz/he_is	He is a man. Change this
+cwz/ask_which	Is this character a man or a woman?
+cwz/a_man	A man
+cwz/a_woman	A woman
+howto/chars_11	Everybody you make is asked whether they are a man or a woman. It decides how they sound when you give them something, since a woman taking a gift badly should not sound like a bloke. The same question comes up for a character you can play as.
+howto/translate_9	Drop a finished language file into the lang folder and the game offers it the first time it starts, alongside the ones it came with. Vietnamese arrived that way, from a player.

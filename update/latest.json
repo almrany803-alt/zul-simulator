@@ -1,7 +1,7 @@
 {
  "version": "v144",
  "notes": "The game speaks Vietnamese, thanks to VanTrung2807, who translated the whole thing and sent it in. Pick it in Options, or on first run.\n\nThe daily jobs now mean what they say. Begging for ten zloty counts the zloty people actually hand you, not how many times you asked. Talking to three people counts three people rather than three sentences at the same one. Having three drinks counts bottles you finish rather than mouthfuls. The earning job counts what comes in over the day, and now says so. Patching things up only counts people you were actually on bad terms with.\n\nTwo of the tests had been quietly passing for twenty three releases because they only worked when run from the source folder. They now run inside the game like everything else.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v144/",
+ "base": "https://raw.githubusercontent.com/almrany803-alt/zul-simulator/main/update/v144/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
