@@ -1,89 +1,69 @@
 #!/usr/bin/env python3
 """Refuse to publish a release whose manifest does not describe reality.
 
-This exists because of a bug that shipped for twenty three releases. The
-manifest's CRCs were written by hand and every one of them was wrong, so the
-updater, which verifies each file it downloads against the recorded CRC,
-rejected everything it fetched and the in-game update could never complete.
-Nothing in the pipeline looked at whether the two agreed.
+This exists because of a bug that broke the v144 update. The manifest's
+checksums were computed with Python's zlib CRC-32, which is NOT what NVGT's
+crc32() computes, so every number was wrong and the updater rejected every
+file it downloaded. Nothing in the pipeline compared the manifest against the
+engine's own view of the files.
 
-So this does, and the publish fails if they do not:
+So this does, using NVGT itself for every checksum, and the publish fails if:
 
-  1. Every file in the shipped package is listed in the manifest, with the
-     size and CRC it really has. A wrong CRC here is the original bug.
-  2. Every asset the manifest promises is actually uploaded, and is the file
-     the manifest says it is. A promised asset that was never uploaded is a
-     broken update for every player who tries to take it.
-  3. No asset is uploaded that nothing refers to, and no unchanged file is
-     given an asset, which would make everybody re-download the whole game.
+  1. The manifest disagrees with the package it describes.
+  2. An asset the manifest promises was never uploaded, or is not that file.
+  3. An asset is uploaded that nothing refers to.
 """
 
 import json
 import pathlib
 import sys
-import zipfile
-import zlib
+import tempfile
 
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+from make_manifest import nvgt_checksums, unpack  # noqa: E402
 
-def crc(data: bytes) -> int:
-    return zlib.crc32(data) & 0xFFFFFFFF
+HERE = pathlib.Path(__file__).resolve().parent.parent
 
 
 def main() -> int:
-    here = pathlib.Path(__file__).resolve().parent.parent
-    rel = here / "release"
+    nvgt = sys.argv[1] if len(sys.argv) > 1 else "nvgt"
+    rel = HERE / "release"
     manifest = json.loads((rel / "latest.json").read_text(encoding="utf-8"))
     assets = rel / "assets"
-
     package = assets / "ZulSimulator.zip"
     if not package.exists():
         print("FAIL: release/assets/ZulSimulator.zip is missing")
         return 1
 
     problems = []
-
-    # 1. the manifest against the package it describes
-    with zipfile.ZipFile(package) as z:
-        root = z.namelist()[0].split("/", 1)[0]
-        inside = {}
-        for info in z.infolist():
-            if info.is_dir():
-                continue
-            inside[info.filename[len(root) + 1:]] = crc(z.read(info)), info.file_size
-
+    tmp = pathlib.Path(tempfile.mkdtemp())
+    root = unpack(str(package), tmp / "pkg")
+    inside = nvgt_checksums(nvgt, root)
     listed = {e["path"]: e for e in manifest["files"]}
 
-    for path, (c, size) in sorted(inside.items()):
+    for path, (size, crc) in sorted(inside.items()):
         e = listed.get(path)
         if e is None:
             problems.append(f"in the package but not in the manifest: {path}")
-        elif e["size"] != size or e["crc"] != c:
-            problems.append(
-                f"manifest disagrees with the package for {path}: "
-                f"says {e['size']}/{e['crc']}, really {size}/{c}"
-            )
+        elif e["size"] != size or e["crc"] != crc:
+            problems.append(f"manifest disagrees with the package for {path}: "
+                            f"says {e['size']}/{e['crc']}, nvgt says {size}/{crc}")
     for path in sorted(set(listed) - set(inside)):
         problems.append(f"in the manifest but not in the package: {path}")
 
-    # 2. the assets the manifest promises
     promised = {e["asset"]: e for e in manifest["files"] if e["asset"]}
+    present = [f for f in assets.iterdir() if f.is_file()]
+    asset_crcs = nvgt_checksums(nvgt, assets)
     for name, e in sorted(promised.items()):
-        f = assets / name
-        if not f.exists():
+        got = asset_crcs.get(name)
+        if got is None:
             problems.append(f"manifest promises asset {name} but it was not uploaded")
-            continue
-        data = f.read_bytes()
-        if len(data) != e["size"] or crc(data) != e["crc"]:
-            problems.append(
-                f"asset {name} is not the file the manifest describes "
-                f"(asset {len(data)}/{crc(data)}, manifest {e['size']}/{e['crc']})"
-            )
+        elif got != (e["size"], e["crc"]):
+            problems.append(f"asset {name} is not the file the manifest describes "
+                            f"(asset {got[0]}/{got[1]}, manifest {e['size']}/{e['crc']})")
 
-    # 3. assets nothing refers to. The package and the dev snapshot are
-    # expected extras: they are whole-download conveniences, not update units.
-    allowed_extra = {"ZulSimulator.zip"}
-    for f in sorted(assets.iterdir()):
-        if f.name in promised or f.name in allowed_extra:
+    for f in sorted(present):
+        if f.name in promised or f.name == "ZulSimulator.zip":
             continue
         if f.name.startswith("DEV_source_snapshot_") and f.name.endswith(".zip"):
             continue
@@ -94,9 +74,8 @@ def main() -> int:
         for p in problems:
             print("  -", p)
         return 1
-
-    print(f"OK: manifest describes {len(listed)} files, "
-          f"{len(promised)} to download, package agrees on every one")
+    print(f"OK: manifest describes {len(listed)} files, {len(promised)} to download, "
+          f"nvgt agrees on every one")
     return 0
 
 

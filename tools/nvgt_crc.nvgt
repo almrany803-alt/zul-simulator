@@ -1,0 +1,26 @@
+// Print size and checksum for each path listed in the file given as argv[1].
+//
+// This exists because the manifest's checksums MUST be the numbers the game
+// itself computes, and nothing else. They were once reimplemented in Python
+// with zlib's CRC-32, which NVGT's crc32() is not, and the resulting manifest
+// broke the updater: it rejects any file whose checksum disagrees. The only
+// safe source of these numbers is the engine that will later check them.
+void main() {
+    string[] args = ARGS;
+    if (args.length() < 2) { println("usage: nvgt_crc.nvgt <listfile>"); return; }
+    file lf;
+    if (!lf.open(args[1], "rb")) { println("ERROR could not open list " + args[1]); return; }
+    string all = lf.read();
+    lf.close();
+    string[] paths = all.split("\n");
+    for (uint i = 0; i < paths.length(); i++) {
+        string p = paths[i];
+        p.trim_whitespace_this();
+        if (p == "") continue;
+        file f;
+        if (!f.open(p, "rb")) { println("ERROR " + p); continue; }
+        string d = f.read();
+        f.close();
+        println(p + "|" + d.length() + "|" + crc32(d));
+    }
+}
