@@ -1,0 +1,140 @@
+# Publish a Zul Simulator release.
+#
+# Why this exists: releases used to be made by hand, one upload at a time, with
+# update/latest.json written by hand alongside them. That is how we shipped a
+# manifest whose checksums were all wrong, which broke the in-game updater for
+# twenty three releases without anything complaining.
+#
+# How to publish now: push a branch called publish/<something> containing a
+# release/ folder:
+#
+#   release/TAG          the tag, e.g. v144
+#   release/TITLE        the release title, one line
+#   release/NOTES.md     the release body
+#   release/latest.json  the new manifest, from tools/make_manifest.py
+#   release/assets/      every file to upload
+#   release/CHANGELOG.md optional: replaces CHANGELOG.md on main
+#
+# Nothing here is clever. It refuses rather than guesses, and it checks the
+# manifest against the package before anything is published.
+
+name: Publish release
+
+on:
+  push:
+    branches:
+      - 'publish/**'
+
+# Needed to create the release and to commit the manifest back to main.
+permissions:
+  contents: write
+
+# Two publishes at once would race on main.
+concurrency:
+  group: publish-release
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the publish branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Read what this publish is
+        id: info
+        run: |
+          set -euo pipefail
+          for f in release/TAG release/TITLE release/NOTES.md release/latest.json; do
+            test -s "$f" || { echo "::error::$f is missing or empty"; exit 1; }
+          done
+          test -d release/assets || { echo "::error::release/assets is missing"; exit 1; }
+          tag=$(tr -d '[:space:]' < release/TAG)
+          title=$(head -n 1 release/TITLE)
+          case "$tag" in
+            v[0-9]*) ;;
+            *) echo "::error::tag '$tag' does not look like vNNN"; exit 1 ;;
+          esac
+          echo "tag=$tag"     >> "$GITHUB_OUTPUT"
+          echo "title=$title" >> "$GITHUB_OUTPUT"
+          echo "Publishing $tag: $title"
+
+      - name: Refuse to publish over a release that already exists
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          if gh release view "${{ steps.info.outputs.tag }}" >/dev/null 2>&1; then
+            echo "::error::release ${{ steps.info.outputs.tag }} already exists; delete it first or pick a new tag"
+            exit 1
+          fi
+
+      - name: Check the manifest against the package
+        run: python3 tools/check_release.py
+
+      - name: Check the manifest version matches the tag
+        run: |
+          set -euo pipefail
+          v=$(python3 -c "import json;print(json.load(open('release/latest.json'))['version'])")
+          if [ "$v" != "${{ steps.info.outputs.tag }}" ]; then
+            echo "::error::manifest says version $v but the tag is ${{ steps.info.outputs.tag }}"
+            exit 1
+          fi
+
+      - name: Create the release and upload every asset
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          gh release create "${{ steps.info.outputs.tag }}" \
+            --title "${{ steps.info.outputs.title }}" \
+            --notes-file release/NOTES.md \
+            release/assets/*
+
+      - name: Confirm every asset really arrived
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          expected=$(ls -1 release/assets | sort)
+          actual=$(gh release view "${{ steps.info.outputs.tag }}" \
+                     --json assets --jq '.assets[].name' | sort)
+          if [ "$expected" != "$actual" ]; then
+            echo "::error::the release does not carry the assets we sent"
+            diff <(echo "$expected") <(echo "$actual") || true
+            exit 1
+          fi
+          echo "all $(echo "$expected" | wc -l) assets present"
+
+      - name: Put the new manifest on main
+        run: |
+          set -euo pipefail
+          git config user.name  "zul-simulator publisher"
+          git config user.email "almrany803@gmail.com"
+          cp release/latest.json /tmp/latest.json
+          if [ -f release/CHANGELOG.md ]; then cp release/CHANGELOG.md /tmp/CHANGELOG.md; fi
+          git fetch origin main
+          git checkout -B main origin/main
+          cp /tmp/latest.json update/latest.json
+          if [ -f /tmp/CHANGELOG.md ]; then cp /tmp/CHANGELOG.md CHANGELOG.md; fi
+          if git diff --quiet; then
+            echo "nothing to commit, main already matches"
+          else
+            git add update/latest.json CHANGELOG.md
+            git commit -m "${{ steps.info.outputs.tag }}: update manifest for the release"
+            git push origin main
+          fi
+
+      - name: Tidy up the branches
+        run: |
+          set -euo pipefail
+          git push origin --delete "${GITHUB_REF_NAME}" || echo "could not delete ${GITHUB_REF_NAME}"
+          git push origin --delete claude-push-probe   || true
+
+      - name: Say where it went
+        run: |
+          echo "### Published ${{ steps.info.outputs.tag }}" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "https://github.com/${GITHUB_REPOSITORY}/releases/tag/${{ steps.info.outputs.tag }}" >> "$GITHUB_STEP_SUMMARY"
