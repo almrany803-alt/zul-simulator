@@ -5,6 +5,43 @@ is ready, so you do not need to come here unless you want to.
 
 ---
 
+## 6 October 2026
+
+**The game speaks Vietnamese.** VanTrung2807 found the repository, translated the
+whole thing, and sent it in: every line of the game, the map names, and the notes
+you are reading now. It is the first contribution Zul Simulator has had from
+anybody outside the two of us. Pick it in Options, or when you first start.
+
+It is listed as "Vietnamese" rather than "Tiếng Việt", which is the more
+courteous way to write it, because the list is read aloud and an English screen
+reader voice makes a mess of the diacritics. The person who most needs to find
+that line is the one least likely to recognise what came out of it.
+
+**The daily jobs now mean what they say.** Every one of these was the same
+mistake: the words promised a result and the code counted an attempt.
+
+Begging for ten złoty counts the złoty people actually put in your hand. It used
+to count how many times you asked, and count it before seeing whether anybody
+gave you anything, so ten refusals in a row finished the job with nothing in your
+pocket. Talking to three people counts three people, once each a day, rather than
+three sentences at the same long-suffering person. Having three drinks counts
+bottles you finish rather than mouthfuls, so three pulls on the same bottle is no
+longer a day's drinking. The earning job counts what comes in over the day, which
+is what it always did, and now says so instead of promising what is in your
+pocket. Patching things up only counts people you were actually on bad terms
+with.
+
+Two of them got harder and both were measured rather than guessed at: ten złoty
+now takes about eighteen asks, roughly two thirds of a tank of energy, and three
+beers over a day costs six złoty and leaves you merry rather than on the floor.
+
+**Behind it.** Two tests had been passing for twenty three releases without doing
+anything, because they only worked when run from the source folder rather than
+from the game as players have it. VanTrung2807 found those too. They now run
+inside the game like everything else.
+
+---
+
 ## 6 August 2026
 
 **A night in the cell.** Getting nicked is no longer a hole in your day. You now
