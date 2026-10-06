@@ -1,0 +1,371 @@
+10 tháng 8 năm 2026
+
+Bản này không có thay đổi nào bạn nhìn thấy được. Bộ kiểm thử phía sau giờ bấm đúng những phím một người chơi sẽ bấm thay vì gọi thẳng mã chương trình, nhờ vậy bắt được hai việc trước đây chưa bao giờ thực sự được thử: đặt một cửa hàng rồi chọn người đứng quầy, và báo cho builder biết một nhân vật là phụ nữ.
+
+Việc thoát mà không lưu cũng đã được kiểm tra tử tế. Chọn cứ thoát thật sự giữ nguyên bản lưu đúng như trước đó.
+
+10 tháng 8 năm 2026
+
+Game giờ phân biệt được đàn ông và phụ nữ, điều trước đây nó chưa từng làm. Trong thư mục vốn đã có âm thanh khi một phụ nữ vui hoặc khó chịu lúc nhận quà, nhưng game chưa bao giờ phát chúng, âm thanh của đàn ông cũng vậy. Giờ tặng ai đó một món, bạn sẽ nghe họ nghĩ gì về nó bằng một giọng hợp với họ, với nhiều biến thể để không ai phản ứng y hệt nhau hai lần.
+
+Mọi người bạn tạo trong builder đều được hỏi là nam hay nữ, và mọi nhân vật có thể chơi cũng thế. Halina và Grazyna là phụ nữ; trước đây game hoàn toàn không có cách nào biết điều đó.
+
+Khi thoát, game giờ sẽ báo nếu bạn đã chơi thêm kể từ lần lưu gần nhất. Tự động lưu diễn ra vào cuối ngày, nên trước đây ai chơi nửa ngày rồi bỏ đi sẽ mất sạch mà chẳng được cảnh báo. Game giờ cho bạn chọn lưu trước, vẫn thoát, hoặc ở lại.
+
+10 tháng 8 năm 2026
+
+Giờ đã có gói âm thanh. Game vốn chỉ kèm chừng một tá âm thanh có thể đặt lên bản đồ, chẳng bao giờ đủ để xây dựng thứ gì; một hệ thống mod không có nguyên liệu để làm thì khác gì xưởng mộc không có gỗ.
+
+Gói này có một trăm hai mươi tám loại mặt đất, mỗi loại gồm năm tiếng bước chân khác nhau, để sân sỏi không thể nghe giống sàn gỗ hay bê tông ướt. Còn có vài trăm âm nền lặp: tàu điện chạy ngang, chuông nhà thờ, bến xe, nghĩa trang ban đêm, mưa rơi trên ô tô, gió luồn qua cây. Thêm vài trăm âm thanh có thể đặt tại một điểm, và cả một kệ nhạc.
+
+Bạn có thể tải nó trong builder; game cũng sẽ đề nghị khi bạn tạo mod. Gói nặng khoảng bốn trăm năm mươi megabyte nên không nằm sẵn trong game và được tải thành tám phần. Bấm Escape lúc nào cũng được; phần đã tải vẫn còn, lần sau quay lại sẽ tiếp tục chứ không làm lại từ đầu.
+
+Nó nằm cạnh các bản lưu, nên cập nhật game không bao giờ xóa mất. Nếu cuối cùng bạn quyết định chẳng xây gì cả, có thể gỡ nó ngay trong màn hình ấy; game sẽ hỏi lại hai lần trước khi làm.
+
+10 tháng 8 năm 2026
+
+Gần như mọi con số game đếm giờ đều do bạn chỉnh được: công việc mỗi ngày giao, cần làm bao nhiêu và mỗi việc trả bao nhiêu; phần thưởng cho các cột mốc; xe đẩy chở được gì và mua hết bao nhiêu; cảnh sát quên bạn nhanh đến mức nào.
+
+Mỗi công việc có tên riêng, nên một thị trấn không ai hút thuốc có thể bỏ nhiệm vụ hút thuốc chỉ bằng một dòng.
+
+Một lỗi âm thầm cũng được sửa theo: nhiệm vụ trong ngày từng được nhớ theo vị trí trong danh sách thay vì theo tên. Vì vậy một mod thêm hoặc bớt nhiệm vụ có thể lặng lẽ biến việc hôm qua thành một việc khác.
+
+10 tháng 8 năm 2026
+
+Khi bạn chọn một mod chưa từng chơi trong lúc đang có ván ở nơi khác, game giờ đề nghị mang ván đó sang. Tiền, ngày đang chơi, tiếng tăm trong khu, các mối quan hệ và đồ đang mang đều đi cùng, để thử thị trấn của người khác không đồng nghĩa vứt đi bốn mươi ngày công sức.
+
+Ván cũ được giữ nguyên, muốn quay lại lúc nào cũng được. Nếu thị trấn mới không có chỗ cho thứ bạn từng có — một người, một loại đồ uống, hay nơi bạn đang đứng không tồn tại — game sẽ đặt bạn vào một chỗ hợp lý và nói rõ thứ gì đã bị bỏ lại.
+
+Game chỉ đề nghị lần đầu, vì sau đó mod đã có bản lưu riêng và nó sẽ không ghi đè lên đó.
+
+9 tháng 8 năm 2026
+
+Builder giờ hoạt động như nhau dù bạn đã tạo mod hay chưa. Trước đây có phần dùng được khi chưa có mod, có phần lại bắt tạo mod trước, hoàn toàn không phải một quyết định có chủ ý. Giờ mọi thứ đều dùng được; game chỉ cảnh báo một lần rằng những thay đổi lên thị trấn gốc sẽ bị thay thế khi cập nhật.
+
+Ngoại lệ duy nhất là âm thanh riêng, vì chúng nằm trong mod. Màn hình đó giờ giải thích lý do thay vì chỉ đưa ra những thư mục trống.
+
+9 tháng 8 năm 2026
+
+Cửa hàng, quán rượu hoặc quầy thức ăn giờ có thể có người đứng quầy riêng. Khi đặt một nơi như vậy, builder hỏi ai trông coi: bất kỳ người nào trong game, hoặc không chỉ định ai để dùng nhân vật mặc định.
+
+Nếu chọn một người cụ thể, builder còn hỏi nơi đó có đóng cửa khi họ vắng mặt hay không. Nhờ vậy bạn có thể làm một cửa hàng đóng lúc mười giờ và một thị trấn buộc người chơi phải tính chuyện buổi tối. Bạn cũng có thể tự viết câu người chơi nghe thấy khi cửa đóng.
+
+Quán rượu vốn luôn đóng khi barman đi vắng, còn cửa hàng và quầy thức ăn thì chẳng bao giờ đóng. Đó không phải lựa chọn có chủ ý, nên giờ cả ba tuân theo cùng một quy tắc và quyền chọn thuộc về bạn.
+
+9 tháng 8 năm 2026
+
+Phần hướng dẫn đã theo kịp game lần nữa. Mục xây dựng giờ nói cả việc đặt người lên bản đồ — thứ thứ sáu bạn có thể thêm — và mục mod giải thích cách chỉnh những chuyện đường phố ném vào bạn cũng như cách loại một sự kiện khỏi thị trấn.
+
+9 tháng 8 năm 2026
+
+Giờ bạn có thể đặt người lên bản đồ. Trước đây bạn có thể tạo một người, cho họ lời thoại và giọng nói, quyết định họ thích gì, rồi họ lại chẳng đứng ở đâu nên không ai gặp nổi. Trong mục Thêm thứ gì đó vào bản đồ này, hãy đứng tại nơi họ cần ở, chọn bất kỳ ai trong game và cho biết họ có mặt cả ngày hay chỉ vào vài giờ nhất định.
+
+Đặt cùng một người lần thứ hai sẽ chuyển họ tới chỗ mới thay vì tạo ra hai bản sao, và game nói rõ điều vừa xảy ra.
+
+Nếu gặp một người chưa được viết lời, game giờ nói điều đó bằng câu dễ hiểu thay vì đọc tên một file.
+
+Bạn cũng có thể chỉnh mức độ đường phố quấy rầy mình: nó để bạn yên được bao lâu, khả năng có chuyện xảy ra, và ban đêm hay các góc đông đúc nhộn nhạo hơn đến mức nào. Mod còn có thể loại hẳn một sự kiện, nên hoàn toàn có thể làm một thị trấn không có tên cướp nào.
+
+9 tháng 8 năm 2026
+
+Đã tìm và sửa vài lỗi nặng, tất cả đều liên quan đến việc dựng mod rồi gửi cho người khác.
+
+Các bản đồ bạn làm bị ghi vào thư mục của game thay vì thư mục mod. Bạn có thể dựng cả một thị trấn, gửi cho bạn mình, rồi họ mở ra và thấy trống không. Nhân vật do bạn tạo cũng gặp lỗi ấy. Cả hai đã được sửa, cùng một lỗi nhỏ hơn khiến nhân vật tạo trong mod vẫn nằm trong danh sách sau khi bạn quay về game thường.
+
+Đưa một con số trở lại giá trị mặc định cũng từng báo thất bại dù thực tế đã làm xong.
+
+Trước đây không thể tìm ra những lỗi này vì chẳng có gì trả lời được các câu hỏi của builder. Giờ bộ kiểm thử làm được và thử trọn quy trình từ tạo mod đến gửi nó đi.
+
+9 tháng 8 năm 2026
+
+Hướng dẫn đã theo kịp builder. Mục nói về con người giờ hướng dẫn cách tạo họ, không chỉ cách đổi sở thích, gồm cả giọng nói và việc cảnh sát có thể bắt họ hay không. Một câu từng trỏ tới menu không còn tồn tại cũng đã được sửa.
+
+9 tháng 8 năm 2026
+
+Giờ bạn có thể tạo những người sống trong thị trấn, chứ không chỉ thay đổi thứ họ muốn. Nó nằm dưới mục Con người trong builder: đặt tên, viết bảy câu họ nói, chọn chất giọng và quyết định cảnh sát có thể bắt họ hay không.
+
+Các bản lưu cũng an toàn hơn nhiều. Mọi thứ giờ được lưu cạnh đúng tên của nó thay vì theo vị trí, nên thêm đồ uống hoặc nhân vật vào mod không còn đẩy lệch cả danh sách rồi lặng lẽ biến vodka của bạn thành thứ khác. Nếu bản lưu nhắc tới thứ game không còn có, game sẽ nói rõ thứ gì đã mất thay vì để bạn tự nhận ra.
+
+9 tháng 8 năm 2026
+
+Mod giờ có thể mang âm thanh và nhạc riêng. Trước đây mod có thể chỉ định nhạc cho một khu vực nhưng không có cách cung cấp file; game chỉ tìm trong thư mục của chính nó.
+
+Tạo mod giờ dựng sẵn năm thư mục, mỗi thư mục cho một loại âm thanh: âm phát từ một điểm, âm nền chạy dưới cả khu vực, nhạc, mặt đất và chất giọng nhân vật. Cứ chép bao nhiêu file tùy thích vào đúng nơi; builder sẽ nói mỗi thư mục dùng làm gì và trong đó đang có gì.
+
+Mặt đất chỉ cần một file. Thả một file vào, mọi bước chân trên bề mặt ấy sẽ dùng nó.
+
+Bạn có thể dùng file ogg, wav, mp3 và flac. Nếu file nào không phát được, game sẽ nói rõ thay vì im thin thít.
+
+9 tháng 8 năm 2026
+
+Mod giờ có nhạc và âm thanh riêng. Đặt chúng vào thư mục sounds hoặc music của mod, cho map gọi đúng tên là chúng sẽ phát. Trước đây game chỉ tìm trong thư mục của nó, nên mod có gọi nhạc riêng cũng chẳng nghe thấy gì.
+
+Nếu âm thanh của bạn trùng tên với âm thanh của game, file của bạn được ưu tiên. Bạn có thể thay tiếng chó sủa bằng chính con chó nhà mình mà không phải đổi tên.
+
+Khi chọn âm thanh trong builder, âm của bạn và âm của game được liệt kê riêng. Âm của bạn đi cùng mod khi gửi cho người khác; âm của game thì không, nên người nhận vẫn cần có game.
+
+Game tìm các định dạng ogg, wav, mp3 và flac. Cứ thả file bạn có vào, nếu không phát được nó sẽ nói thẳng.
+
+9 tháng 8 năm 2026
+
+Cập nhật giờ biết nhẫn nại hơn và cũng thành thật hơn về chính nó.
+
+Một lượt tải bị khựng sẽ được thử lại vài lần thay vì hủy cả bản cập nhật. Trước đây hai mươi bảy file đầu có thể tải hoàn hảo, file thứ hai mươi tám sẩy chân là cả mẻ bị bỏ.
+
+Nếu cập nhật dừng giữa chừng, game giờ nói đã đi được bao xa thay vì bảo chẳng có gì thay đổi — vốn không đúng, vì file được thay ngay khi tải xong. Nó còn đề nghị kiểm tra kỹ mọi file tại chỗ, so sánh nội dung thật chứ không chỉ dung lượng, rồi khôi phục bất kỳ thứ gì sai.
+
+9 tháng 8 năm 2026
+
+Giờ bạn có thể nói chuyện với người đang đứng tại một địa điểm. Trước đây nếu dưới chân là ghế hoặc bàn, Enter luôn chọn vật đó; muốn chạm tới người đứng đấy chỉ có cách bước đâm vào họ. Viên cảnh sát ở bàn trực là ví dụ rõ nhất.
+
+Giờ nếu có hai thứ ngay chỗ bạn đứng, game sẽ hỏi bạn muốn cái nào. Mọi nơi khác không đổi: chỉ có địa điểm thì mở địa điểm, chỉ có người thì nói chuyện, và bước va vào ai đó vẫn hoạt động.
+
+9 tháng 8 năm 2026
+
+Một lỗi tệ: chọn tặng ai đó một món lại bắt đầu đánh nhau với họ. Xin tiền một người thì buông câu xấc xược rồi dừng, còn chính lựa chọn xấc xược lại không thể chọn. Ba trong bảy lựa chọn hội thoại làm sai việc. Tất cả đã sửa, và giờ có bài kiểm thử bấm từng lựa chọn rồi xem chuyện gì thật sự xảy ra.
+
+Cách viết trong builder và menu mod cũng rõ hơn. Những lựa chọn kiểu “Tạo một cái mới” giờ nói rõ tạo thứ gì, vì bạn nghe từng nhãn riêng lẻ mà không có gì khác để đoán.
+
+9 tháng 8 năm 2026
+
+Đã sửa hai lỗi nặng.
+
+Game có thể văng khi bắt đầu ván mới nếu bạn chọn một mod là thị trấn độc lập nhưng chưa xây khu vực nào. Giờ nó sẽ nói không có chỗ để đi và chỉ bạn tới builder.
+
+Nghiêm trọng hơn, lúc khởi động game không đọc bộ luật của chính nó, khiến chẳng ai trong thị trấn muốn thứ gì. Món quà nào cũng chỉ nhận lại cái nhún vai và mọi mối quan hệ đều hoạt động sai. Lỗi đã sửa và có bài kiểm thử để bắt nó nếu tái diễn.
+
+Hướng dẫn giờ có bốn mục dành cho việc sáng tạo: xây khu vực, tạo nhân vật và cư dân, mod và chia sẻ sản phẩm, cùng dịch game.
+
+9 tháng 8 năm 2026
+
+Giờ bạn có thể đổi sở thích của từng người ngay trong game, ở mục “Ai muốn gì” trong builder. Chọn một người rồi chỉnh thứ họ mê, thứ họ không thèm đụng và thứ họ chỉ thấy cũng được. Bạn còn có thể đặt quy tắc, như từ chối mọi đồ có cồn hoặc mọi thứ quá đắt; game sẽ nói quy tắc ấy hiện bắt trúng những món nào để bạn biết mình đặt đúng chỗ chưa.
+
+Thông báo khi game khởi động đã bớt làm quá. Trước đây nó xướng số file thiếu hoặc khác, nghe như vừa có tai họa trong khi thường chỉ là bản cập nhật thêm file mới. Giờ nó nói điều đó có nghĩa gì với bạn, hỏi một câu đơn giản, và không nói gì nếu mọi thứ ổn.
+
+Nếu bạn sửa một map gốc bằng builder, game sẽ đánh dấu đó là sản phẩm của bạn và thôi coi nó là hư hỏng. Vì vậy tùy chọn báo rằng bạn đang mod cũng đã biến khỏi Options; game không cần được nhắc nữa.
+
+8 tháng 8 năm 2026
+
+Giờ bạn có thể chỉnh cách một mod vận hành ngay trong game, ở mục “Cách game vận hành” trong builder: một chai trả bao nhiêu, lau kính xe kiếm được gì, mỗi việc vắt bạn đến mức nào, ngồi ghế giúp hoàn hồn bao nhiêu.
+
+Mỗi mục nói giá trị hiện tại và giá trị mặc định, rồi khi bạn đổi nó sẽ giải thích con số nào hợp lý: nếu mỗi chai được một đồng thì xe đẩy đầy mười lăm chai là mười lăm złoty.
+
+Nó chỉ ghi vào mod bạn đã chọn, nên thị trấn gốc không bị đụng tới, và mod chỉ lưu đúng những gì bạn thay đổi.
+
+8 tháng 8 năm 2026
+
+Giờ quyền quyết định ai muốn gì thuộc về bạn. Sở thích của cả mười lăm người trong thị trấn nằm trong file luật: thứ họ mê, thứ họ không đụng và thứ họ thấy cũng được.
+
+Một số người dùng quy tắc thay vì danh sách. Người bán đồ ăn từ chối mọi thứ có cồn bằng một quy tắc, nên nếu bạn thêm loại rượu riêng, ông ta vẫn từ chối mà không cần được dặn. Bà mẹ trẻ từ chối mọi đồ uống trừ món mình muốn. Bạn có thể đổi các quy tắc ấy hoặc tự đặt quy tắc mới: người không nhận đồ đắt, hoặc chỉ muốn thứ thực sự làm no bụng.
+
+8 tháng 8 năm 2026
+
+Những món nhặt được ngoài đường giờ cũng do bạn chỉnh. Mod có thể thêm món riêng, quy định nó xuất hiện trong thùng rác, công viên, ngoài phố hay đống phế liệu, và loại bỏ món có sẵn.
+
+8 tháng 8 năm 2026
+
+Cửa hàng giờ là của bạn để chỉnh sửa. Mod có thể đặt đồ uống và thức ăn riêng lên kệ, với giá, độ nặng của cơn say, tác động lên đôi chân và số ngụm hay miếng ăn. Nó có thể sửa đồ sẵn có hoặc dẹp hẳn khỏi kệ.
+
+Nhờ vậy ai đó có thể làm một thị trấn nơi thứ rượu duy nhất là nalewka của bà ngoại, hoặc nơi nước tăng lực chưa từng tồn tại.
+
+8 tháng 8 năm 2026
+
+Những con số phía sau game giờ nằm trong file bạn có thể đọc và sửa: một chai đáng bao nhiêu, lau kính xe kiếm được gì, mỗi công việc bòn sức thế nào, ngồi ghế giúp tỉnh lại bao nhiêu. Mod có thể đổi bất kỳ số nào và chỉ cần ghi những số muốn khác đi.
+
+Cả sáu nhân vật giờ đều là file trong thư mục chars, thay vì bốn người nằm lộ thiên còn hai người bị chôn trong code, nên bạn có thể xem và sửa bất kỳ ai.
+
+Trong game còn có thư mục mods kèm lời nhắn, để khi ai gửi mod bạn biết phải đặt nó ở đâu.
+
+8 tháng 8 năm 2026
+
+Builder đã được dọn gọn. Nó từng phình thành mười ba thứ trên một màn hình; giờ chia hai tầng: trên cùng là map, nhân vật, dịch thuật và các mục tương tự, rồi sau khi chọn một map mới hiện mọi việc dành cho map ấy. Không màn hình nào dài quá chừng sáu mục.
+
+Cách viết trong builder và trình dịch cũng thẳng thắn hơn. Đây là công cụ, nên giờ chúng nói như công cụ thay vì như ai đó đang tán chuyện. Bản thân game không đổi.
+
+Builder cũng không còn giảng giải mỗi lần mở. Nó nhớ bạn đã nghe rồi, và luôn có lựa chọn nghe lại khi muốn.
+
+Menu chính giờ nói bạn đang chơi game nào thay vì chỉ đưa lựa chọn đổi game.
+
+8 tháng 8 năm 2026
+
+Mod. Mọi thứ bạn xây giờ sống trong một thư mục; chỉ cần nén lại, gửi cho ai đó, họ thả vào đúng chỗ là có thể chơi.
+
+Menu chính có lựa chọn mới để chọn thứ bạn đang chơi: thị trấn đi kèm game hoặc bất kỳ mod nào. Khi tạo mod, game hỏi tên, một câu mô tả nếu bạn muốn, và đó là những nơi bổ sung vào thị trấn hay một thị trấn hoàn toàn riêng.
+
+Mỗi mod giữ bản lưu riêng, nên quay lại thị trấn gốc sẽ thấy ván chơi đúng nơi bạn bỏ lại. Bạn cũng có thể xóa mod khỏi máy; game sẽ hỏi hai lần trước khi làm.
+
+Thêm hai nhân vật có thể chơi: Halina, người đã sống ngoài đường ba mươi năm và chẳng còn bận tâm; cùng Grazyna, người nhất quyết không phải một żulica, chỉ đang tạm thời chưa có căn hộ thôi.
+
+8 tháng 8 năm 2026
+
+Giờ bạn có thể tạo nhân vật để chơi ngay trong builder. Nó hỏi họ là ai, lẩm bẩm gì khi chẳng có chuyện, xin tiền thế nào lúc nhún nhường và lúc trơ trẽn, và phát hiện mất thứ gì khi tỉnh dậy trong phòng giam.
+
+Bạn có thể viết từ đầu hoặc bắt đầu từ người đã tồn tại rồi chỉ sửa phần muốn khác. Phần để nguyên sẽ dùng của người mẫu, nên một nhân vật có thể chơi được sau hai phút rồi hoàn thiện sau. Mỗi câu hỏi cho bạn nghe cách một nhân vật có sẵn trả lời để làm ví dụ, không phải khuôn ép buộc.
+
+Nhân vật là file văn bản trong thư mục chars, nên muốn thì bạn tự mở sửa; trình dịch sẽ xử lý nhân vật mới như mọi nội dung khác.
+
+8 tháng 8 năm 2026
+
+Builder giờ làm được mọi thứ một map có thể chứa. Ngoài địa điểm, bạn có thể thêm cảnh vật được nghe khi đi ngang, mảng mặt đất khác dưới chân, âm phát từ một chỗ cố định và lối sang khu vực khác.
+
+Với thứ phủ cả một vùng, bạn đi tới một góc, bấm Enter rồi đi tới góc đối diện. Không phải tính số, trừ khi bạn thích.
+
+Còn có danh sách mọi thứ trong khu vực, mô tả bằng lời dễ hiểu, để bạn quay lại vật đã đặt hoặc gỡ nó ra. Khi thêm lối đi, game sẽ đề nghị tạo luôn đường quay về để người ta vào được thì cũng ra được.
+
+Trình dịch giờ có mục hướng dẫn riêng, đáng lẽ phải có từ đầu.
+
+8 tháng 8 năm 2026
+
+Giờ bạn có thể xây khu vực riêng. Bấm Shift+B ở bất kỳ đâu trong game, builder sẽ dẫn từng bước: đặt tên và kích thước, rồi đi tới nơi muốn có ghế, thùng rác hay cửa hàng và bảo nó đặt ở đó. Vị trí được lấy ngay dưới chân bạn nên không phải tính tọa độ, dù vẫn có thể nhập số nếu thích.
+
+Mọi thứ bạn xây được lưu vào file văn bản thuần cạnh game và lập tức trở thành một phần của ván chơi. Hướng dẫn có riêng một mục về việc này.
+
+Bạn cũng có thể sửa khu vực gốc, nhưng game sẽ cảnh báo trước: chúng bị khôi phục mỗi lần cập nhật, còn khu vực của bạn thì không.
+
+8 tháng 8 năm 2026
+
+Trình dịch giờ hiển thị toàn bộ danh sách. Trước đây nó chỉ đưa bạn qua những dòng chưa dịch, nên khi dịch xong hết thì không thể di chuyển dù vẫn bảo dùng phím mũi tên.
+
+Bạn còn có thể tìm kiếm trong tiếng Anh, phần tự viết và tên dòng. Gõ `beg/` sẽ gom mọi thứ về ăn xin vào một chỗ. Tìm kiếm bỏ qua dấu, nên gõ `zloty` vẫn tìm được `złoty`.
+
+Danh sách ngôn ngữ trong Options giờ hiện mọi ngôn ngữ đang có thay vì chỉ hai thứ tiếng. Nếu ai đó dịch game sang ngôn ngữ khác, họ thật sự chọn được nó.
+
+8 tháng 8 năm 2026
+
+Game giờ có trình dịch trong Options. Chọn một ngôn ngữ, nó sẽ đưa bạn qua từng câu: đọc tiếng Anh, nói bản hiện có hoặc báo chưa ai làm, rồi cho bạn nhập. Có lựa chọn nhảy thẳng tới dòng chưa được đụng tới tiếp theo, đúng kiểu người ta thực sự ngồi dịch cả bộ.
+
+Nó cũng dịch được một map riêng lẻ, nên ai đó có thể thêm ngôn ngữ cho một khu vực mà không đụng phần còn lại của game.
+
+8 tháng 8 năm 2026
+
+Giờ bạn có thể nói chuyện với người đứng cạnh chỉ bằng Enter. Trước đây phải thực sự bước va vào họ; tracker có thể nói viên cảnh sát ngay bên cạnh mà bấm Enter vẫn chẳng làm gì.
+
+Nếu đang đứng trên một địa điểm thì địa điểm vẫn được ưu tiên: Enter tại cửa hàng sẽ mở cửa hàng thay vì bắt chuyện với người đứng quầy, vì người ta đứng đúng nơi họ làm việc.
+
+8 tháng 8 năm 2026
+
+Đây là phần móng để người chơi tự xây khu vực và viết lời của mình.
+
+Giờ chỉ cần thả file map vào thư mục maps là thêm được khu vực mới. Không phải sửa gì trong bản thân game.
+
+Hai ngôn ngữ giờ là bạn đồng hành ngang hàng. Trước đây English là bản gốc còn Polish là bản dịch, nên hai câu tình cờ giống nhau trong English bị ép dùng chung một bản Polish: cả bảy nút Back phải cùng một từ. Giờ chúng tách riêng. Điều đó cũng cho phép ai đó viết thẳng bằng Polish, kể cả viết cả khu vực, mà không phải đi vòng qua English.
+
+7 tháng 8 năm 2026
+
+Giờ bạn có thể đổi ý khi gửi báo cáo. Trước đây gõ xong là không còn đường lui: bấm Escape vẫn gửi. Giờ có lựa chọn vứt bản nháp, và Escape cũng làm vậy.
+
+Câu hỏi về thông tin liên lạc giờ thực sự được đọc. Trước đây nó bị hộp nhập vừa mở nói đè lên.
+
+Game cũng tự gọi đúng tên Zul Simulator trở lại. Một đợt sửa chính tả đã đi quá tay, đổi cả tên game lẫn địa chỉ web được đọc cho người chơi, khiến ai gõ theo sẽ tới nhầm chỗ.
+
+7 tháng 8 năm 2026
+
+Các cách viết tiếng Ba Lan giờ được dùng đúng: żul, złoty, ulica Wesoła. Trước đây game viết mỗi nơi một kiểu, khiến cùng một từ nghe như hai từ khác nhau tùy câu.
+
+Hướng dẫn đã sửa vài chỗ vẫn mô tả cơ chế cũ, gồm cả việc bảo hết năng lượng là kết thúc ngày — điều đã không còn đúng từ lâu.
+
+Game cũng không còn nói có thể gửi báo cáo ẩn danh, vì không thể hứa điều đó: dịch vụ chuyển tin vẫn ghi nhận nơi gửi như mọi website. Giờ nó nói thẳng rằng nếu không để lại liên hệ thì đơn giản là không có cách trả lời bạn.
+
+6 tháng 8 năm 2026
+
+Mọi địa điểm giờ đều nói Enter sẽ làm gì ở đó. Cửa hàng, máy đổi chai, thùng rác, đèn giao thông, quán rượu, chợ, gara, bàn trực và phòng giam trước đây chỉ tự mô tả mà chẳng hề nhắc rằng bạn có thể dùng chúng.
+
+Khá nhiều câu chữ người chơi không bao giờ chạm tới, sót lại từ các phiên bản thị trấn cũ, cũng đã được dọn bỏ.
+
+Bản này không có gì bạn sẽ nghe thấy. Toàn bộ là sửa bộ kiểm thử của game: có vài bài âm thầm chẳng kiểm tra gì và một lỗi có thể khiến game rơi vào trạng thái lộn xộn nếu nó từng xảy ra.
+
+LƯU VÀ BẮT ĐẦU
+
+Giờ lưu là giữ trọn ván chơi. Đây là thay đổi quan trọng. Trước kia thoát rồi quay lại chỉ còn tiền và vị trí, gần như mọi thứ khác bị vứt sạch: cả túi đồ, mọi mối quan hệ đã gây dựng, mọi điều đã khám phá về sở thích của người khác, tất cả cột mốc, ngày đang chơi và người bạn đã tống vào phòng giam. Một tuần chơi quay lại thành kẻ xa lạ vẫn cầm đúng cái ví cũ. Bản lưu cũ vẫn dùng được và từ giờ sẽ giữ mọi thứ.
+
+Bắt đầu ván mới giờ thực sự là ván mới. Trước đây nó giữ quan hệ cũ, hồ sơ cảnh sát, người bạn từng tống vào phòng giam và cả ngày đang chơi, nên có thể chọn nhân vật mới tinh rồi phát hiện cả thị trấn đã biết mặt.
+
+ÂM THANH
+
+Âm lượng hiệu ứng giờ thật sự điều khiển hiệu ứng — tất cả. Mọi âm thanh định vị quanh bạn từng phớt lờ nó: tiếng báo có người gần đó, bước chân họ đi qua, xe cộ, TV, công trường, đài phun nước và tiếng bíp dẫn đường. Chỉ bước chân của bạn chịu nghe, nên giảm âm lượng từng làm lệch cán cân âm thanh thay vì hạ cả mức tiếng.
+
+Nó cũng chẳng còn khoảng để tăng. Âm lượng nằm sẵn ở mức tối đa nhưng vẫn cố tăng cao hơn, điều âm thanh không thể làm, nên Home hoàn toàn vô dụng. Giờ End hạ xuống và Home nâng trở lại.
+
+Giữ bất kỳ phím âm lượng nào trong bốn phím, mức tiếng sẽ thay đổi liên tục thay vì phải bấm tới bấm lui. Page Up và Page Down chỉnh nhạc. Home và End chỉnh hiệu ứng. Hai nhóm tách riêng có chủ ý, để bạn giảm nhạc mà không mất bước chân và những âm báo dùng để tìm đường.
+
+Cả hai mức âm lượng được nhớ khi thoát, cùng trạng thái tắt nhạc. Trước đây âm lượng hiệu ứng hoàn toàn không được lưu.
+
+Giờ bạn thật sự ngáy trong lúc ngủ. Trước kia tiếng ngáy chỉ tới sau khi bạn đã thức dậy.
+
+NĂNG LƯỢNG VÀ RƯỢU
+
+Năng lượng vận hành khác đi, khiến nhịp một ngày cũng đổi. Đứng chờ không hồi lại gì. Bạn lấy sức từ đồ ăn, thức uống nóng, ngồi ghế và một đêm ngủ. Thức ăn giờ không phải phần thưởng; nó là việc phải làm. Ghế có thể kéo bạn dậy khỏi sàn nhưng không hơn: nó không phải giường cũng chẳng phải bữa ăn.
+
+Trạng thái ẩn “kiệt quệ” đã bị bỏ. Đó là hình phạt bạn không thấy trước và không thể hóa giải ngoài cách kết thúc ngày.
+
+Cơn say giờ sẽ tan. Trước đây uống vài ly lúc chín giờ sáng thì tới nửa đêm bạn vẫn loạng choạng y nguyên. Nó tự nhạt dần, còn trà, chút đồ ăn hoặc ngồi nghỉ sẽ giúp tỉnh nhanh hơn.
+
+Một đêm hồi ít sức hơn nếu bạn lên giường khi đã cạn sạch, đang đói, hoặc lết về lúc bốn giờ sáng.
+
+LUẬT PHÁP
+
+Một đêm trong phòng giam giờ thật sự được tính là một đêm. Trước đây bị tóm chỉ đẩy ngày sang hôm sau trong khi chẳng có gì khác diễn ra: nhiệm vụ không đổi, người bị bạn chỉ điểm không thụ án, và cái tiếng xấu sau khi vượt giới hạn không phai đi.
+
+Ngủ cho tỉnh trong phòng giam giờ giúp hết say trong phần đêm còn lại. Ở thêm nhiều đêm sẽ bào mòn bạn; những ngày không rượu không thuốc làm thói quen lỏng đi đôi chút nhưng cơn thèm lại dữ dội.
+
+Ra khỏi phòng giam hoặc trạm giải rượu không còn khiến bạn kiệt sức vĩnh viễn.
+
+Giờ bạn biết cảnh sát đang để mắt tới mình đến đâu. Bấm S, game sẽ nói bằng lời. Chỉ số này từng âm thầm tăng và quyết định bạn có bị khám hay một lần chặn hỏi có biến thành một đêm trong phòng giam không.
+
+Thoát khỏi menu khi được đưa giấy phạt không còn bị tính là xé nó ngay trước mặt cảnh sát.
+
+Bạn không còn bị phạt vì những trận đánh chưa từng xảy ra: bị từ chối, nghĩ lại, hoặc kiệt sức đến mức không vung tay nổi từng vẫn cho bạn “thành tích” ẩu đả và sự chú ý của cảnh sát vì một vụ đánh nhau không tồn tại.
+
+CON NGƯỜI VÀ THỊ TRẤN
+
+Khi tìm ra thứ một người mê, game giờ nhớ đúng món. Với năm người, trước đây nó gọi tên một thứ hoàn toàn khác.
+
+Những người đứng quầy đã nghe tin nếu bạn vượt quá giới hạn. Họ sẽ lấy tiền, và đó là tất cả những gì bạn nhận được.
+
+Bị từ chối nói chuyện không còn được tính là đã trò chuyện.
+
+Người bước tới bắt chuyện giờ thực sự là người đang có mặt. Trước đây barman có thể xuất hiện khi bạn đứng trong công viên lúc bình minh, còn người bị bạn chỉ điểm vẫn ghé nói chuyện từ bên trong phòng giam.
+
+Giường của bạn lại là giường của bạn. Sau khi ra khỏi phòng giam hoặc tỉnh dậy trên sàn, đêm ngủ kế tiếp từng bị phạt như thể bạn vẫn ngủ bụi.
+
+ĐI LẠI
+
+Chỉ đường tracking từng nói một thứ ở phía trước trong khi thật ra nó muốn nói phía bắc, nên có thể bảo “phía trước” dù vật ấy rõ ràng nằm sau lưng. Giờ hướng khớp với phím mũi tên. Tracking cũng bớt lải nhải: chỉ còn hướng và khoảng cách.
+
+Khi nhìn, ghế giờ nói Enter sẽ cho bạn ngồi nghỉ hay nằm ngủ qua đêm, không phải đợi đến lúc bước tới.
+
+Lục chai khi xe đẩy đã đầy không còn trừ năng lượng rồi mới báo hết chỗ.
+
+Chuyện ai đó nôn ngoài đường giờ chỉ xảy ra về khuya và ở nơi người ta thực sự uống.
+
+MENU VÀ HƯỚNG DẪN
+
+Phần hướng dẫn từng bỏ qua dòng đầu mỗi mục, kể cả câu giải thích żul là gì. Giờ Enter cũng đóng được nó.
+
+Home và End nhảy tới đầu và cuối danh sách.
+
+Escape ở menu chính sẽ thoát, và game còn nói với bạn một câu lúc đi. Có tám câu khác nhau.
+
+SỬA CHỮA VÀ BÁO CÁO
+
+Nếu âm thanh của game bị thiếu hoặc hỏng, bạn có thể khôi phục mà không phải tải lại cả game, trong mục “Kiểm tra và sửa file game” ở Options. Nó tách file thiếu khỏi file bị đổi: file thiếu được đề nghị khôi phục thẳng, file khác đi sẽ hỏi trước vì nếu bạn đang mod thì đó là công sức của bạn và game không tự ý ghi đè. Cũng có lựa chọn chỉ báo thứ gì khác mà không thay đổi gì. Sau khi khôi phục file, game tự khởi động lại vì âm thanh đang phát đã được nạp từ lúc mở game.
+
+Việc sửa chữa chờ tới khi bạn dùng bản mới nhất, vì nếu không nó chẳng phân biệt được file bạn sửa với file thuộc một phiên bản cũ.
+
+Bạn có thể gửi báo lỗi, góp ý hoặc chỉ một lời nhắn thẳng từ game, trong mục “Gửi điều gì đó cho tác giả” ở menu chính. Trước khi bạn viết, nó nói chính xác thứ gì sẽ đi kèm: phiên bản đang dùng, trình đọc màn hình, thiết bị âm thanh và vị trí trong game. Nếu gửi không được, nó lưu báo cáo thành file rồi nói file nằm đâu, nên không lời nào bạn viết bị mất. Bạn có thể để lại cách liên lạc nếu muốn và đổi hoặc xóa nó bất cứ lúc nào trong cùng menu.
+
+Nếu đã chạy kiểm thử, bạn cũng có thể gửi kết quả. Bản thân tính năng kiểm thử cũng đã được sửa: trước đây nó báo những lỗi không có thật.
+
+Bạn có thể tự kiểm tra bản mới từ menu chính thay vì chỉ biết lúc khởi động. Sau cập nhật, game tự mở lại nên không phải đi tìm đúng chương trình. Bạn cũng có thể giới thiệu game từ menu chính; nó chép một liên kết tải thẳng bản mới nhất.
+
+5 tháng 8 năm 2026
+
+Mọi thứ phía sau lưng giờ nghe trầm hơn một chút và trở lại bình thường khi nằm phía trước. Điều này áp dụng cho cả người lẫn địa điểm, giúp bạn biết thứ gì còn ở trước mặt và thứ gì mình đã đi qua.
+
+Bấm T, chọn một nơi, tiếng bíp sẽ dội về phía đó cho tới khi bạn đến, rồi dừng bằng một âm báo. Nó ngừng ngay khi bạn đã đủ gần để dùng vật ấy, thay vì tiếp tục kêu lúc bạn đứng sát bên.
+
+Giấc ngủ giờ kéo dài tám giây và bạn ngáy suốt lúc đó. Trên giường nhà mình là tiếng ngáy mãn nguyện; ngủ bụi thì đứt quãng, chập chờn.
+
+Mọi chiếc ghế giờ nói rõ bấm Enter sẽ ngồi nghỉ hay nằm ngủ qua đêm, nên hai chiếc ghế trong công viên không còn là trò đoán mò.
+
+Nôn giờ thật sự nghe ra tiếng nôn. Ngồi ghế chờ thời gian trôi phát tiếng tích tắc đồng hồ thay vì thứ âm thanh khó hiểu trước kia.

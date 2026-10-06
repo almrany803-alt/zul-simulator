@@ -1,0 +1,389 @@
+6 October 2026
+
+The game speaks Vietnamese. A player called VanTrung2807 sat down and translated the whole thing, every line of it, and sent it in. Pick it from the list when the game first starts, or from Options at any time.
+
+Any finished language file you drop into the lang folder is now offered on that first screen, alongside the ones the game came with. Before, it only ever offered English and Polish however many languages were sitting there.
+
+The daily jobs now do what they say. Every one of them promised a result and quietly counted an attempt instead.
+
+Begging up ten zloty counted how many times you asked rather than what anybody gave you, and it counted the asking before you knew the answer, so ten refusals finished the job with nothing in your pocket. It now counts what was actually handed over.
+
+Having a proper word with three people counted conversations, so talking to the same man three times finished it. It now counts people, once each a day.
+
+Having three drinks counted mouthfuls, so three pulls on one bottle was enough. It now counts the bottles you finish.
+
+And the earning job promised what was in your pocket when it was really counting what came in over the day, so you could earn it, spend it, and be told you were done. It says what it means now.
+
+Two checks also used to fail for everybody but us, because they read the game's own source code, which is not in the copy you download. VanTrung2807 found those too and rewrote them to test the real behaviour instead.
+
+10 August 2026
+
+Nothing you can see has changed in this one. The tests behind it now press the keys a person would press rather than calling the code directly, which caught two things that had never actually been tried: putting a shop down and choosing who stands behind the counter, and telling the builder that somebody is a woman.
+
+Leaving a game without saving has been checked properly too. Choosing to leave anyway really does leave your saved game exactly as it was.
+
+10 August 2026
+
+The game now knows the difference between a man and a woman, which it never did. There were sounds for how a woman takes a gift well or badly sitting in the folder, and nothing in the game had ever played them, nor the men's. Give somebody something now and you hear what they think of it, in a voice that suits them, with several takes so nobody reacts identically twice.
+
+Everybody you make in the builder is asked whether they are a man or a woman, and so is every character you can play as. Halina and Grazyna are women, which the game had no way of knowing before.
+
+And quitting will now tell you if you have played since you last saved. Auto-save happens at the end of a day, so somebody who played half a day and walked away lost it with nothing said. It offers to save first, or to leave anyway, or to stay where you are.
+
+10 August 2026
+
+There is a sound pack. The game came with about a dozen sounds you could put on a map, which was never enough to build anything with, and a modding system with nothing to build from is a workshop with no timber.
+
+It holds a hundred and twenty eight kinds of ground, each with five different footsteps, so a gravel yard sounds nothing like a wooden floor or wet concrete. There are a few hundred background loops: a tram going past, a church bell, a bus station, a graveyard at night, rain on cars, wind in trees. Several hundred more sounds you can put at a single spot. And a shelf of music.
+
+You can fetch it from the builder, and it offers itself when you make a mod. It is about four hundred and fifty megabytes so it is not in the game itself, and it arrives in eight parts. Press escape at any point and whatever has arrived stays, so coming back to it carries on rather than starting again.
+
+It lives beside your saved games, so updating the game never wipes it. If you decide you are not building anything after all, you can take it off from the same screen, and it asks twice before doing it.
+
+10 August 2026
+
+Nearly everything the game counts is now yours to change. The jobs the day gives you, how many you need and what each pays. What the milestones are worth. What a trolley carries and what it costs to get. How fast the police forget about you.
+
+Each job has its own name, so a town where nobody smokes can take the smoking one out with a single line.
+
+One thing that was quietly wrong is fixed with it: your jobs for the day were remembered by their place in the list rather than by name, so a mod adding or removing one would have turned yesterday's jobs into different ones without saying anything.
+
+10 August 2026
+
+When you pick a mod you have never played, and you have a game going somewhere else, it now offers to bring that game across. Your money, your day, your standing in the district, who you get on with and what you are carrying all come with you, so forty days of work is not the price of trying somebody else's town.
+
+Your other game is left exactly as it is, so you can go back to it whenever you like. And if the new town has no room for something you had, a person or a drink it does not have, or the place you were standing in does not exist there, it puts you somewhere sensible and tells you plainly what has gone.
+
+It only offers the first time, because after that you have a game in that mod and it will not write over it.
+
+9 August 2026
+
+The builder works the same way whether or not you have made a mod. Before this, some of it worked without one and some of it told you to make a mod first, which was not a decision anybody made. Now all of it works, and it warns you once that changes to the town the game comes with will be replaced when the game updates.
+
+The one exception is your own sounds, which live inside a mod, so that screen explains why rather than showing you empty folders.
+
+9 August 2026
+
+A shop, a bar or a food stand can have its own person behind the counter. When you put one down the builder asks who runs it: anybody in the game, or nobody in particular, which leaves whoever the game normally uses.
+
+If you name somebody, it also asks whether the place should be shut when they are not about. That is how you make a shop that closes at ten, and a town where you have to plan your evening. You can write your own words for what people hear when it is shut.
+
+The bar has always closed when its barman was off, and the shop and the stand never closed at all. That was not a decision anybody made, so all three now follow the same rule and it is yours to choose.
+
+9 August 2026
+
+The how to play has caught up again. The building section now covers putting people on maps, which is the sixth thing you can add, and the mods section explains how to change what the street throws at you and how to take an event out of your town.
+
+9 August 2026
+
+You can put people on your maps now. Until this, you could make somebody, give them words and a voice and decide what they wanted, and they would stand nowhere at all so nobody could ever meet them. It is under Add something to this map: stand where they should be, pick anybody in the game, and say whether they are about all day or only certain hours.
+
+Putting the same person down twice moves them rather than leaving two of them about, and it tells you that is what happened.
+
+If you meet somebody whose words have not been written yet, the game now says so in plain words rather than reading out the name of a file.
+
+And you can change how often the street interrupts you: how long it leaves you alone, how likely something is to happen, and how much busier the night and the busy corners are. A mod can also take an event out entirely, so a town can have no muggers in it at all.
+
+9 August 2026
+
+Some bad ones found and fixed, all to do with building a mod and sending it to somebody.
+
+Maps you built were being written into the game's own folder rather than into your mod. So you could build a whole town, send it to a friend, and they would open it and find nothing in it. The same was true of characters you made. Both are fixed, and so is a smaller one where a character you made in a mod stayed in your list after you went back to the normal game.
+
+Taking one of the numbers back to its normal value also told you it had failed when it had actually worked.
+
+None of this was findable before, because nothing could answer the questions the builder asks. It can now, and the game tests the whole thing from making a mod through to sending it.
+
+9 August 2026
+
+The how to play has caught up with the builder. The section on people now covers making them rather than only changing what they want, including their voice and whether the police can take them, and one line in it was pointing at a menu that no longer exists.
+
+9 August 2026
+
+You can make the people who live in the town now, not just change what they want. It is under People in the builder: give somebody a name, seven lines of what they say, what they sound like, and whether the police can take them.
+
+Saved games are also a good deal safer. Everything in a save is now written down beside the name it belongs to rather than by position, so adding a drink or a person to a mod no longer shifts everything along and quietly turns your vodka into something else. If a save mentions something the game no longer has, it tells you what has gone rather than leaving you to notice.
+
+9 August 2026
+
+A mod can have its own sounds and music now. Before this, a mod could say which music an area should play but had no way to supply any: the game only ever looked in its own folders.
+
+Making a mod now sets up five folders, one for each kind of sound: things that come from a spot, background that runs under an area, music, ground surfaces, and what a character sounds like when they speak. Copy your files into whichever fits, as many at once as you like, and the builder will tell you what each folder is for and what you have put in it.
+
+Ground surfaces only need one file. Drop in one and every step on that surface uses it.
+
+You can try ogg, wav, mp3 and flac files. If one will not play, the game says so rather than going quiet on you.
+
+9 August 2026
+
+A mod can have its own music and its own sounds now. Put them in the mod's sounds or music folder, point a map at them by name, and they play. Before this the game only ever looked in its own folders, so a mod could ask for its own music and get nothing.
+
+If your sound has the same name as one of the game's, yours wins, so you can replace the dog barking with your own dog without renaming anything.
+
+When you pick a sound in the builder, your own and the game's are listed separately. Your own travel with the mod when you send it to somebody. The game's do not, so whoever you send it to will need the game itself.
+
+It looks for ogg, wav, mp3 and flac, so drop in whatever you have and it will tell you plainly if it cannot play it.
+
+9 August 2026
+
+Updating is more forgiving, and more honest about itself.
+
+A download that hiccups is now tried again a couple of times instead of abandoning the whole update. Before, if twenty seven files came through perfectly and the twenty eighth stumbled, the lot was called off.
+
+And if an update does stop partway, it now tells you how far it got rather than saying nothing was changed, which was not true: files are replaced as they arrive. It also offers to check every file properly there and then, comparing what is actually in them rather than just their size, and will put anything wrong back for you.
+
+9 August 2026
+
+You can talk to somebody who is standing at a place now. Before, if there was a bench or a desk under your feet, Enter always gave you that and the person standing there could only be reached by walking into them. The copper at the duty desk was the obvious one.
+
+Now, when there are two things where you are standing, it asks which you meant. Everywhere else is unchanged: a place on its own opens, a person on their own talks, and walking into somebody still works.
+
+9 August 2026
+
+A bad one. Choosing to give somebody something started a fight with them instead. Asking somebody for money said the sharp thing to them and stopped, and the sharp thing itself could never be chosen at all. Three of the seven options in a conversation did the wrong thing. All fixed, and there is now a test that presses each option and checks what actually happens.
+
+The wording in the builder and the mod menus is clearer as well. Options like Create a new one now say what one is, since you hear a label on its own with nothing else to tell you what it means.
+
+9 August 2026
+
+Two bad ones fixed.
+
+The game could crash when starting a new game, if you had chosen a mod that was meant to be a town of its own and had not built any areas in it yet. It now tells you there is nowhere to walk about and points you at the builder.
+
+And more seriously, the game was not reading its own rules when it started up, which meant nobody in town wanted anything. Every gift got a shrug and none of the relationships worked properly. That is fixed, and there is a test that would catch it happening again.
+
+The how to play now has four sections for making things: building an area, making characters and people, mods and sharing what you make, and translating the game.
+
+9 August 2026
+
+You can change who wants what from inside the game now, in the builder under Who wants what. Pick somebody and change what they love, what they will not touch, and what they are merely glad of. You can give them a rule as well, like refusing anything alcoholic or anything too expensive, and it tells you what that rule catches today so you can hear whether you have put the line in the right place.
+
+The message when the game starts up has been calmed down. It used to announce how many files were missing or different, which sounded like something had gone badly wrong when usually it just means an update has added something new. Now it says what it means for you and asks a simple question, and says nothing at all when there is nothing wrong.
+
+If you have edited one of the game's own maps in the builder, the game marks it as yours and stops treating your work as damage. That also means the option about modding has gone from the options, because the game no longer needs telling.
+
+8 August 2026
+
+You can change how a mod plays from inside the game now, under How the game plays in the builder. What a bottle pays, what washing windscreens gets you, what each job takes out of you, how much a bench brings you round.
+
+Each one tells you its value and what the game normally has it at, and when you change it, it explains what sort of number makes sense: a bottle paying one means a full trolley of fifteen is fifteen zloty.
+
+It only ever writes into the mod you have chosen, so the town the game comes with is never touched, and the mod only records what you actually changed.
+
+8 August 2026
+
+Who wants what is now yours to change. Every one of the fifteen people in town has their tastes written in the rules file: what they love, what they will not touch, and what they are merely glad of.
+
+Some of them hold a rule rather than a list. The man on the food stand refuses anything alcoholic, which is written as a rule rather than a list of drinks, so if you add a spirit of your own he will refuse that too without you having to tell him. The young mother refuses every drink except the one she wants. You can change those rules, or give somebody a rule of your own: somebody who will not accept anything expensive, or only wants something that will actually fill them up.
+
+8 August 2026
+
+Things you can find lying about are now yours to change as well. A mod can add its own, say whether it turns up in bins, in the park, on the street or among scrap, and take out anything already there.
+
+8 August 2026
+
+The shop is yours to change now. A mod can put its own drinks and food on the shelves, with their own price, how hard a drink hits you, what it does to your legs, and how many swigs or bites are in it. It can change what is already there, and it can take things off the shelves entirely.
+
+So somebody can build a town where the only drink is their grandmother's nalewka, or where the energy drink has never existed.
+
+8 August 2026
+
+The numbers behind the game now live in a file you can read and change: what a bottle pays, what washing windscreens gets you, what each job takes out of you, how much a sit on a bench brings you round. A mod can change any of them, and only needs to list the ones it wants different.
+
+All six characters are now files in the chars folder rather than four of them being buried in the game, so you can look at any of them and change them.
+
+And there is a mods folder in with the game, with a note in it, so if somebody sends you a mod you know where to put it.
+
+8 August 2026
+
+The builder has been tidied up. It had grown to thirteen things on one screen, so it is now in two levels: maps, characters, translation and so on at the top, and then everything to do with one map once you have chosen it. Nothing is more than about six items.
+
+The wording in the builder and the translation editor is plainer too. Those are tools, so they now read like tools rather than like somebody chatting to you. The game itself is unchanged.
+
+And the builder no longer explains itself every single time you open it. It remembers that you have heard it, and there is an option to hear it again whenever you want.
+
+The main menu now tells you which game you are playing rather than just offering to change it.
+
+8 August 2026
+
+Mods. Everything you build now lives in one folder that you can zip up and send to somebody, and they drop it in and have it.
+
+There is a new option on the main menu for choosing what you are playing: the town the game comes with, or any mod you have. Making one asks what to call it, a sentence describing it if you want, and whether it is extra places added to the town or a town entirely of its own.
+
+Each one keeps its own saved game, so going back to the original town finds your game exactly where you left it. And you can remove a mod from your machine, which asks twice first.
+
+Two more characters to play as: Halina, who has been on the street thirty years and stopped minding, and Grazyna, who is absolutely not a zulica and is only between flats.
+
+8 August 2026
+
+You can make characters to play as now, from the same builder. It asks you who they are, what they mutter to themselves when nothing is happening, how they ask for money when they are being humble and when they are being blunt, and what they find missing when they wake up in a cell.
+
+You can write one from nothing, or start from somebody who already exists and only write what you want different. Anything you leave alone falls back to theirs, so somebody can be playable in two minutes and finished later. Each question shows you how one of ours answered it, as an example rather than something you are stuck with.
+
+A character is a text file in a chars folder, so you can open it yourself if you want to, and the translation editor will handle a new one the same as anything else.
+
+8 August 2026
+
+The builder can now do everything a map holds. As well as places, you can add scenery you hear when you walk through it, patches of different ground underfoot, sounds coming from a fixed spot, and ways out to other areas.
+
+For anything that covers a stretch of ground you walk to one corner, press enter, and walk to the other. No numbers, unless you want them.
+
+And there is a list of everything in your area, described in plain words, so you can walk back to something you put down or take it out again. Adding a way out will offer to put the way back in as well, so people can get in and out.
+
+The translation editor now has its own section in the how to play, which it should have had from the start.
+
+8 August 2026
+
+You can build your own areas now. Press shift and B anywhere in the game and it will walk you through it: give the place a name and a size, then walk to where you want a bench or a bin or a shop and tell it to put one there. It takes the spot from wherever you are standing, so there are no numbers to work out, though you can type them if you would rather.
+
+Everything you build is saved into a plain text file next to the game, and it becomes part of your game straight away. There is a section about it in the how to play.
+
+You can change our areas too, but you will be warned first: ours get put back whenever the game updates, and an area of your own never does.
+
+8 August 2026
+
+The translation editor shows you the whole list now. Before, it only moved you between lines that still needed doing, so once everything was translated you could not move at all, even though it told you to use the arrow keys.
+
+You can also search it, and it looks in the English, in what you have written yourself, and in the name of the line, so typing beg slash gathers everything about begging in one go. It ignores accents, so typing zloty finds złoty.
+
+And the language list in Options now shows whatever languages exist rather than just the two. If somebody translates the game into another language, they can actually choose it.
+
+8 August 2026
+
+There is a translation editor in the game now, under Options. Pick a language, and it walks you through the game's words one at a time: it reads you the English, tells you what you have written so far or that nobody has done that one yet, and lets you type it. There is an option to jump straight to the next line nobody has touched, which is how you would actually sit down and work through it.
+
+It will also translate a single map, so somebody can add another language to an area without touching the rest of the game.
+
+8 August 2026
+
+You can talk to somebody just by pressing Enter when you are stood next to them. Before, you had to actually walk into them, so the tracker would tell you the copper was right beside you and pressing Enter did nothing at all.
+
+If you are stood on something, that still wins: Enter at the shop opens the shop rather than starting a chat with the man behind the counter, because people are stood where they work.
+
+8 August 2026
+
+Groundwork for letting people build their own areas and write their own words.
+
+New areas can now be added simply by dropping a map file into the maps folder. Nothing needs changing in the game itself.
+
+And the two languages are now equal partners. Before, English was the original and Polish was a translation of it, which meant two lines that happened to read the same in English were forced to share one Polish translation: all seven Back buttons in the game had to be the same word. They are all separate now. It also means somebody can write in Polish without going through English at all, including writing a whole area in Polish.
+
+7 August 2026
+
+You can change your mind about sending a report now. Once you had typed something there was no way out: pressing escape sent it anyway. There is now an option to scrap it, and escape does the same.
+
+The question about leaving your contact details is actually read out now. It was being talked over by the box you had just typed in.
+
+And the game calls itself Zul Simulator again. A spelling change went too far and renamed it, and did the same to the web address the game reads out to you, which would have sent anybody typing it in to the wrong place.
+
+7 August 2026
+
+Polish spellings are used properly now: żul, złoty, ulica Wesoła. The game was writing them both ways, so the same word sounded like two different words depending on which line came up.
+
+The guide has been corrected in a few places where it still described how things used to work, including telling you that running out of energy finished your day, which has not been true for a while.
+
+And the game no longer tells you a report can be sent anonymously, because it cannot promise that: the service carrying the message records where it came from, like any website. It now says plainly that without contact details there is simply no way to reply to you.
+
+6 August 2026
+
+Every place now tells you what Enter would do there. The shop, the bottle return, the bins, the traffic lights, the bar, the market, the garage, the desk and the cells all used to describe themselves without ever mentioning you could use them.
+
+And a fair amount of writing that no player could ever reach has been cleared out, left over from older versions of the town.
+
+Nothing you will hear in this one. It is all work on the game's own testing, which had a few checks that were quietly not checking anything, and one fault that would have left the game in a confused state if it had ever gone off.
+
+SAVING AND STARTING
+
+Saving now keeps your whole game. This is the important one. Before, quitting and coming back kept your money and your position and threw away nearly everything else: your entire bag, every relationship you had built, everything you had worked out about what people like, all your milestones, what day it was, and who you had put in a cell. A week of play came back as a stranger with your wallet. Old saves still work and keep everything from now on.
+
+Starting a new game now actually starts a new game. It used to keep your old relationships, your police record, whoever you had put in a cell, and even what day it was, so you could pick a fresh character and find the whole town already knew you.
+
+SOUND
+
+The sound effects volume now controls the sound effects. All of them. Everything positioned around you had been ignoring it completely: the tone that tells you somebody is there, their footsteps going past, the traffic, the telly, the building site, the fountain, and the tracking beeper. Only your own footsteps were listening, so turning it down changed the balance of the game rather than the level of it.
+
+It also had no room to move. It sat at full volume and tried to go higher, which sound cannot do, so Home never did anything at all. End takes it down now and Home brings it back up.
+
+Hold any of the four volume keys down and it keeps going, rather than needing to be pressed over and over. Page Up and Page Down are the music. Home and End are the sound effects. They are separate on purpose, so you can turn the music down without losing the footsteps and the tones you find your way by.
+
+Both volumes are remembered when you quit, along with whether you had muted the music. The effects volume was never being saved at all.
+
+You now actually snore while you sleep. The sound was arriving after you had already woken up.
+
+ENERGY AND DRINK
+
+Energy works differently, and it changes how a day feels. Nothing comes back from waiting. You get your legs from eating, from a hot drink, from sitting on a bench, and from a night's sleep. Food is not a treat now, it is the job. A bench will pull you up off the floor but no further: it is not a bed and it is not a meal.
+
+The hidden "you are done in" state is gone. It was a penalty you could not see coming and could not undo except by ending the day.
+
+Drink now wears off. It never did before: a few at nine in the morning left you exactly as unsteady at midnight. It fades slowly on its own, and a tea, a bite to eat or a sit down brings you round faster.
+
+A night gives you less back if you go to bed with nothing left in you, or hungry, or if you roll in at four in the morning.
+
+THE LAW
+
+A night in the cells now counts as a night. Getting nicked used to move the day on while nothing else happened: your tasks were never replaced, anyone you had grassed never served their time, and being marked after crossing the line never wore off.
+
+Sleeping it off in the cell now sobers you for the rest of the night. Extra nights inside tell on you, and days with no drink and no cigarettes leave you with the habit loosened a little and wanting one badly.
+
+Coming out of the cells or the sobering station no longer leaves you permanently worn out.
+
+You can now tell how much attention the police are paying you. Press S and it says so in words. It was building up invisibly, and it decides whether you get searched and whether a stop becomes a night in a cell.
+
+Backing out of the menu when handed a fine no longer counts as tearing it up in the officer's face.
+
+You are no longer punished for fights that never happened: being refused, thinking better of it, or being too worn out to swing all used to earn you credit for a scrap and police attention for a brawl nobody had.
+
+PEOPLE AND THE TOWN
+
+When you work out what somebody loves, the game remembers the right thing. For five people it was naming something else entirely.
+
+The people behind the counters have heard if you cross the line. They will take your money and that is all you are getting.
+
+Being refused a conversation no longer counts as having had one.
+
+Whoever walks up to you for a chat is actually somebody who is there. The barman could turn up while you stood in the park at dawn, and a man you had grassed could stop for a word from inside his cell.
+
+Your own bed is your own bed again. Coming out of the cells or waking off the floor, the next night you slept was being punished as kipping rough.
+
+GETTING ABOUT
+
+Tracking directions used to say a thing was ahead when it meant north, so it could tell you something was ahead while it was plainly behind. They now match the arrow keys. Tracking also talks less: just the direction and the distance.
+
+Benches tell you whether Enter will sit you down or bed you down for the night when you look at them, not only when you walk up.
+
+Rummaging for bottles with a full trolley no longer costs you the energy before telling you there is no room.
+
+Somebody being sick in the street now only happens late on, and where people actually drink.
+
+MENUS AND THE GUIDE
+
+The how to play was skipping the first line of every section, including the one explaining what a zul actually is. Enter closes it now too.
+
+Home and End jump to the top and bottom of a list.
+
+Escape on the main menu quits, and the game says something to you on the way out. Eight different things.
+
+REPAIRING AND REPORTING
+
+If any of the game's sounds go missing or get damaged, you can put them back without downloading the whole game again, under Check and repair the game's files in the options. It keeps missing files and changed files separate: missing ones it simply offers to restore, changed ones it asks about first, because if you have been modding the game that is your work and it will not overwrite it without asking. There is also an option to just be told what is different, without altering anything. After putting files back the game restarts itself, because the sounds it is already playing were loaded when it started.
+
+Repairing waits until you are on the newest version, because otherwise it cannot tell a file you changed from one that belongs to an older version.
+
+You can send me a bug report, a suggestion, or just a message, straight from the game, under Send something to the author on the main menu. It shows you exactly what goes with your words before you write anything: which version you are on, which screen reader you use, what you are listening through, and where you were in the game. If it cannot send, it saves your report to a file and tells you where, so nothing you wrote is lost. You can leave a way for me to reply if you want to, and change or remove it any time from that same menu.
+
+If you have run the tests you can send me the results too. And the test feature itself was fixed: it had been reporting failures that were not real.
+
+You can check for a new version yourself from the main menu, rather than only finding out when the game starts. After an update the game restarts itself, so you never have to go and find the right program. You can also tell somebody about the game from the main menu: it copies a link that downloads the newest version straight away.
+
+5 August 2026
+
+Anything behind you now sounds slightly lower, and lifts back to normal when it is ahead of you again. That goes for people as well as places, and it is how you tell what is still ahead of you from what you have already walked past.
+
+Press T, pick somewhere, and a beep pulses towards it until you arrive, then stops with a sound when you get there. It stops as soon as you are close enough to actually use the thing, rather than carrying on while you stand right next to it.
+
+Sleeping now takes eight seconds and you snore through it. In your own bed it is a contented snore. Dozing rough it is a broken, restless one.
+
+Every bench now tells you whether pressing enter will sit you down for a rest or bed you down for the night, so the two benches in the park are no longer a guessing game.
+
+Being sick actually sounds like being sick now. Sitting on a bench to let time pass ticks like a clock instead of whatever it was doing before.

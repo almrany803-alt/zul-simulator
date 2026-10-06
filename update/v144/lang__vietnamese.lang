@@ -1,0 +1,1662 @@
+# One line per entry: the name, a tab, then the words.
+# The NAME is the key. No language is the source: this file and every other
+# language file are peers, and a line missing here falls back to English
+# rather than going silent.
+area/arrive	Bạn đã tới %1.
+bar/ask	Dùng gì đây?
+bar/closed	Cánh cửa trơ ra. Quán tối om, cửa cuốn đã hạ, chẳng thấy bóng barman. Tối quán mới mở, như mọi khi.
+bar/comment_cutoff	Ông ta rót, nhưng cố tình chậm tay, và bạn nhận ra.
+bar/comment_first	Ông ta đặt ly trước mặt rồi cầm tiền, chẳng buồn đếm.
+bar/comment_more	Ông ta rót, liếc bạn một cái rồi quyết định đây không phải chuyện của mình.
+bar/discount	Ông ta gạt tiền của bạn đi. Ly này khỏi trả. Bạn không tranh cãi.
+bar/greet_any_1	Ông ta vẫn lau đúng cái ly lần trước đang lau, thấy bạn thì đặt nó xuống.
+bar/greet_any_2	Có kẻ cuối quầy đang kể một câu chuyện dở tệ; barman nhướng mày với bạn, ý kiến khỏi cần nói.
+bar/greet_any_3	Ông ta dọn ly của người trước rồi lau sạch vệt nước trên quầy trước khi bạn tới.
+bar/greet_any_4	Quán yên đến mức ông ta nghe tiếng cửa và đã quay sang nhìn.
+bar/greet_busy	Quán đông nghịt, ồn như chợ vỡ. Ông ta tới chỗ bạn nhanh hơn dự tính.
+bar/greet_known	Bạn chưa nói xong, món quen đã được ông ta rót nửa ly.
+bar/greet_quiet	Quán gần như trống. Ông ta đang đánh bóng một cái ly vốn đã sạch.
+bar/leave	Bạn mặc kệ quán rượu và đi ra.
+bar/menu_word	Nói vài câu với barman
+bar/served	Bạn gọi một %1. Ông ta rót, đặt xuống, và bạn uống ngay tại quầy như một gã có chỗ cần tới nhưng chẳng có nơi nào để đi.
+bar/word_1	Ông ta kể chuyện xảy ra ở đây tối qua mà giấu hết tên; bằng cách nào đó nghe còn tệ hơn.
+bar/word_2	Ông ta bảo nhà máy bia lại tăng giá, còn ông ta mới là người hứng đủ tiếng chửi.
+bar/word_3	Ông ta hỏi thăm một người cả hai cùng biết và thật sự chịu nghe câu trả lời.
+bar/word_4	Ông ta nói mọi chuyện trong căn phòng này đều đã nghe hai lần, và chuyện của bạn chưa phải tệ nhất.
+beg/drunk_krzysztof	Bạn ghé sát hơn nhiều so với dự định rồi bắt đầu giảng giải dài dòng về nhà máy.
+beg/drunk_marcin	Bạn gọi người ta là sếp, rồi đại ca, rồi lại sếp, sau đó quên sạch mình đang nói gì.
+beg/drunk_sebastian	Bạn cố trình bày kế hoạch, nhưng tất cả tuôn ra thành một từ dài vô tận.
+beg/drunk_tom	Nói được nửa chừng bạn quên định nói gì, đành đứng đó với vẻ đầy hy vọng.
+beg/krzysztof_blunt	Này. Tôi cần vài złoty. Anh có, còn tôi không.
+beg/krzysztof_funny	Tôi có đề nghị làm ăn. Anh đưa tôi hai złoty, tôi hứa sẽ tiêu nó thật ngu.
+beg/krzysztof_humble	Xin lỗi. Nếu còn cách khác tôi đã không hỏi. Anh có thể giúp chút gì không?
+beg/krzysztof_sob	Tôi làm ở nhà máy hai mươi hai năm. Rồi nhà máy chẳng còn. Anh giúp tôi được không?
+beg/lose_1	%1 nhìn xuyên qua bạn rồi đi tiếp. Thế là hết.
+beg/lose_2	%1 nói gì đó về việc không mang tiền mặt. Ai cũng nói thế.
+beg/lose_3	%1 còn chẳng chậm bước. Chỉ mất chừng một giây để nhìn thấu rồi gạt bạn đi.
+beg/marcin_blunt	Hai złoty. Nào. Cốc cà phê dở ẹc kia còn tốn của anh nhiều hơn thế.
+beg/marcin_funny	Cho tôi hai złoty, tôi sẽ kể một câu dở đến mức anh muốn đòi lại tiền.
+beg/marcin_humble	Được rồi sếp. Có chút nào không? Tôi còn nói xin đấy, mà đời tôi chẳng bao giờ nói xin.
+beg/marcin_sob	Tuần này của tôi kinh khủng lắm, ông bạn. Kinh khủng. Hỏi ai cũng được. Hỏi con bồ câu kia kìa.
+beg/nothing_1	Bạn chìa tay. Một gã nhìn bạn như thứ vừa dẫm phải rồi bước nhanh hơn. Chẳng được mẹ gì.
+beg/nothing_2	Một phụ nữ ôm chặt túi rồi sang bên kia đường. Không có gì.
+beg/nothing_3	Bạn trưng đôi mắt thảm nhất. Một con bồ câu còn tỏ ra quan tâm hơn. Không có gì.
+beg/nothing_4	Có kẻ thật sự bảo “đi kiếm việc đi”. Cảm ơn nhé. Không có gì.
+beg/sebastian_blunt	Rồi. Tiền. Có không. Bài phát biểu chỉ thế thôi.
+beg/sebastian_funny	Tôi chỉ còn cách một kế hoạch thay đổi tất cả đúng hai złoty. Chủ yếu thay đổi đời tôi, phải thú thật thế.
+beg/sebastian_humble	Xin lỗi đã làm phiền. Tôi đang quyên góp cho một hội từ thiện rất nhỏ. Chính là tôi.
+beg/sebastian_sob	Mọi thứ tôi sở hữu đều ở trong túi này, mà nói đúng ra cái túi cũng chẳng phải của tôi.
+beg/success_1	Ai đó thả %1 złoty vào lòng bàn tay bạn và bảo: “Kiếm cốc cà phê đi, ông bạn.”
+beg/success_2	Một người tốt bụng dúi %1 złoty vào tay bạn rồi vội vã đi tiếp.
+beg/success_3	%1 złoty, kèm cái gật đầu nói rằng họ cũng từng rơi vào cảnh này.
+beg/success_4	Một du khách cho bạn %1 złoty để đổi lấy “trải nghiệm chân thực”.
+beg/think_better	Nghĩ lại rồi thôi, chẳng nói gì
+beg/title	Bạn sẽ nói gì với %1?
+beg/tom_blunt	Tôi cần vài złoty. Tôi sẽ không giả vờ là vì chuyện gì khác.
+beg/tom_funny	Tôi định hát để trả lễ, nhưng người ta đã yêu cầu đừng. Cả con phố yêu cầu.
+beg/tom_humble	Xin thứ lỗi. Anh có thể cho tôi chút ít không? Tôi sẽ rất biết ơn.
+beg/tom_sob	Tôi không định kể lể đâu. Chỉ là đang thiếu tiền, mà trời lạnh.
+beg/walked_off	Bạn mở miệng, nghĩ lại rồi tiếp tục bước đi.
+beg/win_1	%1 ngập ngừng, lục lọi rồi tìm ra %2 złoty. Ơn nhỏ cũng là ơn.
+beg/win_2	Câu ấy trúng rồi. %1 đưa %2 złoty mà không khiến bạn cảm thấy mình quá giống kẻ ăn xin.
+beg/win_3	%1 bật cười, tự lắc đầu với mình rồi vẫn đưa bạn %2 złoty.
+cell/did_kickoff	Bạn lao vào cánh cửa như thể nó đang nợ tiền mình. Giày, nắm đấm và đủ loại nhận xét về mẹ của thiên hạ. Phòng bên cạnh reo hò. Trực ban thì không.
+cell/did_listen	Bạn áp tai vào tấm thép lạnh rồi nín thở. Hai người ngoài bàn trực đang nói chuyện và chẳng giữ mồm giữ miệng cho lắm.
+cell/did_quiet	Bạn ngồi dựa lưng vào tường, giữ yên tay và không nói một lời. Nữ trực ban nhìn vào hai lần; lần thứ hai cô ta gật đầu.
+cell/did_sleep	Bạn nằm ngửa trên tấm nhựa, rồi cuối cùng trần nhà cũng thôi quay. Một giấc ngủ đàng hoàng, thứ không thể có trên ghế công viên.
+cell/did_wall	Bạn nói chuyện khe khẽ với %1 xuyên qua bức tường gạch suốt một hồi lâu. Có những điều dễ nói hơn khi không nhìn thấy mặt nhau.
+cell/hazy_1	Ổn cả, bạn nghĩ. Khá là ổn.
+cell/hazy_2	Bạn khá chắc mình đã xử lý chuyện đó với đôi chút phẩm giá.
+cell/hazy_3	Có vẻ cô ta hiểu đúng tinh thần bạn muốn truyền đạt. Chắc vậy.
+cell/hazy_4	Tốt. Phải. Chẳng có gì đáng lo.
+cell/lost_krzysztof_1	Bạn định ngồi im. Nhưng rốt cuộc lại thao thao xin lỗi trực ban vì đã làm phiền. Rồi xin lỗi người phòng bên. Rồi xin lỗi cả cánh cửa.
+cell/lost_krzysztof_2	Bạn cẩn thận giải thích hết lần này đến lần khác rằng mình thật ra chẳng mấy khi uống. Lúc ấy bạn đang nằm sõng soài dưới sàn. Cô ấy ghi chép gì đó.
+cell/lost_krzysztof_3	Bạn dành hai mươi phút gỡ rối cuộc đời cho cậu bên buồng giam cạnh. Cậu ta đâu có nhờ. Giờ cậu ta còn rối hơn.
+cell/lost_marcin_1	Bạn chuyển sang kể chuyện Darek. Giờ cả tòa nhà đều biết Darek. Trực ban còn biết cả Darek làm nghề gì.
+cell/lost_marcin_2	Qua ô cửa, bạn cho viên cảnh sát biết chính xác mình nghĩ gì về hắn, bộ đồng phục của hắn và con ngựa mà có lẽ hắn vẫn ao ước.
+cell/lost_marcin_3	Bạn khóc một lúc, thế cũng chẳng sao, rồi đấm vào tường, thế thì hơi có sao. Bức tường thắng tính điểm.
+cell/lost_sebastian_1	Bạn định làm ăn với một cảnh sát. Qua một cánh cửa khóa kín. Lúc hai giờ sáng. Bạn còn kê khai cả hàng mình đang có.
+cell/lost_sebastian_2	Bạn giải thích rằng mình chỉ làm việc này cho đến khi gặp kèo ngon hơn, và đã giải thích thế suốt sáu năm. Rồi bạn chào cô ấy một món hàng mình không hề có.
+cell/lost_sebastian_3	Để chứng minh quan hệ rộng, bạn bắt đầu đọc tên từng mối quen biết. Cô ấy ghi lại. Tất cả.
+cell/lost_tom_1	Bạn ngâm gần hết một bài thơ vào mặt tường, bằng tiếng Anh, đầy cảm xúc. Ở đây chẳng ai đọc được tiếng Anh. Bức tường vẫn dửng dưng.
+cell/lost_tom_2	Bằng thứ tiếng Anh ngày càng trịnh trọng, bạn đòi gặp người có trách nhiệm về hộ chiếu của mình. Bây giờ là hai giờ sáng, còn hộ chiếu đã mất từ mấy năm trước.
+cell/lost_tom_3	Bạn giảng ngắn về thức giả định trong tiếng Anh cho một người đang cố ngủ. Anh ta bảo bạn thôi đi bằng hai thứ tiếng.
+cell/morning_dried	Ít nhất bạn đã tỉnh rượu. Tỉnh hẳn, lần đầu sau khá lâu.
+cell/morning_extra	Hôm nay họ chưa thả bạn. Số đêm phải ở thêm: %1. Bạn tự chuốc lấy, ai cũng biết.
+cell/morning_intro	Tám giờ. Ánh sáng trông sai sai và miệng có vị đồng xu. Đây mới là những gì bạn thật sự làm tối qua.
+cell/morning_item	%1
+cell/morning_long	Mấy đêm trên tấm nệm ấy đã rút mất thứ gì đó khỏi người bạn. Cứng đờ, đói meo, và bốc mùi như bên trong xe thùng.
+cell/morning_mended	Dù hai người đã nói gì qua bức tường, nó cũng có tác dụng. Hai bên lại chịu nói chuyện với nhau.
+cell/morning_property	Ngoài bàn trực, họ đẩy trả đồ trong một cái túi. Bạn nhận lại %1 phần trăm những gì họ lấy.
+cell/morning_shakes	Bạn bước ra với cơn thèm rượu dữ hơn bất kỳ ham muốn nào suốt một thời gian dài. Tay run, ánh sáng quá chói. Họ có giúp bạn giã rượu, nhưng theo cách tàn nhẫn nhất.
+cell/opt_kickoff	Quậy tung lên
+cell/opt_listen	Nghe lén ngoài cửa
+cell/opt_quiet	Ngồi im
+cell/opt_sleep	Ngủ cho tỉnh
+cell/opt_wall	Nói chuyện qua tường
+cell/tip_1	Một người nhắc đến kẻ đã khai tên bạn, và đó lại là người mà trước đây bạn sẵn lòng mua rượu mời.
+cell/tip_2	Họ đang càu nhàu về cái thùng rác lớn sau cửa hàng, sáng thứ Năm nào cũng được dọn, và về những thứ người ta moi ra từ đó.
+cell/tip_3	Một người than rằng lão Stary mê cá trích muối đến mức chuyện gì cũng làm. Tin hữu ích đấy.
+cell/tip_4	Có một chỗ gần nhà ga mà sau nửa đêm họ chẳng còn buồn đi tuần qua nữa.
+cell/turn	Phòng giam. Giờ thứ %1 trong bốn giờ. Bạn làm gì?
+cell/wall_nobody	Bạn gõ tường rồi nói chuyện với nó một lúc. Tối nay chẳng có ai. Bức tường tiếp chuyện khá tử tế.
+char/krzysztof_intro	Rồi. Ngày mới. Vẫn cái ghế ấy. Đừng làm mọi chuyện tệ hơn mức cần thiết.
+char/krzysztof_mutter1	Thật ra mình còn chẳng thích uống. ...Thôi được. Một ly.
+char/krzysztof_mutter2	Cứ tử tế với người ta. Phần lớn là đồ khốn, nhưng chẳng biết chính xác ai đâu.
+char/krzysztof_name	Krzysztof
+char/krzysztof_quirk	Điềm tĩnh, đàng hoàng, tốt bụng đến mức tự hại mình. Thề sống thề chết là không uống, rồi uống. Ai cũng quý anh ta, chuyện vô cùng đáng ngờ trên con phố này.
+char/krzysztof_story1	Krzysztof từng có căn hộ, công việc và một người phụ nữ mà vì cô anh sẵn sàng lao ra trước đầu xe.
+char/krzysztof_story2	Nên khi cô cần tiền, anh đưa hết. Rồi thêm một ít. Rồi cả tiền thuê nhà.
+char/krzysztof_story3	Cô vẫn bỏ đi, theo một gã có hai chiếc ô tô. Ngân hàng lấy căn hộ.
+char/krzysztof_story4	Giờ anh là người bình thản nhất phố. Thứ duy nhất anh quan tâm đã mất; mọi chuyện từ đó chỉ còn như thời tiết. Bấm Enter để trở thành anh.
+char/marcin_intro	Đầu kêu như xe rác đang lùi. Chai gần nhất ở đâu, và phải đánh ai để lấy nó.
+char/marcin_mutter1	Ai cần cô ta chứ. Cái ghế có bao giờ bỏ mình theo thằng khốn tên Darek đâu.
+char/marcin_mutter2	Mình không say. Mình chỉ tiết kiệm cảm xúc. Hai chuyện khác nhau.
+char/marcin_name	Marcin
+char/marcin_quirk	Vừa bị đá và đang đón nhận như một nhà vô địch — nghĩa là tệ khủng khiếp. Uống với bất kỳ ai; từ chối là anh ta để bụng. Thấy cảnh sát là mất trí.
+char/marcin_story1	Marcin vẫn sống ổn, cho đến lúc cô ấy nói bốn chữ: 'mình cần nói chuyện.'
+char/marcin_story2	Chuyện đó đã cách đây ba tuần và hai trăm chai rượu. Anh không cay cú đâu. Anh sẽ lớn tiếng khẳng định như thế với người lạ vào mười một giờ sáng.
+char/marcin_story3	Anh ghét cảnh sát vì vào đêm tồi tệ nhất đời mình, một tay cớm từng bảo anh biến đi chỗ khác.
+char/marcin_story4	Anh quyết định ôm mối hận ấy đến tận ngày chết. Bấm Enter để trở thành anh.
+char/sebastian_intro	Hôm nay mình sẽ chỉnh đốn cuộc đời. Hôm nay. Chắc chắn. Ngay sau vụ cuối cùng này.
+char/sebastian_mutter1	Bán thêm một vụ rồi hoàn lương. Thứ Ba đã nói thế. Thứ Ba trước nữa cũng thế.
+char/sebastian_mutter2	Mình có thể kiếm việc tử tế. Chắc chắn sẽ làm rất giỏi. Có lẽ. Im đi.
+char/sebastian_name	Sebastian
+char/sebastian_quirk	Muốn sống bình thường và thật lòng cố gắng, rồi lại kiếm tiền cho cuộc sống ấy bằng buôn hàng, tự tay đánh chìm nó. Cứ thế quay vòng quanh miệng cống.
+char/sebastian_story1	Gia đình đã cho Sebastian mọi cơ hội, kèm theo cũng kha khá khổ đau.
+char/sebastian_story2	Rồi một ngày nỗi khổ thắng thế và anh xách túi ra đi. Anh thông minh, duyên dáng, và dị ứng dữ dội với cuộc sống bình thường.
+char/sebastian_story3	Anh buôn chút hàng để sống qua ngày, tuần nào cũng thề đây là lần cuối.
+char/sebastian_story4	Anh thật lòng tin điều đó. Niềm tin ấy là tài sản quý nhất anh còn có. Bấm Enter để trở thành anh.
+char/tom_intro	Vẫn ở đây. Vẫn không hộ chiếu. Có bằng Văn học Anh mà đang thương lượng với một con bồ câu. Tuyệt vời.
+char/tom_mutter1	Tôi có bằng cấp đấy nhé. Trong nền kinh tế này nó đáng đúng một chai.
+char/tom_mutter2	Tới đây vì tình yêu. Ra về với cái ghế. À mà chưa về. Đấy mới chính là vấn đề.
+char/tom_name	Tom
+char/tom_quirk	Giáo viên tiếng Anh. Sang đây đuổi theo tình yêu, bị đám cổ động viên bóng đá nện, mất hộ chiếu rồi mất luôn phương hướng. Giờ mắc kẹt trên ghế ở một đất nước mình còn không đánh vần nổi.
+char/tom_story1	Tom từng dạy tiếng Anh ở một thị trấn yên bình dễ chịu, cho đến khi đám bạn thuyết phục anh rằng tình yêu đời mình đang chờ ở phương Đông.
+char/tom_story2	Anh bay sang, mang theo đầy hy vọng và mùi nước cạo râu rẻ tiền.
+char/tom_story3	Anh đi được đến sân vận động đúng ngày thi đấu, lại mặc trọn màu áo của đội bên kia. Vài quý ông đã giúp anh nhẹ bớt ví, điện thoại, hộ chiếu và hai chiếc răng.
+char/tom_story4	Giờ anh ngồi trên ghế, tập bài phát biểu sẽ nói ở đại sứ quán — nếu đời này tìm được đại sứ quán. Bấm Enter để trở thành anh.
+charselect/chosen	Bạn là %1. Cầu Chúa giúp bạn.
+charselect/stats	Tiếng tăm đường phố %1. Thiện cảm cộng đồng %2.
+charselect/title	Chọn một số phận khốn khổ. Mũi tên lên xuống để nghe, Space để biết họ có vị thế ra sao trong khu, Enter để chọn.
+day/dawns	Ngày %1. Một buổi sáng mới, vẫn con phố ấy, và hôm nay thành ra sao là tùy ở bạn.
+day_end/closer	Thế là hết một ngày huy hoàng. Nhấn Escape để mở trình đơn.
+day_end/nightfall	Ánh sáng rút đi, cái lạnh đến đòi phần. Bạn co quắp như dấu chấm hết cho một câu văn tồi.
+day_end/summary_hungry	Bạn đi ngủ với cái bụng đói, mơ về chiếc kebab chẳng bao giờ yêu lại mình.
+day_end/summary_money	Bạn kết thúc ngày với %1 złoty. Một nhà tài phiệt.
+day_end/summary_wrecked	Bạn rã rời, còn cái lạnh thì đã ghi sẵn tên bạn.
+dir/and	và
+dir/down	phía dưới
+dir/left	bên trái
+dir/right	bên phải
+dir/up	phía trên
+drink/burns_1	Bạn nốc liền mấy ngụm. %1 nổ như pháo hoa trong lồng ngực, khiến bạn ho muốn văng nửa lá phổi.
+drink/burns_2	Ba ngụm một lượt. %1 đốt rát từ miệng xuống bụng, nước mắt trào ra thật sự.
+drink/burns_3	Bạn nốc một liều %1 ra trò. Đó là sai lầm, và cơ thể lập tức lên tiếng xác nhận.
+drink/finished_1	Thế là hết %1. Bạn nhìn chai rỗng với nỗi tiếc thương chân thành.
+drink/finished_2	Ngụm %1 cuối cùng đã hết. Tất nhiên chai được quẳng vào xe đẩy.
+drink/finished_3	%1: đã hy sinh. Thêm một vỏ chai vào bộ sưu tập.
+drink/gulping_explained	Bạn không còn nhấp môi nữa mà đang đổ thẳng xuống cổ. Uống chậm lại thì sẽ kéo dài được lâu hơn.
+drink/knocked_back_1	Không lằng nhằng, bạn làm một ngụm %1 thật lực.
+drink/knocked_back_2	Mấy ngụm %1 đi thẳng một lèo, khỏi nghi thức.
+drink/knocked_back_3	Bạn không hẳn nhấp %1; bạn quyết tâm theo nó đến cùng.
+drink/left	Còn %1 ngụm.
+drink/opened	Bạn khui %1.
+drink/sobering_1	Nó xua bớt màn sương trong đầu. Bạn lấy lại được một chút quyền làm chủ chính mình.
+drink/sobering_2	Một thứ không có cồn. Bạn thấy mình vững hơn đôi chút.
+drink/sobering_3	Ấm bụng mà chẳng hại thêm. Thế giới thôi nghiêng ngả dữ dội.
+energy/low	Bạn sắp cạn sức. Thêm một hai việc nữa là trong người chẳng còn gì.
+energy/spent	Thế là hết sức. Chân đã rụng, lưng đã rã; bạn không làm thêm nổi việc gì cho đến khi bỏ chút gì vào bụng hoặc chợp mắt.
+energy/too_tired	Bạn chẳng còn chút sức nào. Hãy ngồi đâu đó, kiếm gì ăn hoặc ngủ một giấc.
+energy/word_feeling	Bạn bắt đầu thấm mệt sau một ngày.
+energy/word_fine	Bạn vẫn ổn.
+energy/word_fresh	Bạn còn đầy sức.
+energy/word_nothing_left	Đôi chân chẳng còn chút sức nào.
+energy/word_running_low	Bạn đang lê bước bằng chút hơi tàn.
+event/bottle_tip	Một tay buôn hất cằm chỉ cho bạn két vỏ chai chẳng ai nhận. %1 chai, vào thẳng xe đẩy.
+event/cadge_fag	Một żul xin đểu bạn điếu thuốc mà gần như chẳng buồn hỏi. Phép lịch sự đường phố. Bạn cũng sẽ làm vậy thôi.
+event/choose	Bạn làm gì? Dùng phím mũi tên lên và xuống, nhấn Enter để chọn.
+event/cop_cheek	Cà khịa hắn vài câu
+event/cop_cheek_lose	Hắn chẳng thấy buồn cười. Nào giấy tờ, nào lên lớp, rồi khoản phạt %1 złoty. Bạn mất một khúc trong ngày để hối tiếc vì cái miệng mình.
+event/cop_cheek_win	Bạn buông một câu láo tuyệt hảo đến mức ông ta bật cười rồi tha. Chưa đầy một giờ, mấy gã ngoài ghế sẽ biết chuyện.
+event/cop_intro	Một cảnh sát đã nhìn bạn một lúc và quyết định bạn là vấn đề của hôm nay. Ông ta hỏi chính xác bạn nghĩ mình đang làm gì.
+event/cop_move	Xin lỗi rồi đi chỗ khác
+event/cop_moved	Bạn xin lỗi, lê đi và mất một phần ngày vào chuyện đó. Ông ta nhìn theo, mãn nguyện vì công tác trị an đã được thực hiện.
+event/found_money	Bạn thấy đồng %1 złoty dưới rãnh nước. Tất nhiên phải nhìn quanh trước, rồi mới bỏ túi với vẻ của người hoàn toàn vô tội.
+event/gift_bottles	Một người quen mặt đặt túi vỏ chai dưới chân bạn rồi đi trước khi bạn kịp cảm ơn. %1 chai, khỏi hỏi han.
+event/light_gave	Bạn đưa hắn một điếu rồi khum tay châm lửa thành thạo. Hắn gật đầu như thể bạn là người tử tế. Trong một giây, đúng là thế thật.
+event/light_give	Cho hắn một điếu và châm lửa
+event/light_intro	Một gã vỗ khắp túi, bắt gặp ánh mắt bạn rồi làm động tác mà khắp thế giới đều hiểu là 'có lửa không?'
+event/light_refuse	Giả vờ chẳng có gì
+event/light_refused	Bạn diễn sâu, vỗ khắp túi rồi nhún vai. Hắn thấy rõ dáng bao thuốc cộm trong áo bạn và bỏ đi. Ngượng thật.
+event/mug_fight	Ra tay trước
+event/mug_fight_lose	Bạn ra đòn trước, hụt trước, rồi ăn một cú ra trò vì cái tội tham vọng. Hắn bỏ đi với %1 złoty, coi như phí tư vấn.
+event/mug_fight_win	Bạn đấm hắn trước khi hắn nói hết câu. Hắn không ngờ gặp phải khách hàng thu phí trước. Hắn chuồn xuống hầm bộ hành, còn cả phố đã chứng kiến tất cả.
+event/mug_intro	Có kẻ bước sát bên bạn, gần quá mức cần thiết, rồi hỏi bạn đang mang gì. Hắn không định tán gẫu.
+event/mug_run	Cắm đầu chạy
+event/mug_run_lose	Bạn chạy được chừng bốn bước thì đôi chân chính thức gửi đơn phản đối. Hắn tóm được, lấy %1 złoty rồi xô bạn vào tường vì đã làm hắn mất công.
+event/mug_run_win	Bạn phóng đi như đạn. Không đẹp mắt nhưng hiệu quả. Ba con phố sau, bạn dừng lại, vừa thở khò khè vừa tận hưởng chiến thắng.
+event/mug_stand	Đứng vững không lùi
+event/mug_stand_lose	Mọi chuyện tệ đi rất nhanh. Bạn mất %1 złoty, nửa số chai và một mảng mặt mũi. Bài học đã được ghi nhận, lưu hồ sơ, rồi chắc sẽ bị lờ đi.
+event/mug_stand_win	Bạn thủ thế. Bạn không phải tay đấm, nhưng cực kỳ sẵn lòng, mà thường thế là đủ. Hắn thấy không đáng. Chuyện sẽ lan khắp phố.
+event/mug_talk	Dùng mồm thoát thân
+event/mug_talk_lose	Tài ăn nói bỏ bạn giữa chừng, còn hắn cứ lấy thứ mình muốn. %1 złoty biến mất cùng bài diễn văn mà bạn từng rất tự hào.
+event/mug_talk_win	Bạn buông vài cái tên, tỏ vẻ chán ngán rồi bảo hắn đã chọn nhầm żul. Hắn nghĩ lại, gọi bạn là người anh em rồi lảng đi. Danh tiếng lo nốt phần còn lại.
+event/puke	Một żul trông hơi quen loạng choạng tới, mở miệng định chào rồi lại nôn lên giày bạn. Đám đông thấy. Bạn thấy. Ai cũng thấy.
+event/singing_1	Cảm xúc bất chợt dâng trào, bạn cất tiếng hát giữa công viên. Vừa to, vừa thật lòng, lại gần như đúng tông. Các żul khác vỗ tay. Một bà mẹ dắt con đi đường vòng.
+event/singing_2	Bạn hát. Hát thật sự, dang tay, nhắm mắt. Đâu đó một con chó hòa giọng. Mấy anh trên ghế xúc động. Tất cả những người khác thì dạt ra xa.
+fb/ask_bug	Có gì sai? Hãy nói lúc đó bạn đang làm gì, mong đợi điều gì và thực tế xảy ra gì. Nếu âm thanh không đúng, hãy mô tả nó.
+fb/ask_idea	Bạn muốn game có thêm gì? Bất cứ điều gì, dù ngớ ngẩn đến đâu.
+fb/ask_message	Cứ viết điều bạn muốn nói.
+fb/auto_now_off	Tôi sẽ không hỏi về nhật ký sau khi chạy kiểm tra.
+fb/auto_now_on	Được. Sau khi chạy kiểm tra, tôi sẽ đề nghị gửi nhật ký.
+fb/contact_no	Không, cứ gửi mà không cần cách trả lời
+fb/contact_prompt	Địa chỉ email hoặc bất kỳ cách liên lạc nào. Để trống nếu không muốn gửi kèm.
+fb/contact_q	Bạn có muốn để lại cách cho tác giả trả lời không? Hoàn toàn tùy bạn; báo cáo không có liên hệ vẫn hữu ích.
+fb/contact_scrap	Thôi, bỏ đi, đừng gửi nữa
+fb/contact_yes	Có, đây là cách liên lạc với tôi
+fb/email_copied	Đã sao chép. Nếu muốn tự viết thư, địa chỉ của tác giả là %1.
+fb/email_copy_failed	Rất tiếc, không truy cập được bảng tạm. Địa chỉ là %1.
+fb/kind_bug	Báo lỗi
+fb/kind_idea	Góp ý
+fb/kind_message	Tin nhắn
+fb/kind_testlog	Nhật ký kiểm thử
+fb/lost	Không thể gửi vì %1, mà cũng không lưu lại được. Xin lỗi. Hãy thử lại sau.
+fb/no_log	Bạn chưa có nhật ký kiểm tra. Để tạo, hãy vào mục kiểm tra từ trình đơn chính rồi chạy các bài kiểm tra. Quá trình mất khoảng một phút và ghi lại mọi thứ đã kiểm tra. Xong rồi quay lại đây để gửi.
+fb/no_thanks	Không, cảm ơn
+fb/nothing_typed	Bạn chưa viết gì nên không có gì được gửi.
+fb/opt_auto_off	Sau khi chạy kiểm tra: đề nghị gửi nhật ký. Hiện đang tắt.
+fb/opt_auto_on	Sau khi chạy kiểm tra: đề nghị gửi nhật ký. Hiện đang bật.
+fb/opt_back	Quay lại
+fb/opt_bug	Báo một lỗi gặp phải
+fb/opt_copy_email	Sao chép email của tác giả
+fb/opt_idea	Gửi góp ý
+fb/opt_message	Chỉ gửi một lời nhắn
+fb/opt_testlog	Gửi nhật ký kiểm thử
+fb/saved_instead	Không thể gửi vì %1. Thay vào đó, nội dung đã được lưu thành %2 trong thư mục game nên không mất gì cả. Bạn có thể gửi file ấy bằng cách khác.
+fb/scrapped	Được, đã bỏ bản nháp. Không có gì được gửi.
+fb/send_log_q	Kiểm thử đã xong. Gửi kết quả cho tác giả không?
+fb/sending	Đang gửi.
+fb/sent	Đã gửi, cảm ơn bạn. Nội dung được chuyển thẳng tới hộp thư tác giả.
+fb/testlog_body	Nhật ký kiểm tra được gửi từ trình đơn kiểm tra.
+fb/title	Gửi điều gì đó cho tác giả
+fb/yes_send	Có, gửi đi
+fight/cover	Che chắn và lấy lại hơi
+fight/hay_lands_1	Bạn dồn hết sức, tung cú đấm từ hông. Nó nện xuống như thùng rác rơi từ ban công. Đối thủ hết vênh được một chút.
+fight/hay_lands_2	Cú đấm móc nặng trúng đích, thời gian như ngừng lại một thoáng với cả hai.
+fight/hay_misses_1	Bạn lấy đà rõ đến mức cả phố biết trước, rồi xoay nửa vòng khi cú đấm hụt.
+fight/hay_misses_2	Cú móc nặng lướt qua. Bạn suýt tự quật mình xuống đất.
+fight/haymaker	Lấy đà tung cú đấm trời giáng
+fight/legit	Chạy mất dép
+fight/lost	Mặt đường lao lên đón bạn. %1 đứng bên trên đủ lâu để bạn hiểu chuyện, còn %2 złoty rời túi khi bạn vẫn nằm đó.
+fight/ran_1	Bạn co giò chạy. Chẳng vẻ vang, nhưng mặt mũi vẫn giữ nguyên cách sắp xếp hiện tại.
+fight/ran_2	Bạn biến mất trước khi cú tiếp theo kịp tới. Mấy anh em rồi sẽ có ý kiến.
+fight/refuse	Bạn nhìn %1, hai nắm tay tự buông lỏng. Không. Không phải người này. Có những chuyện đến bạn cũng không làm.
+fight/round	Bạn còn %1 sức khỏe. Đối thủ trông còn khoảng %2 phần trăm. Làm gì đây?
+fight/run_failed	Bạn quay lưng định chạy và lĩnh ngay một cú ngang tai.
+fight/starts	%1 thủ thế. Rồi. Đánh thật đây.
+fight/swing	Đấm họ
+fight/they_land_1	Cú đánh nện trúng, tai bạn rung như máy nhận vỏ chai.
+fight/they_land_2	Bạn bước thẳng vào một cú đấm. Ngu thật. Đôi chân thoáng bàn nhau xin nghỉ việc.
+fight/they_land_3	Một cú ngắn, sắc vào mạng sườn. Bạn cảm thấy nó tận chân răng.
+fight/they_land_covered	Cú đấm thụp vào thế thủ. Hai tay đau nhức nhưng phần còn lại vẫn nguyên.
+fight/they_miss_1	Đối thủ vung tay mà bằng cách nào đó bạn không còn ở đó. Bản năng. Hoặc ăn may. Một trong hai.
+fight/they_miss_2	Bạn ngả ra sau, nắm đấm chỉ rẽ tóc chứ không chạm gì khác.
+fight/they_miss_3	Đối thủ đánh hụt rồi chửi một câu đủ khiến mọi babcia phiền lòng.
+fight/too_tired	Giờ bạn còn chẳng đánh thủng nổi túi giấy. Lấy lại hơi trước đã.
+fight/won	%1 xua tay chịu thua. Cả phố đã thấy và cả phố sẽ nhớ. Bạn rời đi với %2 złoty tiền túi của đối thủ.
+fight/you_cover	Bạn giơ tay, thu cằm và lấy hơi.
+fight/you_land_1	Bạn đánh trúng gọn ghẽ, chấn động chạy dọc cả cánh tay.
+fight/you_land_2	Cú đó trúng. Đối thủ chao lùi một bước.
+fight/you_land_3	Bạn xuyên qua thế thủ, đối thủ rên như cái tủ áo vừa đổ xuống.
+fight/you_miss_1	Bạn đấm vào chỗ đối thủ vừa đứng một giây trước.
+fight/you_miss_2	Đối thủ ngả ra, nắm đấm của bạn chỉ tìm thấy không khí và sự ê chề.
+fight/you_miss_3	Lệch. Lệch xa đến buồn cười. Đâu đó một con bồ câu đang cười.
+fight/you_took	Cú đó lấy của bạn %1.
+find/badge	Huy hiệu tráng men cũ của nhà máy đã đóng cửa
+find/candle	Một cây nến nhà thờ vẫn còn nguyên giấy bọc
+find/flowers	Một bó hoa hái trong công viên
+find/gloves	Đôi găng lao động khá tốt, hầu như chưa dùng
+find/got	Nằm lọt giữa đống rác: %1. Đáng để giữ lại.
+find/keyring	Móc khóa có treo một món trang sức nhỏ
+find/knife	Con dao tốt và sắc, thứ dân bán hàng ngoài chợ sẽ quý
+find/novel	Cuốn tiểu thuyết trinh thám nhàu nát, mất bìa
+find/opener	Đồ mở chai bằng đồng nặng trịch ai đó bỏ quên
+find/pen	Một cây bút thật sự còn viết được
+find/photo	Bức ảnh ai đó vứt đi
+find/stickers	Gói hình dán bóng đá chưa mở
+find/sweets	Hộp kẹo cứng gần như chưa đụng tới
+find/toy	Thú nhồi bông nhỏ đã giặt sạch rồi để trên tường
+find/wallet	Chiếc ví bị đánh rơi, thẻ vẫn còn bên trong
+find/wire	Một đoạn dây đồng
+food/finished_1	Thế là miếng cuối cùng. Bạn nghiêm túc soi hai tay tìm vụn thức ăn.
+food/finished_2	Hết sạch. Bạn gấp tờ giấy thật nhỏ mà chính mình cũng không giải thích nổi để làm gì.
+food/finished_3	Ăn xong, và bạn tiếc vì nó đã hết.
+food/left	Còn %1 miếng.
+food/wolfed_1	Chỉ vài miếng lớn, bạn đã xử gần hết %1.
+food/wolfed_2	Bạn tống liền mấy miếng %1 vào miệng, gần như chẳng nhai.
+food/wolfed_3	Bạn ngấu nghiến %1 như sợ ai giật mất.
+garage/done	Xong. Giờ bạn có %1, chứa được %2 chai trước khi tràn.
+garage/leave	Để lần sau.
+garage/maxed	Xe đẩy của bạn đã khiến cả khu ghen tị. Không nâng thêm được nữa.
+garage/no_money	Thiếu tiền rồi, ông bạn. Bao giờ túi kêu leng keng thì quay lại.
+garage/offer	Xe đẩy của bạn: %1. Với %3 złoty, gã này sẽ trang bị cho bạn %2.
+garage/title	Gara. Mũi tên lên xuống, Enter để chọn, Escape để rời đi.
+garage/upgrade	Đổi xe đẩy tốt hơn.
+gather/already_full	Hết chỗ. %1 đã đầy tận miệng, mà bạn không định ôm thêm bằng tay. Đem đổi tiền trước đã.
+gather/result_1	Bạn thọc tay sâu đến khuỷu vào thùng rác và thắng lớn. %1 chai. Mẹ bạn hẳn sẽ tự hào lắm.
+gather/result_2	Kiên nhẫn bới một hồi, bạn kiếm được %1 chai cùng một thứ nhớp nháp mà mình quyết định không xác định danh tính.
+gather/result_3	%1 chai, một chai vẫn còn nửa phần. Bạn đổ đi. Cũng phải có tiêu chuẩn chứ.
+gather/result_full	Bạn nhặt thêm %1 chai nhưng xe đã đầy. Đến lúc đổi tiền rồi.
+give/already	Hôm nay bạn đã lo cho %1 rồi. Đừng làm quá.
+give/hate	%1 nhìn món đồ, nhìn bạn, rồi trả lại. Quả là một pha đoán sai.
+give/like	%1 nhận lấy và gật đầu đàng hoàng. Món này trúng ý rồi.
+give/love	Mắt %1 sáng lên. Chính xác là thứ người ấy thích, và chuyện này sẽ không bị quên đâu.
+give/nothing	Bạn vỗ túi. Hoàn toàn chẳng có gì đáng đem tặng.
+give/ok	%1 nhận lấy khá lịch sự. Có lẽ quan trọng là tấm lòng.
+give/title	Bạn tặng họ gì?
+howto/about_1	Żul, đọc là “zhool”, là cách người Ba Lan gọi một gã đã coi vỉa hè là nhà. Hắn có một cái ghế. Hắn có một chai rượu. Mới mười giờ sáng và hắn vẫn ổn, cảm ơn đã hỏi.
+howto/about_2	Gã đó là bạn. Xin chúc mừng.
+howto/about_3	Bạn có một chiếc xe đẩy siêu thị, cái áo khoác từng chui vào thùng rác, và cả khu phố đã nhìn thấu bạn từ nhiều năm trước rồi tự rút ra kết luận. Chẳng có chiến thắng nào ở đây. Chỉ có thứ Ba, rồi một thứ Ba khác.
+howto/about_4	Công việc của bạn là thùng rác. Lục cho tới khi xe đầy, đem chai tới máy đổi lấy tiền, rồi như một người trưởng thành có quyền lựa chọn, quyết định số tiền ấy sẽ biến thành thức ăn hay không phải thức ăn. Thường là không phải thức ăn.
+howto/about_5	Làm đủ lâu, mọi chuyện bắt đầu để lại dấu. Người ta quen có bạn. Bà trong cửa hàng tự để riêng một món. Cảnh sát nhớ mặt bạn, lợi hại đủ đường. Ai đó nhớ tên bạn, hoặc cố tình quên; phần ấy là do bạn.
+howto/about_6	Ai trong thị trấn cũng có tên, có tính khí và có một chuyện nói mãi không thôi. Tử tế với họ rồi sẽ được đáp lại. Cư xử như thằng khốn thì quả báo tới nhanh hơn.
+howto/about_7	Báo trước cho công bằng: lời lẽ trong này đủ sức lột sơn tường.
+howto/basics_1	Các phím mũi tên dùng để di chuyển. Giữ một hướng để đi liên tục. Mặt đất cho biết bạn đang ở đâu: cỏ, sỏi, bùn và vỉa hè đều phát tiếng khác nhau dưới đôi ủng; bạn sẽ học nhanh hơn mình tưởng.
+howto/basics_2	Enter gần như là cả game. Nó dùng thứ dưới chân, nói chuyện với người bạn vừa va phải và tiếp tục hội thoại. Không biết làm gì thì đứng lên một thứ rồi bấm Enter.
+howto/basics_3	L nhìn quanh, cho biết bạn đang ở đâu và có gì gần đó. Cứ dùng thường xuyên. Chẳng có gì phải ngại và nhanh hơn đi lang thang.
+howto/basics_4	Đồng hồ tự chạy dù bạn có làm gì hay không, nên một ngày vẫn trôi khi bạn đứng nghĩ. Mỗi nơi có giờ mở cửa. Quán rượu đóng buổi sáng và cửa hàng không mở xuyên đêm.
+howto/basics_5	Không gì ở đây giết được bạn và chẳng điều gì thật sự kết thúc. Một ngày tồi chỉ là một ngày tồi; mai thùng rác lại đầy.
+howto/body_1	Bạn có tối đa một trăm điểm thể lực, giới hạn thật sự của một ngày. Bới rác, lau kính xe, khuân thùng, ăn xin, đánh nhau: việc nào cũng tốn sức. Nhấn E để nghe tình trạng hiện tại.
+howto/body_2	Thể lực không tự hồi. Đứng chờ không trả lại cho bạn một giờ đời nào; số sức đang có sẽ giữ nguyên cho đến khi ăn, uống hoặc ngủ. Đi ngủ lúc kiệt sức thì sáng dậy hồi ít hơn người biết giữ sức.
+howto/body_3	Cơn đói tự tăng và kéo bạn xuống; ăn là cách lấy lại sức chân, nên thức ăn không phải phần thưởng mà là nhu yếu phẩm. Ổ bánh mì giá hai złoty và hồi chút sức. Kebab giá hai mươi và hồi gần cả buổi chiều. Đi ngủ khi đói thì qua đêm hồi ít hơn.
+howto/body_4	Sức khỏe là chỉ số riêng, chủ yếu giảm khi bị đánh hoặc chịu cảnh màn trời chiếu đất. Ngủ một đêm trong nhà sẽ hồi phục nó.
+howto/body_5	Đứng tại ghế và nhấn Enter để ngồi, hồi chút hơi và biết quanh đó có ai. Nó đủ kéo bạn khỏi kiệt quệ nhưng chỉ thế thôi: ghế không phải giường cũng chẳng phải bữa ăn. Bạn mất hai mươi phút ban ngày thay vì tiền, mà có hôm đó là món hời hơn.
+howto/body_6	Nếu hai giờ chiều bạn đã quỵ gối thì đứng yên đến bốn giờ cũng chẳng ích gì. Ăn chút gì, uống đồ nóng, ngồi nghỉ hoặc chờ qua đêm. Chỉ có bốn cách ấy.
+howto/body_7	Thức ăn và đồ uống nóng hồi thể lực ngay. Cà phê và trà vực bạn dậy. Rượu mạnh làm điều ngược lại, bất kể lúc uống có cảm giác thế nào.
+howto/drink_1	Rượu là nguồn cơn mọi rắc rối, mà cũng là nửa cái thú. Nó khiến một ngày dễ chịu đựng hơn, đồng thời khiến bạn làm mọi việc trong ngày tệ hơn.
+howto/drink_2	Say khiến bạn tưởng mình sung sức hơn thực tế; cơ thể nói dối bạn, và game cũng nói dối theo. Qua một ngưỡng, bạn sẽ loạng choạng, vấp ngã và cả thế giới bắt đầu chao đảo.
+howto/drink_3	Uống đủ thường xuyên thì nó không còn là lựa chọn. Thói nghiện hình thành; khi không được thỏa mãn, bạn lên cơn run: mọi việc tốn sức hơn và bạn làm gì cũng tệ cho đến khi được uống.
+howto/drink_4	Cơn say có giảm nhưng rất chậm: khoảng hai giờ trong game mới hạ một mức. Muốn tỉnh nhanh hơn, hãy ăn, uống trà hoặc cà phê, hay ngồi ghế một lúc. Đó chính là tác dụng của thức ăn và đồ uống nóng.
+howto/drink_5	Nếu hiệu ứng âm thanh lúc say khiến bạn khó chịu, có thể tắt trong Tùy chọn. Chẳng ai đánh giá bạn vì việc đó.
+howto/first_1	Đừng đọc nữa. Cứ ra ngoài sống cảnh nghèo khó một lúc, nếu hỏng bét thì quay lại. Vẫn còn đây à? Được thôi.
+howto/first_2	Bạn đang ở ulica Wesoła, nghĩa là Phố Vui Vẻ; hẳn ai đó trong phòng quy hoạch thích đùa. Dùng phím mũi tên để đi, giữ phím để đi tiếp. Bấm L, game sẽ nói bạn đang ở đâu và có gì gần đó, như một barman đã thấy bạn bước vào.
+howto/first_3	Tìm thùng rác. Đi về phía đông dọc con phố đến khi nghe thấy, đứng tại đó rồi nhấn Enter. Nhấn Enter lần nữa. Rồi lần nữa. Công việc là thế. Có ai bảo đó là việc tốt đâu. Mỗi lượt bỏ chai vào xe đẩy, mà xe chỉ chứa được một số lượng nhất định.
+howto/first_4	Xe đầy rồi? Điểm thu vỏ chai nằm ngay trên cùng con phố. Đứng tại đó, nhấn Enter, rác của bạn sẽ biến thành tiền thật với giá một złoty mỗi chai. Tận hưởng đi. Đây là nguồn thu đáng tin nhất bạn từng có.
+howto/first_5	Giờ hãy ăn gì đó trước khi đôi chân bỏ cuộc. Cửa hàng nằm trên phố chính: đứng tại đó, nhấn Enter, nó sẽ mở như mọi địa điểm khác. Thức ăn làm no bụng và hồi chút sức. Đây không phải lời khuyên; đây là vật lý.
+howto/first_6	Sẽ có người va vào bạn, vì kiểu gì họ cũng thế. Bạn sẽ nghe tiếng va và biết đó là ai. Nhấn Enter để bắt chuyện. Chẳng tốn gì, khiến họ có thiện cảm hơn, mà được người quanh đây quý còn đáng giá hơn số xu trong túi.
+howto/first_7	Nhấn Q bất cứ lúc nào để nghe hôm nay cuộc đời đòi hỏi gì ở bạn. Mỗi sáng có ba nhiệm vụ, hoàn thành cái nào là nhận thưởng ngay cái đó. Xét hoàn cảnh thì cuộc đời đòi hỏi hơi nhiều.
+howto/first_8	Theo dõi thể lực bằng phím E. Mọi việc đáng làm đều tốn sức; khi cạn, bạn không thể làm thêm cho đến khi bỏ gì vào bụng hoặc ngồi nghỉ. Chỉ chờ đợi thì chẳng hồi được gì.
+howto/first_9	Khi gần cạn sức, hãy về khu nhà của mình trên phố chính và nhấn Enter để ngủ. Game sẽ hỏi bạn có chắc không. Ngủ ngoài đường cũng là một lựa chọn, và hối hận cũng vậy.
+howto/keys_1	Các phím mũi tên để di chuyển. Enter dùng thứ dưới chân, nói chuyện với người bạn vừa va phải và tiếp tục hội thoại. Bất kỳ phím mũi tên nào cũng đọc lại câu hội thoại hiện tại.
+howto/keys_2	L để nhìn. I mở túi đồ; trong đó Enter sẽ ăn hoặc uống món đang chọn. P là menu con người. Q đọc nhiệm vụ hằng ngày. S đọc toàn bộ trạng thái. V nói một câu đúng tính cách nhân vật.
+howto/keys_3	C, R và H là ba phím kiểm tra nhanh: tiền, danh tiếng, sức khỏe. T chọn nơi cần tracking và bật tiếng bíp dẫn tới đó; W đọc hướng bằng lời.
+howto/keys_4	Page Up và Page Down chỉnh âm lượng nhạc; Page Down sẽ tắt nhạc khi giảm tới đáy. Home và End chỉnh âm lượng hiệu ứng, cả trong menu lẫn khi đang đi. Bên trong danh sách, chúng lại nhảy tới đầu và cuối danh sách.
+howto/keys_5	F5 lưu nhanh dù bạn đang ở đâu. Shift+B mở builder nếu bạn muốn tự tạo một khu vực.
+howto/keys_6	E tóm tắt tình trạng của bạn trong một câu; S đọc toàn bộ.
+howto/keys_7	Escape tạm dừng game để chơi tiếp, lưu, mở Options hoặc thoát. Options có hiệu ứng âm thanh khi say, tự động lưu, ngôn ngữ, các tùy chọn mod và công cụ khôi phục file hỏng. Nó cũng có trên menu chính.
+howto/law_1	Cảnh sát để ý mọi chuyện. Đánh nhau ngoài phố, say bí tỉ trước mặt thiên hạ, gào hát lên trời, hỗn với cớm: tất cả đều khiến họ quan tâm đến bạn hơn.
+howto/law_2	Địa điểm và thời gian đều quan trọng. Ngã tư, nhà ga và khu trước đồn cảnh sát đều bị theo dõi, đặc biệt là chỗ cuối cùng. Rạng sáng nguy hiểm hơn buổi chiều vì ít đám đông để lẩn vào.
+howto/law_3	Khi mức chú ý còn thấp, cảnh sát chỉ đuổi bạn đi. Một khi thật sự lọt vào mắt họ, bạn sẽ bị chặn hẳn hoi: khám người, hỏi tên và tra hỏi về người khác.
+howto/law_4	Bạn có thể nộp phạt hoặc từ chối ký biên bản. Từ chối hôm nay không mất gì, nhưng sau đó sẽ nhận được vô số sự quan tâm của họ.
+howto/law_5	Họ sẽ đòi bạn khai ra ai đó. Bạn có thể làm thế. Suốt một thời gian dài sau đó cảnh sát sẽ nhẹ tay với bạn, còn ngoài phố sẽ biết chuyện, vì ngoài phố chuyện gì rồi cũng lộ.
+howto/law_6	Bị tóm thì bạn mất đồ trong túi và qua một đêm trong đồn, gồm bốn lượt chơi thật. Bạn có thể ngủ cho tỉnh, áp tai vào cửa, nói xuyên tường với người phòng bên, gây chuyện hoặc ngồi im. Ngồi im giúp sáng hôm sau lấy lại nhiều đồ hơn. Gây chuyện đổi lấy thêm một đêm và chút tiếng tăm.
+howto/law_7	Nếu bị bắt lúc đang say, bạn không phải lúc nào cũng làm đúng điều đã chọn. Định ngồi im mà lại đi thanh minh với cánh cửa khóa. Bạn sẽ nói gì tùy vào nhân vật, và lúc ở trong đó cứ tưởng mình xử lý khá ổn. Sáng hôm sau mới biết sự thật.
+howto/law_8	Rồi sẽ có người quen của bạn vào buồng giam. Hãy đến thăm. Mất một buổi chiều, nhưng với họ nó quý hơn bạn tưởng.
+howto/lines_1	Bạn có thể đánh nhau. Sau khi va vào ai đó, chọn mục tương ứng; game sẽ hỏi lại cho chắc, vì chuyện này đáng phải hỏi.
+howto/lines_2	Trận đánh diễn ra theo hiệp: đấm, dồn hết sức, che chắn hoặc co giò chạy. Che chắn giảm một nửa sát thương trúng đòn. Chạy khiến bạn mất chút thể diện và kết thúc trận.
+howto/lines_3	Thắng làm tăng uy tín đường phố. Thua thì ngược lại; dù thế nào cảnh sát cũng chú ý, còn người bị bạn đánh sẽ nhớ rất lâu.
+howto/lines_4	Có một việc game không cho bạn làm nhẹ nhàng và sẽ hỏi lại hai lần. Làm rồi, cả thị trấn lập tức quay lưng, bạn sẽ mang dấu nhơ suốt nhiều ngày. Điều ấy có trong game vì một trò chơi về cuộc đời này mà thiếu nó thì không thành thật.
+howto/money_1	Vỏ chai là kế sinh nhai căn bản. Đứng tại thùng rác, nhấn Enter để bới. Xe đẩy sẽ đầy dần; máy thu chai trên phố chính đổi chúng thành tiền, mỗi chai một złoty.
+howto/money_2	Xe đẩy lớn chứa được nhiều hơn, bán tại ga-ra ngoài chợ. Càng bới nhiều, mắt tìm thùng ngon của bạn càng tinh; lần bới thứ một trăm sẽ được nhiều hơn lần đầu.
+howto/money_3	Lau kính xe ở ngã tư kiếm khá hơn bới rác, và còn được trả tốt hơn nếu cả khu có thiện cảm với bạn. Việc khuân thùng ngoài chợ cũng có tiền nhưng tốn sức hơn.
+howto/money_4	Ăn xin đôi khi có tác dụng, hoàn toàn tùy người bạn hỏi và thái độ của họ. Cứ thử xin cùng một người hai lần trong một ngày xem đi được đến đâu.
+howto/money_5	Cửa hàng bán đồ đóng gói hoặc đóng chai. Quầy ngoài chợ có đồ ăn và thức uống nóng; người đứng quầy sẽ trò chuyện nếu bạn chịu nghe.
+howto/money_6	Đồ vật xuất hiện trên mặt đất. Có thứ là rác, có thứ lại là món ai đó quý nhất đời; trao đúng món cho đúng người còn đáng giá hơn đem bán.
+howto/money_7	Tiền không phải mục đích, nhưng thiếu nó thì chẳng đi xa được. Ở đây không gì đắt cả. Ở đây mọi thứ đều đắt khi bạn chỉ có chín złoty.
+howto/people_1	Có mười lăm người sống quanh đây và rồi bạn sẽ quen hết: ông lão, bà cụ babcia, tay mưu mẹo, gã nghiện rượu, cậu bán hàng, người đi làm xa, żul đối thủ, tay cớm, chủ quán rượu, người đàn bà bán ki-ốt, bà mẹ, nữ tu, nữ sinh, trực ban ở đồn và người bán đồ ăn.
+howto/people_2	Mỗi người phát ra một tiếng rì rầm riêng để bạn lần theo. Va vào ai, bạn sẽ nghe tiếng chạm và tên người đó. Nhấn P để xem quanh đây có ai và họ cách bao xa.
+howto/people_3	Hãy nói chuyện với mọi người. Nhấn Enter khi vừa va vào họ hoặc dùng trình đơn P. Việc này gần như chẳng tốn gì và là khởi đầu của mọi điều tốt đẹp trong game.
+howto/people_4	Quan hệ được xây bằng nhiều ngày, không phải vài phút. Thường xuyên xuất hiện thì tình cảm tăng. Phớt lờ cả tuần thì nguội đi. Nói với cùng một người sáu lần trong một buổi chiều thì họ sẽ thấy bạn đáng ngờ.
+howto/people_5	Ai cũng có một món bán trong cửa hàng mà họ thích và một món chỉ nhặt được ngoài đường mà họ mê. Tặng đúng thì họ không quên. Tặng sai thì họ sẽ cho bạn biết.
+howto/people_6	Họ cũng tặng lại. Người có thiện cảm sẽ tự dưng đặt thứ gì đó vào tay bạn, thường đúng là món bạn đang cần.
+howto/people_7	Cả khu phố cũng có đánh giá riêng về bạn, tách biệt với từng cá nhân. Cư xử tử tế nơi công cộng làm nó tăng. Đánh lộn ngoài đường thì ngược lại.
+howto/people_8	Ngoài ra còn uy tín đường phố, một loại tiền tệ hoàn toàn khác. Nó đến từ việc trở thành người chẳng ai muốn thử sức, và hai loại danh tiếng không phải lúc nào cũng cùng hướng.
+howto/people_9	Nữ tu đi phát súp. Nếu trắng tay và đói lả, cô sẽ cho ăn mà chẳng đòi gì; không, không có bẫy đâu.
+howto/pick	Hướng dẫn chơi. Chọn một mục, Escape để quay lại.
+howto/quests_1	Mỗi sáng có ba nhiệm vụ, mỗi loại một việc: lao động, liên quan đến con người và đơn giản là sống đời mình. Nhấn Q để nghe.
+howto/quests_2	Mỗi nhiệm vụ cho biết yêu cầu và phần thưởng. Hoàn thành là được trả ngay.
+howto/quests_3	Phía sau chúng là chín cột mốc cho chặng đường dài hơn. Đạt một lần thì giữ mãi: có bạn thật sự ngoài phố, thành gương mặt cả khu đều biết, hoặc sống sót qua một đêm trong buồng giam.
+howto/quests_4	Cột mốc chưa mở không nói từng bước, chỉ cho biết điều cần theo đuổi. Nếu có thứ đáng đếm, nó sẽ báo bạn đã tiến được bao xa.
+howto/quests_5	Bảng nhiệm vụ còn lưu thành tích: số việc hằng ngày đã xong và số cột mốc đã mở trong tổng số chín.
+howto/sec_about	Đây là gì
+howto/sec_back	Quay lại menu
+howto/sec_basics	Những điều cơ bản
+howto/sec_body	Năng lượng, cơn đói và sức khỏe
+howto/sec_drink	Rượu và thuốc lá
+howto/sec_first	Ngày đầu tiên của bạn
+howto/sec_keys	Tất cả phím bấm
+howto/sec_law	Cảnh sát
+howto/sec_lines	Đánh nhau và điều tuyệt đối không làm
+howto/sec_money	Kiếm tiền
+howto/sec_people	Con người
+howto/sec_quests	Việc trong ngày và con đường dài
+howto/sec_sleep	Kiếm chỗ ngả lưng
+howto/sec_town	Đi lại trong thị trấn
+howto/sleep_1	Một ngày kết thúc khi bạn ngủ, và lúc nào ngủ là do bạn chọn: đi đến chỗ có thể ngả lưng rồi nhấn Enter, game sẽ hỏi lại bạn có chắc không.
+howto/sleep_2	Khu nhà của bạn trên ulica Wesoła là lựa chọn tốt: cửa khóa được, và khi tỉnh dậy màn đêm đã ở phía sau.
+howto/sleep_3	Bạn cũng có thể ngủ bụi: ghế công viên, sau giàn đập thảm ở sân chung, hoặc cuối sân ga. Nhưng phải trả giá: hồi ít sức hơn, mất sức khỏe, và đường phố có thể lục túi hoặc lấy chai lúc bạn ngủ.
+howto/sleep_4	Đi ngủ khi đói thì cơn đói theo bạn suốt đêm. Ngủ trong cơn say bí tỉ tự nó sẽ trao phần thưởng vào buổi sáng.
+howto/sleep_5	Đi ngủ sau khi vắt mình kiệt quệ khiến bạn hồi ít hơn. Chẳng có cách tránh ngoài biết giữ sức.
+howto/title	Hướng dẫn chơi. Mũi tên lên xuống để đọc từng dòng, Escape để quay lại.
+howto/town_1	Thị trấn trải quanh phố chính ulica Wesoła. Phía bắc là công viên, phía nam là sân sau các khu nhà, phía đông là chợ, phía tây là ngã tư. Nhà ga nằm qua ngã tư, còn đồn cảnh sát là nơi bạn mong chẳng bao giờ cần đến.
+howto/town_2	Lối ra là cả một đoạn dọc rìa khu vực; cứ đi khỏi mép theo đúng hướng là qua. Game sẽ báo nơi vừa đến. Nếu cứ va vào khoảng không thì đó là rìa khu vực, không phải tường, và âm thanh nhẹ hơn tường.
+howto/town_3	Khi bị lạc: nhấn T, chọn một nơi; tiếng bíp sẽ dẫn hướng khi bạn đi, nhỏ và trầm hơn nếu mục tiêu ở sau lưng, rồi báo khi đến đúng chỗ. W đọc hướng bằng lời: trái, phải, lên và xuống. Đây là các phím mũi tên, không phải hướng nhân vật đang quay. Đó là thứ gần với bản đồ nhất trong game.
+howto/town_4	Mỗi khu có âm thanh riêng đặt đúng vị trí nguồn phát: ti-vi bên cửa sổ, xe ở đèn giao thông, tiếng ồn từ quán rượu. Đi về phía âm thanh tức là đi về phía thứ phát ra nó.
+howto/town_5	Bất cứ thứ gì ở sau lưng sẽ nghe trầm hơn một chút so với phía trước, rồi trở lại bình thường khi bạn quay mặt về nó. Điều này áp dụng cho cả người lẫn địa điểm, giúp phân biệt thứ còn phía trước với thứ đã đi qua.
+howto/town_6	Nhạc thay đổi theo giờ, nên con phố lúc bảy giờ sáng không giống lúc nửa đêm. Nếu nhạc nghe bất an thì trời đã khuya, mà lang thang khuya sẽ có hậu quả riêng.
+inv/bottles	Chai: đang mang %1 trên sức chứa %2.
+inv/fag_one	một điếu thuốc
+inv/fags	Thuốc lá: còn %1 điếu
+inv/lighter_full	Bật lửa: còn nhiều ga
+inv/lighter_low	Bật lửa: sắp hết ga, cẩn thận
+inv/lighter_none	Bật lửa: không có, hoặc đã chết cứng
+inv/money	Tiền: %1 złoty.
+inv/sip_hint	Enter để uống một ngụm hoặc ăn một miếng. Bấm nhanh liên tục là bạn sẽ nốc hoặc ngốn luôn.
+inv/title	Đồ của bạn. Mũi tên lên xuống để xem. I hoặc Escape để đóng.
+inv/trolley	Xe đẩy của bạn: %1.
+jail/bring_something	Đưa anh ấy thứ gì đó bạn đang mang
+jail/brought_drink	Bằng cách nào đó bạn luồn %1 qua song sắt. Anh ấy giấu đi trước khi cảnh sát quay lại.
+jail/brought_food	Bạn đưa %1 qua song sắt. Anh ấy không cảm ơn, chỉ ăn; như thế đã là lời cảm ơn.
+jail/leave_him	Không nói gì rồi đi
+jail/left_him	Bạn đứng đó một lúc, không nói gì rồi đi. Anh ấy dõi theo cho đến khi bạn khuất hẳn.
+jail/mick	Bạn đứng ngoài song sắt chế giễu anh ấy. Sắc mặt anh thay đổi và không trở lại như cũ. Trò này hèn, cả hai đều biết.
+jail/mick_grass	Bạn khiến anh ấy vào đây, giờ còn đứng ngoài song sắt cười nhạo. Đến viên cảnh sát cuối hành lang cũng phải nhìn sang.
+jail/nobody_in	Hôm nay cả hai buồng đều trống. Song sắt mở, hành lang chỉ còn mùi thuốc khử trùng.
+jail/nothing_to_bring	Bạn vỗ túi mà chẳng tìm được gì. Bạn đứng đó tay không; một kiểu thăm nom theo cách riêng.
+jail/say_sorry	Nói lời xin lỗi
+jail/sees_you	%1 bước tới song sắt, thoạt đầu ngạc nhiên rồi thật sự vui. Chẳng ai đến thăm. Chưa bao giờ có ai.
+jail/sees_you_grass	%1 bước tới song sắt, nhận ra người đến rồi khựng lại. Một khoảng im lặng dài. Anh ấy biết chính xác vì sao mình ở đây, bạn cũng vậy.
+jail/sorry_grass	Bạn nói lời xin lỗi. Anh ấy không bảo không sao, vì rõ ràng là có sao. Nhưng anh nghe đến cuối, đã nhiều hơn điều bạn đáng được nhận.
+jail/sorry_ok	Bạn nói mình rất tiếc vì anh ấy phải vào đây. Anh nhún vai như chẳng có gì, và cả hai đều biết không phải thế. Nhưng lời ấy có ý nghĩa. Rất nhiều.
+jail/take_the_mick	Chế giễu anh ấy
+jail/taken_in	Ngay tối đó họ tóm %1. Tin đã lan khắp khu nhà trước cả khi xe cảnh sát rời phố.
+jail/what_do_you_do	Bạn làm gì?
+jail/who_do_you_visit	Bạn đến thăm ai?
+line/are_you_sure	Bạn thật sự định làm vậy sao?
+line/do_it	Cứ làm
+line/done	Bạn giơ tay đánh %1. Chỉ cần thế. Một giây trôi qua, con người của bạn sáng nay đã biến mất.
+line/thought_better	Bạn buông nắm tay rồi bỏ đi. Dù mọi chuyện khác có thế nào, ít nhất điều này vẫn đúng về bạn.
+line/town_turns	Cả phố khựng lại. Có người la hét. Người khác đã gọi điện. Mọi gương mặt quen đều quay về phía bạn, chẳng một ai đứng về phía bạn.
+line/walk_away	Bỏ đi
+line/warn_child	Bạn thủ thế trước %1 và cả thế giới im bặt. Cô bé chỉ là một đứa trẻ. Mười sáu tuổi. Dù chuyện gì đã xảy đến với bạn, đây không phải con người bạn.
+line/warn_woman	Bạn thủ thế trước %1 và có gì đó trong lòng lặng hẳn. Đây là giới hạn. Bạn chưa từng vượt qua, và cả con phố đều biết điều ấy về bạn.
+look/area	Bạn đang ở %1. Ngay đây không có gì. Hãy đi quanh khám phá, tìm lối ra ở rìa khu vực, hoặc nhấn T rồi W để lần theo một địa điểm.
+marked/chat_1	Tin lan nhanh, và tin về bạn đã đi khắp nơi. Họ bảo bạn biến đi, không hề nói đùa.
+marked/chat_2	Thấy bạn đến, họ quay lưng trước khi bạn kịp mở miệng.
+marked/chat_3	Không có cửa. Không phải sau chuyện đó. Họ bỏ đi giữa câu, mà câu đang nói là của bạn.
+marked/counter_1	Hắn nhận tiền rồi đặt tiền thừa lên quầy thay vì đưa tận tay. Không nói một lời, cũng chẳng ngẩng lên.
+marked/counter_2	Bạn định nói gì hắn cũng không nghe. Hắn phục vụ vì đó là công việc, chỉ có thế.
+marked/counter_3	Sự im lặng phủ trên quầy nặng đến mức có thể tựa vào. Hắn đã nghe chuyện. Ai cũng đã nghe.
+menu/continue	Tiếp tục
+menu/continue_none	Không có bản lưu. Bạn chẳng có gì cả. Cũng hợp cảnh đấy.
+menu/farewell_1	Được rồi. Ngày mai chiếc ghế vẫn ở đó. Lúc nào chẳng thế.
+menu/farewell_2	Đi đi. Cẩn thận đường về và nhớ xem mình còn nợ ai.
+menu/farewell_3	Hôm nay thế là đủ. Mấy cái chai chưa chạy mất đâu.
+menu/farewell_4	Đi nào. Tối nay phải có người tỉnh táo, biết đâu là bạn.
+menu/farewell_5	Ra ngoài đi. Cố đừng nghĩ tới chiếc xe đẩy.
+menu/farewell_6	Mai gặp lại. Con phố chẳng đi đâu cả.
+menu/farewell_7	Hôm nay xong rồi. Wesoła sẽ xoay xở được nếu thiếu bạn. Chắc vậy.
+menu/farewell_8	Đi đi. Nếu ai hỏi, bạn chưa từng ở đây.
+menu/howto	Hướng dẫn chơi
+menu/newgame	Ván mới
+menu/quit	Thoát
+menu/title	Zul Simulator. Menu chính. Mũi tên lên xuống để di chuyển, Enter để chọn.
+mod/fix_it_now	Xem các file và khôi phục những mục tôi chọn
+mod/its_your_game	Nếu bạn cố ý thay đổi thì cứ tiếp tục. Đây là bản sao của bạn và thay âm thanh là việc hoàn toàn hợp lệ.
+mod/keep_asking	Có, lần sau hãy báo lại.
+mod/noticed	Bản game này có thay đổi. Thiếu %1 file và %2 file đã bị sửa.
+mod/stop_asking	Không, tôi cố ý thay đổi. Đừng nhắc nữa.
+mod/what_it_means	Bản thân việc này không phải lỗi, nhưng game có thể im lặng ở nơi không nên im hoặc hoạt động lạ; khi đó không phải lỗi của game gốc.
+mod/what_now	Bạn muốn làm gì?
+ms/cellvisit_how	Rồi một người quen sẽ vào trong đó. Hãy đến thăm họ.
+ms/cellvisit_name	Chẳng ai đến thăm, nhưng bạn đã đến
+ms/earned	Đạt cột mốc: %1.
+ms/firstarrest_how	Sớm muộn họ cũng tóm được bạn. Hãy bước ra ở đầu bên kia.
+ms/firstarrest_name	Một đêm trong buồng giam
+ms/firstfriend_how	Cứ có mặt bên ai đó đến khi họ coi bạn là bạn.
+ms/firstfriend_name	Một người bạn ngoài phố
+ms/hardman_how	Gây dựng danh tiếng khiến chẳng ai muốn thử sức.
+ms/hardman_name	Không phải người để dây vào
+ms/locked	(chưa đạt)
+ms/reward_cash	Bạn nhận được %1 złoty.
+ms/reward_community	Khu phố coi trọng bạn hơn. Thiện cảm cộng đồng tăng %1.
+ms/reward_heat	Cảnh sát bớt chú ý bạn. Đêm nay họ có việc lớn hơn phải lo.
+ms/reward_scrounge	Mắt tìm thùng ngon đã tinh hơn. Từ giờ bạn sẽ nhặt được nhiều hơn.
+ms/reward_street	Tin lan khắp nơi. Uy tín đường phố tăng %1.
+ms/scavenger_how	Đổi vỏ chai. Rồi đổi thật nhiều chai nữa.
+ms/scavenger_name	Vua thùng rác
+ms/souprun_how	Có một nữ tu đi phát thức ăn. Hãy đến khi bạn chẳng còn gì.
+ms/souprun_name	Được cho ăn đúng lúc
+ms/survived_how	Vượt qua giới hạn rồi sống sót trước cách đường phố đáp trả.
+ms/survived_name	Bạn đã sống qua tai tiếng
+ms/tickettorn_how	Đâu đó có tay cớm đang cầm sổ. Đừng ký.
+ms/tickettorn_name	Tôi không ký đâu
+ms/wellknown_how	Khiến cả phố nhớ mặt, không chỉ một người.
+ms/wellknown_name	Gương mặt quen thuộc
+npc/babcia_blunt	Bạn bảo mình khỏe và bà lo việc của bà đi. Bà khịt mũi, lẩm bẩm gọi bạn là bezczelny gnojek, làm dấu thánh vì vừa nói bậy rồi đẩy xe đi. Bạn đã gây thù với một người đàn bà có quan hệ rộng.
+npc/babcia_desc	Một bà cụ nhỏ người nhưng quả quyết, đội khăn trùm đầu, đẩy xe mua hàng và mang uy quyền đạo đức của một giám mục.
+npc/babcia_left	Bạn lẩm bẩm gì đó rồi lết đi trước khi cuộc thương lượng về bánh kẹp kịp bắt đầu.
+npc/babcia_line1	Bà dừng trước mặt, nhìn bạn từ đầu đến chân rồi hỏi lần cuối bạn ăn món nóng là bao giờ.
+npc/babcia_line2	Không đợi trả lời, bà kể ngay về đứa cháu trai cũng gầy nhom và chẳng bao giờ gọi điện.
+npc/babcia_short	Bà cụ với chiếc xe đẩy
+npc/babcia_warm	Bạn gọi đúng tên và hỏi thăm đứa cháu. Bà rạng rỡ, dúi vào tay bạn chiếc bánh kẹp đã gói và giục ăn trước khi nguội.
+npc/barman_blunt	Bạn bảo hắn lo quán của mình đi. Hắn đứng im, lau một chiếc cốc và chẳng nói gì. Sự im lặng ấy còn tệ hơn bất cứ lời nào.
+npc/barman_desc	Người đàn ông vai rộng, khoan thai, đứng sau quầy này hai mươi năm và đã nghe mọi câu chuyện trong khu ít nhất hai lần.
+npc/barman_left	Bạn thôi không nói nữa. Hắn quay lại lau chiếc cốc dở dang.
+npc/barman_line1	Hắn ngẩng lên, nhìn bộ dạng là đoán được đại khái ngày của bạn ra sao, nhưng không bình luận.
+npc/barman_line2	Không buộc tội ai, hắn nhắc rằng có người cứ để vỏ chai trên bậu cửa sổ bên ngoài.
+npc/barman_short	Người đàn ông sau quầy rượu
+npc/barman_warm	Bạn bảo không phải mình, và nếu là mình thì sẽ nhận. Hắn quyết định tin bạn; điều đó còn đáng giá hơn bia.
+npc/budkarz_blunt	Bạn bảo đó chỉ là cây xúc xích. Hắn im bặt, bị tổn thương tận đáy lòng, và từ nay luôn tính bạn đủ giá.
+npc/budkarz_desc	Hắn bán đồ nóng ở đúng quầy ven chợ suốt nhiều năm, nuôi nửa khu sau giờ đóng cửa và thật lòng tự hào mãnh liệt về món xúc xích của mình.
+npc/budkarz_left	Bạn còn chưa quay lưng, hắn đã phục vụ người tiếp theo.
+npc/budkarz_line1	Hắn dùng kẹp lật xúc xích, vừa nói chuyện vừa làm không ngừng tay.
+npc/budkarz_line2	Hắn bảo bí quyết nằm ở hành tây, rồi lập tức tuyên bố sẽ không tiết lộ bí quyết.
+npc/budkarz_short	Người đàn ông ở quầy thức ăn
+npc/budkarz_warm	Bạn thật lòng khen đây là món ngon nhất thị trấn. Hắn cười rạng rỡ rồi lén thêm vào suất của bạn một miếng khi tưởng bạn không nhìn.
+npc/bump_1	Bạn đi thẳng vào %1 và cả hai cùng xin lỗi một lúc.
+npc/bump_2	Bạn va vai với %1. Cả hai đều chẳng nhìn đường.
+npc/bump_3	Bạn vụng về đâm sầm vào %1; người ấy kiên nhẫn tránh sang như đã quá quen.
+npc/dojazd_blunt	Bạn hỏi hắn nhìn cái gì. Hắn vốn chẳng nhìn, giờ lại sợ hãi, khiến bạn càng thấy tệ hơn.
+npc/dojazd_desc	Người đàn ông mặc áo khoác đi làm, cố hết sức tránh chạm mắt với bạn.
+npc/dojazd_left	Bạn để mặc hắn với cuộc gọi điện tưởng tượng.
+npc/dojazd_line1	Hắn chăm chú kiểm tra điện thoại như người chẳng có gì để kiểm tra.
+npc/dojazd_line2	Hắn suýt nói gì đó, rồi nghĩ lại và chuyển sang nghiên cứu bảng giờ.
+npc/dojazd_short	Người đi làm xa
+npc/dojazd_warm	Bạn chào buổi sáng như một người bình thường. Hắn ngạc nhiên đến mức chào lại và lần đầu nhìn bạn cho đàng hoàng.
+npc/dyzurna_blunt	Bạn bảo chuyện này thật vô lý. Cô hoàn toàn đồng ý rồi tuyệt nhiên không làm gì cả.
+npc/dyzurna_desc	Cô ngồi sau ô kính trượt với con dấu, tờ đơn và sự dửng dưng vĩ đại trước mọi chuyện xảy đến với bạn. Cô không xấu tính. Chỉ là bạn không phải vấn đề của cô.
+npc/dyzurna_left	Bạn rời quầy. Ô kính đã trượt đóng trước khi bạn kịp quay người.
+npc/dyzurna_line1	Cô kéo ô kính ra chừng mười phân rồi chờ, mặt không chút biểu cảm.
+npc/dyzurna_line2	Cô bảo tờ đơn bạn cần không phải tờ đơn bạn có, và xem ra chuyện đến đó là hết.
+npc/dyzurna_short	Nữ trực ban
+npc/dyzurna_warm	Bạn điền đúng mẫu, đúng ô, bằng chữ in hoa. Một nét gần giống tán thành thoáng qua mặt cô rồi biến mất.
+npc/gives_1	%1 lục lọi, tìm được %2 rồi dúi cho bạn trước khi bạn kịp từ chối.
+npc/gives_2	Không làm to chuyện, %1 đưa bạn %2. Bạn bè là để thế mà.
+npc/gives_3	%1 nói mình có dư, rõ ràng là nói dối, nhưng vẫn đưa bạn %2.
+npc/kioskarka_blunt	Bạn bảo cô vui vẻ lên. Ô bán hàng không đóng, nhưng cảm giác chẳng khác gì đã đóng.
+npc/kioskarka_desc	Cô trông ki-ốt góc phố mười một năm, bán báo, vé và thuốc lá qua ô cửa nhỏ; mọi lời biện hộ trong khu đều từng lọt qua chính ô cửa ấy.
+npc/kioskarka_left	Bạn còn chưa quay hẳn, cô đã trở lại với ô chữ.
+npc/kioskarka_line1	Cô đang giải ô chữ nên không ngẩng lên ngay; không phải bất lịch sự, tính cô vốn thế.
+npc/kioskarka_line2	Cô kể sáng nay có người định trả bằng cả đống xu lẻ và đến giờ vẫn còn bực.
+npc/kioskarka_short	Người phụ nữ trong ki-ốt
+npc/kioskarka_warm	Bạn đồng ý rằng trả toàn xu lẻ là một sự xúc phạm, và cô thấy bạn cũng được.
+npc/kombinator_blunt	Bạn nhắc ba kế hoạch gần nhất của hắn đều kết thúc với ai đó trong buồng giam. Hắn đón nhận khá tốt vì đó là sự thật, tự xưng là nhà tiên tri đi trước thời đại và nể bạn hơn vì dám nói.
+npc/kombinator_desc	Một gã gầy nhẳng mặc đồ thể thao, lúc nào cũng đang bày mưu và luôn thiếu đúng một người để mưu thành công.
+npc/kombinator_left	Bạn bỏ đi giữa màn chào hàng. Hắn tiếp tục thuyết phục một cái thùng rác.
+npc/kombinator_line1	Hắn xuất hiện sát bên, liếc hai phía rồi bảo đang có một vụ. Lúc nào hắn cũng có một vụ.
+npc/kombinator_line2	Vụ này liên quan đến xe tải, một người bạn của anh họ hắn và một lượng thứ gì đó hắn chỉ gọi là 'hàng'. Hắn cần người giúp và thề vụ này sạch.
+npc/kombinator_short	Gã chuyên bày mưu
+npc/kombinator_warm	Bạn bảo nếu vụ đó thật sự xảy ra thì tính cả mình. Hắn cười toe, gọi bạn là huyền thoại và thề trước mộ mẹ rằng kế hoạch không thể hỏng. Mẹ hắn vẫn sống. Vụ này sẽ chẳng bao giờ xảy ra.
+npc/krawezniak_blunt	Bạn nói mình chưa làm gì và hỏi hắn không có tội phạm thật để đuổi sao. Quai hàm hắn siết lại. Lần sau bạn sẽ trả giá, mà với hắn lúc nào cũng có lần sau.
+npc/krawezniak_desc	Viên cảnh sát địa phương đã đuổi bạn đi nhiều đến mức hai bên gần như có quan hệ công việc.
+npc/krawezniak_left	Bạn đi trước khi hắn nói hết câu. Hắn dõi theo suốt đường.
+npc/krawezniak_line1	Hắn dừng cách vài bước, chắp tay sau lưng và hỏi dạo này bạn thế nào. Câu ấy không hoàn toàn là đe dọa.
+npc/krawezniak_line2	Hắn nhắc rằng có người khiếu nại. Không nói là ai, cũng không nói mình có tin hay không.
+npc/krawezniak_short	Tay cớm nhớ mặt bạn
+npc/krawezniak_warm	Bạn lịch sự, không cãi, hứa sẽ tránh đường. Hắn gật một cái rồi cho qua. Hồ sơ ghi 'không gây rắc rối'; với người như bạn, thế là kết quả tốt nhất.
+npc/matka_blunt	Bạn nói quá to lại đứng quá gần. Cô bước tiếp, không ngoảnh lại.
+npc/matka_desc	Cô gần như thức trắng mà vẫn đẩy xe nôi quanh sân; hôm nay hay bất cứ ngày nào cũng chẳng có thời gian cho trò vớ vẩn của ai.
+npc/matka_left	Bạn để cô yên. Dù sao cô cũng đang đi.
+npc/matka_line1	Cô kín đáo giữ chiếc xe nôi nằm giữa hai người.
+npc/matka_line2	Cô kể đứa nhỏ thức nửa đêm bằng giọng đều đều của người không còn mong ai cảm thông.
+npc/matka_short	Bà mẹ trẻ với xe nôi
+npc/matka_warm	Bạn hạ giọng và tránh đường cho xe nôi. Cô nhận ra và lên tiếng cảm ơn, dù việc ấy không dễ với cô.
+npc/not_here_now	Bạn nhìn quanh nhưng họ không còn ở đây. Dù vừa rồi là chuyện gì, khoảnh khắc ấy đã qua.
+npc/pijak_blunt	Bạn bảo hắn đang nói nhảm. Hắn nhiệt tình đồng ý, bảo thiên hạ đánh giá quá thấp chuyện nói nhảm, rồi cứ thế nói tiếp.
+npc/pijak_desc	Một người say xa hơn bạn rất nhiều, tay cầm chai và ôm một ý tưởng nhất quyết phải chia sẻ.
+npc/pijak_left	Bạn nhẹ nhàng gỡ tay hắn khỏi ống tay áo rồi đi. Hắn không nhận ra.
+npc/pijak_line1	Hắn khẩn thiết túm tay áo bạn và bắt đầu giải thích một chuyện cực kỳ quan trọng.
+npc/pijak_line2	Theo những gì bạn hiểu, chuyện liên quan đến chính phủ, anh rể hắn và con chó hắn từng nuôi. Có thể cả ba dính với nhau. Hắn tin chắc là vậy.
+npc/pijak_short	Gã say rượu thứ thiệt
+npc/pijak_warm	Bạn gật gù, bảo hắn hoàn toàn đúng. Hắn rưng rưng, gọi bạn là người tử tế kurwa duy nhất còn lại rồi mời một ngụm; bạn lịch sự từ chối.
+npc/reply_ask	Xin họ thứ gì đó
+npc/reply_blunt	Nói thẳng tuột
+npc/reply_fight	Thủ thế gây gổ
+npc/reply_give	Tặng họ thứ gì đó
+npc/reply_leave	Kiếm cớ rồi đi
+npc/reply_warm	Cư xử tử tế
+npc/siostra_blunt	Bạn bảo mình không cần được cứu. Cô vui vẻ đồng ý, mà chẳng hiểu sao như thế còn tệ hơn.
+npc/siostra_desc	Mỗi tuần ba tối cô đi phát súp, cho bất cứ ai xuất hiện được ăn và chưa một lần lên lớp họ vì sao ra nông nỗi này.
+npc/siostra_left	Bạn bỏ đi. Cô không cản, và chính vì thế người ta mới quay lại.
+npc/siostra_line1	Cô hỏi hôm nay bạn đã ăn chưa và chờ câu trả lời thật, không phải câu xã giao.
+npc/siostra_line2	Cô bảo thứ Năm có súp, nói như thông báo một sự thật chứ không phải ban ơn.
+npc/siostra_short	Nữ tu trong giáo xứ
+npc/siostra_warm	Bạn kể thật tuần này đã trôi qua thế nào. Cô bình thản lắng nghe rồi lại nhắc: thứ Năm.
+npc/sklepowy_blunt	Bạn bảo cậu ta sướng mà không biết hưởng. Cậu nhún vai rồi vào trong sớm. Cũng đáng thôi.
+npc/sklepowy_desc	Cậu thiếu niên chán đời ở cửa hàng góc phố, ra sau nghỉ năm phút mà đã thành hai mươi.
+npc/sklepowy_left	Bạn để cậu nghỉ. Trông cậu gần như thất vọng.
+npc/sklepowy_line1	Cậu gật đầu theo kiểu chào người ngày nào cũng thấy nhưng chẳng biết gì về nhau.
+npc/sklepowy_line2	Cậu than về quản lý, giờ làm và vị khách đếm từng đồng một groszy để trả.
+npc/sklepowy_short	Cậu bán hàng đang nghỉ hút thuốc
+npc/sklepowy_warm	Bạn bảo chuyện đồng xu là điều buồn cười nhất nghe được cả tuần. Cậu cười thật sự, bảo bạn cũng được đấy. Lát nữa ra quầy chắc sẽ được ưu ái chút ít.
+npc/stary_blunt	Bạn bảo thời của ông đã hết, nhà máy giờ là bãi đỗ xe. Ông im lặng. Bạn thấy mình bé tí, nhưng đám bạn hẳn sẽ cười.
+npc/stary_desc	Ông lão đội mũ phẳng, sống ở khu này từ trước khi những dãy nhà mọc lên và có ý kiến về tất cả mọi chuyện.
+npc/stary_left	Bạn ậm ừ bảo có việc rồi đi. Ông tiếp tục nói với khoảng không nơi bạn vừa đứng.
+npc/stary_line1	Ông lê tới, vỗ lên ghế bên cạnh và bảo khu này xuống dốc từ ngày nhà máy đóng cửa.
+npc/stary_line2	Ông dài dòng kể thời mình, đàn ông chỉ cần hỏi là có việc và có nhà. Ông không hoàn toàn sai, cũng chẳng hoàn toàn đúng.
+npc/stary_short	Ông lão trên ghế
+npc/stary_warm	Bạn để ông nói cho hết và tán thành đúng lúc. Ông vỗ tay bạn, gọi bạn là cậu trai tốt; nói được câu ấy với ông không dễ.
+npc/talk_hint	Nhấn Enter để nói chuyện, hoặc cứ đi tiếp.
+npc/uczennica_blunt	Bạn bảo cô bé lo đi đi. Cô gọi bạn là boomer, đau hơn mọi câu chửi, rồi nhét tai nghe trở lại.
+npc/uczennica_desc	Mười sáu tuổi, tai nghe vắt quanh cổ, túi khoác một vai; mỗi ngày hai lần đi tắt qua khu nhà và để mắt thấy hết mọi chuyện.
+npc/uczennica_left	Cô bé đã bước đi. Nhạc lại bật lên.
+npc/uczennica_line1	Cô tháo một bên tai nghe, đó là cách cô tỏ ra lịch sự.
+npc/uczennica_line2	Cô kể xe buýt lại bị hủy khiến cả lớp đến muộn, và muốn bạn đồng ý rằng chuyện đó thật vô lý.
+npc/uczennica_short	Nữ sinh đi tắt qua khu nhà
+npc/uczennica_warm	Bạn đồng ý xe buýt đúng là kurwa vô dụng. Cô bé cười ré lên vì cuối cùng cũng có người lớn nói thế, rồi khen tài xế là huyền thoại vì ông ta cũng chẳng quan tâm.
+npc/zul_obcy_blunt	Bạn bảo chỗ sau cửa hàng vốn là của mình. Hắn bảo bạn spierdalaj. Cả hai đều không nhúc nhích. Một điều vừa được xác lập, nhưng không phải tình bạn.
+npc/zul_obcy_desc	Một żul từ chiếc ghế bên kia đang đánh giá xem bạn là đối thủ hay bạn đồng hành.
+npc/zul_obcy_left	Bạn không đáp gì rồi đi. Hắn sẽ nhớ chuyện đó.
+npc/zul_obcy_line1	Chẳng mấy thân thiện, hắn hỏi dạo này mấy thùng rác đối đãi với bạn ra sao.
+npc/zul_obcy_line2	Hắn nhắc rằng hội mình giờ chiếm chỗ ngon sau cửa hàng, vừa nói vừa soi kỹ nét mặt bạn.
+npc/zul_obcy_short	Żul từ chiếc ghế bên kia
+npc/zul_obcy_warm	Bạn công nhận hắn thắng đẹp và chúc may mắn. Hắn thả lỏng, bảo một cwaniak như bạn cũng được, rồi mách về thùng rác lớn chưa ai đụng tới.
+oddjob/result_1	Bạn khuân thùng tới khi cái lưng lên tiếng, rồi một tay buôn dúi %1 złoty vào tay.
+oddjob/result_2	Nửa giờ kéo những thùng chẳng ai muốn kéo. Đổi lấy %1 złoty và một cái gật đầu nể phục.
+oddjob/result_3	Bạn giúp chủ quầy thu dọn, không làm vỡ gì và nhận %1 złoty cho công sức.
+opt/autosave_now_off	Đã tắt tự động lưu. Bạn sẽ phải tự lưu game.
+opt/autosave_now_on	Đã bật tự động lưu. Tiến trình sẽ được lưu cuối mỗi ngày.
+opt/autosave_off	Tự động lưu cuối ngày: tắt
+opt/autosave_on	Tự động lưu cuối ngày: bật
+opt/back	Quay lại
+opt/contact_cleared	Đã xóa. Tôi sẽ không có cách trả lời bạn.
+opt/contact_none	Thông tin liên hệ: chưa cung cấp
+opt/contact_prompt	Cách liên hệ với bạn nếu bạn muốn nhận phản hồi. Xóa trắng để gỡ bỏ.
+opt/contact_saved	Đã lưu. Khi bạn gửi nội dung, tôi sẽ kèm theo %1.
+opt/contact_set	Thông tin liên hệ: %1
+opt/drunk_off	Hiệu ứng âm thanh lúc say: tắt
+opt/drunk_on	Hiệu ứng âm thanh lúc say: bật
+opt/language	Ngôn ngữ: %1
+opt/language_set	Đã đổi ngôn ngữ. Lựa chọn sẽ được ghi nhớ.
+opt/modding_now_off	Tôi sẽ báo nếu file game bị thiếu hoặc thay đổi.
+opt/modding_now_on	Được. Cứ thay đổi tùy ý, tôi sẽ không nhắc lại.
+opt/modding_off	Cho phép mod: tắt, file thay đổi sẽ được báo
+opt/modding_on	Cho phép mod: bật, file thay đổi sẽ không được báo
+opt/title	Tùy chọn
+passout/msg	Thế giới chậm rãi lộn vòng, mặt đường lao lên chào đón. Tắt đèn. ...Mấy giờ sau bạn tỉnh lại ở blok, đầu đau như búa bổ, chẳng biết mình về bằng cách nào.
+pause/drunkaudio_now_off	Đã tắt hiệu ứng lúc say. Dù uống gì, thế giới vẫn đứng yên.
+pause/drunkaudio_now_on	Đã bật hiệu ứng lúc say. Khi bạn lảo đảo, thế giới cũng lắc lư.
+pause/title	Đã tạm dừng. Dùng phím lên xuống để chọn, Enter để xác nhận, Escape để chơi tiếp.
+people/back	Quay lại
+people/entry	%1, %2, cách %3 bước.
+people/give	Tặng họ thứ gì đó
+people/list_all	Liệt kê mọi người bạn biết và quan hệ với họ
+people/standing	Quan hệ với họ
+people/standing_is	Bạn và %1: %2.
+people/tastes	Sở thích của họ
+people/tastes_hate	%1 sẽ không cảm ơn nếu nhận %2.
+people/tastes_love	%1 mê %2.
+people/tastes_none	Bạn chưa biết %1 thích gì. Thử tặng đồ rồi để ý nét mặt.
+people/title	Những người quanh đây. Dùng phím lên xuống để xem, Enter để chọn.
+people/track	Đi về phía họ
+place/hint_bar	 Nhấn Enter để vào xem hắn rót cho bạn thứ gì.
+place/hint_cell	 Nhấn Enter để nhìn qua song sắt.
+place/hint_desk	 Nhấn Enter để nói chuyện với người trực quầy.
+place/hint_garage	 Nhấn Enter để bàn với hắn về xe đẩy.
+place/hint_gather	 Nhấn Enter để bới tìm chai, như một quý ông đầy phẩm giá.
+place/hint_oddjob	 Nhấn Enter xem có ai cần người giúp việc không.
+place/hint_shop	 Nhấn Enter để mua thức ăn, đồ uống, hoặc thành thật mà nói là cả hai.
+place/hint_sit	 Nhấn Enter để ngồi nghỉ một lúc.
+place/hint_sleep	 Nhấn Enter để ngủ qua đêm.
+place/hint_stand	 Nhấn Enter xem hắn đang bán gì.
+place/hint_turnin	 Nhấn Enter đổi những vỏ chai khó nhọc mới kiếm được thành tiền thật.
+place/hint_wash	 Nhấn Enter để lau kính xe dù chẳng ai nhờ.
+police/arrested_line	Trên đường đi họ không nói với bạn. %1 złoty được bỏ vào phong bì. Chẳng ai mời bạn thứ gì.
+police/arrested_rough	Họ nhét bạn vào xe. %1 złoty trong túi được bỏ vào phong bì ghi tên bạn.
+police/asks_about_1	Hắn hỏi ai đã lấy dây đồng ở trạm điện. Hắn gần như biết rồi, chỉ muốn chính miệng bạn nói ra.
+police/asks_about_2	Hắn hỏi tối qua ai uống rượu trong sân, và bạn biết quá rõ đó là ai.
+police/confiscated	Hắn lấy của bạn %1 món rồi bỏ vào túi. Bạn sẽ không gặp lại chúng.
+police/cop_stops_1	Xe tuần tra chậm lại ngang tốc độ đi bộ bên cạnh, cửa kính hạ xuống.
+police/cop_stops_2	Policja. Hắn hỏi tên nhưng không ghi lại, thế còn đáng ngại hơn.
+police/cop_stops_3	Hắn dùng một tay chặn bạn và cứ đặt trên vai suốt lúc nói chuyện.
+police/grass	Khai cái tên đó
+police/grassed	Bạn khai tên. Lần này hắn ghi lại cẩn thận. Có gì đó rời khỏi buổi chiều và không bao giờ trở lại.
+police/guard_stops_1	Hai bảo vệ thành phố rời khỏi bức tường họ đang dựa. Một người bảo tên bạn không quan trọng, quan trọng là bạn làm gì trên chiếc ghế ấy.
+police/guard_stops_2	Một bảo vệ thành phố bước ra chặn, mang vẻ mệt mỏi của người còn ba giờ nữa mới hết ca.
+police/guard_stops_3	Bảo vệ thành phố. Hắn nhìn chai, nhìn bạn, lại nhìn chai rồi chờ bạn nói điều gì thông minh.
+police/how_do_you_play_it	Bạn xử lý thế nào?
+police/known_now	Đây không phải lần đầu, mà khu này lại nhỏ. Đến thứ Năm mọi người sẽ biết. Thứ Năm nào họ cũng biết.
+police/let_off_1	Hắn thấy bạn không đáng để làm giấy tờ nên bảo đi chỗ khác.
+police/let_off_2	Hắn nhìn bạn hồi lâu rồi xua đi. Hôm nay thì không.
+police/mandat	Hắn bắt đầu viết mandat karny. %1 złoty.
+police/mandat_choice	Bạn có nhận biên bản không?
+police/paid	Bạn nộp tiền. Hắn xé tờ biên nhận, đưa gần như lịch sự, và chuyện kết thúc.
+police/pay_it	Nhận và nộp phạt
+police/refuse_it	Từ chối nhận
+police/refused	Bạn không ký. Giờ vụ việc ra tòa, còn hắn phải làm giấy tờ mà hắn cũng thích chẳng kém bạn. Ngoài phố sẽ nghe chuyện bạn không ký.
+police/reply_0_said	Bạn là hiện thân của lễ phép. Vâng thưa ngài, không thưa ngài, chắc chắn thưa ngài. Chẳng mất gì, còn hắn thấy rõ là thả lỏng.
+police/reply_1_said	Bạn trả lời đúng điều hắn hỏi, không thừa một chữ. Hắn tôn trọng điều đó, hoặc ít nhất không bắt bẻ được.
+police/reply_2_said	Bạn cà khịa vừa đủ để tự vui. Quai hàm hắn siết lại.
+police/reply_3_said	Bạn nói chính xác mình nghĩ gì về hắn, ca trực và bộ đồng phục. Nhiệt độ như hạ mười độ.
+police/reply_cheeky	Cà khịa một chút
+police/reply_polite	Vâng thưa cảnh sát, xin lỗi, ngài nói sao cũng được
+police/reply_rude	Chỉ thẳng nơi hắn nên biến tới
+police/reply_straight	Trả lời thẳng, không nói thêm
+police/said_nothing	Bạn bảo mình chẳng thấy gì. Hắn biết bạn nói dối. Bạn biết hắn biết. Không ai nói ra.
+police/say_nothing	Không nói gì
+police/slipped_krzysztof_1	Bạn định lịch sự. Rốt cuộc lại đứng lảo đảo xin lỗi dài dòng về những chuyện mình chưa làm, kết bằng lời khẳng định thật ra mình không uống rượu. Hắn nhìn chai trong tay bạn.
+police/slipped_krzysztof_2	Bạn định nói đơn giản. Thay vào đó lại hai lần đòi bắt tay, rồi hỏi thăm mẹ hắn bằng cái tên bạn tự bịa.
+police/slipped_marcin_1	Bạn định cư xử nhã nhặn. Thứ bật ra lại là Darek: hắn là ai, đã làm gì và bạn sẽ xử hắn thế nào nếu có mười phút cùng một con phố vắng.
+police/slipped_marcin_2	Bạn định trả lời. Mới ba từ thì giọng đã bốc lên, ngón tay chọc vào ngực hắn; đó là sai lầm và ngay lúc làm bạn đã biết.
+police/slipped_sebastian_1	Bạn định nói thẳng. Chẳng hiểu sao lại chuyển sang báo giá ưu đãi nếu sau này hắn cần hàng; vốn hắn không cần, còn giờ lại quan tâm vì lý do rất sai.
+police/slipped_sebastian_2	Bạn định nói ngắn. Bạn bảo chỉ làm việc này đến khi có kèo tốt hơn. Hắn hỏi làm việc gì. Câu hỏi rất hay, chính bạn cũng vừa tự hỏi.
+police/slipped_tom_1	Bạn định lịch sự, và quả thật cực kỳ lịch sự bằng một tràng tiếng Anh đầy mệnh đề phụ. Hắn hiểu một từ trong chín, chẳng từ nào giúp ích.
+police/slipped_tom_2	Bạn định trả lời, nhưng lại sửa ngữ pháp cho hắn. Câu ấy vốn chẳng sai. Bạn cũng không hiểu sao mình làm vậy.
+police/tank	Trạm giải rượu. Họ giữ dây giày, thắt lưng, rồi sáng ra thu %1 złoty tiền giường. Bạn tỉnh rượu, đó là mục đích; và nghèo hơn, đó cũng là mục đích.
+police/what_do_you_say	Bạn nói gì?
+quest/bar_visit	Ghé mặt vào quán rượu.
+quest/beg	Xin người qua đường đủ %1 złoty.
+quest/bottles	Nhặt đủ %1 vỏ chai.
+quest/chat	Nói chuyện tử tế với %1 người
+quest/complete	Hoàn thành: %1
+quest/done_tag	Đã xong. Khá lắm.
+quest/drink	Uống %1 lượt. Hoàn toàn vì chữa bệnh.
+quest/earn	Kiếm được %1 złoty trong ngày.
+quest/give_gift	Tặng ai đó một món quà
+quest/group_graft	Kiếm sống.
+quest/group_living	Sinh hoạt.
+quest/group_people	Con người.
+quest/make_up	Làm lành với người đã bất hòa.
+quest/milestones_header	Cột mốc, những mục tiêu lớn:
+quest/ms_progress	Hiện là %1 trên %2.
+quest/ms_unlocked	Đã mở: %1
+quest/not_started	Chưa bắt đầu.
+quest/oddjob	Khuân %1 lượt thùng ở chợ.
+quest/pays	Thưởng %1 złoty.
+quest/progress	%1 trên %2.
+quest/record	Thành tích: hoàn thành %1 nhiệm vụ, đạt %2 cột mốc
+quest/record_ms	trên %1
+quest/reward	%1 złoty đã vào túi.
+quest/scrap	Tham gia %1 trận ẩu đả. Đám tang của bạn thôi.
+quest/sleep	Tìm nơi ngả lưng.
+quest/smoke	Hôm nay hút %1 điếu. Chỉ để dịu thần kinh.
+quest/stand_buy	Mua món nóng ở quầy thức ăn
+quest/title	Việc hôm nay. Dùng phím lên xuống để nghe. Nhấn Q hoặc Escape để đóng.
+quest/wander	Đặt chân tới %1 góc khác nhau trong khu.
+quest/wash	Lau %1 kính chắn gió ở đèn giao thông.
+rel/close	một người bạn thật sự
+rel/hostile	không muốn dính dáng tới bạn
+rel/nodding	gặp nhau thì gật đầu chào
+rel/stranger	người lạ
+rel/title	Quan hệ với mọi người. Dùng phím lên xuống để nghe. Nhấn P hoặc Escape để đóng.
+rel/warm	thân thiện
+rel/wary	đề phòng bạn
+repair/all_well	Mọi thứ đều đúng chỗ và không có gì bị thay đổi.
+repair/altered_warning	%1 file không giống bản đi kèm game. Nếu bạn chủ động mod hoặc thay âm thanh, khôi phục bản gốc sẽ xóa công sức ấy và không thể hoàn tác. Nếu bạn chưa đụng gì thì file đã hỏng hoặc tải dở, nên thay thế. Chỉ bạn biết trường hợp nào đúng.
+repair/done_partly	Đã khôi phục %1 file, nhưng không tải được %2 file. Hãy thử lại sau hoặc tải mới game từ trang phát hành.
+repair/done_partly_restart	Đã khôi phục %1 file, nhưng không tải được %2 file. Nhấn Enter để game tự khởi động lại và dùng các file đã khôi phục. Với số còn lại, hãy thử lại sau hoặc tải mới game từ trang phát hành.%3
+repair/done_restart	Xong, đã khôi phục %1 file. Nhấn Enter để game tự khởi động lại và sử dụng chúng. Bạn không cần làm gì thêm.
+repair/fetching	Đang tải file %1 trên %2.
+repair/is_altered	Đã thay đổi: %1
+repair/is_missing	Bị thiếu: %1
+repair/looking	Đang kiểm tra các file hiện có.
+repair/no_keep_mine	Để nguyên, đó là file của tôi
+repair/opt_altered	Khôi phục %1 file đã thay đổi
+repair/opt_back	Quay lại
+repair/opt_list	Chỉ cho tôi biết đó là những file nào
+repair/opt_missing	Khôi phục %1 file bị thiếu
+repair/title	Kiểm tra và sửa chữa file game
+repair/update_first	Đã có phiên bản mới, nên không thể phân biệt file bạn sửa với file chỉ thuộc bản cũ. Hãy cập nhật trước bằng mục Kiểm tra phiên bản mới ở trình đơn chính, rồi quay lại để sửa những file thật sự có vấn đề.
+repair/yes_restore	Khôi phục file gốc
+save/done	Đã lưu game.
+save/fail	Không thể lưu game.
+save/loaded	Đã tải game. Chào mừng trở lại chiếc ghế.
+say/krzysztof_sharp	Tôi sẽ tử tế nói đúng một lần vì tôi quý anh. Đừng được đằng chân lân đằng đầu.
+say/krzysztof_warm1	Gặp anh vui thật. Không mưu tính gì đâu, thành thật đấy, chỉ mừng vì anh ở đây.
+say/krzysztof_warm2	Lại đây nào. Dạo này sao rồi? Đừng bảo là ổn, chẳng ai ổn cả.
+say/marcin_sharp	Hôm nay đừng thử tôi, blyat, tôi chỉ còn dính với nhau bằng băng keo và rượu rẻ tiền.
+say/marcin_warm1	Kurwa, là anh. Tốt. Ngồi đi. Đừng bỏ tôi nữa, ai rồi cũng khốn kiếp bỏ đi hết.
+say/marcin_warm2	Anh hiểu. Anh thật sự hiểu. Không như cô ta. Suka. Không như cô ta.
+say/sebastian_sharp	Đừng phá hỏng không khí, tôi chỉ còn cách ổn thỏa đúng ba quyết định sáng suốt thôi.
+say/sebastian_warm1	Bạn tôi! Đúng lúc quá, hôm nay tôi gần như đang xoay chuyển cả cuộc đời rồi.
+say/sebastian_warm2	Anh với tôi là hai kẻ thông minh. Sắp làm nên chuyện. Ngày nào đó thôi, kurwa.
+say/tom_sharp	Tôi mắc kẹt nhưng chưa tuyệt vọng đến mức phải chịu câu đó. Cẩn thận lời nói nhé, anh bạn.
+say/tom_warm1	À, một gương mặt thân thiện. Tôi sẽ mời anh trà, nhưng giờ chỉ còn tấm bằng và một con bồ câu.
+say/tom_warm2	Gặp anh thật tốt. Bầu bạn với anh khá hơn đôi chút so với những lựa chọn đời tôi.
+share/back	Quay lại
+share/copied_download	Đã sao chép. Dán ở đâu cũng sẽ đưa người nhận thẳng tới bản tải xuống.
+share/copied_page	Đã sao chép. Dán ở đâu cũng đưa người nhận tới trang game với phần giải thích đầy đủ.
+share/copy_download	Sao chép liên kết tải xuống
+share/copy_failed	Rất tiếc, không truy cập được bảng tạm. Địa chỉ là github dot com, slash, almrany803 dash alt, slash, zul dash simulator.
+share/copy_page	Sao chép liên kết trang game
+share/open_failed	Rất tiếc, không mở được trình duyệt. Địa chỉ là github dot com, slash, almrany803 dash alt, slash, zul dash simulator.
+share/open_page	Mở trang game trong trình duyệt
+share/opened	Đang mở trong trình duyệt.
+share/title	Giới thiệu game cho người khác
+shop/ask	Bạn cần gì?
+shop/back	Quay lại
+shop/bought_beer_1	Một chai bia lạnh. Văn minh. Gần như đáng kính.
+shop/bought_beer_2	Chai bia đầu tiên trong ngày. Hoặc thứ năm. Ai mà đếm.
+shop/bought_beer_3	Bia. Bật nắp, xì hơi, ừng ực. Niềm vui nhỏ của đời.
+shop/bought_cheapwine_1	Thứ rẻ tiền trong chai nhựa. Vị nho đen pha hối tiếc.
+shop/bought_cheapwine_2	Tạm gọi là rượu vang mạnh. Vị giống mùi một chiếc ghế công viên.
+shop/bought_cheapwine_3	Rượu vang rẻ. Răng tím ngắt, còn bạn thôi bận tâm.
+shop/bought_coffee_1	Bạn ôm cốc bằng hai tay. Nóng quá chưa uống được, nhưng vẫn uống.
+shop/bought_coffee_2	Cà phê ki-ốt: đắng, bỏng lưỡi và chính xác là thứ bạn cần.
+shop/bought_coffee_3	Bạn đứng uống như mọi người và thấy mình gần như đáng kính.
+shop/bought_cordial_1	Ngọt, loãng và phảng phất mùa hè năm ngoái. Nó có ích hơn vẻ ngoài.
+shop/bought_cordial_2	Nước trái cây từ hũ lớn. Bà bạn làm ngon hơn, mà bà ai cũng thế.
+shop/bought_cordial_3	Bạn tu một mạch như trẻ con và thoáng thấy mình mới chín tuổi.
+shop/bought_doughnut_1	Mứt hoa hồng thật, không phải đồ rẻ. Bạn chậm rãi thưởng thức.
+shop/bought_doughnut_2	Đường vương khắp nơi. Đáng lắm.
+shop/bought_doughnut_3	Bạn ăn hết trong ba miếng rồi lập tức tiếc vì đã hết.
+shop/bought_energy_1	Một lon tăng lực. Tim độc tấu trống nhưng cơn mệt tan bớt.
+shop/bought_energy_2	Nước tăng lực. Không kèm đôi cánh, có kèm run tay.
+shop/bought_energy_3	Nước tăng lực rẻ tiền. Taurine, đường và hy vọng nguyên chất.
+shop/bought_fags	Gói mười điếu. Giờ bạn có %1. Đừng hút hết một lượt.
+shop/bought_fruitspirit_1	Rượu trái cây nhà ai tự nấu. Đủ sức lột sơn. Ngon tuyệt.
+shop/bought_fruitspirit_2	Rượu trái cây nhà làm. Công thức của bà, chắc là phạm pháp.
+shop/bought_fruitspirit_3	Rượu trái cây. Ngọt một giây rồi đá như con la.
+shop/bought_herring_1	Béo, mặn, nồng. Đồ ăn tử tế và nằm chắc trong bụng.
+shop/bought_herring_2	Cá trích lấy thẳng từ thùng. Ngón tay sẽ ám mùi tới mai.
+shop/bought_herring_3	Bạn ăn cùng chút bánh mì và thoáng thấy mình như người có nhà bếp.
+shop/bought_kebab_1	Một chiếc kebab đúng nghĩa. Trong chốc lát, mọi thứ đều ổn.
+shop/bought_kebab_2	Kebab to đùng, nước sốt nhỏ giọt. Hạnh phúc ngắn ngủi là đây.
+shop/bought_kebab_3	Năng lượng kebab ăn khuya vào bất kỳ giờ nào. Huy hoàng.
+shop/bought_lighter	Chiếc bật lửa nhựa bóng loáng, đầy gas và hứa hẹn.
+shop/bought_milk_1	Sữa lạnh. Cái bụng gào cả sáng cuối cùng cũng im.
+shop/bought_milk_2	Bạn đứng uống sữa. Không ai bình luận, thế là tử tế rồi.
+shop/bought_milk_3	Sữa thường, nhưng sau tuần vừa rồi nó có vị của một quyết định sáng suốt.
+shop/bought_moonshine_1	Rượu lậu không rõ nguồn gốc. Giờ bạn nhìn thấy được âm thanh.
+shop/bought_moonshine_2	Rượu lậu. Mùi như lửa trại và sức đánh cũng thế.
+shop/bought_moonshine_3	Rượu nhà chưng cất. Chắc là an toàn. Hầu hết. Cạn ly.
+shop/bought_noodles_1	Bạn xin nước nóng rồi ăn ngay trong cốc bằng chiếc nĩa nhỏ.
+shop/bought_noodles_2	Chủ yếu là muối và hơi nước, chính xác thứ bạn muốn.
+shop/bought_noodles_3	Mì cốc ăn trên bờ tường. Có những bữa tối tệ hơn, bạn từng ăn rồi.
+shop/bought_pickle_1	Dưa chuột muối với khúc bánh mì. Món dân dã. Hoàn hảo.
+shop/bought_pickle_2	Dưa muối và bánh mì. Chua, mặn, thỏa mãn lạ thường.
+shop/bought_pickle_3	Quả dưa muối to bằng cẳng tay. Bữa sáng của nhà vô địch.
+shop/bought_pierogi_1	Khay bánh pierogi nhỏ có nhân. Ấm, mềm, như cái ôm từ bên trong.
+shop/bought_pierogi_2	Pierogi áp chảo thơm hành. Ngon muốn khóc.
+shop/bought_pierogi_3	Sáu chiếc pierogi nóng hổi biến mất trong đúng một phút.
+shop/bought_roll_1	Ổ bánh mì. Khô, thật thà, no bụng. Thế là được.
+shop/bought_roll_2	Ổ bánh mì thường. Không phải tiệc, nhưng là thức ăn.
+shop/bought_roll_3	Ổ bánh mì dai, rẻ và vừa đủ.
+shop/bought_sausage_1	Xúc xích nướng kẹp bánh, đủ cả mù tạt. Tuyệt vời.
+shop/bought_sausage_2	Xúc xích nóng kẹp bánh, mù tạt chảy xuống cổ tay. Đáng lắm.
+shop/bought_sausage_3	Xúc xích nướng kẹp bánh. Chỉ mùi thơm đã bằng nửa bữa.
+shop/bought_sesamering_1	Vẫn còn ấm từ lò bánh, phủ mè vương khắp nơi.
+shop/bought_sesamering_2	Dai, mằn mặn và là ba złoty đáng nhất bạn từng tiêu.
+shop/bought_sesamering_3	Bạn xé đôi rồi ăn nửa sau chậm hơn nửa đầu.
+shop/bought_tea_1	Nóng bỏng, đặc quá mức, có lát chanh cứu lại. Nó chỉnh đốn được bạn.
+shop/bought_tea_2	Bạn ôm cốc bằng hai tay, chậm rãi uống. Mọi chuyện có vẻ dễ xoay xở hơn.
+shop/bought_tea_3	Trà trong cốc thủy tinh, đúng kiểu phải thế. Bạn gần như thấy mình văn minh.
+shop/bought_vodka_1	Vodka. Trôi xuống như lời đe dọa, đáp lại như cái ôm.
+shop/bought_vodka_2	Vodka. Đốt rát suốt đường xuống rồi sưởi ấm toàn thân.
+shop/bought_vodka_3	Vodka. Rùng mình một cái, rìa thế giới bỗng mềm đi.
+shop/bought_zapiekanka_1	Baguette nướng nóng, phô mai sủi bọt. Món đường phố của thần thánh.
+shop/bought_zapiekanka_2	Phô mai chảy trên bánh nướng, tương cà ngoằn ngoèo. Thiên đường.
+shop/bought_zapiekanka_3	Baguette giải rượu kinh điển. Phô mai, nấm và sự cứu chuộc.
+shop/buy_fags	Gói mười điếu, 5 złoty
+shop/buy_lighter	Bật lửa, 2 złoty
+shop/comment_early	'Hôm nay còn dài nhỉ,' hắn nói rồi vẫn tính tiền.
+shop/comment_food	'Tốt,' hắn nói. 'Anh cần có chút gì trong bụng.'
+shop/comment_smokes	Hắn đẩy qua, không cần hỏi lần hai.
+shop/comment_strong	Hắn im lặng tính tiền, bản thân sự im lặng đã là lời bình.
+shop/discount	Hắn bớt một złoty mà không làm ầm lên.
+shop/drink_beer	Chai bia lager, 4 złoty
+shop/drink_cheapwine	Rượu vang trái cây rẻ trong chai nhựa, 6 złoty
+shop/drink_coffee	Cà phê ki-ốt, nóng và quá đặc, 5 złoty
+shop/drink_cordial	Nước trái cây múc từ hũ lớn, 3 złoty
+shop/drink_energy	Nước tăng lực, 4 złoty
+shop/drink_fruitspirit	Rượu anh đào nhà làm, 5 złoty
+shop/drink_milk	Chai sữa nhỏ, 3 złoty
+shop/drink_moonshine	Rượu lậu cay xè mắt, 10 złoty
+shop/drink_tea	Trà đặc với lát chanh, 3 złoty
+shop/drink_vodka	Chai vodka cỡ một phần tư, 8 złoty
+shop/food_doughnut	Bánh vòng nhân mứt hoa hồng, 4 złoty
+shop/food_herring	Cá trích muối ngâm dầu, 8 złoty
+shop/food_kebab	Kebab, món khuya kinh điển, 20 złoty
+shop/food_noodles	Mì cốc ăn liền, thêm nước nóng, 4 złoty
+shop/food_pickle	Dưa chuột muối, món đưa vodka chuẩn bài, 3 złoty
+shop/food_pierogi	Bánh pierogi có nhân kiểu bà vẫn làm, 15 złoty
+shop/food_roll	Ổ bánh mì thường, 2 złoty
+shop/food_sausage	Xúc xích nướng kẹp bánh, 10 złoty
+shop/food_sesamering	Bánh vòng mè từ lò, 3 złoty
+shop/food_zapiekanka	Baguette nướng với nấm và phô mai, 12 złoty
+shop/greet_any_1	Cô đang xếp hàng lên kệ sau lưng và vẫn làm tiếp trong lúc phục vụ bạn.
+shop/greet_any_2	Đài sau quầy mở nhỏ; bạn bước vào, cô vặn xuống một nấc.
+shop/greet_any_3	Cô đang đếm đồ vào khay, giơ một ngón tay bảo chờ đến khi khỏi quên số.
+shop/greet_any_4	Cô ngẩng lên, nhìn là đoán được ngày của bạn ra sao nhưng không nói gì.
+shop/greet_day	Hắn gật đầu với bạn như với mọi người rồi chờ.
+shop/greet_known	Hắn nhận ra khách quen, chào rồi hỏi bạn cần gì.
+shop/greet_morning	Cậu sau quầy ngẩng lên. 'Hôm nay sớm thế,' cậu nói, không hẳn là câu hỏi.
+shop/greet_night	Trong đầu hắn đã đóng cửa, nhưng vẫn vẫy bạn vào.
+shop/leave	Bạn để hắn làm việc.
+shop/menu_drinks	Đồ uống
+shop/menu_fags	Thuốc lá, gói mười điếu giá 5 złoty
+shop/menu_food	Thức ăn
+shop/menu_leave	Rời đi với chút phẩm giá còn sót lại
+shop/menu_word	Nói chuyện với cô ấy
+shop/no_money	Bạn đếm złoty hai lần xem chúng có sinh sôi không. Không. Chẳng đủ.
+shop/stored	Bạn mua %1 rồi cất vào túi để dành.
+shop/word_1	Cô kể theo thứ tự những ai đã ghé sáng nay, tức gần như cả khu.
+shop/word_2	Cô bảo hàng giao lại trễ và mình đã thôi mong chờ điều khác.
+shop/word_3	Cô hỏi bạn có ăn uống tử tế không. Cả hai cùng bỏ qua câu trả lời.
+shop/word_4	Cô nói có người hỏi thăm bạn, rồi không chịu tiết lộ ai vì đang khoái chí.
+siostra/soup_run	Bạn chẳng có gì và ai cũng nhìn ra. Cô không làm lớn chuyện. Một ổ bánh mì ấm xuất hiện trong tay; trước khi bạn tìm được lời, cô đã sang người tiếp theo. Buổi phát đồ ăn là thế. Không lên lớp, không điều kiện.
+sit/alone_1	Bạn ngồi xuống cho đôi chân ngừng cãi cọ một lúc. Quanh đây chẳng có ai đáng để hỏi xin.
+sit/alone_2	Bạn trút sức nặng khỏi chân. Đường vắng, túi cũng tiếp tục trống.
+sit/alone_3	Ngồi xuống giúp bạn khá hơn. Nhưng quanh đây không có ai nên chẳng có thêm điều tốt nào khác.
+sit/company_1	Bạn ngồi xuống quan sát. Quanh đây có %1 người. Muốn tiền thì phải tới hỏi một trong số họ.
+sit/company_2	Bạn cho chân nghỉ. Có %1 người trong tầm gọi, dù la hét hiếm khi giúp ích.
+sit/company_3	Một phút rời đôi chân. Gần đây có %1 người; chọn lời khéo thì ai cũng có thể cho vài złoty.
+sit/sobered	Ngồi yên một lúc có ích. Giờ bạn đứng vững hơn trước.
+sleep/ask	Ngủ qua đêm không?
+sleep/ask_bed	Chiếc giường của riêng bạn, tạm gọi là thế. Một tấm nệm, chiếc chăn từng chứng kiến nhiều chuyện và cánh cửa khóa được.
+sleep/ask_rough	Ở đây không có giường. Bạn sẽ ngủ bụi ngoài trời cùng mọi thứ đang mang.
+sleep/bottles_gone	Bạn tỉnh dậy với hai tay trắng. Cả %1 chai đã mất; kẻ lấy chúng ra tay rất êm.
+sleep/changed_mind	Bạn quyết định đêm nay vẫn chưa xong với mình.
+sleep/drunk	Bạn không hẳn chìm vào giấc ngủ; chỉ đơn giản ngừng tỉnh.
+sleep/hungry	Bạn nằm xuống với bụng rỗng, và nó nằm đó cùng bạn suốt đêm.
+sleep/moved_on	Không rõ mấy giờ, đèn pin rọi thẳng mặt cùng giọng nói bắt đi chỗ khác. Bạn đi.
+sleep/no	Không, đêm vẫn còn dài
+sleep/own_bed	Bạn tháo được ủng, đã hơn nhiều đêm khác, rồi thiếp đi trước khi nghĩ hết câu.
+sleep/pockets_gone	Lúc bạn ngủ, ai đó đã lục túi. Nhẹ đi %1 złoty mà chẳng biết hỏi ai.
+sleep/rough_1	Bạn tìm góc khuất gió, nhét mọi thứ xuống dưới người và ngủ kiểu ngoài đường: từng mảnh vụn.
+sleep/rough_2	Mặt đất từ từ rút hơi ấm. Bạn thức trong phần lớn thời gian và ngủ qua phần tệ nhất.
+sleep/rough_3	Bạn ngủ được vài giờ. Có người đi qua hai lần nhưng không dừng, thế đã là điều tốt nhất có thể mong ở họ.
+sleep/yes	Có, ngủ thôi
+smoke/already_1	Bạn đang hút một điếu rồi, đồ điên. Hút hết điếu đó trước.
+smoke/already_2	Ngay lúc này tay bạn đang cầm điếu đã châm. Mỗi lần một điếu thôi, kể cả với bạn.
+smoke/cough_1	Bạn ho. Rồi ho thật sự từ đâu đó gần đôi ủng. Một con bồ câu ghê tởm bỏ đi.
+smoke/cough_2	Cơn ho trồi lên từ tầng hầm lồng ngực, kéo theo cả họ hàng. Bạn xua đi như vấn đề của người khác.
+smoke/died_trying	Tách. Tách. Hơi gas cuối cùng thoát ra, đá lửa đầu hàng. Bật lửa chết khi điếu thuốc đã ngậm trên môi. Thật nên thơ.
+smoke/finished_1	Bạn rít hơi cuối, búng đi rồi nhìn nó tắt trong rãnh nước.
+smoke/finished_2	Điếu thuốc cháy sát ngón tay. Bạn thả xuống, giẫm lên và thấy mãn nguyện.
+smoke/finished_3	Thế là xong một điếu. Bạn búng mẩu lọc ra đường điệu nghệ hơn khoảnh khắc này xứng đáng.
+smoke/head_rush	Điếu đầu tiên trong ngày. Đầu lâng lâng tuyệt diệu, bạn phải thủ thỉ đôi lời với cột đèn.
+smoke/light_1	Bạn rít một hơi dài như người đang thưởng thức quyết định sáng suốt duy nhất cả tuần. Còn %1 điếu.
+smoke/light_2	Đầu thuốc đỏ lên, khói cuộn lại; trong bốn giây bạn là triết gia chứ không phải gã ngồi lề đường. Còn %1 điếu.
+smoke/light_3	Bạn thổi vòng khói. Một vòng khói tệ hại. Dù vậy bạn vẫn khoái chí. Còn %1 điếu.
+smoke/no_light_1	Thuốc trên môi, bật lửa trong tay, giữa hai thứ tuyệt nhiên chẳng có gì xảy ra. Bạn đứng bấm tách tách như chiếc đồng hồ hỏng.
+smoke/no_light_2	Tách. Tách. Tách. Bật lửa đã chết, điếu thuốc đang phán xét bạn.
+smoke/none_1	Bạn vỗ túi. Không có. Vỗ mạnh lần nữa như thể cách ấy từng có tác dụng.
+smoke/none_2	Chẳng còn điếu nào. Bạn kiểm tra gói hai lần rồi lắc, như người chờ phép màu.
+smoke/took_a_few	Mất chừng bốn lần thử và một ít phẩm giá.
+snitch/called_out_1	Hắn định nói rồi nhớ ra, cả nét mặt đổi hẳn. 'Hay nói chuyện với cớm lắm nhỉ.' Hắn bỏ đi trước khi bạn đáp, cũng phải thôi.
+snitch/called_out_2	'Được,' hắn nói. Rồi: 'Không, thật ra chẳng được.' Bạn biết mình đã làm gì. Ai cũng biết.
+snitch/called_out_3	Hắn đặt hai ngón lên môi, chậm rãi giả động tác kéo khóa miệng, mắt nhìn thẳng bạn. Rồi hắn cười, một tiếng cười chẳng dễ chịu.
+stand/ask	Bạn mua gì ở quầy?
+stand/comment_1	Hắn đẩy món ăn vẫn xèo mỡ sang và dặn coi chừng ngón tay.
+stand/comment_2	Hắn hét đơn hàng vào hư không theo kiểu dân bán quầy rồi bắt tay làm.
+stand/comment_3	Hắn bảo đây là món ngon nhất cả rynek, câu nói với mọi khách, mà có khi đúng thật.
+stand/greet_any_1	Hắn dùng mép xẻng cạo mặt bếp, làm xong mới ngẩng lên.
+stand/greet_any_2	Bạn vừa đến thì hành được cho lên bếp; hoặc đúng lúc, hoặc kiểu gì mùi ấy cũng kéo bạn tới.
+stand/greet_any_3	Hắn đang cãi điện thoại về chuyến giao hàng, vẫn vẫy bạn lại gần mà không ngừng nói.
+stand/greet_any_4	Hàng chờ có đúng một người và người ấy đang đi, hắn quay sang bạn với chiếc kẹp đã giơ sẵn.
+stand/greet_day	Người bán lau tay vào tạp dề rồi gật gọi bạn tới. Mặt bếp xèo xèo.
+stand/greet_known	Bạn chưa mở miệng mà hắn đã làm nửa đơn. Bạn tới đủ thường xuyên để hắn khỏi hỏi.
+stand/greet_late	Giờ này hắn vẫn bán vì người say cũng phải ăn, và hắn hiểu điều đó.
+stand/leave	Bạn lùi khỏi quầy nhường khách tiếp theo.
+stand/menu_drinks	Đồ uống nóng
+stand/menu_food	Đồ ăn nóng
+stand/menu_word	Nói chuyện với hắn
+stand/word_1	Hắn bảo bí quyết là không bao giờ để mặt bếp nguội, dù một lần trong cả ngày. Bạn nghi hắn từng nói câu này.
+stand/word_2	Hắn đều giọng hỏi dạo này thế nào, kiểu người hỏi mọi khách mà vẫn thật lòng.
+stand/word_3	Hắn dài dòng than giá mọi thứ trong lúc làm ba việc một lúc.
+stand/word_4	Hắn hất đầu ra phố, bảo ngày trước đông hơn rồi nhún vai như đã chấp nhận.
+station/desk_menu	Bạn cần gì ở quầy?
+station/fines_nomoney	Bạn không đủ tiền. Nhân viên lạnh nhạt đề nghị quay lại khi có đủ.
+station/fines_owed	Bạn nợ %1 złoty từ %2 biên bản.
+station/fines_paid	Bạn trả hết. Nhân viên đóng dấu hai lần rồi mất sạch hứng thú với bạn; ở đây đó là kết quả tốt nhất.
+station/give_info	Cung cấp thông tin
+station/info_given	Bạn kể điều mình biết. Với họ tin ấy đáng %1 złoty, với bạn còn đáng hơn; trên đường ra bạn không nhìn ai.
+station/info_none	Bạn chẳng có thứ họ cần, họ nhìn là biết.
+station/info_refused	Bạn tới được quầy nhưng không làm nổi. Thay vào đó bạn hỏi giờ xe buýt. Nhân viên nhìn chằm chằm.
+station/leave	Rời quầy
+station/lost_property	Hỏi về tài sản bị tịch thu
+station/no_fines	Bạn không còn biên bản chưa trả, khiến tất cả kể cả bạn đều ngạc nhiên.
+station/pay_fines	Thanh toán các khoản phạt còn nợ
+station/property_back	Sau hai mươi phút và hai tờ đơn, bạn lấy lại được một phần: %1 món. Họ giữ số còn lại, không tranh cãi được.
+station/property_none	Hôm nay trong túi không có đồ nào của bạn.
+status/booze_shakes	Tay bạn run thật sự. Một ngụm nhỏ sẽ chữa được, mà chính đó mới là vấn đề.
+status/booze_withdrawal	Bạn cần rượu và cơ thể đang chính thức khiếu nại vì chưa được uống.
+status/cans	Bạn đang kéo theo %1 chai, leng keng như một thằng ngốc.
+status/cash_only	Bạn có %1 złoty.
+status/craving_bad	Bạn bồn chồn như mèo ướt. Mùi của mỗi người hút thuốc đi qua đều như một lời xúc phạm riêng.
+status/craving_mild	Bạn thèm thuốc đến phát điên.
+status/drunk1	Bạn lâng lâng dễ chịu. Các góc cạnh của thế giới mềm đi.
+status/drunk2	Bạn say vui. Ai cũng là bạn, đến bồ câu cũng trông thân thiện.
+status/drunk3	Bạn say bí tỉ, đang giải thích chuyện quan trọng cho thùng rác.
+status/drunk4	Bạn gần như không đứng nổi. Vỉa hè cứ nghiêng, đôi chân phải thương lượng với nó.
+status/fag_withdrawal	Bạn vật vã vì thèm thuốc. Hai tay chẳng biết phải làm gì.
+status/heat_bad	Họ biết mặt và đang tìm bạn. Cứ thế này, bạn sẽ qua đêm trong buồng giam.
+status/heat_mild	Bạn đang bị chú ý. Hôm nay hai người đã nhận ra và chẳng ai quên.
+status/heat_slight	Lúc nãy một tay cớm liếc bạn, và bạn đã để ý.
+status/hp_bad	Tình trạng rất tệ, bạn gần như không đứng nổi.
+status/hp_mild	Bạn mình mẩy bầm dập.
+status/hunger_bad	Bạn đói đến mức sẵn sàng đánh nhau với bồ câu mà chưa chắc thắng.
+status/hunger_mild	Cái bụng bắt đầu lên tiếng.
+status/line_day	Ngày %1.
+status/line_energy	Thể lực %1 trên 100. %2
+status/line_hp	Sức khỏe %1 trên 100.
+status/line_money	Tiền: %1 złoty. Vỏ chai: %2.
+status/line_respect	Uy tín đường phố %1. Thiện cảm cộng đồng %2.
+status/line_where	Bạn đang ở %1. Bây giờ là %2.
+status/line_who	Bạn là %1.
+status/panel_title	Trạng thái. Dùng phím lên xuống để nghe từng chỉ số. Nhấn S hoặc Escape để đóng.
+status/quit	Thoát về trình đơn chính
+status/respect	Uy tín đường phố %1. Thiện cảm cộng đồng %2.
+status/resume	Chơi tiếp
+status/save	Lưu game
+status/time_money	Bây giờ là %1. Gia tài lẫy lừng của bạn có %2 złoty.
+status/tired_bad	Bạn đang sống bằng hơi tàn và sự cay cú.
+status/tired_mild	Bạn mệt rã rời.
+stumble/dropped	Một chai lăn xuống rãnh. Mất rồi.
+stumble/msg_1	Bạn chao sang bên rồi đổ như bao khoai. Ôi da. Cú đó đau thật.
+stumble/msg_2	Đôi chân họp bỏ phiếu chớp nhoáng, mất tín nhiệm rồi đặt bạn xuống vỉa hè.
+stumble/msg_3	Bạn vấp bậc thang vô hình vốn không tồn tại và ngã đau xuống hông.
+stumble/msg_4	Một giây còn đứng, giây sau đã soi mép đường thật kỹ từ khoảng cách hai phân.
+stumble/msg_5	Bạn chậm rãi đổ xuống đầy phẩm giá như cái cây bị đốn đã uống vài ly.
+test/already	Một lượt kiểm tra đang chạy. Hãy chờ nó hoàn tất.
+test/back	Quay lại
+test/cancel_ask	Dừng lượt kiểm tra không?
+test/cancel_no	Không, tiếp tục
+test/cancel_yes	Có, dừng lại
+test/cancelled	Đang dừng. Kết quả đã làm vẫn được ghi vào nhật ký.
+test/carry_on	Đang tiếp tục.
+test/days	Số ngày mỗi người chơi thử sống: %1
+test/days_1	Mỗi người một ngày. Nhanh nhất.
+test/days_10	Mỗi người mười ngày. Một chặng dài và phải chờ lâu.
+test/days_2	Mỗi người hai ngày.
+test/days_3	Mỗi người ba ngày.
+test/days_5	Mỗi người năm ngày. Đủ lâu để tình bạn và thói quen xuất hiện.
+test/days_ask	Mỗi người chơi thử nên sống bao nhiêu ngày? Nhiều ngày tìm được nhiều lỗi hơn nhưng lâu hơn.
+test/days_set	Mỗi người chơi thử sẽ sống %1 ngày.
+test/full	Kiểm tra đầy đủ. Gồm mọi mục trên và năm người chơi thử sống vài ngày. Mất một hai phút.
+test/last	Đọc lại kết quả gần nhất
+test/long	Kiểm tra sâu. Vẫn năm người đó nhưng chơi lâu và khắc nghiệt hơn. Mất vài phút.
+test/none_yet	Lần này chưa chạy gì. Các lượt cũ vẫn nằm trong file test history dot txt.
+test/noticed	Robot phát hiện: %1
+test/quick	Kiểm tra nhanh. Chỉ kiểm tra quy tắc và câu chữ, không chạy người chơi thử. Khoảng nửa phút.
+test/saved_to_log	Tất cả được ghi vào test history dot txt trong thư mục game. File tích lũy qua thời gian nên chỉ cần gửi một file đó.
+test/sound	Chỉ âm thanh. Kiểm tra mọi file âm thanh, nhạc và khả năng nghe thấy nhân vật. Chỉ mất vài giây.
+test/starting	Đang chạy. Quá trình sẽ khá ồn, không đụng tới file lưu hay cài đặt. Hãy chờ tiếng chuông.
+test/summary	Đã chạy %1 kiểm tra, %2 mục thất bại. Nhấn mũi tên xuống để nghe chi tiết.
+test/title	Kiểm thử
+track/arrived	Bạn đã tới %1.
+track/beside	%1 đang ngay bên cạnh. Nhấn Enter để nói chuyện.
+track/dir	%2, cách %3 bước.
+track/none	Bạn chưa theo dõi gì. Nhấn T để chọn một nơi.
+track/set	Đang theo dõi %1. Tiếng bíp sẽ dẫn bạn tới đó.
+track/title	Theo dõi gì? Dùng phím lên xuống để chọn, Enter để đặt, Escape để hủy.
+travel/at_exit	Bạn đang ở rìa khu vực. Đây là lối ra tới %1. Nhấn Shift rồi Enter để đi.
+travel/exit_to	Lối ra tới %1
+travel/not_exit	Ở đây không có lối ra. Hãy đi tới rìa khu vực để tìm.
+trolley/tier0	chỉ hai cánh tay và vài cái túi sâu
+trolley/tier1	chiếc xe mua hàng nát với một bánh xiêu vẹo
+trolley/tier2	chiếc xe tử tế, đủ bốn bánh đều quay
+trolley/tier3	bộ xe chuyên nghiệp có két sữa buộc dây ở phía trước
+turnin/none	Bạn chẳng có chai nào, đồ lạc quan. Đi tìm trước đã.
+turnin/result_1	Máy nuốt %1 chai bằng chuỗi tiếng cạch thỏa mãn rồi trả %2 złoty.
+turnin/result_2	Bạn đưa từng chai trong số %1 chai vào. Cạch. Cạch. Cạch. Máy nhả ra %2 złoty.
+turnin/result_3	Vào %1 chai, ra %2 złoty. Tỷ giá tuyệt nhất loài người từng biết.
+update/ask	Bạn muốn tải ngay không?
+update/check_now	Kiểm tra phiên bản mới
+update/done	Đã cài đặt. Nhấn Enter để game tự khởi động lại bằng phiên bản mới. Bạn không cần làm gì thêm.
+update/failed	Không thể hoàn tất cập nhật nên chưa có gì thay đổi và game vẫn hoạt động. Lý do: %1
+update/looking	Đang kiểm tra.
+update/no	Không, chưa cập nhật
+update/no_answer	Không kết nối được máy chủ cập nhật. Có thể bạn đang ngoại tuyến hoặc máy chủ tạm thời gặp sự cố. Game vẫn ổn; hãy thử lại sau.
+update/partly_done	Phần lớn đã được cài, nhưng không tải riêng được %1 file. Game vẫn chạy nhưng chưa đầy đủ. Hãy tải lại game từ trang phát hành rồi giải nén đè lên; file lưu nằm nơi khác nên không bị ảnh hưởng.
+update/reinstall_needed	Có nội dung mới nhưng không thể tải riêng %1 file. Hãy tải lại game từ trang phát hành rồi giải nén đè lên; file lưu nằm nơi khác nên không bị ảnh hưởng.
+update/there_is_news	Đã có phiên bản mới. Nhấn Enter để nghe nội dung thay đổi.
+update/up_to_date	Bạn đang dùng phiên bản mới nhất. Không có gì cần tải.
+update/working	Đang tải file %1 trên %2.
+update/yes	Có, cập nhật ngay
+wash/result_1	Bạn quệt được vài kính trước khi đèn đổi, và một tài xế thật sự trả tiền. %1 złoty.
+wash/result_2	Cây gạt, sức tay và nụ cười dành cho người chẳng yêu cầu gì. Hắn đưa %1 złoty để bạn đi chỗ khác.
+wash/result_3	Bạn thật sự lau sạch chiếc kính bẩn. Tài xế ngạc nhiên rồi đưa %1 złoty.
+whatsnew/intro	Những thay đổi gần đây. Dùng phím mũi tên lên xuống để duyệt; nhấn Enter hoặc Escape khi đọc xong.
+whatsnew/missing	Không tìm thấy ghi chú thay đổi trong thư mục game. Nếu đã xóa, hãy tải lại game để khôi phục.
+whatsnew/title	Có gì mới
+tred/title	Bản dịch: câu chữ của game bằng ngôn ngữ khác
+tred/which_language	Ngôn ngữ
+tred/new_language	Bắt đầu ngôn ngữ mới
+tred/name_it	Tên ngôn ngữ là gì? Một từ, chữ không dấu, như polish hoặc german.
+tred/bad_name	Chỉ dùng chữ cái không dấu. Tên này sẽ trở thành tên file.
+tred/working_on	Đang dịch sang %1. Bạn muốn làm phần nào?
+tred/the_game	Văn bản của game
+tred/a_map	Văn bản trong một bản đồ
+tred/which_map	Bản đồ
+tred/map_empty	Bản đồ này chưa có nội dung chữ.
+tred/no_english	Thiếu file tiếng Anh nên không có nội dung nguồn.
+tred/opened	%1. Có %2 dòng, đã xong %3. Dùng phím lên xuống để duyệt, Enter để sửa.
+tred/line	Dòng %1 trên %2. Nội dung: %3.
+tred/current	Bản hiện tại: %1.
+tred/not_done	Dòng này chưa được dịch.
+tred/progress	Đã xong %1 trên %2.
+tred/type_it	Sửa dòng này
+tred/prompt	Bạn sẽ diễn đạt thế nào? Nội dung gốc: %1
+tred/next_undone	Tới dòng chưa dịch tiếp theo
+tred/hear_again	Nghe lại
+tred/jumped	Đã tới.
+tred/all_done	Đã hết. Mọi dòng đều có nội dung.
+tred/save_now	Lưu
+tred/saved	Đã lưu.
+tred/nothing_changed	Không có thay đổi kể từ lần lưu trước.
+tred/unsaved	Có thay đổi chưa lưu.
+tred/save_and_go	Lưu rồi rời đi
+tred/lose_it	Rời đi mà không lưu
+tred/leave	Quay lại
+tred/cannot_write	Không thể ghi %1. Chưa thay đổi gì.
+tred/write_short	File đọc lại ngắn hơn lúc ghi nên chưa thay đổi gì.
+tred/write_wrong	File đọc lại không giống lúc ghi nên chưa thay đổi gì.
+tred/search	Tìm kiếm
+tred/search_prompt	Bạn tìm gì? Công cụ sẽ tìm trong tiếng Anh, nội dung đã viết và tên dòng.
+tred/no_hits	Không có kết quả khớp %1.
+tred/hits	%1 khớp với %2. Chọn một kết quả để tới đó.
+opt/lang_title	Ngôn ngữ. Dùng phím lên xuống để nghe, Enter để chọn.
+bld/title	Trình xây dựng
+bld/title_idle	Trình xây dựng. Chưa chọn gì.
+bld/title_working	Trình xây dựng. Đang sửa %1, viết bằng %2.
+bld/make_area	Tạo bản đồ mới
+bld/work_on	Sửa bản đồ %1
+bld/work_on_another	Chọn bản đồ khác
+bld/leave	Quay lại
+bld/cancel	Hủy
+bld/which_language	Bạn đang viết bằng ngôn ngữ nào? Có thể thêm ngôn ngữ khác sau bằng trình biên tập bản dịch.
+bld/new_id	Tên file ngắn, chỉ dùng chữ thường, chẳng hạn cmentarz hoặc docks.
+bld/bad_id	Chỉ dùng chữ cái không dấu, số và dấu gạch dưới. Tên này sẽ thành một phần của file.
+bld/already	Đã có khu vực tên %1.
+bld/new_name	Tên gọi bằng lời là gì? Người chơi sẽ nghe tên này khi đến nơi.
+bld/how_wide	Chiều rộng bao nhiêu bước? Khu vực có sẵn rộng từ mười hai đến ba mươi bốn.
+bld/how_tall	Chiều sâu bao nhiêu bước?
+bld/what_underfoot	Phần lớn mặt đất là gì? Sau này có thể thêm từng mảng bề mặt khác.
+bld/made_it	Đã tạo %1, kích thước %2 bước. Bạn đang đứng bên trong.
+bld/where	Vị trí
+bld/here_at	Dùng vị trí hiện tại, %1
+bld/type_coords	Nhập tọa độ
+bld/which_x	Cách mép ngang bao xa? Không là mép trái.
+bld/which_y	Cách mép dưới bao xa? Không là mép dưới cùng.
+bld/what_kind	Loại địa điểm. Mục này quyết định tác dụng của Enter tại đó.
+bld/kind_sit	Chỗ ngồi nghỉ
+bld/kind_sleep	Chỗ ngủ qua đêm
+bld/kind_gather	Thùng rác đáng bới tìm chai
+bld/kind_turnin	Máy trả tiền vỏ chai
+bld/kind_shop	Cửa hàng bán đồ ăn thức uống
+bld/kind_bar	Quán rượu
+bld/kind_stand	Quầy thức ăn
+bld/kind_wash	Chỗ lau kính xe
+bld/kind_oddjob	Chỗ nhận việc lặt vặt
+bld/kind_garage	Chỗ nâng cấp xe đẩy
+bld/kind_desk	Quầy cảnh sát
+bld/kind_cell	Buồng giam có thể nhìn vào
+bld/place_id	Tên ngắn chỉ dùng chữ thường, chẳng hạn lawka hoặc brama.
+bld/place_name	Tên địa điểm bằng %1 là gì? Người chơi sẽ nghe khi bước tới.
+bld/place_look	Mô tả địa điểm bằng %1 thế nào? Một hoặc hai câu.
+bld/needs_a_name	Địa điểm cần có tên. Chưa thêm gì.
+bld/added_place	Đã thêm %1 tại %2.
+bld/go_there	Đi tới bản đồ này
+bld/check_it	Kiểm tra lỗi trên bản đồ
+bld/checking_on	Kiểm tra trong lúc xây dựng: bật
+bld/checking_off	Kiểm tra trong lúc xây dựng: tắt
+bld/checking_now_on	Tôi sẽ báo lỗi ngay khi bạn tạo ra.
+bld/checking_now_off	Tôi sẽ im lặng đến khi bạn yêu cầu kiểm tra.
+bld/all_well	Tôi không thấy vấn đề gì.
+bld/things_to_fix	Có %1 mục đáng xem lại. Dùng phím mũi tên để duyệt.
+bld/off_the_map	%1 nằm tại %2, bên ngoài khu vực.
+bld/no_way_out	Chưa có lối vào hay lối ra. Hiện không ai tới được.
+bld/nothing_in_it	Bên trong chưa có gì.
+bld/copy_raw	Sao chép dữ liệu thô của bản đồ vào bảng tạm
+bld/copied	Đã sao chép. Hãy dán vào nơi bạn muốn.
+bld/copy_failed	Rất tiếc, không truy cập được bảng tạm.
+bld/cannot_write	Không thể lưu %1. Chưa thay đổi gì.
+bld/write_wrong	Dữ liệu đọc lại không giống dữ liệu đã ghi nên chưa thay đổi gì.
+bld/lost_the_map	Không còn tìm thấy bản đồ đó.
+bld/intro_1	Đây là trình xây dựng. Nó tạo bản đồ, nhân vật chơi được và các thông số của game, rồi ghi tất cả vào file văn bản mà game đọc. Bạn không cần biết về file. Nhấn Enter để nghe tiếp.
+bld/intro_2	Bản đồ được xây bằng cách đi lại. Đứng tại nơi muốn đặt ghế, thùng rác hoặc cửa hàng rồi yêu cầu đặt ở đó. Vị trí được lấy từ chỗ bạn đang đứng nên không cần tính tọa độ, dù vẫn có thể tự nhập.
+bld/intro_3	Mọi thứ bạn tạo sẽ vào phiên bản đang chọn ở trình đơn chính. Nếu là mod riêng, tất cả nằm trong một thư mục có thể nén và gửi cho người khác. Nếu sửa thị trấn đi kèm game, bản cập nhật sẽ khôi phục bản gốc.
+bld/intro_4	Nhấn Shift+B ở bất cứ đâu trong game để mở lại đây. Bạn sẽ không nghe hướng dẫn này lần nữa, nhưng trong trình xây dựng có tùy chọn nghe lại. Mọi thứ được lưu trong lúc làm.
+bld/ours_warning	%1 đi kèm game. Bạn có thể sửa bản sao của mình, nhưng khi cập nhật, game sẽ khôi phục bản gốc và phần đã sửa sẽ mất. Khu vực bạn tự tạo thì không bị đụng tới. Tiếp tục không?
+bld/ours_go_on	Tôi hiểu, vẫn cho phép sửa
+bld/ours_no	Để nguyên
+howto/sec_build	Xây dựng khu vực
+howto/build_1	Bạn có thể tự xây khu vực để chúng trở thành một phần của game. Nhấn Shift+B ở bất cứ đâu để mở trình xây dựng; nên nhớ điều này trước khi cần tới.
+howto/build_2	Khu vực là một mảnh đất có các thứ bên trong. Nó có kích thước, lối vào, bề mặt dưới chân và mọi thứ bạn đặt thêm. Nội dung được lưu liên tục vào file văn bản; bạn không bao giờ phải tự mở file ấy.
+howto/build_3	Bạn xây bằng cách đi lại. Đứng nơi muốn có ghế rồi yêu cầu đặt ghế. Vị trí lấy từ chỗ đang đứng nên không cần tính số, nhưng vẫn có thể tự nhập nếu muốn.
+howto/build_4	Có sáu loại có thể thêm. Địa điểm là thứ nhấn Enter để tương tác: ghế, thùng rác, cửa hàng hay chỗ ngủ. Người là nhân vật đứng đó để trò chuyện. Vùng mô tả là cảnh vật được nghe khi đi qua. Bề mặt đất thay đổi tiếng bước chân. Nguồn âm phát tiếng tại một điểm cố định. Lối ra dẫn tới nơi khác.
+howto/build_5	Khi đặt người lên bản đồ, bạn chọn một nhân vật trong game và giờ họ có mặt. Có thể để cả ngày hoặc đặt giờ đến và đi, khiến thị trấn có sức sống thay vì như sân khấu. Đặt cùng người lần hai sẽ di chuyển họ chứ không tạo bản sao.
+howto/build_6	Khi đặt cửa hàng, quán rượu hay quầy thức ăn, game hỏi ai đứng quầy. Có thể chọn bất kỳ người nào hoặc để mặc định. Nếu chọn người cụ thể, game còn hỏi có đóng cửa khi họ vắng mặt không; nhờ đó bạn tạo được cửa hàng đóng lúc mười giờ và buộc người chơi tính lịch buổi tối.
+howto/build_7	Với thứ phủ một vùng đất như vùng mô tả hoặc mảng bề mặt, hãy đi tới một góc và nhấn Enter rồi tới góc đối diện. Hoặc tự nhập bốn rìa nếu đã biết tọa độ.
+howto/sec_translate	Dịch game
+howto/translate_1	Game có thể dùng bất kỳ ngôn ngữ nào có người chịu viết, và có sẵn công cụ để làm việc đó. Công cụ mang tên Bản dịch, nằm trong Tùy chọn và cả trình xây dựng.
+howto/translate_2	Công cụ lần lượt hiện mọi câu game có thể nói. Với mỗi dòng, bạn nghe tiếng Anh cùng bản đã viết hoặc thông báo chưa ai dịch, kèm số dòng đã xong. Nhấn Enter tại một dòng để nhập bản của bạn.
+howto/translate_3	Có tùy chọn nhảy thẳng tới dòng chưa ai dịch tiếp theo, giúp làm lần lượt thay vì phải dùng phím mũi tên lướt qua hàng nghìn dòng đã xong.
+howto/translate_4	Bạn cũng có thể tìm trong tiếng Anh, nội dung tự viết và tên dòng, nhờ đó xem cách mình từng dịch để giữ nhất quán. Công cụ bỏ qua dấu nên không cần đúng bố cục bàn phím để tìm.
+howto/translate_5	Công cụ dịch được cả game lẫn một khu vực riêng, nên có thể thêm ngôn ngữ cho một nơi mà không đụng phần khác. Chiều nào cũng được: khu vực viết bằng tiếng Ba Lan vẫn có thể thêm tiếng Anh dễ dàng.
+howto/translate_6	Không ngôn ngữ nào là bản gốc độc tôn. Tiếng Anh và Ba Lan đứng ngang hàng, ngôn ngữ bạn thêm cũng vậy. Dòng chưa dịch sẽ phát tiếng Anh thay vì im lặng, nên bản dịch dở dang vẫn chơi được.
+howto/translate_7	Để bắt đầu ngôn ngữ mới, chọn Bắt đầu ngôn ngữ mới và đặt tên một từ không dấu như german. Nội dung lưu vào file mang tên ấy, rồi ngôn ngữ xuất hiện trong Tùy chọn như các ngôn ngữ khác.
+bld/add_zone	Thêm vùng mô tả
+bld/add_terrain	Thêm bề mặt đất
+bld/add_sound	Thêm nguồn âm thanh
+bld/add_exit	Thêm lối ra
+bld/whats_in_it	Nội dung bản đồ: sửa hoặc xóa
+bld/how_big	Phạm vi bao phủ
+bld/walk_corners	Đi tới từng góc
+bld/type_range	Nhập các rìa
+bld/whole_area	Toàn bộ bản đồ
+bld/stand_first_corner	Đi tới một góc rồi nhấn Enter. Escape để hủy.
+bld/first_corner_at	Một góc tại %1. Giờ tới góc đối diện.
+bld/stand_other_corner	Đi tới góc đối diện rồi nhấn Enter.
+bld/gave_up	Đã giữ nguyên.
+bld/least_x	Rìa trái. Không là ngoài cùng bên trái.
+bld/most_x	Rìa phải.
+bld/least_y	Rìa dưới. Không là dưới cùng.
+bld/most_y	Rìa trên.
+bld/zone_words	Khi đi qua, người chơi sẽ nghe gì bằng %1? Đây là cảnh vật, không phải thứ nhấn Enter để tương tác.
+bld/needs_words	Cần có nội dung mô tả. Chưa thêm gì.
+bld/added_zone	Đã thêm. Đi qua vùng này sẽ nghe thấy.
+bld/what_surface	Bề mặt đất
+bld/added_terrain	Xong. Giờ nơi đó là %1.
+bld/which_sound	Âm thanh. Chọn từ danh sách nên tên không thể sai.
+bld/no_sounds	Không có âm thanh môi trường để chọn.
+bld/when_heard	Giờ phát âm thanh
+bld/all_day	Mọi thời điểm
+bld/certain_hours	Trong khoảng giờ nhất định
+bld/from_hour	Từ giờ nào? Không là nửa đêm, mười ba là một giờ chiều.
+bld/to_hour	Đến giờ nào?
+bld/added_sound	Đã thêm %1 tại %2.
+bld/where_to	Điểm đến
+bld/nowhere_to_go	Chưa có nơi nào khác để đi.
+bld/way_back_too	Có thêm lối quay về từ %1 không? Nếu không, người ta vào được nhưng không ra được.
+bld/and_back	Thêm cả lối quay về
+bld/one_way	Chỉ một chiều
+bld/added_exit_both	Xong. Đã có lối đi và lối về, đến tại %2 trong %1.
+bld/added_exit_oneway	Xong. Có lối ra nhưng chưa có đường quay lại.
+bld/in_it	Nội dung bản đồ: %1 mục. Nhấn Enter để sửa hoặc xóa.
+bld/is_a_place	%1, loại %2, tại %3
+bld/is_a_zone	Nội dung nghe thấy: %1, trong %2
+bld/is_terrain	Mặt đất %1, trong %2
+bld/is_a_sound	Âm thanh %1, tại %2
+bld/is_a_way_out	Lối ra tới %1
+bld/go_to_it	Đi tới đó
+bld/remove_it	Xóa mục này khỏi bản đồ
+bld/really_remove	Xóa %1? Không thể hoàn tác.
+bld/yes_remove	Xóa
+bld/removed	Đã xóa.
+bld/standing_at	Bạn đang ở %1, nơi có %2.
+bld/no_single_spot	Mục này phủ một vùng đất thay vì một điểm.
+cwz/part_0	Cô ấy tên gì? Chỉ ghi tên như người ta thường gọi.
+cwz/part_1	Cô ấy là ai? Một câu giới thiệu được đọc khi chọn nhân vật.
+cwz/part_2	Điểm riêng của cô ấy là gì? Thói quen hoặc tính cách khiến cô nổi bật.
+cwz/part_3	Câu chuyện, phần một. Vì sao cô ấy ra sống trên con phố này.
+cwz/part_4	Câu chuyện, phần hai.
+cwz/part_5	Câu chuyện, phần ba.
+cwz/part_6	Câu chuyện, phần bốn và cũng là phần cuối.
+cwz/part_7	Khi không có chuyện gì, cô ấy lẩm bẩm gì?
+cwz/part_8	Thêm một câu lẩm bẩm để không lần nào cũng giống nhau.
+cwz/part_9	Một câu ấm áp cô ấy nói với người mình quý.
+cwz/part_10	Một câu ấm áp khác, diễn đạt theo cách khác.
+cwz/part_11	Một câu sắc lạnh khi cô ấy đã hết chịu nổi ai đó.
+cwz/part_12	Khi khiêm nhường, cô ấy xin tiền thế nào?
+cwz/part_13	Khi pha trò, cô ấy xin thế nào?
+cwz/part_14	Khi nói thẳng, cô ấy xin thế nào?
+cwz/part_15	Khi ra sức kể khổ, cô ấy xin thế nào?
+cwz/part_16	Khi đang say và mọi chuyện tệ đi, cô ấy xin thế nào?
+cwz/part_17	Tỉnh dậy trong buồng giam, thứ đầu tiên cô ấy phát hiện đã mất là gì?
+cwz/part_18	Thứ thứ hai đã mất.
+cwz/part_19	Thứ thứ ba.
+cwz/part_20	Cô ấy nói gì khi dùng lời lẽ thoát khỏi một lần cảnh sát chặn hỏi?
+cwz/part_21	Một cách nói khác để thoát thân.
+cwz/title	Nhân vật chơi được
+cwz/from_scratch	Tạo nhân vật hoàn toàn mới
+cwz/based_on	Tạo dựa trên nhân vật có sẵn
+cwz/carry_on	Hoàn thiện nhân vật đang làm dở
+cwz/leave	Quay lại
+cwz/none_started	Bạn chưa bắt đầu tạo nhân vật nào.
+cwz/which_one	Nhân vật
+cwz/finished	%1, đã hoàn tất
+cwz/unfinished	%1, còn %2 dòng
+cwz/their_id	Tên file ngắn chỉ dùng chữ không dấu, chẳng hạn zulica hoặc wanda.
+cwz/bad_id	Chỉ dùng chữ cái không dấu, số và dấu gạch dưới. Tên này sẽ thành một phần của file.
+cwz/already	Đã có người tên %1.
+cwz/who_like	Nhân vật cơ sở. Nội dung bạn không tự viết sẽ lấy từ nhân vật này.
+cwz/how_known	Mức độ nổi tiếng ngoài phố, trên thang một trăm? Các nhân vật khác nằm từ hai mươi đến bảy mươi.
+cwz/how_thought_of	Mức thiện cảm của cả khu, trên thang một trăm?
+cwz/started	Đã bắt đầu %1. Giờ hãy viết lời thoại; bạn có thể dừng và quay lại bất cứ lúc nào.
+cwz/line_is	%1 %2
+cwz/not_written	Chưa viết.
+cwz/borrowed	Tạm mượn: %1
+cwz/all_done	%1 đã hoàn tất. Bạn muốn thay đổi gì không?
+cwz/still_to_do	%1, còn %2 dòng cần viết. Dùng phím mũi tên để duyệt, Enter để viết.
+cwz/for_example	Ví dụ, một nhân vật khác viết: %1
+cwz/written	Đã viết.
+cwz/cannot_write	Không thể lưu %1. Chưa thay đổi gì.
+howto/build_8	Âm thanh được chọn từ danh sách thay vì nhập tên nên không thể gọi nhầm file không tồn tại. Bạn cũng có thể đặt giờ nếu âm thanh chỉ nên phát sau khi trời tối.
+howto/build_9	Khi thêm lối ra, game đề nghị tạo cả đường quay lại. Hãy đồng ý trừ khi cố ý nhốt người chơi, vì nếu thiếu đường về họ có thể vào mà không thể thoát.
+howto/build_10	Nội dung bản đồ liệt kê bằng lời mọi thứ trong khu vực. Dùng phím mũi tên chọn một mục để đi tới hoặc xóa; đó là cách sửa chiếc ghế đặt sai chỗ.
+char/halina_name	Halina
+char/halina_intro	Sáu mươi mốt tuổi, ba mươi năm sống ngoài này. Tôi biết ai nợ ai thứ gì, còn biết sáng nay anh ăn gì. Ngồi xuống đi, trông anh tệ quá.
+char/halina_quirk	Bà ở con phố này còn lâu hơn cả cửa hàng. Thứ bà đem trao đổi là tin tức, vì tài sản thì chẳng có gì. Tự ngâm nalewka và rất gay gắt với thứ người khác dám gọi là nalewka. Âm thầm trông chừng mọi người nhưng không bao giờ chịu nhận.
+char/halina_story1	Halina từng có căn hộ tầng bốn, một người chồng và việc làm ở nhà máy đồ hộp; mức quan trọng với bà đại khái theo đúng thứ tự ấy.
+char/halina_story2	Nhà máy mất trước. Rồi người chồng bỏ đi; theo lời bà thì mất nhà máy vẫn đau hơn.
+char/halina_story3	Căn hộ mất lâu hơn, như nhà cửa vẫn thế: một lá thư, rồi lá nữa, rồi một người đàn ông đứng trước cửa tỏ vẻ vô cùng lấy làm tiếc.
+char/halina_story4	Chuyện đó đã ba mươi năm, và suốt hai mươi chín năm qua bà chẳng buồn vì nó nữa. Giờ đây là phố của bà. Bà biết từng vết nứt.
+char/halina_mutter1	Ba mươi năm rồi. Tưởng phải có người sửa cái cổng đó từ lâu chứ.
+char/halina_mutter2	Gã kia có một câu chuyện kể theo ba kiểu. Tôi nghe cả ba rồi.
+say/halina_warm1	Anh cũng được đấy. Hơi mềm lòng, nhưng được.
+say/halina_warm2	Lại đây. Không, lại đây nào. Đấy, khá hơn rồi. Giờ mới trông giống con người.
+say/halina_sharp	Tôi biết anh từ hồi anh còn đủ răng, nên đừng giở trò với tôi.
+beg/halina_humble	Xin lỗi nhé cưng, bà không muốn làm phiền. Chỉ xin chút tiền mua bánh mì thôi. Nhìn mặt là biết cháu tốt bụng.
+beg/halina_funny	Hai złoty, bà sẽ kể ai đang ngủ với ai trên phố này. Hay hơn phim truyền hình nhiều.
+beg/halina_blunt	Hai złoty. Bà đã xin ở góc này từ trước khi cháu ra đời và giờ rất thạo nghề.
+beg/halina_sob	Bà chẳng có gì, cưng ạ. Hoàn toàn chẳng có gì. Ba mươi năm rồi vẫn trắng tay. Cháu cho được bao nhiêu cũng quý.
+beg/drunk_halina	Cậu. Đúng, cậu đấy. Nghe này. Nghe đi. Không, nghe đã. Tôi đang nói gì nhỉ. Hai złoty.
+cell/lost_halina_1	chiếc khăn trùm đầu đẹp bà dành để đi đám tang
+cell/lost_halina_2	chiếc hộp thiếc nhỏ bà cất tiền nalewka
+cell/lost_halina_3	bức ảnh căn hộ tầng bốn chụp từ ngoài phố
+police/slipped_halina_1	Tôi biết mẹ cậu từ hồi đi học, Marek. Bà ấy có biết cậu nói chuyện với người ta kiểu này không?
+police/slipped_halina_2	Cứ làm đi. Bắt một bà già sáu mươi mốt tuổi vào ngày thứ Ba. Trung sĩ của cậu hẳn thích lắm.
+char/grazyna_name	Grażyna
+char/grazyna_intro	Tôi không phải hạng người này. Tôi chỉ đang trong thời gian chuyển nhà. Con trai tôi làm quản lý ở Warsaw và ngày nào đó nó sẽ gọi.
+char/grazyna_quirk	Tuyệt đối không phải żulica, cảm ơn. Sáng nào cũng làm tóc dù chẳng có gương. Phán xét cả phố trong khi túng thiếu y hệt họ. Gặp ai chưa đầy bốn phút đã nhắc đến con trai.
+char/grazyna_story1	Grażyna từng có cuộc sống tốt đẹp, và dù bạn hỏi hay không bà vẫn sẽ kể dài dòng.
+char/grazyna_story2	Từng có căn hộ với ban công, người chồng tên Janusz vô dụng nhưng ít ra có mặt, và cậu con trai chịu làm bài tập.
+char/grazyna_story3	Janusz bỏ đi, bằng cách nào đó căn hộ cũng theo ông, còn con trai chuyển đến Warsaw rồi trở nên vô cùng bận rộn.
+char/grazyna_story4	Bà đã 'trong thời gian chuyển nhà' bốn năm. Xin ghi nhận đây chỉ là tạm thời và bà không giống những người khác.
+char/grazyna_mutter1	Nhìn bộ dạng hắn kìa. Thế mà còn tưởng mình gặp ngày tồi tệ.
+char/grazyna_mutter2	Marek nhà tôi bận lắm. Chỉ vì thế thôi. Không phải nó không chịu gọi đâu.
+say/grazyna_warm1	Anh thuộc nhóm khá hơn. Không phải tôi khen nhiều đâu nhé, nhưng đúng là thế.
+say/grazyna_warm2	Phải công nhận anh vẫn giữ mình đàng hoàng. Điều đó quan trọng. Ở đây chẳng ai khác nghĩ vậy.
+say/grazyna_sharp	Đừng nói với tôi kiểu đó. Tôi từng có ban công đấy.
+beg/grazyna_humble	Tôi không làm chuyện này. Tôi muốn anh biết tôi không bao giờ làm. Nhưng nếu anh có thể cho chút gì.
+beg/grazyna_funny	Hai złoty. Coi như đầu tư. Khi con trai tôi gọi, tôi sẽ mời anh ăn tối và anh sẽ thấy mình ngốc vì đã do dự.
+beg/grazyna_blunt	Hai złoty, đừng làm ầm lên. Bốn năm qua của tôi rất khó khăn.
+beg/grazyna_sob	Tôi từng có căn hộ với ban công. Ban công đấy. Giờ lại đứng đây xin anh. Anh hiểu cảm giác ấy không?
+beg/drunk_grazyna	Tôi không say, tôi mệt. Hai chuyện khác nhau và sự khác biệt rất quan trọng. Anh có hai złoty không?
+cell/lost_grazyna_1	chiếc lược chải tóc bà dùng suốt hai mươi năm
+cell/lost_grazyna_2	số điện thoại của con trai viết trên mảnh bìa
+cell/lost_grazyna_3	chiếc áo khoác đẹp khiến bà trông như đang đi tới một nơi đàng hoàng
+police/slipped_grazyna_1	Cậu biết con trai tôi là ai không? Nó làm quản lý. Ở Warsaw. Trong văn phòng.
+police/slipped_grazyna_2	Tôi là phụ nữ đàng hoàng đang trải qua giai đoạn khó khăn, cậu phải xưng hô cho tử tế.
+bld/add_place	Thêm địa điểm
+mod/title	Chọn phiên bản để chơi
+mod/which	Chọn nội dung để chơi. Lựa chọn này quyết định thị trấn hiện tại và nội dung trình xây dựng chỉnh sửa.
+mod/base	Zul Simulator, thị trấn đi kèm game
+mod/base_now	Zul Simulator, thị trấn đi kèm game. Bạn đang chơi bản này.
+mod/now_playing	Bạn đang chơi nội dung này.
+mod/by	của %1
+mod/contents	%1 khu vực, %2 người, %3 âm thanh
+mod/is_own_town	Một thị trấn riêng.
+mod/make_one	Tạo mod mới
+mod/leave	Về trình đơn chính
+mod/cancel	Hủy
+mod/play_it	Chơi mod này
+mod/tell_me_about_it	Xem nội dung mod
+mod/now_playing_this	Giờ bạn đang chơi %1. Ván chơi ở thị trấn gốc vẫn được giữ nguyên.
+mod/now_base	Bạn đã trở lại thị trấn đi kèm game.
+mod/ask_name	Bạn muốn đặt tên gì?
+mod/ask_about	Nếu muốn, hãy mô tả bằng một câu. Có thể để trống.
+mod/ask_kind	Đây là các địa điểm bổ sung cho thị trấn gốc hay một thị trấn riêng?
+mod/adds_to_town	Địa điểm bổ sung cho thị trấn đi kèm game
+mod/own_town	Một thị trấn riêng
+mod/adds_means	Các khu vực sẽ được thêm vào nội dung có sẵn để người chơi đi lại giữa chúng.
+mod/own_town_means	Chỉ dùng các khu vực riêng của mod. Thị trấn đi kèm game không thuộc mod.
+mod/name_taken	Đã có mod tên %1.
+mod/name_unusable	Không thể dùng tên đó cho thư mục. Hãy thử tên có chữ cái.
+mod/could_not_make	Không thể tạo thư mục. Chưa tạo gì.
+mod/made_it	%1 đã sẵn sàng. Từ giờ mọi thứ bạn xây sẽ vào mod này. Nhấn Shift+B để bắt đầu.
+mod/remove_it	Xóa mod này khỏi máy
+mod/really_remove	Xóa %1? Toàn bộ khu vực, nhân vật, câu chữ, âm thanh và ván chơi trong mod sẽ mất.
+mod/really_really	Không thể hoàn tác. Bạn chắc chứ?
+mod/really_remove_yes	Có, xóa đi
+mod/removed	Đã xóa %1.
+mod/could_not_remove	Không thể xóa %1. Chưa thay đổi gì.
+mod/menu_base	Chọn nội dung để chơi. Hiện tại: thị trấn đi kèm game.
+mod/menu_mod	Chọn nội dung để chơi. Hiện tại: %1.
+bld/main_title	Trình xây dựng. %1
+bld/into_base	Đang sửa thị trấn đi kèm game.
+bld/into_mod	Đang sửa %1.
+bld/maps	Bản đồ: tạo hoặc sửa khu vực
+bld/maps_title	Bản đồ. Tạo mới hoặc chọn để sửa.
+bld/edit_stock	Sửa %1, nội dung đi kèm game
+bld/add_something	Thêm thứ gì đó vào bản đồ
+bld/add_title	Thêm vào bản đồ
+bld/instructions	Cách dùng trình xây dựng
+bld/tuning	Cách game vận hành: các thông số phía sau
+bld/tuning_soon	Chưa hoàn thiện. Đây sẽ là nơi chỉnh các thông số của game.
+tune/title	Cách %1 vận hành. Dùng phím mũi tên để duyệt, Enter để thay đổi.
+tune/was	Giá trị mặc định của game là %1.
+tune/change_it	Thay đổi
+tune/put_back	Khôi phục giá trị mặc định
+tune/cancel	Hủy
+tune/leave	Quay lại
+tune/set_to	Đã đặt thành %1.
+tune/put_back_to	Đã khôi phục về %1 như game gốc.
+tune/base_game	Mục này thay đổi cách một mod vận hành, vì vậy hãy chọn hoặc tạo mod trước. Thị trấn đi kèm game sẽ được giữ nguyên.
+tune/cannot_write	Không thể lưu %1. Chưa thay đổi gì.
+tune/write_wrong	File đọc lại không giống lúc ghi nên chưa thay đổi gì.
+tune/bottle_pays	Tiền nhận được cho mỗi chai:
+tune/wash_pays_least	Tiền tối thiểu khi lau kính xe:
+tune/wash_pays_most	Tiền tối đa khi lau kính xe:
+tune/oddjob_pays_least	Tiền tối thiểu cho việc lặt vặt:
+tune/oddjob_pays_most	Tiền tối đa cho việc lặt vặt:
+tune/gather_costs_energy	Thể lực tốn khi bới thùng rác:
+tune/wash_costs_energy	Thể lực tốn khi lau kính xe:
+tune/oddjob_costs_energy	Thể lực tốn cho việc lặt vặt:
+tune/turnin_costs_energy	Thể lực tốn khi đẩy xe tới máy thu chai:
+tune/beg_costs_energy	Thể lực tốn khi xin tiền:
+tune/give_costs_energy	Thể lực tốn khi đưa đồ:
+tune/sit_sobers	Mức tỉnh rượu khi ngồi ghế:
+tune/ask_bottle_pays	Mỗi chai trả bao nhiêu złoty? Game gốc trả %1; xe đầy mười lăm chai được mười lăm złoty.
+tune/ask_wash_pays_least	Ít nhất một người trả bao nhiêu khi lau kính? Game gốc là %1; mức tối đa được đặt riêng.
+tune/ask_wash_pays_most	Tối đa bao nhiêu? Game gốc là %1. Thiện cảm trong khu được cộng thêm vào kết quả.
+tune/ask_oddjob_pays_least	Việc lặt vặt trả ít nhất bao nhiêu? Game gốc là %1.
+tune/ask_oddjob_pays_most	Tối đa bao nhiêu? Game gốc là %1.
+tune/ask_gather_costs_energy	Bới thùng rác tốn bao nhiêu thể lực? Game gốc tốn %1 trên một trăm khi khỏe.
+tune/ask_wash_costs_energy	Lau một kính xe tốn bao nhiêu thể lực? Game gốc tốn %1.
+tune/ask_oddjob_costs_energy	Việc lặt vặt tốn bao nhiêu thể lực? Game gốc tốn %1, công việc nặng nhất.
+tune/ask_turnin_costs_energy	Đẩy xe tới máy thu chai tốn bao nhiêu thể lực? Game gốc tốn %1.
+tune/ask_beg_costs_energy	Xin tiền tốn bao nhiêu thể lực? Game gốc tốn %1.
+tune/ask_give_costs_energy	Đưa đồ tốn bao nhiêu thể lực? Game gốc tốn %1.
+tune/ask_sit_sobers	Ngồi ghế giúp tỉnh bao nhiêu? Game gốc cho %1; một đêm trong buồng giam cho ba mươi.
+ppl/title	Những người sống trong thị trấn
+ppl/title_for	Sở thích của từng người trong %1. Dùng phím mũi tên để duyệt, Enter để chỉnh.
+ppl/leave	Quay lại
+ppl/nothing	không có gì
+ppl/loves	Mê %1.
+ppl/hates	Không đụng tới %1.
+ppl/has_rules	%1 quy tắc.
+ppl/now_loves	Mê: %1
+ppl/now_hates	Không đụng tới: %1
+ppl/now_likes	Thích nhận: %1
+ppl/type_loves	Họ mê gì? Nhập các tên cách nhau bằng dấu cách, như %1.
+ppl/type_hates	Họ không đụng tới gì? Nhập các tên cách nhau bằng dấu cách, như %1.
+ppl/type_likes	Họ chỉ thấy vui khi nhận gì? Nhập các tên cách nhau bằng dấu cách, như %1.
+ppl/no_such_thing	Trong game không có thứ tên %1. Chưa thay đổi gì.
+ppl/written	Đã ghi.
+ppl/add_rule	Thêm quy tắc
+ppl/rule_verdict	Đây là quy tắc về thứ họ mê, không đụng tới hay thấy vui khi nhận?
+ppl/v_love	mê
+ppl/v_hate	không đụng tới
+ppl/v_like	thấy vui khi nhận
+ppl/about_what	Xét đặc điểm nào? Quy tắc sẽ kiểm tra đặc điểm này.
+ppl/prop_drunk	mức độ gây say
+ppl/prop_price	giá tiền
+ppl/prop_energy	mức ảnh hưởng thể lực
+ppl/prop_feeds	mức độ no
+ppl/prop_swigs	số ngụm uống
+ppl/prop_bites	số miếng ăn
+ppl/others	Mọi thứ cùng loại, trừ món họ mê
+ppl/which_sort	Mọi thứ thuộc loại nào?
+ppl/sort_drink	đồ uống
+ppl/sort_food	thức ăn
+ppl/sort_found	đồ nhặt được
+ppl/compared_how	So sánh thế nào?
+ppl/cmp_more	nhiều hơn
+ppl/cmp_less	ít hơn
+ppl/cmp_exactly	chính xác bằng
+ppl/ask_drunk	Mạnh hơn mức nào? Bia là 3, vodka 8, rượu lậu 14, cà phê 0.
+ppl/ask_price	Đắt hơn mức nào? Bánh mì là 2, bia 4, kebab 20.
+ppl/ask_energy	Hồi thể lực hơn mức nào? Bia làm mất 1, kebab hồi 38.
+ppl/ask_feeds	Làm no hơn mức nào? Bánh mì là 8, pierogi 32.
+ppl/ask_swigs	Nhiều hơn bao nhiêu ngụm? Hầu hết chai có từ ba đến mười.
+ppl/ask_bites	Nhiều hơn bao nhiêu miếng? Hầu hết món có từ hai đến năm.
+ppl/rule_is	%1 mọi thứ có %2 %3.
+ppl/rule_others	%1 mọi thứ thuộc loại %2, trừ món họ mê.
+ppl/catches	Hôm nay quy tắc khớp với %1.
+ppl/catches_many	Hôm nay quy tắc khớp với %1 và %2 món khác.
+ppl/catches_nothing	Hiện không có gì trong game khớp quy tắc.
+ppl/rule_what_now	Bạn muốn làm gì với quy tắc này?
+ppl/remove_rule	Xóa quy tắc
+ppl/rule_gone	Đã xóa.
+mod/some_missing	Thiếu %1 file game nên một số phần sẽ im lặng hoặc không tải được. Tải lại chúng không?
+mod/fetch_them	Có, tải lại
+mod/leave_them	Không, để nguyên
+mod/some_changed	Có %1 file game không còn nguyên trạng và không phải file bạn tự sửa: %2. Khôi phục bản gốc không?
+mod/put_back	Có, khôi phục
+mod/leave_as_is	Không, giữ nguyên
+mod/and_others	và %1 file khác
+howto/sec_chars	Tạo nhân vật chơi được và cư dân
+howto/chars_1	Bạn có thể tạo nhân vật chơi được trong mục Nhân vật của trình xây dựng. Ban đầu có sáu người, tất cả đều là file có thể xem và sửa.
+howto/chars_2	Một nhân vật gồm hai mươi hai dòng: họ là ai, lẩm bẩm gì khi rảnh, xin tiền thế nào lúc khiêm nhường hay cộc lốc, và phát hiện mất gì khi tỉnh dậy trong buồng giam.
+howto/chars_3	Có thể viết mới hoàn toàn hoặc dựa trên người có sẵn rồi chỉ viết phần khác biệt. Mục bỏ trống dùng nội dung của nhân vật cơ sở, nên chỉ mất hai phút để chơi được rồi hoàn thiện sau.
+howto/chars_4	Mỗi câu hỏi cho xem câu trả lời của nhân vật có sẵn để làm ví dụ, không bắt buộc phải theo. Có thể dừng bất cứ lúc nào; game báo số dòng còn thiếu để bạn quay lại sau.
+howto/chars_5	Cư dân thị trấn nằm trong mục Con người; bạn có thể tạo và sửa họ. Mỗi người cần bảy dòng: tên gọi, mô tả, hai câu thường nói, câu khi hài lòng, câu khi hết chịu nổi và câu lúc bỏ đi.
+howto/chars_6	Mỗi người còn có chất giọng từ một là khàn tới năm là cao. Bạn cũng có thể quy định cảnh sát có được bắt họ hay không.
+howto/chars_7	Sở thích cũng đi cùng nhân vật. Mỗi người mê một món bán sẵn và một món chỉ nhặt được, không đụng tới một thứ, và chỉ thấy vui với cả một loại đồ. Hiểu điều ấy là phần lớn việc kết thân, nên đừng để hai người mê cùng một món.
+howto/chars_8	Thay vì danh sách, một người có thể dùng quy tắc. Quy tắc gồm thuộc tính, phép so sánh và con số, chẳng hạn mức gây say lớn hơn không. Nó khớp mọi đồ có cồn, kể cả món được thêm về sau mà danh sách không biết.
+howto/sec_mods	Mod và chia sẻ nội dung tự tạo
+howto/mods_1	Mod là một thư mục chứa mọi thứ bạn tạo: khu vực, con người, câu chữ và âm thanh. Nén thư mục rồi gửi; người nhận đặt vào thư mục mods là dùng được.
+howto/mods_2	Không bắt buộc tạo mod. Trình xây dựng vẫn hoạt động và đưa thay đổi vào thị trấn gốc, nhưng sẽ cảnh báo vì cập nhật khôi phục bản gốc và xóa công sức. Cách đó phù hợp để thử; nội dung muốn giữ nên đặt trong mod.
+howto/mods_3	Mục Chọn phiên bản để chơi nằm ở trình đơn chính. Thị trấn gốc đứng đầu, các mod nằm dưới. Bản được chọn vừa là nội dung chơi vừa là nội dung trình xây dựng sửa, nên không có công tắc nào dễ quên.
+howto/mods_4	Khi tạo mod, game hỏi tên, mô tả tùy chọn và đây là phần mở rộng thị trấn hay thị trấn riêng. Thị trấn riêng chỉ dùng khu vực của nó, nhưng vẫn mượn câu chữ và nhân vật chưa tự viết nên không bao giờ im lặng.
+howto/mods_5	Mỗi mod giữ file lưu riêng, nên khi trở về thị trấn gốc, ván chơi vẫn đúng nơi bạn đã rời.
+howto/mods_6	Lần đầu chọn mod chưa chơi, game đề nghị chép ván từ nơi khác để bạn không mất bốn mươi ngày công chỉ vì thử thị trấn mới. Ván cũ vẫn nguyên. Người hoặc đồ uống không tồn tại ở thị trấn mới sẽ bị bỏ và được thông báo. Đề nghị chỉ xuất hiện một lần để không ghi đè ván mới.
+howto/mods_7	Mục Cách game vận hành trong trình xây dựng chứa các con số: giá vỏ chai, tiền lau kính, sức tiêu hao và mức hồi khi ngồi ghế. Mod chỉ ghi giá trị đã đổi, nên mod chỉ tăng giá chai có thể là file một dòng.
+howto/mods_8	Cửa hàng cũng vậy. Mod có thể thêm thức ăn, đồ uống với giá và độ mạnh riêng, sửa món có sẵn hoặc xóa hẳn. Vì thế ai đó có thể xây thị trấn chỉ bán nalewka của bà mình.
+howto/translate_8	Nội dung được ghi an toàn: lưu vào file tạm, đọc lại để chắc mọi dòng còn nguyên rồi mới đưa vào vị trí chính thức; bản cũ được giữ đến khi bản mới an toàn.
+mod/no_areas	Mod chưa có khu vực nên không có nơi để đi. Hãy dùng Shift+B mở trình xây dựng hoặc chọn nội dung khác ở trình đơn chính.
+mod/no_characters	Không có nhân vật chơi được. File game đã gặp sự cố; công cụ sửa chữa trong Tùy chọn sẽ khôi phục chúng.
+here/which	Ở đây có hai thứ. Bạn muốn chọn thứ nào?
+update/failed_partway	Cập nhật dừng giữa chừng. Đã thay %1 trên %2 file nên game đang lẫn bản cũ và mới. Game vẫn có thể chạy; hãy thử lại, nếu tiếp tục lỗi thì dùng công cụ sửa chữa trong Tùy chọn. Lý do: %3
+update/failed_partway	Cập nhật dừng giữa chừng. Đã thay %1 trên %2 file nên game đang lẫn bản cũ và mới. Game vẫn có thể chạy và lần thử sau sẽ tiếp tục từ chỗ dừng. Bạn có muốn kiểm tra toàn bộ trước không? Lý do dừng: %3
+update/check_it_over	Có, kiểm tra toàn bộ
+update/leave_it	Không, để nguyên
+update/checking	Đang kiểm tra kỹ từng file. Quá trình mất một lúc.
+update/all_sound	Mọi file đã thay đều là âm thanh. Bạn có thể thử cập nhật lại bất cứ lúc nào.
+update/found_wrong	Có %1 file không đúng. Khôi phục chúng không?
+update/put_right	Có, sửa lại
+bld/sounds_yours	Âm thanh riêng của bạn, %1 file. Chúng đi kèm mod.
+bld/sounds_games	Âm thanh của game, %1 file. Chúng không đi kèm mod nên người nhận cần có game.
+bld/your_sounds	Âm thanh và nhạc riêng
+bld/where_sounds_go	Chép âm thanh và nhạc vào thư mục: %1. Có thể chép bao nhiêu tùy ý, định dạng ogg, wav, mp3 hoặc flac.
+bld/how_many_sounds	Hiện có %1 file tại đó. Danh sách ở dưới.
+bld/and_more_sounds	Và %1 file khác không được liệt kê.
+bld/wrong_kind	Có một file game không đọc được: %1. Cần dùng ogg, wav, mp3 hoặc flac.
+bld/copy_sounds_path	Sao chép tên thư mục vào bảng tạm
+bld/path_copied	Đã sao chép. Dán vào trình quản lý file để tới đó.
+bld/what_they_are_for	Công dụng mỗi file tùy cách bản đồ dùng, không phải nơi lưu. Dòng music phát nhạc khắp khu vực, dòng bed lặp âm nền, còn nguồn âm thanh đặt tiếng tại một điểm. Ghi tên không kèm phần mở rộng.
+bld/group_amb	Âm nền phát liên tục, %1 file. Chúng đi kèm game.
+bld/group_emit	Âm thanh phát từ một điểm, %1 file. Chúng đi kèm game.
+bld/where_music_goes	Nhạc được lưu riêng trong thư mục: %1. Nhạc phát khắp khu vực; âm thanh phát từ một điểm.
+bld/how_many_tunes	Có %1 bản nhạc tại đó. Dòng music của bản đồ dùng tên không kèm phần mở rộng.
+bld/folder_sounds	Âm phát từ một điểm như chó sủa hoặc ti-vi. Thư mục: %1. Hiện có %2 file.
+bld/folder_ambience	Âm nền phát khắp khu vực. Thư mục: %1. Hiện có %2 file.
+bld/folder_music	Nhạc cho khu vực. Thư mục: %1. Hiện có %2 file.
+bld/folder_footsteps	Bề mặt đất. Thư mục: %1. Hiện có %2 file. Mỗi bề mặt chỉ cần một file; game dùng cho mọi bước chân.
+bld/folder_voices	Giọng nhân vật khi nói. Thư mục: %1. Hiện có %2 file.
+bld/copy_mod_path	Sao chép tên thư mục mod vào bảng tạm
+save/things_gone	Có %1 thứ trong file lưu không còn thuộc game này và đã bị xóa: %2. Thường là do mod đã thay đổi từ lần chơi trước. Mọi thứ khác vẫn nguyên.
+nwz/part_0	Gọi họ là gì? Vài từ để người khác chỉ ra, chẳng hạn: ông lão trên ghế.
+nwz/part_1	Họ là ai? Một câu mô tả được nghe khi bạn bước tới.
+nwz/part_2	Một câu họ nói khi bạn bắt chuyện.
+nwz/part_3	Thêm một câu để không lần nào cũng giống nhau.
+nwz/part_4	Họ nói gì khi hài lòng với bạn?
+nwz/part_5	Khi đã hết chịu nổi bạn thì sao?
+nwz/part_6	Họ nói gì khi bỏ đi?
+nwz/title	Những người sống trong thị trấn
+nwz/make_one	Tạo người mới
+nwz/leave	Quay lại
+nwz/their_id	Tên ngắn chỉ dùng chữ không dấu, chẳng hạn wanda hoặc listonosz.
+nwz/bad_id	Chỉ dùng chữ cái không dấu, số và dấu gạch dưới.
+nwz/already	Đã có người tên %1.
+nwz/started	%1 đã có trong thị trấn. Giờ hãy viết lời thoại; bạn có thể dừng và quay lại.
+nwz/finished	%1, đã hoàn tất
+nwz/unfinished	%1, còn %2 dòng cần viết
+nwz/line_is	%1 %2
+nwz/not_written	Chưa viết.
+nwz/all_done	%1 đã hoàn tất. Bạn muốn thay đổi gì không?
+nwz/still_to_do	%1, còn %2 dòng cần viết. Dùng phím mũi tên để duyệt, Enter để viết.
+nwz/for_example	Ví dụ, ông lão có câu: %1
+nwz/written	Đã viết.
+nwz/their_voice	Chất giọng: %1. Một là khàn, năm là cao.
+nwz/ask_voice	Giọng họ thế nào? Một khàn như ông lão, năm cao như bà cụ.
+nwz/voice_set	Đã đặt thành %1.
+nwz/jailable_yes	Có thể bị cảnh sát bắt: có
+nwz/jailable_no	Có thể bị cảnh sát bắt: không
+nwz/jailable_now_yes	Giờ cảnh sát có thể bắt người này.
+nwz/jailable_now_no	Cảnh sát sẽ để người này yên.
+nwz/what_they_want	Sở thích: thứ họ mê, không đụng tới và thấy vui khi nhận
+howto/chars_9	Khi tạo quy tắc, game cho biết hiện tại nó khớp những gì để bạn kiểm tra điều kiện trước khi lưu.
+howto/chars_10	Người được tạo trong mod thuộc về mod cùng toàn bộ lời thoại, nên người nhận có cả nhân vật hoàn chỉnh chứ không phải cái tên không biết nói gì.
+howto/mods_9	Mọi nội dung là văn bản thuần trong thư mục mod, nên có thể mở bằng trình soạn thảo nếu thích. Trình xây dựng chỉ là lối vào thân thiện hơn.
+howto/mods_10	Nếu sửa khu vực có sẵn, game đánh dấu file là của bạn và không coi thay đổi là lỗi. Tuy vậy cập nhật vẫn thay file, nên nội dung muốn giữ phải nằm trong mod riêng.
+bld/add_person	Đặt một người lên bản đồ
+bld/which_person	Ai? Bất kỳ người nào trong game, dù có sẵn hay do bạn tạo.
+bld/person_unfinished	%1, còn %2 dòng chưa viết
+bld/nobody_to_place	Chưa có ai để đặt.
+bld/when_are_they_here	Họ có mặt lúc nào?
+bld/person_all_day	Cả ngày lẫn đêm
+bld/person_some_hours	Chỉ trong khoảng giờ nhất định
+bld/person_from_hour	Từ giờ nào? Không là nửa đêm, chín là chín giờ sáng.
+bld/person_to_hour	Đến giờ nào? Hai mươi bốn nghĩa là đến nửa đêm.
+bld/person_placed	%1 đang đứng tại %2.
+bld/person_moved	%1 đã có trên bản đồ nên được chuyển tới %2 thay vì tạo thêm bản thứ hai.
+unwritten/person	Một người chưa được ai viết nội dung.
+howto/build_11	Kiểm tra bản đồ sẽ báo nếu thứ gì nằm ngoài ranh giới hoặc chưa có lối vào, lối ra; những lỗi này rất dễ mắc. Cũng có thể bật kiểm tra trong lúc xây dựng, mặc định đang tắt.
+howto/mods_11	File lưu thích ứng khi mod thay đổi. Nếu thêm đồ uống hoặc người, đồ đang mang và quan hệ vẫn gắn đúng tên thay vì trượt sang mục mới chiếm cùng vị trí.
+venue/shut_because	%1 đang đóng cửa. Giờ này %2 không có mặt.
+bld/who_runs_it	Ai đứng sau quầy? Bất kỳ người nào trong game hoặc không chỉ định ai.
+bld/nobody_in_particular	Không chỉ định, dùng người mặc định
+bld/shut_question	Có đóng cửa khi họ vắng mặt không?
+bld/open_regardless	Không, luôn mở dù họ có mặt hay không
+bld/shut_when_away_yes	Có, đóng khi họ vắng mặt
+howto/build_12	Bạn có thể sửa khu vực đi kèm game nhưng sẽ được cảnh báo trước, và cập nhật sẽ khôi phục bản gốc. Khu vực tự tạo không bao giờ bị cập nhật đụng tới.
+howto/build_13	Game còn hỏi địa điểm có đóng khi người bán vắng mặt không. Nhờ đó có thể tạo cửa hàng đóng lúc mười giờ hoặc quầy chỉ mở buổi trưa. Muốn tự viết thông báo đóng cửa, hãy đặt tên dòng theo địa điểm, như place slash sklep underscore shut; game sẽ dùng câu của bạn.
+bld/base_warning	Thao tác này sửa thị trấn đi kèm game chứ không phải mod riêng. Bạn có quyền sửa bản sao của mình, nhưng khi cập nhật, game sẽ khôi phục bản gốc và công sức sẽ mất. Nội dung muốn giữ nên đặt trong mod. Tiếp tục không?
+bld/base_carry_on	Có, tiếp tục
+bld/base_not_now	Không, chưa phải lúc
+bld/sounds_need_a_mod	Âm thanh riêng nằm trong mod nên chưa có chỗ lưu nếu bạn chưa tạo mod. Khi đặt âm thanh lên bản đồ, âm thanh có sẵn của game vẫn được cung cấp. Tạo mod từ trình đơn chính để xem năm thư mục âm thanh của nó.
+howto/mods_12	Nếu xóa thứ người chơi đang mang, lần tải sau game sẽ báo món nào biến mất thay vì để họ tự phát hiện rồi tưởng file lưu hỏng.
+carry/offer	Bạn chưa từng chơi %1 nhưng đang có ván ở nơi khác. Mang ván ấy sang không? Ván cũ vẫn được giữ nguyên để bạn quay lại bất cứ lúc nào.
+carry/start_fresh	Không, bắt đầu ván mới
+carry/could_not	Không thể mang ván đó sang nên chưa thay đổi gì.
+carry/brought_over	Ván chơi từ %1 đã ở đây. %2
+carry/all_survived	Mọi thứ đều được chuyển sang.
+carry/no_such_character	%1 không có trong thị trấn này nên bạn sẽ chơi bằng %2.
+carry/no_such_place	Ở đây không có %1 nên bạn bắt đầu tại nhà.
+carry/moved_to_entrance	Nơi bạn đang đứng ở đây nhỏ hơn nên bạn bắt đầu tại lối vào.
+carry/things_missing	Có %1 thứ bạn từng có không thuộc thị trấn này và đã biến mất.
+mod/base_town	Thị trấn đi kèm game
+howto/mods_13	Cách game vận hành còn điều khiển biến cố đường phố: thời gian nghỉ giữa các chuyện, xác suất xảy ra và mức náo nhiệt ban đêm hay ở góc đông người. Mod có thể xóa hẳn một biến cố, tạo nơi không ai bị cướp hoặc cảnh sát không bao giờ tới.
+howto/mods_14	Gần như mọi con số đều nằm trong file ấy: nhiệm vụ hằng ngày, yêu cầu và phần thưởng, thưởng cột mốc, sức chứa và giá xe đẩy, tốc độ cảnh sát quên bạn. Chúng quyết định thị trấn khó nhọc hay dễ dàng, nên hãy xem trước khi sửa thứ khác.
+howto/mods_15	Mỗi nhiệm vụ có tên riêng nên có thể xóa bằng một dòng. Thị trấn không ai hút thuốc thì không nên bắt bạn hút sáu điếu.
+pack/offer_after_making	Bạn có muốn tải gói âm thanh không? Gói khoảng bốn trăm năm mươi MB, gồm bề mặt đất, âm nền, âm thanh đặt tại từng điểm và nhạc để xây dựng. Game chỉ kèm một ít. Bạn cũng có thể tải sau từ trình xây dựng.
+pack/yes_please	Có, tải ngay
+pack/no_thanks	Không, chưa tải
+pack/looking	Đang xem nội dung gói.
+pack/no_manifest	Hiện không truy cập được gói. Chưa thay đổi gì; hãy thử lại sau.
+pack/already_have_it	Bạn đã có toàn bộ nội dung.
+pack/how_much	Cần tải %1 file, khoảng %2 MB. Có thể nhấn Escape để dừng bất cứ lúc nào; file đã tải vẫn được giữ nên lần sau sẽ tiếp tục chứ không làm lại. Tiếp tục không?
+pack/go_ahead	Có, tải xuống
+pack/not_now	Không, chưa tải
+pack/working	Đang tải %1 trên %2.
+pack/stopped	Đã dừng. Tải được %1 file, còn %2 file. Lần sau sẽ tiếp tục từ đây.
+pack/some_failed	Tải được %1 file, nhưng %2 file thất bại. Thử lại sau để tải những file còn thiếu.
+pack/finished	Xong. %1 âm thanh đã sẵn sàng để xây dựng.
+pack/finished_and_removed	Xong. %1 âm thanh đã sẵn sàng và %2 file không còn thuộc gói đã được gỡ.
+pack/removed	Đã gỡ %1 âm thanh không còn thuộc gói.
+pack/update_yes	Có, cập nhật gói
+pack/update_later	Không, giữ nguyên
+pack/update_new	Gói có %1 âm thanh mới, khoảng %2 MB. Tải xuống không?
+pack/update_only_removals	Có %1 âm thanh không còn thuộc gói. Gỡ chúng không?
+pack/update_both	Có %1 âm thanh mới, khoảng %2 MB, và %3 file không còn thuộc gói. Cập nhật không?
+bld/get_the_pack	Tải gói âm thanh, khoảng bốn trăm năm mươi MB tài nguyên xây dựng
+bld/pack_is_here	Đã có gói âm thanh. Kiểm tra nội dung mới
+bld/group_pack	Âm thanh từ gói, %1 file. Chúng không đi kèm mod nên người nhận cũng cần gói âm thanh.
+bld/pack_remove	Gỡ gói âm thanh khỏi máy này
+pack/not_here_to_remove	Bạn chưa có gói âm thanh nên không có gì để gỡ.
+pack/remove_sure	Thao tác sẽ gỡ %1 âm thanh, khoảng %2 MB. Nội dung đã đưa vào mod và âm thanh riêng của game vẫn được giữ. Sau này có thể tải lại. Gỡ không?
+pack/remove_yes	Có, gỡ đi
+pack/remove_no	Không, giữ lại
+pack/remove_sure2	Bạn chắc chứ? Tải lại sẽ mất nhiều thời gian.
+pack/remove_really	Có, tôi chắc chắn
+pack/remove_kept	Đã giữ nguyên.
+pack/removed_all	Đã gỡ %1 file. Âm thanh riêng của game và nội dung trong mod không bị ảnh hưởng.
+howto/mods_16	Game chỉ kèm ít âm thanh, không đủ để xây dựng. Gói tải từ trình xây dựng có một trăm hai mươi tám bề mặt, mỗi loại năm tiếng bước chân, cùng hàng trăm âm nền lặp, âm đặt tại điểm và nhạc. Gói khoảng bốn trăm năm mươi MB nên không nằm sẵn trong game.
+howto/mods_17	Gói được tải thành tám phần và có thể dừng bất cứ lúc nào bằng Escape. File đã tải được giữ để lần sau tiếp tục. Gói nằm cạnh file lưu nên cập nhật không xóa; có thể gỡ tại cùng màn hình nếu không còn xây dựng.
+howto/mods_18	Âm thanh từ gói không đi kèm mod nên người nhận cũng cần cài gói. Âm thanh đặt trong thư mục riêng của mod thì được gửi cùng.
+quit/not_saved	Bạn đã chơi thêm kể từ lần lưu gần nhất; rời đi sẽ mất tiến trình đó. Bạn muốn làm gì?
+quit/save_first	Lưu rồi rời đi
+quit/leave_anyway	Rời đi mà không lưu
+quit/stay	Ở lại
+quit/saved_now	Đã lưu. Giờ đi thôi.
+nwz/she_is	Đây là phụ nữ. Thay đổi
+nwz/he_is	Đây là đàn ông. Thay đổi
+nwz/ask_which	Người này là đàn ông hay phụ nữ? Lựa chọn quyết định giọng khi họ nhận đồ.
+nwz/a_man	Đàn ông
+nwz/a_woman	Phụ nữ
+nwz/set_woman	Giờ đây là phụ nữ.
+nwz/set_man	Giờ đây là đàn ông.
+cwz/she_is	Đây là phụ nữ. Thay đổi
+cwz/he_is	Đây là đàn ông. Thay đổi
+cwz/ask_which	Nhân vật này là đàn ông hay phụ nữ?
+cwz/a_man	Đàn ông
+cwz/a_woman	Phụ nữ
+howto/chars_11	Mỗi người được tạo đều phải chọn là đàn ông hay phụ nữ. Điều này quyết định giọng phản ứng khi nhận đồ, vì phụ nữ không thích món quà không nên phát giọng đàn ông. Nhân vật chơi được cũng vậy.
+
