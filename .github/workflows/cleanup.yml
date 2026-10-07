@@ -1,0 +1,19 @@
+name: Cleanup throwaway branches
+on:
+  push:
+    branches: [ops/cleanup]
+permissions:
+  contents: write
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Delete the throwaway branches
+        run: |
+          set +e
+          for b in ci/win-suite ci/win-suite-out; do
+            echo "deleting $b"; git push origin --delete "$b"
+          done
+          echo "deleting self"; git push origin --delete ops/cleanup
+          echo done
