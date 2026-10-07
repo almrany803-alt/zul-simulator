@@ -164,6 +164,30 @@ Housekeeping left behind: throwaway branches `ci/win-soundpack`,
 Delete when convenient (branch deletion is blocked through the proxy, so it needs
 doing from the web or from a workflow).
 
+## SESSION 2026-10-07 (later): the testing plan, carried out
+
+After v145 shipped, the five-point plan in TESTING.md was worked through. Four
+of five are done; the fifth (an LLM judge for nonsense speech) is left as a maybe.
+
+  - Quest words vs count (item 3): a table-driven check walks every quest in the
+    pool and fails if one has no description or, when it has a number, does not
+    state it. Auto-covers future quests, alongside the behavioural traps.
+  - Interruption/recovery (item 4): the write-verify refusal was already checked;
+    added the case that matters most, a changed file with nothing to download is
+    owned up to as "reinstall needed", never skipped in silence.
+  - Suite on real Windows (item 2): `.github/workflows/tests-windows.yml` runs
+    the whole suite from the published build on the 0.89.1 Windows engine. First
+    run found a harness gap (I had overlaid only two of the source files, so the
+    source-aware checks failed as if the game were broken); with all source
+    overlaid it is 1528/1528 on Windows.
+  - Live package verified (item 1): the same workflow runs `relverify` (a tiny
+    0.89.1 exe) over the live published package and confirms all 261 files against
+    the manifest on the real engine. Green on v145.
+
+The suite locally is 1560/1560 with the new checks (they ride the next DEV
+snapshot; v145 shipped before they were added, so they are not in the v145 build,
+which is 1528). Run the Windows workflow from the Actions tab after each release.
+
 ## SESSION 2026-10-06 (v144): the first outside contribution, and the daily jobs
 
 A PLAYER TURNED UP. VanTrung2807 opened issue #1 with a complete Vietnamese

@@ -5452,6 +5452,25 @@ void run_scripted_session() {
         check("quest type '"+types[qt]+"' completes and pays", dq_done[0] && money>before);
       } }
 
+    // ---------- WORDS MUST MATCH THE COUNT (every quest, future ones included) ----------
+    // VanTrung2807's bugs were all one shape: the description promised one thing
+    // and the code counted another (beg ten zloty counted asks; talk to three
+    // people counted sentences). The behavioural traps are checked where they
+    // live (begging counts zloty not asks; a chat counts a person once a day;
+    // a drink counts a finished bottle). This is the STRUCTURAL half that cannot
+    // drift: every quest in the pool must tell the player what to do, and a
+    // numbered goal must actually say the number. A new quest that forgets
+    // either, or whose description loses its %1, fails right here.
+    for (uint q=0; q<qpool_type.length(); q++) {
+        string qk = "quest/" + qpool_type[q];
+        check("quest '"+qpool_id[q]+"' has a description the player can read", has_text(qk));
+        if (qpool_target[q] > 1) {
+            string rendered = t1(qk, ""+qpool_target[q]);
+            check("quest '"+qpool_id[q]+"' tells the player its count ("+qpool_target[q]+")",
+                  rendered.find(""+qpool_target[q]) >= 0);
+        }
+    }
+
     // ---------- DRUNK LEVELS (tipsy / happy / hammered / barely standing) ----------
     drunk=0;  check("sober has no drunk line", condition_text().find("tipsy")<0 && condition_text().find("hammered")<0);
     drunk=15; check("drunk level 1 = tipsy", condition_text().find("tipsy")>=0);
@@ -10709,6 +10728,23 @@ void run_autotest() {
         check("and a write that does not match what was wanted is refused",
               !upd_write_verified("upd_write_test.tmp", sample, want + 1));
         file_delete("upd_write_test.tmp"); }
+
+      // INTERRUPTION / RECOVERY: a change the game cannot download must be owned
+      // up to, never silently skipped. If a build's manifest lists a changed file
+      // with no asset behind it, the player is told to reinstall rather than left
+      // quietly out of date, and that file is not offered as a fetch that would
+      // only fail. (The empty-download "three tries then say so" path lives in the
+      // network loop and cannot run here; this covers the decision around it.)
+      { { file d; d.open("updt/orphan.dat","wb"); d.write("old"); d.close(); }
+        string orphan = "{\"version\":\"v999\",\"notes\":\"x\",\"base\":\"http://x/\",\"files\":["
+          "{\"path\":\"updt/orphan.dat\",\"asset\":\"\",\"size\":3,\"crc\":" + crc32("new") + "}]}";
+        upd_parse_manifest(orphan);
+        array<int> f = upd_changed_files();
+        check("a changed file with nothing to download is not offered as a fetch", f.length()==0);
+        check("instead the game knows a reinstall is needed, rather than skipping in silence",
+              upd_needs_reinstall());
+        check("and asking to fetch it anyway is refused cleanly, no crash", !upd_download_file(0));
+        file_delete("updt/orphan.dat"); }
 
         file_delete("updt/sounds/same.ogg"); file_delete("updt/maps/old.map"); } }
 

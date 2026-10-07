@@ -79,7 +79,34 @@ The pattern is the same one the first law in PROJECT_STATE.md already names,
 pointed at a part we had not pointed it at: **test the artefact the player gets,
 with the engine they run, not the code on our disk.**
 
-## The improvements, in priority order
+## Status (7 October 2026)
+
+Items 1 to 4 are done. Item 5 is deferred as speculative.
+
+- **1. Release verified against itself on the real engine: done.** The manifest
+  is generated from NVGT's own checksums, the guard re-checks it before every
+  push, and a GitHub Windows workflow (`.github/workflows/tests-windows.yml`)
+  downloads the live published package and confirms every one of its 261 files
+  against the manifest on the real 0.89.1 engine. Proven green on v145.
+- **2. The suite runs on real Windows: done.** The same workflow runs the full
+  suite (1528 checks) from the published build on the engine players use, and
+  found a real harness gap on its first run (a missing source overlay) before
+  being made clean.
+- **3. Quest words match the count: done.** A table-driven check over every
+  quest asserts a description exists and that a numbered goal states its number,
+  alongside the behavioural checks for the specific traps.
+- **4. Interruption and recovery: done.** The write-verify refusal, torn and
+  empty manifests, and now a change with nothing to download (owned up to as a
+  reinstall, never skipped in silence) are all checked.
+- **5. Nonsense-speech judge: deferred.** Still speculative; noted below.
+
+### How to run the Windows suite
+
+In the repository's Actions tab, choose "Tests on Windows" and run it. It tests
+whatever release is currently published, so run it after each release. It fails
+the run if the suite does not pass or the package does not match the manifest.
+
+## The improvements, in priority order (original plan, for reference)
 
 ### 1. Verify every release against itself, on the real engine (highest value)
 
