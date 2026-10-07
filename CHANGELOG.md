@@ -3,6 +3,17 @@
 The newest changes are at the top. The game reads these out to you when an update
 is ready, so you do not need to come here unless you want to.
 
+## 7 October 2026
+
+**The extra sound pack downloads.** If you went looking for it before, the game
+tried, failed on the very first piece, and told you nothing had changed. It was
+checking each piece it pulled down against the wrong fingerprint, so every piece
+looked broken when it was perfectly fine. Two faults sat behind it: the list of
+fingerprints was written with the wrong kind of checksum, and the game clamped
+any fingerprint past a certain size down to one fixed number, which three of the
+eight pieces happened to land on. Both fixed, and proven on the real engine:
+all eight pieces come down and install.
+
 ---
 
 ## 6 October 2026

@@ -1,21 +1,21 @@
 {
- "version": "v144",
- "notes": "The game speaks Vietnamese, thanks to VanTrung2807, who translated the whole thing and sent it in. Pick it in Options, or on first run.\n\nThe daily jobs now mean what they say. Begging for ten zloty counts the zloty people actually hand you, not how many times you asked. Talking to three people counts three people rather than three sentences at the same one. Having three drinks counts bottles you finish rather than mouthfuls. The earning job counts what comes in over the day, and now says so. Patching things up only counts people you were actually on bad terms with.\n\nTwo of the tests had been quietly passing for twenty three releases because they only worked when run from the source folder. They now run inside the game like everything else.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v144/",
+ "version": "v145",
+ "notes": "The extra sound pack downloads now. Before, it failed on the first piece and said nothing had changed, because it checked each piece against the wrong fingerprint. Fixed: all eight pieces come down and install.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v145/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 32674,
-   "crc": 2671815158,
+   "size": 33055,
+   "crc": 2452827927,
    "asset": "changes.txt"
   },
   {
    "path": "changes_vietnamese.txt",
    "size": 36457,
    "crc": 2693232299,
-   "asset": "changes_vietnamese.txt"
+   "asset": ""
   },
   {
    "path": "chars/grazyna.char",
@@ -57,13 +57,13 @@
    "path": "lang/english.lang",
    "size": 149522,
    "crc": 2894919276,
-   "asset": "lang__english.lang"
+   "asset": ""
   },
   {
    "path": "lang/polish.lang",
    "size": 144424,
    "crc": 3155228454,
-   "asset": "lang__polish.lang"
+   "asset": ""
   },
   {
    "path": "lang/polish.maps",
@@ -75,13 +75,13 @@
    "path": "lang/vietnamese.lang",
    "size": 171127,
    "crc": 2440129053,
-   "asset": "lang__vietnamese.lang"
+   "asset": ""
   },
   {
    "path": "lang/vietnamese.maps",
    "size": 9748,
    "crc": 4185009392,
-   "asset": "lang__vietnamese.maps"
+   "asset": ""
   },
   {
    "path": "lib/SAAPI64.dll",
@@ -1567,8 +1567,8 @@
   },
   {
    "path": "zul.exe",
-   "size": 6636996,
-   "crc": 2021555114,
+   "size": 6637236,
+   "crc": 132085297,
    "asset": "zul.exe"
   }
  ],
