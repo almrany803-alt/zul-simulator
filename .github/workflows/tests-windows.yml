@@ -1,0 +1,101 @@
+# Run the game's own test suite on a real Windows machine, on the engine players
+# actually run. The suite is compiled into zul.exe; autotest.flag makes it run
+# the suite instead of the game. Source files are overlaid so the source-aware
+# checks (check_src) are judged rather than skipped.
+#
+# Why this exists: the Linux suite cannot catch a difference between the engine
+# we test on and the engine players run. See TESTING.md.
+name: Tests on Windows
+
+on:
+  workflow_dispatch:   # run from the Actions tab, against the current release
+
+permissions:
+  contents: write
+
+jobs:
+  suite:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run the suite on the real engine
+        shell: pwsh
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+          SDL_AUDIODRIVER: dummy
+        run: |
+          "windows suite run, $(Get-Date -Format o)" | Out-File result.txt
+          $R = "almrany803-alt/zul-simulator"
+          $tag = gh release view --repo $R --json tagName --jq '.tagName'
+          "release under test: $tag" | Add-Content result.txt
+          # the playable build (exe + assets) and the source snapshot (for check_src)
+          gh release download $tag --repo $R --pattern "ZulSimulator.zip" --output pkg.zip
+          gh release download $tag --repo $R --pattern "DEV_source_snapshot_*.zip" --output src.zip
+          Expand-Archive pkg.zip -DestinationPath game -Force
+          $root = (Get-ChildItem game -Directory | Select-Object -First 1).FullName
+          "game folder: $root" | Add-Content result.txt
+          Expand-Archive src.zip -DestinationPath srcsnap -Force
+          # Overlay every source file the suite reads (zul.nvgt, updater.nvgt,
+          # audiokit.nvgt, and any other .nvgt). lang/english.lang and
+          # rules/rules.txt are already in the playable package. Without this the
+          # source-aware checks fail as if the game were broken, which they are not.
+          Get-ChildItem srcsnap -Filter *.nvgt | ForEach-Object {
+            Copy-Item $_.FullName (Join-Path $root $_.Name) -Force
+          }
+          "overlaid source: " + ((Get-ChildItem $root -Filter *.nvgt | ForEach-Object { $_.Name }) -join ", ") | Add-Content result.txt
+          "test" | Out-File (Join-Path $root "autotest.flag") -Encoding ascii
+          Remove-Item (Join-Path $root "zul_test_log.txt") -ErrorAction SilentlyContinue
+          Push-Location $root
+          Start-Process -FilePath (Resolve-Path .\zul.exe) -WorkingDirectory (Get-Location)
+          # the suite writes zul_test_log.txt and closes it with an "end of this run" marker
+          $done = $false
+          for ($i=0; $i -lt 60; $i++) {
+            Start-Sleep -Seconds 10
+            if ((Test-Path zul_test_log.txt) -and (Select-String -Path zul_test_log.txt -Pattern "end of this run" -Quiet)) { $done = $true; break }
+          }
+          Pop-Location
+          $log = Join-Path $root "zul_test_log.txt"
+          if (Test-Path $log) {
+            $all = Get-Content $log
+            $last = @(); foreach ($line in $all) { if ($line -match '^={10,}$') { $last = @() }; $last += $line }
+            ($last | Select-String -Pattern "TOTAL CHECKS|PASSED|FAILED|RESULT") | ForEach-Object { $_.Line } | Add-Content result.txt
+            ($last | Select-String -Pattern '^\*\*FAIL\*\*') | Select-Object -First 20 | ForEach-Object { $_.Line } | Add-Content result.txt
+            if (-not $done) { "WARNING: run did not reach its closing marker (timed out)" | Add-Content result.txt }
+          } else {
+            "ERROR: no zul_test_log.txt was produced (did the exe start headlessly?)" | Add-Content result.txt
+          }
+      - name: Verify the live package against the manifest (real engine)
+        shell: pwsh
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          "" | Add-Content result.txt
+          "--- live package vs manifest, real engine ---" | Add-Content result.txt
+          $R = "almrany803-alt/zul-simulator"
+          curl.exe -sSL -o manifest.json "https://raw.githubusercontent.com/$R/main/update/latest.json"
+          Expand-Archive ci/relverify.zip -DestinationPath rv -Force
+          $gf = (Get-ChildItem game -Directory | Select-Object -First 1).FullName
+          # run the verifier from INSIDE the game folder (it has the matching lib/
+          # dlls already) so the folder argument is just "." and the space in the
+          # folder name cannot split into two arguments.
+          Copy-Item rv/relverify.exe (Join-Path $gf "relverify.exe") -Force
+          Copy-Item manifest.json (Join-Path $gf "manifest.json") -Force
+          Remove-Item (Join-Path $gf "relverify_out.txt") -ErrorAction SilentlyContinue
+          Push-Location $gf
+          Start-Process -FilePath (Resolve-Path .\relverify.exe) -WorkingDirectory (Get-Location) -ArgumentList @("manifest.json", ".")
+          $ok = $false
+          for ($i=0; $i -lt 18; $i++) { Start-Sleep -Seconds 5; if (Test-Path relverify_out.txt) { $ok = $true; break } }
+          Pop-Location
+          if ($ok) { Get-Content (Join-Path $gf "relverify_out.txt") | Add-Content result.txt }
+          else { "ERROR: relverify produced no output" | Add-Content result.txt }
+
+      - name: Show the result and decide pass/fail
+        if: always()
+        shell: pwsh
+        run: |
+          if (-not (Test-Path result.txt)) { "no result.txt" | Out-File result.txt }
+          Get-Content result.txt | ForEach-Object { "    " + $_ } | Out-File -FilePath $env:GITHUB_STEP_SUMMARY -Append
+          $txt = Get-Content result.txt -Raw
+          if ($txt -notmatch "ALL PASSED" -or $txt -notmatch "PACKAGE MATCHES") { exit 1 }
