@@ -1,21 +1,21 @@
 {
- "version": "v145",
- "notes": "The extra sound pack downloads now. Before, it failed on the first piece and said nothing had changed, because it checked each piece against the wrong fingerprint. Fixed: all eight pieces come down and install.",
- "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v145/",
+ "version": "v146",
+ "notes": "The Vietnamese is now complete. VanTrung2807, who translated the game, has added the last line that was still falling back to English and brought the Vietnamese notes fully up to date.",
+ "base": "https://github.com/almrany803-alt/zul-simulator/releases/download/v146/",
  "full_download": "https://github.com/almrany803-alt/zul-simulator/releases/latest/download/ZulSimulator.zip",
  "feedback_key": "efbeadf9-d96e-45e0-82ae-17cb99b060c5",
  "files": [
   {
    "path": "changes.txt",
-   "size": 33055,
-   "crc": 2452827927,
+   "size": 33259,
+   "crc": 1843207470,
    "asset": "changes.txt"
   },
   {
    "path": "changes_vietnamese.txt",
-   "size": 36457,
-   "crc": 2693232299,
-   "asset": ""
+   "size": 39361,
+   "crc": 684913041,
+   "asset": "changes_vietnamese.txt"
   },
   {
    "path": "chars/grazyna.char",
@@ -73,9 +73,9 @@
   },
   {
    "path": "lang/vietnamese.lang",
-   "size": 171127,
-   "crc": 2440129053,
-   "asset": ""
+   "size": 171420,
+   "crc": 3910735991,
+   "asset": "lang__vietnamese.lang"
   },
   {
    "path": "lang/vietnamese.maps",
@@ -1568,7 +1568,7 @@
   {
    "path": "zul.exe",
    "size": 6637236,
-   "crc": 132085297,
+   "crc": 1738439186,
    "asset": "zul.exe"
   }
  ],

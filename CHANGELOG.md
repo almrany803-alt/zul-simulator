@@ -3,6 +3,12 @@
 The newest changes are at the top. The game reads these out to you when an update
 is ready, so you do not need to come here unless you want to.
 
+## 15 November 2026
+
+**The Vietnamese is complete.** VanTrung2807, who translated the game, has added
+the last line that was still falling back to English and brought the Vietnamese
+notes fully up to date.
+
 ## 7 October 2026
 
 **The extra sound pack downloads.** If you went looking for it before, the game
